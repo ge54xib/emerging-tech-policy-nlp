@@ -96,16 +96,31 @@ def main() -> None:
         learning_rate=LEARNING_RATE,
         per_device_train_batch_size=BATCH_SIZE,
         train_dataset=train_ds,
-        test_dataset=eval_ds,
     )
 
     model = trainer.train()
 
-    # Predict on eval set
+    # Predict using model directly (bypass HF Trainer collator issues)
     import numpy as np
-    pred_output  = trainer.trainer.predict(eval_ds)
-    pred_indices = pred_output.predictions.argmax(axis=-1)
-    id2label     = model.config.id2label
+    import torch
+    id2label   = model.config.id2label
+    tokenizer  = trainer.tokenizer
+    model.eval()
+    device = next(model.parameters()).device
+    all_logits = []
+    batch_size = 32
+    for i in range(0, len(eval_texts), batch_size):
+        batch = tokenizer(
+            eval_texts[i:i+batch_size],
+            padding=True, truncation=True, max_length=128,
+            return_tensors="pt"
+        ).to(device)
+        with torch.no_grad():
+            out = model(**batch)
+        logits = out.logits if hasattr(out, "logits") else out[0]
+        all_logits.append(logits.cpu().numpy())
+    all_logits   = np.concatenate(all_logits, axis=0)
+    pred_indices = all_logits.argmax(axis=-1)
     pred_labels  = [id2label.get(int(i), str(i)) for i in pred_indices]
 
     predictions = [
