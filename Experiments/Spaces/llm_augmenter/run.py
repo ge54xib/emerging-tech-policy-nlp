@@ -297,8 +297,11 @@ def main() -> None:
 
     model = trainer.train()
 
-    predictions_raw = model.predict(eval_texts)
-    pred_labels = [p if isinstance(p, str) else str(p) for p in predictions_raw]
+    import numpy as np
+    pred_output  = trainer.trainer.predict(eval_ds)
+    pred_indices = pred_output.predictions.argmax(axis=-1)
+    id2label     = model.config.id2label
+    pred_labels  = [id2label.get(int(i), str(i)) for i in pred_indices]
 
     predictions = [
         {"id": i, "true": t, "pred": p, "text": eval_texts[i]}
