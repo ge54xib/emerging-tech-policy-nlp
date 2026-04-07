@@ -271,8 +271,6 @@ def main() -> None:
 
     train_texts, train_labels = _load_training_data(synthetic)
 
-    label2id = {lbl: i for i, lbl in enumerate(SPACE_LABELS)}
-    id2label  = {i: lbl for lbl, i in label2id.items()}
 
     train_ds = Dataset.from_dict({
         "text":  train_texts,

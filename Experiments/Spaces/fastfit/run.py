@@ -75,20 +75,17 @@ def main() -> None:
 
     train_texts, train_labels = _load_training_data()
 
-    # FastFit expects integer labels OR string labels via label2id
-    label2id = {lbl: i for i, lbl in enumerate(SPACE_LABELS)}
-    id2label  = {i: lbl for lbl, i in label2id.items()}
 
     train_ds = Dataset.from_dict({
         "text":  train_texts,
-        "label": [label2id[l] for l in train_labels],
+        "label": train_labels,
     })
 
     eval_texts = [e["sentence"] for e in eval_entries]
     eval_true  = [e["true_space"] for e in eval_entries]
     eval_ds    = Dataset.from_dict({
         "text":  eval_texts,
-        "label": [label2id[l] for l in eval_true],
+        "label": eval_true,
     })
 
     trainer = FastFitTrainer(
@@ -106,10 +103,7 @@ def main() -> None:
 
     # Predict on eval set
     predictions_raw = model.predict(eval_texts)
-    pred_labels = [
-        id2label[p] if isinstance(p, int) else p
-        for p in predictions_raw
-    ]
+    pred_labels = [p if isinstance(p, str) else str(p) for p in predictions_raw]
 
     predictions = [
         {"id": i, "true": t, "pred": p, "text": eval_texts[i]}
