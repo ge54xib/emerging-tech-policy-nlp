@@ -291,13 +291,10 @@ def main() -> None:
         label_column_name="label",
         text_column_name="text",
         num_train_epochs=NUM_TRAIN_EPOCHS,
-        num_iterations=NUM_ITERATIONS,
         learning_rate=LEARNING_RATE,
         per_device_train_batch_size=BATCH_SIZE,
         train_dataset=train_ds,
         validation_dataset=eval_ds,
-        id2label=id2label,
-        label2id=label2id,
     )
 
     model = trainer.train()

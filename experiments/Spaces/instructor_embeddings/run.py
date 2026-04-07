@@ -26,7 +26,7 @@ Run:
     python Experiments/Spaces/instructor_embeddings/run.py
 
 Requires:
-    pip install InstructorEmbedding scikit-learn
+    pip install sentence-transformers scikit-learn
 """
 from __future__ import annotations
 
@@ -64,8 +64,14 @@ def _load_training_data() -> dict[str, list[str]]:
     return by_label
 
 
+def _encode(model, instruction: str, texts: list[str], batch_size: int = 32, show_progress: bool = False) -> "np.ndarray":
+    """Encode texts with instruction prepended (INSTRUCTOR-style)."""
+    prompted = [f"{instruction} {t}" for t in texts]
+    return model.encode(prompted, batch_size=batch_size, show_progress_bar=show_progress)
+
+
 def main() -> None:
-    from InstructorEmbedding import INSTRUCTOR
+    from sentence_transformers import SentenceTransformer
 
     eval_entries = load_spaces_eval()
     print(f"Loaded {len(eval_entries)} labeled space examples")
@@ -73,7 +79,7 @@ def main() -> None:
     train_data = _load_training_data()
 
     print(f"Loading INSTRUCTOR model: {INSTRUCTOR_MODEL}")
-    model = INSTRUCTOR(INSTRUCTOR_MODEL)
+    model = SentenceTransformer(INSTRUCTOR_MODEL)
 
     # Build per-class prototypes from training sentences
     print("Building class prototypes...")
@@ -81,8 +87,7 @@ def main() -> None:
     for label, sentences in train_data.items():
         if not sentences:
             continue
-        inputs = [[TASK_INSTRUCTION, s] for s in sentences]
-        embeddings = model.encode(inputs, batch_size=32, show_progress_bar=False)
+        embeddings = _encode(model, TASK_INSTRUCTION, sentences, batch_size=32)
         prototypes[label] = embeddings.mean(axis=0)
 
     # Classify eval sentences by cosine similarity to nearest prototype
@@ -90,8 +95,7 @@ def main() -> None:
     eval_true  = [e["true_space"] for e in eval_entries]
 
     print("Encoding eval sentences...")
-    eval_inputs    = [[TASK_INSTRUCTION, s] for s in eval_texts]
-    eval_embeddings = model.encode(eval_inputs, batch_size=32, show_progress_bar=True)
+    eval_embeddings = _encode(model, TASK_INSTRUCTION, eval_texts, batch_size=32, show_progress=True)
 
     # Normalise for cosine similarity
     eval_embeddings  = eval_embeddings / (np.linalg.norm(eval_embeddings, axis=1, keepdims=True) + 1e-8)

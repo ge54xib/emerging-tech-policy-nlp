@@ -40,7 +40,7 @@ from eval_utils import (
 )
 
 # Reuse the exact same prompt as claude_cot (Wang et al. 2023 requires same prompt)
-MODEL = "claude-3-5-haiku-20241022"   # cheaper for k=10 samples per example
+MODEL = "claude-haiku-4-5-20251001"    # cheaper for k=10 samples per example
 K = 10
 TEMPERATURE = 0.7
 

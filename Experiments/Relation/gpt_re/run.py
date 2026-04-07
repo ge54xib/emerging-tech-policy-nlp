@@ -40,6 +40,7 @@ import re
 import sys
 from pathlib import Path
 
+import time
 import torch
 
 sys.path.insert(0, str(Path(__file__).parent.parent.parent / "shared"))
@@ -273,6 +274,7 @@ def predict(entries: list[dict], demos: list[dict]) -> tuple[list[str], list[str
         pred = _parse_label(response.choices[0].message.content or "")
         true_labels.append(entry["true_relation"])
         pred_labels.append(pred)
+        time.sleep(1.5)
 
         if (i + 1) % 10 == 0:
             print(f"  {i+1}/{len(entries)} done")
