@@ -101,10 +101,13 @@ def main() -> None:
 
     model = trainer.train()
 
-    # Direct model inference (bypass HF Trainer collator which fails on string labels)
-    import numpy as np
-    import torch
-    id2label  = model.config.id2label
+    # Robust id2label: prefer model.config, fallback to sorted unique train labels
+    import numpy as np, torch
+    _cfg_map = getattr(model.config, "id2label", None)
+    if _cfg_map and isinstance(list(_cfg_map.values())[0], str):
+        id2label = {int(k): v for k, v in _cfg_map.items()}
+    else:
+        id2label = {i: lbl for i, lbl in enumerate(sorted(set(train_labels)))}
     tokenizer = trainer.tokenizer
     model.eval()
     device = next(model.parameters()).device
