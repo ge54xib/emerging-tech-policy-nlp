@@ -94,7 +94,7 @@ def _load_plot_dependencies():
 def run() -> None:
     print(">>> ANALYSIS: TH Spaces (NLI-predicted)")
 
-    # Prefer SetFit > NLI (cooccurrence_nli.jsonl) > cooccurrence.jsonl (no NLI)
+    # Prefer SetFit > NLI (cooccurrence_nli.jsonl) > cooccurrence.jsonl (base step 3)
     setfit_path = config.STEP3_DIR / "cooccurrence_setfit.jsonl"
     nli_path = config.FILE_COOCCURRENCE_NLI
     use_setfit = setfit_path.exists()
@@ -109,7 +109,7 @@ def run() -> None:
     elif config.FILE_COOCCURRENCE.exists():
         source_path = config.FILE_COOCCURRENCE
         space_field = "th_space"
-        print("[WARN] cooccurrence_nli.jsonl not found — falling back to cooccurrence.jsonl. Run step 4.")
+        print("[INFO] Using base co-occurrences from cooccurrence.jsonl (no space predictions — run SetFit for best results)")
     else:
         raise FileNotFoundError(f"Co-occurrence file not found: {config.FILE_COOCCURRENCE}")
 

@@ -28,7 +28,7 @@ from pathlib import Path
 ROOT = Path(__file__).parent.parent
 _NLI_FILE = ROOT / "data/processed/step3/cooccurrence_nli.jsonl"
 _BASE_FILE = ROOT / "data/processed/step3/cooccurrence.jsonl"
-COOCCURRENCE_FILE = _NLI_FILE if _NLI_FILE.exists() else _BASE_FILE
+COOCCURRENCE_FILE = _NLI_FILE if _NLI_FILE.exists() else _BASE_FILE  # NLI file optional
 SETFIT_FILE = ROOT / "data/processed/step3/cooccurrence_setfit.jsonl"
 REVIEW_FILE = ROOT / "data/processed/step3/spaces_review.json"
 LLM_REVIEW_FILE = ROOT / "data/processed/step3/spaces_llm_review.json"

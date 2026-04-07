@@ -36,7 +36,7 @@ from collections import defaultdict
 from pathlib import Path
 
 _STEP3_DIR = Path(__file__).parent.parent / "data/processed/step3"
-# Prefer cooccurrence_nli.jsonl (has all_scores from step 4) over cooccurrence.jsonl
+# Prefer cooccurrence_nli.jsonl (has all_scores) over base cooccurrence.jsonl
 _NLI_FILE = _STEP3_DIR / "cooccurrence_nli.jsonl"
 _BASE_FILE = _STEP3_DIR / "cooccurrence.jsonl"
 COOCCURRENCE_FILE = _NLI_FILE if _NLI_FILE.exists() else _BASE_FILE

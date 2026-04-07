@@ -591,7 +591,7 @@ def run() -> None:
     print(f"[OK] Wrote paragraphs: {config.FILE_PARAGRAPHS} ({total_paragraphs} rows)")
     print(f"[OK] Wrote paragraph alignment: {config.FILE_ALIGNMENT} ({total_alignment_rows} rows)")
     print(f"[OK] Wrote co-occurrence pairs: {config.FILE_COOCCURRENCE} ({total_coocc_rows} rows)")
-    print("[INFO] Run step 4 to add NLI relation and space scores.")
+    print("[INFO] Run NLI experiments separately: Experiments/Relation/nli_pipeline/run.py")
     if pair_counter:
         top = ", ".join(f"{pair}={count}" for pair, count in pair_counter.most_common(10))
         print(f"[INFO] Top helix pairs: {top}")

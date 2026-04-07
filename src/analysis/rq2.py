@@ -144,7 +144,7 @@ def _load_plot_dependencies():
 def run() -> None:
     print(">>> ANALYSIS: RQ2")
 
-    # Prefer cooccurrence_nli.jsonl (step 4 output) over cooccurrence.jsonl (step 3 output)
+    # Prefer cooccurrence_nli.jsonl (NLI-scored) over cooccurrence.jsonl (step 3 base output)
     nli_path = config.FILE_COOCCURRENCE_NLI
     coocc_path = nli_path if nli_path.exists() else config.FILE_COOCCURRENCE
     if not coocc_path.exists():
@@ -152,7 +152,7 @@ def run() -> None:
     if nli_path.exists():
         print(f"[INFO] Using NLI-scored co-occurrences from {nli_path.name}")
     else:
-        print("[WARN] cooccurrence_nli.jsonl not found — falling back to cooccurrence.jsonl (no NLI scores). Run step 4.")
+        print("[INFO] Using base co-occurrences from cooccurrence.jsonl (no NLI relation scores)")
 
     all_cooccurrence_rows = _load_jsonl_safe(coocc_path)
     if not all_cooccurrence_rows:
