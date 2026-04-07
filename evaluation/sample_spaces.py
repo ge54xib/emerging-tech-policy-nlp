@@ -145,13 +145,11 @@ def sample():
             continue
 
         by_space[space].append({
-            "doc_id":       str(row["doc_id"]),
-            "country":      row.get("country", ""),
-            "sentence":     central,
-            "entities":     entities_by_key[key],
-            "pair_space":   space,
-            "setfit_space": setfit_preds.get(central, ""),
-            "true_space":   "",
+            "doc_id":    str(row["doc_id"]),
+            "country":   row.get("country", ""),
+            "sentence":  central,
+            "entities":  entities_by_key[key],
+            "true_space": "",
         })
 
     samples = []

@@ -48,11 +48,9 @@ def main() -> None:
 
     true_labels, pred_labels = [], []
     nli_items = [
-        (
-            e.get("central_sent_text") or e.get("sent_text", ""),
-            e["entity_1"],
-            e["entity_2"],
-        )
+        (e.get("sentence") or e.get("central_sent_text") or e.get("sent_text", ""),
+         e["entity_1"],
+         e["entity_2"])
         for e in eval_entries
     ]
 
@@ -67,7 +65,7 @@ def main() -> None:
             "id":   i,
             "true": t,
             "pred": p,
-            "text": eval_entries[i].get("central_sent_text") or eval_entries[i].get("sent_text", ""),
+            "text": eval_entries[i].get("sentence") or eval_entries[i].get("central_sent_text", ""),
         }
         for i, (t, p) in enumerate(zip(true_labels, pred_labels))
     ]

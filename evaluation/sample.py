@@ -1,31 +1,23 @@
-"""Sample co-occurrence pairs for manual NLI evaluation.
+"""Sample co-occurrence pairs for manual evaluation.
 
 Commands
 --------
 python evaluation/sample.py          # generate new annotation.json (100 entries)
-python evaluation/sample.py --update # refresh NLI predictions in existing annotation.json
-                                     # preserving all true_relation annotations
 python evaluation/sample.py --extend [--n N]
                                      # append N targeted examples per rare class
                                      # (substitution, collaboration_conflict_moderation)
-                                     # using keyword matching; skips training data
+                                     # using keyword matching
 
-Fill in the "true_relation" field for each entry.
-Valid labels:
-  technology_transfer
-  collaboration_conflict_moderation
-  collaborative_leadership
-  substitution
-  networking
-  no_explicit_relation
+Fill in BOTH fields for each entry:
+  true_relation — relation between entity_1 and entity_2
+  true_space    — TH space expressed by the sentence
 
-Sampling strategy:
-  For each relation class, pick the N_PER_CLASS pairs where that class has
-  the highest per-class NLI score (from `all_scores`), regardless of the
-  global threshold.  This ensures all six classes are represented even when
-  the threshold suppresses rare labels.
-  `nli_relation` still reflects the threshold-based prediction so the
-  evaluation measures real pipeline output.
+Valid true_relation:
+  technology_transfer, collaboration_conflict_moderation,
+  collaborative_leadership, substitution, networking, no_explicit_relation
+
+Valid true_space:
+  knowledge_space, innovation_space, consensus_space, public_space
 """
 
 import argparse
@@ -76,8 +68,8 @@ def _load_cooccurrence():
     return rows, lookup
 
 
-def _get_central_sent_text(row: dict) -> str:
-    """Return central_sent_text from a cooccurrence row, falling back to sent_text."""
+def _get_sentence(row: dict) -> str:
+    """Return the sentence text from a cooccurrence row."""
     return row.get("central_sent_text") or row.get("sent_text", "")
 
 
@@ -112,24 +104,24 @@ def sample():
         for row in pool:
             if taken >= per_class[rel]:
                 break
-            key = (row.get("doc_id"), row.get("entity_1"), row.get("entity_2"), row.get("sent_text", "")[:40])
+            key = (row.get("doc_id"), row.get("entity_1"), row.get("entity_2"), _get_sentence(row)[:40])
             if key in used_keys:
                 continue
             used_keys.add(key)
-            nli_rel = row.get("relation_type") or "no_explicit_relation"
             samples.append({
-                "doc_id":             row.get("doc_id"),
-                "entity_1":           row.get("entity_1"),
-                "h1":                 row.get("h1"),
-                "entity_2":           row.get("entity_2"),
-                "h2":                 row.get("h2"),
-                "central_sent_text":  _get_central_sent_text(row),
-                "sent_text":          row.get("sent_text"),
-                "sampled_for":        rel,
-                "nli_relation":       nli_rel,
-                "nli_confidence":     row.get("confidence"),
-                "nli_scores":         row.get("all_scores"),
-                "true_relation":      "",
+                "doc_id":        row.get("doc_id"),
+                "country":       row.get("country", ""),
+                "sentence":      _get_sentence(row),
+                "entity_1":      row.get("entity_1"),
+                "h1":            row.get("h1"),
+                "entity_2":      row.get("entity_2"),
+                "h2":            row.get("h2"),
+                "entities": [
+                    {"entity": row.get("entity_1"), "helix": row.get("h1")},
+                    {"entity": row.get("entity_2"), "helix": row.get("h2")},
+                ],
+                "true_relation": "",
+                "true_space":    "",
             })
             taken += 1
         print(f"  {rel}: sampled {taken}")
@@ -137,40 +129,9 @@ def sample():
     random.shuffle(samples)
     OUTPUT_FILE.write_text(json.dumps(samples, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"\nWrote {len(samples)} entries to {OUTPUT_FILE}")
-    print('Fill in the "true_relation" field for each entry.')
-    print(f"Valid labels: {', '.join(RELATION_TYPES)}")
+    print('Fill in "true_relation" and "true_space" for each entry.')
 
 
-def update():
-    """Refresh nli_relation/nli_confidence/nli_scores from new cooccurrence.jsonl.
-    Preserves true_relation and all other annotation fields."""
-    if not OUTPUT_FILE.exists():
-        print("No annotation.json found — run without --update first.")
-        return
-
-    _, lookup = _load_cooccurrence()
-    entries = json.loads(OUTPUT_FILE.read_text(encoding="utf-8"))
-
-    updated = 0
-    not_found = 0
-    for e in entries:
-        key = (e.get("doc_id"), e.get("entity_1"), e.get("entity_2"), e.get("sent_text", "")[:40])
-        row = lookup.get(key)
-        if row is None:
-            not_found += 1
-            continue
-        e["nli_relation"]        = row.get("relation_type") or "no_explicit_relation"
-        e["nli_confidence"]      = row.get("confidence")
-        e["nli_scores"]          = row.get("all_scores")
-        # Backfill central_sent_text if missing (added in later pipeline version)
-        if not e.get("central_sent_text"):
-            e["central_sent_text"] = _get_central_sent_text(row)
-        updated += 1
-
-    OUTPUT_FILE.write_text(json.dumps(entries, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"Updated {updated} entries with new NLI predictions.")
-    if not_found:
-        print(f"  {not_found} entries not found in new cooccurrence.jsonl (sent_text may have changed).")
 
 
 _TABLE_ROW_PATTERN = re.compile(
@@ -243,7 +204,7 @@ def extend(n_per_class: int = 10) -> None:
     rows, _ = _load_cooccurrence()
 
     new_entries = []
-    seen_sents: set[str] = {e.get("central_sent_text", "") for e in existing}
+    seen_sents: set[str] = {e.get("sentence", "") for e in existing}
 
     for rel_class, pattern in _EXTEND_PATTERNS.items():
         taken = 0
@@ -252,65 +213,56 @@ def extend(n_per_class: int = 10) -> None:
             key = (row.get("doc_id"), row.get("entity_1"), row.get("entity_2"))
             if key in skip_keys:
                 continue
-            central = _get_central_sent_text(row)
-            if central in seen_sents:
+            sent = _get_sentence(row)
+            if sent in seen_sents:
                 continue
-            if pattern.search(central) and _is_clean_sentence(central):
+            if pattern.search(sent) and _is_clean_sentence(sent):
                 candidates.append(row)
-
-        # Sort by NLI score for this class (descending) for best keyword+model agreement
-        candidates.sort(
-            key=lambda r: r.get("all_scores", {}).get(rel_class, 0),
-            reverse=True,
-        )
 
         for row in candidates:
             if taken >= n_per_class:
                 break
             key = (row.get("doc_id"), row.get("entity_1"), row.get("entity_2"))
-            central = _get_central_sent_text(row)
-            if central in seen_sents:
+            sent = _get_sentence(row)
+            if sent in seen_sents:
                 skip_keys.add(key)
                 continue
             skip_keys.add(key)
-            seen_sents.add(central)
+            seen_sents.add(sent)
             new_entries.append({
-                "doc_id":            row.get("doc_id"),
-                "entity_1":          row.get("entity_1"),
-                "h1":                row.get("h1"),
-                "entity_2":          row.get("entity_2"),
-                "h2":                row.get("h2"),
-                "central_sent_text": _get_central_sent_text(row),
-                "sent_text":         row.get("sent_text"),
-                "sampled_for":       f"extend_{rel_class}",
-                "nli_relation":      row.get("relation_type") or "no_explicit_relation",
-                "nli_confidence":    row.get("confidence"),
-                "nli_scores":        row.get("all_scores"),
-                "true_relation":     "",
+                "doc_id":        row.get("doc_id"),
+                "country":       row.get("country", ""),
+                "sentence":      sent,
+                "entity_1":      row.get("entity_1"),
+                "h1":            row.get("h1"),
+                "entity_2":      row.get("entity_2"),
+                "h2":            row.get("h2"),
+                "entities": [
+                    {"entity": row.get("entity_1"), "helix": row.get("h1")},
+                    {"entity": row.get("entity_2"), "helix": row.get("h2")},
+                ],
+                "true_relation": "",
+                "true_space":    "",
             })
             taken += 1
 
-        print(f"  {rel_class}: added {taken} new candidates (keyword-matched, not in training)")
+        print(f"  {rel_class}: added {taken} new candidates (keyword-matched)")
 
     combined = existing + new_entries
     OUTPUT_FILE.write_text(json.dumps(combined, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"\nannotation.json now has {len(combined)} entries ({len(new_entries)} new).")
-    print('Fill in true_relation="" entries using evaluation/codebook.md.')
+    print('Fill in true_relation and true_space for new entries.')
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--update", action="store_true",
-                        help="Refresh NLI predictions, preserving true_relation annotations")
     parser.add_argument("--extend", action="store_true",
                         help="Append targeted keyword-matched candidates for rare classes")
     parser.add_argument("--n", type=int, default=10,
                         help="Number of candidates to add per rare class (default: 10)")
     args = parser.parse_args()
 
-    if args.update:
-        update()
-    elif args.extend:
+    if args.extend:
         extend(n_per_class=args.n)
     else:
         sample()

@@ -25,8 +25,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -43,8 +41,6 @@
         "helix": "industry"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -65,8 +61,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -87,8 +81,6 @@
         "helix": "civil_society"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "consensus_space",
     "true_space": ""
   },
   {
@@ -105,8 +97,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -123,8 +113,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -141,8 +129,6 @@
         "helix": "intermediary"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -159,8 +145,6 @@
         "helix": "industry"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "innovation_space",
     "true_space": ""
   },
   {
@@ -185,8 +169,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -203,8 +185,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -221,8 +201,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -243,8 +221,6 @@
         "helix": "civil_society"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "innovation_space",
     "true_space": ""
   },
   {
@@ -265,8 +241,6 @@
         "helix": "intermediary"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -287,8 +261,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -305,8 +277,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "consensus_space",
     "true_space": ""
   },
   {
@@ -327,8 +297,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "innovation_space",
     "true_space": ""
   },
   {
@@ -345,8 +313,6 @@
         "helix": "intermediary"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -371,8 +337,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "innovation_space",
     "true_space": ""
   },
   {
@@ -389,8 +353,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -423,8 +385,6 @@
         "helix": "industry"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -441,8 +401,6 @@
         "helix": "intermediary"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "consensus_space",
     "true_space": ""
   },
   {
@@ -459,8 +417,6 @@
         "helix": "civil_society"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -509,8 +465,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -527,8 +481,6 @@
         "helix": "intermediary"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -557,8 +509,6 @@
         "helix": "civil_society"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -575,8 +525,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -593,8 +541,6 @@
         "helix": "civil_society"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -623,8 +569,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -697,8 +641,6 @@
         "helix": "intermediary"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -731,8 +673,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -749,8 +689,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -771,8 +709,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -793,8 +729,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -995,8 +929,6 @@
         "helix": "industry"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "consensus_space",
     "true_space": ""
   },
   {
@@ -1025,8 +957,6 @@
         "helix": "civil_society"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -1055,8 +985,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -1073,8 +1001,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "consensus_space",
     "true_space": ""
   },
   {
@@ -1091,8 +1017,6 @@
         "helix": "industry"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -1117,8 +1041,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -1143,8 +1065,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -1161,8 +1081,6 @@
         "helix": "civil_society"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -1191,8 +1109,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -1217,8 +1133,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -1275,8 +1189,6 @@
         "helix": "intermediary"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -1293,8 +1205,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -1311,8 +1221,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -1333,8 +1241,6 @@
         "helix": "intermediary"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -1363,8 +1269,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -1381,8 +1285,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "consensus_space",
     "true_space": ""
   },
   {
@@ -1407,8 +1309,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -1437,8 +1337,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "consensus_space",
     "true_space": ""
   },
   {
@@ -1455,8 +1353,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -1477,8 +1373,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -1503,8 +1397,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -1521,8 +1413,6 @@
         "helix": "industry"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "innovation_space",
     "true_space": ""
   },
   {
@@ -1543,8 +1433,6 @@
         "helix": "intermediary"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -1577,8 +1465,6 @@
         "helix": "intermediary"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "consensus_space",
     "true_space": ""
   },
   {
@@ -1599,8 +1485,6 @@
         "helix": "intermediary"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -1621,8 +1505,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -1675,8 +1557,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -1705,8 +1585,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "consensus_space",
     "true_space": ""
   },
   {
@@ -1723,8 +1601,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -1741,8 +1617,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -1763,8 +1637,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -1785,8 +1657,6 @@
         "helix": "industry"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -1815,8 +1685,6 @@
         "helix": "civil_society"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "consensus_space",
     "true_space": ""
   },
   {
@@ -1833,8 +1701,6 @@
         "helix": "intermediary"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -1851,8 +1717,6 @@
         "helix": "civil_society"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "consensus_space",
     "true_space": ""
   },
   {
@@ -1873,8 +1737,6 @@
         "helix": "intermediary"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -1895,8 +1757,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "consensus_space",
     "true_space": ""
   },
   {
@@ -1921,8 +1781,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -1947,8 +1805,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -1965,8 +1821,6 @@
         "helix": "intermediary"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -1983,8 +1837,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -2013,8 +1865,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -2035,8 +1885,6 @@
         "helix": "intermediary"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -2069,8 +1917,6 @@
         "helix": "intermediary"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -2091,8 +1937,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "innovation_space",
     "true_space": ""
   },
   {
@@ -2109,8 +1953,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -2135,8 +1977,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -2189,8 +2029,6 @@
         "helix": "intermediary"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -2207,8 +2045,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -2225,8 +2061,6 @@
         "helix": "intermediary"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "consensus_space",
     "true_space": ""
   },
   {
@@ -2243,8 +2077,6 @@
         "helix": "civil_society"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "consensus_space",
     "true_space": ""
   },
   {
@@ -2273,8 +2105,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -2291,8 +2121,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -2309,8 +2137,6 @@
         "helix": "intermediary"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "consensus_space",
     "true_space": ""
   },
   {
@@ -2327,8 +2153,6 @@
         "helix": "intermediary"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -2353,8 +2177,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -2383,8 +2205,6 @@
         "helix": "civil_society"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -2409,8 +2229,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -2435,8 +2253,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "innovation_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -2469,8 +2285,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -2487,8 +2301,6 @@
         "helix": "civil_society"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "consensus_space",
     "true_space": ""
   },
   {
@@ -2533,8 +2345,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "consensus_space",
-    "setfit_space": "knowledge_space",
     "true_space": ""
   },
   {
@@ -2587,8 +2397,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "consensus_space",
     "true_space": ""
   },
   {
@@ -2613,8 +2421,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "consensus_space",
     "true_space": ""
   },
   {
@@ -2647,8 +2453,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "public_space",
-    "setfit_space": "consensus_space",
     "true_space": ""
   },
   {
@@ -2665,8 +2469,6 @@
         "helix": "government"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "",
     "true_space": ""
   },
   {
@@ -2683,8 +2485,6 @@
         "helix": "academia"
       }
     ],
-    "pair_space": "knowledge_space",
-    "setfit_space": "consensus_space",
     "true_space": ""
   }
 ]

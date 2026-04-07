@@ -2,8 +2,12 @@
 
 Provides:
     load_relation_eval()  — load annotation.json for relation experiments
-    load_spaces_eval()    — load annotation_spaces.json for space experiments
+    load_spaces_eval()    — load annotation.json (dedup by sentence) for space experiments
     save_outputs()        — save predictions.json + metrics.json to outputs/
+
+Both loaders read from evaluation/annotation.json (combined annotation file).
+Each entry has: doc_id, country, sentence, entity_1, h1, entity_2, h2,
+                entities, true_relation, true_space
 
 Output format (predictions.json):
     [{"id": int, "true": str, "pred": str, "text": str}]
@@ -26,8 +30,10 @@ from sklearn.metrics import (
 
 # ── Paths ─────────────────────────────────────────────────────────────────────
 _REPO_ROOT = Path(__file__).parent.parent.parent
-ANNOTATION_RELATION = _REPO_ROOT / "evaluation" / "annotation.json"
-ANNOTATION_SPACES   = _REPO_ROOT / "evaluation" / "annotation_spaces.json"
+ANNOTATION_FILE = _REPO_ROOT / "evaluation" / "annotation.json"
+# Legacy alias kept for backwards compat
+ANNOTATION_RELATION = ANNOTATION_FILE
+ANNOTATION_SPACES   = ANNOTATION_FILE
 
 RELATION_LABELS = [
     "technology_transfer",
@@ -48,12 +54,12 @@ SPACE_LABELS = [
 
 # ── Loaders ───────────────────────────────────────────────────────────────────
 
-def load_relation_eval(path: str | Path = ANNOTATION_RELATION) -> list[dict]:
+def load_relation_eval(path: str | Path = ANNOTATION_FILE) -> list[dict]:
     """Load annotation.json. Returns only entries with true_relation filled in.
 
     Each entry has keys:
-        doc_id, entity_1, h1, entity_2, h2,
-        central_sent_text, sent_text, true_relation
+        doc_id, country, sentence, entity_1, h1, entity_2, h2, entities,
+        true_relation, true_space
     """
     entries = json.loads(Path(path).read_text(encoding="utf-8"))
     labeled = [e for e in entries if e.get("true_relation", "").strip()]
@@ -65,11 +71,12 @@ def load_relation_eval(path: str | Path = ANNOTATION_RELATION) -> list[dict]:
     return labeled
 
 
-def load_spaces_eval(path: str | Path = ANNOTATION_SPACES) -> list[dict]:
-    """Load annotation_spaces.json. Returns only entries with true_space filled in.
+def load_spaces_eval(path: str | Path = ANNOTATION_FILE) -> list[dict]:
+    """Load annotation.json and deduplicate by sentence for space evaluation.
 
+    Returns only entries with true_space filled in.
     Each entry has keys:
-        doc_id, country, sentence, entities (list), pair_space, true_space
+        doc_id, country, sentence, entities, true_space
     """
     entries = json.loads(Path(path).read_text(encoding="utf-8"))
     labeled = [e for e in entries if e.get("true_space", "").strip()]
@@ -78,7 +85,15 @@ def load_spaces_eval(path: str | Path = ANNOTATION_SPACES) -> list[dict]:
             f"No labeled entries found in {path}. "
             "Fill in 'true_space' for each entry first."
         )
-    return labeled
+    # Deduplicate by sentence — space is a sentence-level property
+    seen: set[str] = set()
+    unique: list[dict] = []
+    for e in labeled:
+        sent = e.get("sentence", "")
+        if sent and sent not in seen:
+            seen.add(sent)
+            unique.append(e)
+    return unique
 
 
 # ── Entity marking ────────────────────────────────────────────────────────────
