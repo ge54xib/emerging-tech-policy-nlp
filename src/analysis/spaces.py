@@ -1,6 +1,6 @@
-"""TH Space analysis: NLI-predicted Triple/Quadruple Helix space distribution.
+"""TH Space analysis: SetFit-predicted Triple/Quadruple Helix space distribution.
 
-Mirrors the structure of rq2.py but uses ``th_space`` (NLI-predicted) as the
+Mirrors the structure of rq2.py but uses ``th_space_setfit`` as the
 primary dimension instead of helix pairs.
 
 Outputs
@@ -9,7 +9,6 @@ Outputs
 - spaces_global_counts.png        global space ranking bar chart
 - spaces_by_country_stacked.png   space share per country (stacked bar)
 - spaces_relation_matrix.png      relation type × space bubble matrix
-- spaces_confidence.png           NLI confidence boxplot per space
 - spaces_table.csv                country × space density table
 - spaces_summary.json             structured summary
 """
@@ -94,7 +93,7 @@ def _load_plot_dependencies():
 
 
 def run() -> None:
-    print(">>> ANALYSIS: TH Spaces (NLI-predicted)")
+    print(">>> ANALYSIS: TH Spaces (SetFit)")
 
     # Prefer SetFit > NLI (cooccurrence_nli.jsonl) > cooccurrence.jsonl (base step 3)
     setfit_path = config.STEP3_DIR / "setfit" / "cooccurrence_setfit.jsonl"
@@ -193,7 +192,7 @@ def run() -> None:
         linewidths=0.5,
         cbar_kws={"label": "Count / paragraphs"},
     )
-    ax1.set_title("TH Space Counts by Country (NLI, normalised by paragraphs)")
+    ax1.set_title("TH Space Counts by Country (SetFit, normalised by paragraphs)")
     ax1.set_xlabel("")
     ax1.set_ylabel("")
     fig1.tight_layout()
@@ -217,7 +216,7 @@ def run() -> None:
         ax2.text(bar.get_x() + bar.get_width() / 2, bar.get_height() + 20,
                  str(global_counts[s]), ha="center", va="bottom", fontsize=9)
     ax2.set_ylabel("Co-occurrence count")
-    ax2.set_title("Global TH Space Distribution (NLI-predicted)")
+    ax2.set_title("Global TH Space Distribution (SetFit)")
     ax2.set_xticklabels([SPACE_LABELS[s] for s in sorted_spaces], rotation=20, ha="right")
     fig2.tight_layout()
     fig2.savefig(config.ANALYSIS_SPACES_GLOBAL_PNG)
@@ -241,8 +240,8 @@ def run() -> None:
 
     ax3.set_xticks(x)
     ax3.set_xticklabels(sorted_countries, rotation=45, ha="right")
-    ax3.set_ylabel("Share of NLI-predicted space")
-    ax3.set_title("TH Space Share per Country (NLI-predicted)")
+    ax3.set_ylabel("Share of SetFit-predicted space")
+    ax3.set_title("TH Space Share per Country (SetFit)")
     ax3.legend(loc="upper right", framealpha=0.9)
     ax3.set_ylim(0, 1.05)
     fig3.tight_layout()
@@ -294,7 +293,7 @@ def run() -> None:
         ax4.set_xticklabels([SPACE_LABELS[s] for s in active_spaces], rotation=30, ha="right")
         ax4.set_yticks(range(len(EXPLICIT_RELATION_TYPES)))
         ax4.set_yticklabels([RELATION_LABELS[r] for r in EXPLICIT_RELATION_TYPES])
-        ax4.set_title("Relation Type Profile per TH Space (NLI)")
+        ax4.set_title("Relation Type Profile per TH Space (SetFit)")
         ax4.set_ylabel("Relation type")
 
         fig4.colorbar(scatter, cax=ax_cbar).set_label("Share within space")
@@ -367,7 +366,7 @@ def run() -> None:
             ax5a.set_xticklabels([])
             ax5a.tick_params(axis="x", bottom=False, labelbottom=False)
             ax5a.set_ylabel("TH Space")
-            ax5a.set_title("TH Space Profile per Helix Pair (NLI-predicted)", fontsize=11, pad=8)
+            ax5a.set_title("TH Space Profile per Helix Pair (SetFit)", fontsize=11, pad=8)
 
             fig5a.colorbar(scatter5a, cax=ax5a_cbar).set_label("Share within helix pair")
 
@@ -392,7 +391,7 @@ def run() -> None:
                 [p.replace("_", " ") for p in pair_order], rotation=45, ha="right", fontsize=8,
             )
             ax5a_bot.set_ylabel("Co-occurrence count", labelpad=8)
-            ax5a_bot.set_title("Total NLI-assigned space co-occurrences per helix pair", fontsize=10, pad=6)
+            ax5a_bot.set_title("Total SetFit-assigned space co-occurrences per helix pair", fontsize=10, pad=6)
             ax5a_bot.grid(axis="y", linestyle="--", alpha=0.25)
             legend_elems = [Patch(facecolor=SPACE_COLORS[s], label=SPACE_LABELS[s]) for s in SPACES]
             ax5a_bot.legend(handles=legend_elems, loc="upper right", ncol=2, fontsize=8, title="TH Space")
@@ -442,7 +441,7 @@ def run() -> None:
             ax5b.set_xticks(range(len(pair_order)))
             ax5b.set_xticklabels([p.replace("_", " ") for p in pair_order], rotation=45, ha="right")
             ax5b.set_ylabel("TH Space")
-            ax5b.set_title("TH Space Profile per Helix Pair (NLI-predicted)", pad=10)
+            ax5b.set_title("TH Space Profile per Helix Pair (SetFit)", pad=10)
             ax5b.set_xlim(-0.5, len(pair_order) - 0.5)
 
             fig5b.colorbar(scatter5b, cax=ax5b_cbar_ax).set_label("Share within helix pair")
@@ -467,21 +466,24 @@ def run() -> None:
     except Exception as exc:
         print(f"[WARN] Spaces bubble figures skipped: {exc}")
 
-    # ── Figure 7: Confidence boxplot per space ─────────────────────────────
-    fig5, ax5 = plt.subplots(figsize=(8, 4))
-    conf_data = [confidence_by_space.get(s, []) for s in SPACES]
-    bp = ax5.boxplot(conf_data, patch_artist=True, medianprops={"color": "black", "lw": 2})
-    for patch, space in zip(bp["boxes"], SPACES):
-        patch.set_facecolor(SPACE_COLORS[space])
-    ax5.set_xticks(range(1, len(SPACES) + 1))
-    ax5.set_xticklabels([SPACE_LABELS[s] for s in SPACES], rotation=20, ha="right")
-    ax5.set_ylabel("NLI Entailment Confidence")
-    ax5.set_title("NLI Confidence Distribution per TH Space")
-    ax5.set_ylim(0, 1.05)
-    fig5.tight_layout()
-    fig5.savefig(config.ANALYSIS_SPACES_CONFIDENCE_PNG)
-    plt.close(fig5)
-    print(f"[OK] {config.ANALYSIS_SPACES_CONFIDENCE_PNG}")
+    # ── Figure 7: Confidence boxplot per space (NLI only) ─────────────────
+    if any(confidence_by_space.values()):
+        fig5, ax5 = plt.subplots(figsize=(8, 4))
+        conf_data = [confidence_by_space.get(s, []) for s in SPACES]
+        bp = ax5.boxplot(conf_data, patch_artist=True, medianprops={"color": "black", "lw": 2})
+        for patch, space in zip(bp["boxes"], SPACES):
+            patch.set_facecolor(SPACE_COLORS[space])
+        ax5.set_xticks(range(1, len(SPACES) + 1))
+        ax5.set_xticklabels([SPACE_LABELS[s] for s in SPACES], rotation=20, ha="right")
+        ax5.set_ylabel("NLI Entailment Confidence")
+        ax5.set_title("NLI Confidence Distribution per TH Space")
+        ax5.set_ylim(0, 1.05)
+        fig5.tight_layout()
+        fig5.savefig(config.ANALYSIS_SPACES_CONFIDENCE_PNG)
+        plt.close(fig5)
+        print(f"[OK] {config.ANALYSIS_SPACES_CONFIDENCE_PNG}")
+    else:
+        print("[SKIP] Confidence boxplot skipped (SetFit has no per-prediction confidence scores)")
 
     # ── CSV: country × space density table ────────────────────────────────
     with config.ANALYSIS_SPACES_CSV.open("w", newline="", encoding="utf-8") as fh:

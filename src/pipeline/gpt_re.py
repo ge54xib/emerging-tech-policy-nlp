@@ -102,6 +102,7 @@ def _load_cache() -> dict:
 
 
 def _save_cache(cache: dict) -> None:
+    GPT_RE_DIR.mkdir(parents=True, exist_ok=True)
     CACHE_FILE.write_text(json.dumps(cache, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
