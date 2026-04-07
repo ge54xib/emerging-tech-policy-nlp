@@ -91,7 +91,7 @@ def sample():
     remainder = N_TOTAL % n_classes
     per_class = {rel: base + (1 if i < remainder else 0) for i, rel in enumerate(RELATION_TYPES)}
 
-    used_keys = set()
+    used_sentences = set()
     samples = []
 
     for rel in RELATION_TYPES:
@@ -104,10 +104,10 @@ def sample():
         for row in pool:
             if taken >= per_class[rel]:
                 break
-            key = (row.get("doc_id"), row.get("entity_1"), row.get("entity_2"), _get_sentence(row)[:40])
-            if key in used_keys:
+            sent = _get_sentence(row)
+            if sent in used_sentences:
                 continue
-            used_keys.add(key)
+            used_sentences.add(sent)
             samples.append({
                 "doc_id":        row.get("doc_id"),
                 "country":       row.get("country", ""),

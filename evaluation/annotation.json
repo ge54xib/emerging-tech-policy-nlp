@@ -1,40 +1,19 @@
 [
   {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Then she heard about (<https://sydneyquantum.org/>)Sydney Quantum Academy (SQA), a partnership between 4 universities – Macquarie University, University of Sydney, UNSW and UTS – backed by the NSW Government.",
-    "entity_1": "sqa",
-    "h1": "intermediary",
-    "entity_2": "unsw",
+    "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
+    "country": "CZE",
+    "sentence": "In the field of quantum technologies, two large consortium projects were supported under the Excellent Research call of the OP JAK program – QEENTEC led by the Institute of Scientific Instruments of the Czech Academy of Sciences and bringing together the Institute of Photonics and Electronics, the Jaroslav Heyrovský Institute of Physical Chemistry, Palacký University in Olomouc, and CESNET; and the QM4ST consortium project led by the University of West Bohemia in Plzeň, bringing together Charles University, Masaryk University, and the Brno University of Technology.",
+    "entity_1": "institute of scientific instruments",
+    "h1": "government",
+    "entity_2": "palacký university",
     "h2": "academia",
     "entities": [
       {
-        "entity": "sqa",
-        "helix": "intermediary"
+        "entity": "institute of scientific instruments",
+        "helix": "government"
       },
       {
-        "entity": "unsw",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Then she heard about (<https://sydneyquantum.org/>)Sydney Quantum Academy (SQA), a partnership between 4 universities – Macquarie University, University of Sydney, UNSW and UTS – backed by the NSW Government.",
-    "entity_1": "sqa",
-    "h1": "intermediary",
-    "entity_2": "university of sydney",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "sqa",
-        "helix": "intermediary"
-      },
-      {
-        "entity": "university of sydney",
+        "entity": "palacký university",
         "helix": "academia"
       }
     ],
@@ -44,81 +23,18 @@
   {
     "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
     "country": "CZE",
-    "sentence": "In 2025, VŠB-TUO joined the European association QuIC (Quantum Industry Consortium), which includes more than 180 institutions and companies from across Europe and aims to accelerate the development of quantum technologies and strengthen Europe's position as a world leader in this rapidly growing sector.",
-    "entity_1": "všb-tuo",
-    "h1": "academia",
-    "entity_2": "quantum industry consortium",
-    "h2": "intermediary",
-    "entities": [
-      {
-        "entity": "všb-tuo",
-        "helix": "academia"
-      },
-      {
-        "entity": "quantum industry consortium",
-        "helix": "intermediary"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "The(<https://www.uts.edu.au/research/centre-quantum-software-and-information/news/quantum-benchmarking-accelerate-quantum-development>) University of Technology Sydney’s Centre for Quantum Software and Information (QSI) is participating in the US Defense Advanced Research Projects Agency’s (DARPA) (<https://www.darpa.mil/program/quantum-benchmarking>)quantum benchmarking program.",
-    "entity_1": "centre for quantum software and information",
-    "h1": "academia",
-    "entity_2": "us defense advanced research projects agency",
-    "h2": "government",
-    "entities": [
-      {
-        "entity": "centre for quantum software and information",
-        "helix": "academia"
-      },
-      {
-        "entity": "us defense advanced research projects agency",
-        "helix": "government"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "In addition, the Natural Sciences and Engineering Research Council of Canada (NSERC) and the CFI have provided more than $200 million and $180 million, respectively, in funding to quantum researchers since 2012.",
-    "entity_1": "cfi",
-    "h1": "intermediary",
-    "entity_2": "nserc",
-    "h2": "government",
-    "entities": [
-      {
-        "entity": "cfi",
-        "helix": "intermediary"
-      },
-      {
-        "entity": "nserc",
-        "helix": "government"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Australian expertise was broadly represented and participants in the development of these guidelines came from CSIRO, the Sydney Quantum Academy, the Australian National University, the University of Western Australia, The University of Queensland, Monash University and Quintessence Labs.",
-    "entity_1": "csiro",
+    "sentence": "CTU also cooperates with seventeen other partners from EU universities and companies on the European Photonic Quantum Computer (Epique) project funded by the European Commission.",
+    "entity_1": "eu",
     "h1": "government",
-    "entity_2": "australian national university",
+    "entity_2": "ctu",
     "h2": "academia",
     "entities": [
       {
-        "entity": "csiro",
+        "entity": "eu",
         "helix": "government"
       },
       {
-        "entity": "australian national university",
+        "entity": "ctu",
         "helix": "academia"
       }
     ],
@@ -126,315 +42,21 @@
     "true_space": ""
   },
   {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Today, graduates of those programs are leading projects around the world, in industry and academia, from IBM to Alphabet, from the University of Bristol to Stanford University in the United States.",
-    "entity_1": "ibm",
-    "h1": "industry",
-    "entity_2": "stanford university",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "ibm",
-        "helix": "industry"
-      },
-      {
-        "entity": "stanford university",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "MiQro Innovation Collaborative Center\nQuantum Algorithms Institute\nThe Government of Canada has supplemented the CFREF, NSERC and CFI supports with additional investments, including in key components of the Quebec and British Columbia quantum ecosystems, such as the (C2MI) and the .",
-    "entity_1": "cfref",
+    "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035",
+    "country": "FIN",
+    "sentence": "EuroHPC’s decision to locate the next-generation supercomputer (LUMI-AI) and the AI Factory in Kajaani, at CSC’s data centre, strengthens Finland’s position in the development of hybrid computing.",
+    "entity_1": "eurohpc",
     "h1": "government",
-    "entity_2": "miqro innovation collaborative center quantum algorithms institute",
+    "entity_2": "csc",
     "h2": "intermediary",
     "entities": [
       {
-        "entity": "cfref",
+        "entity": "eurohpc",
         "helix": "government"
       },
       {
-        "entity": "miqro innovation collaborative center quantum algorithms institute",
+        "entity": "csc",
         "helix": "intermediary"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "QSI researchers are developing the Bench‑Q software suite for this purpose with the University of Southern California, University of Texas at Dallas, Aalto University in Finland, and Zapata Computing.",
-    "entity_1": "zapata computing",
-    "h1": "industry",
-    "entity_2": "university of texas at dallas",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "zapata computing",
-        "helix": "industry"
-      },
-      {
-        "entity": "university of texas at dallas",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "•\nAnyon Systems\nThe Government of Quebec has invested heavily in quantum technologies, committing nearly $200 million in R&D for quantum projects from 2019 to 2026, including $131 million for the creation of a Sherbrooke Quantum Innovation Zone centred at the Institut Quantique de Sherbrooke.",
-    "entity_1": "government of quebec",
-    "h1": "government",
-    "entity_2": "quantum innovation zone",
-    "h2": "intermediary",
-    "entities": [
-      {
-        "entity": "government of quebec",
-        "helix": "government"
-      },
-      {
-        "entity": "quantum innovation zone",
-        "helix": "intermediary"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "Under the NQS, the Government of Canada is providing $40 million over six years to Mitacs to support the attraction, training, retention and deployment of highly qualified personnel in quantum science and technology through internship experiences and professional skills development for post-secondary students, recent graduates and postdoctoral fellows.",
-    "entity_1": "government of canada",
-    "h1": "government",
-    "entity_2": "mitacs",
-    "h2": "intermediary",
-    "entities": [
-      {
-        "entity": "government of canada",
-        "helix": "government"
-      },
-      {
-        "entity": "mitacs",
-        "helix": "intermediary"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "The(<https://www.uts.edu.au/research/centre-quantum-software-and-information/news/quantum-benchmarking-accelerate-quantum-development>) University of Technology Sydney’s Centre for Quantum Software and Information (QSI) is participating in the US Defense Advanced Research Projects Agency’s (DARPA) (<https://www.darpa.mil/program/quantum-benchmarking>)quantum benchmarking program.",
-    "entity_1": "centre for quantum software and information",
-    "h1": "academia",
-    "entity_2": "darpa",
-    "h2": "government",
-    "entities": [
-      {
-        "entity": "centre for quantum software and information",
-        "helix": "academia"
-      },
-      {
-        "entity": "darpa",
-        "helix": "government"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Australian expertise was broadly represented and participants in the development of these guidelines came from CSIRO, the Sydney Quantum Academy, the Australian National University, the University of Western Australia, The University of Queensland, Monash University and Quintessence Labs.",
-    "entity_1": "sydney quantum academy",
-    "h1": "intermediary",
-    "entity_2": "monash university",
-    "h2": "government",
-    "entities": [
-      {
-        "entity": "sydney quantum academy",
-        "helix": "intermediary"
-      },
-      {
-        "entity": "monash university",
-        "helix": "government"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Australian expertise was broadly represented and participants in the development of these guidelines came from CSIRO, the Sydney Quantum Academy, the Australian National University, the University of Western Australia, The University of Queensland, Monash University and Quintessence Labs.",
-    "entity_1": "australian national university",
-    "h1": "academia",
-    "entity_2": "university of western australia",
-    "h2": "government",
-    "entities": [
-      {
-        "entity": "australian national university",
-        "helix": "academia"
-      },
-      {
-        "entity": "university of western australia",
-        "helix": "government"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "For example, in 2019–20, the Government of Canada supported talent mobilization in the quantum sector via more than $3 million in Mitacs internships.",
-    "entity_1": "government of canada",
-    "h1": "government",
-    "entity_2": "mitacs",
-    "h2": "intermediary",
-    "entities": [
-      {
-        "entity": "government of canada",
-        "helix": "government"
-      },
-      {
-        "entity": "mitacs",
-        "helix": "intermediary"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Credit: Sydney Quantum Academy",
-    "entity_1": "sydney quantum academy",
-    "h1": "intermediary",
-    "entity_2": "uts",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "sydney quantum academy",
-        "helix": "intermediary"
-      },
-      {
-        "entity": "uts",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Case study: Quantum clocks and sensors supporting our defence force\nBuilding on their strong relationship with the Institute for Photonics and Advanced Sensing (IPAS) at the University of Adelaide, (<https://quantxlabs.com/>)QuantX Labs is developing groundbreaking quantum sensors and clocks.",
-    "entity_1": "university of adelaide",
-    "h1": "academia",
-    "entity_2": "quantx labs",
-    "h2": "industry",
-    "entities": [
-      {
-        "entity": "university of adelaide",
-        "helix": "academia"
-      },
-      {
-        "entity": "quantx labs",
-        "helix": "industry"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
-    "country": "CZE",
-    "sentence": "Announced government investments in billions of USD 1816141210864 1.1 1 0.7 0.5 0.3 0.3 0.2 0.1 2 0 1.8 3.7 8.4 15.3 Announced public investment in quantum technologies Chin a European Union United States Japan Canada India Russia Israel Taiwan Singapor e Australia Others Country\nFigure 1: Announced public investment in quantum technologies (Source: McKinsey & Company, 2022)",
-    "entity_1": "european union",
-    "h1": "government",
-    "entity_2": "mckinsey & company",
-    "h2": "industry",
-    "entities": [
-      {
-        "entity": "european union",
-        "helix": "government"
-      },
-      {
-        "entity": "mckinsey & company",
-        "helix": "industry"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "•\nAnyon Systems\nThe Government of Quebec has invested heavily in quantum technologies, committing nearly $200 million in R&D for quantum projects from 2019 to 2026, including $131 million for the creation of a Sherbrooke Quantum Innovation Zone centred at the Institut Quantique de Sherbrooke.",
-    "entity_1": "anyon systems",
-    "h1": "industry",
-    "entity_2": "quantum innovation zone",
-    "h2": "intermediary",
-    "entities": [
-      {
-        "entity": "anyon systems",
-        "helix": "industry"
-      },
-      {
-        "entity": "quantum innovation zone",
-        "helix": "intermediary"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Then she heard about (<https://sydneyquantum.org/>)Sydney Quantum Academy (SQA), a partnership between 4 universities – Macquarie University, University of Sydney, UNSW and UTS – backed by the NSW Government.",
-    "entity_1": "sydney quantum academy",
-    "h1": "intermediary",
-    "entity_2": "university of sydney",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "sydney quantum academy",
-        "helix": "intermediary"
-      },
-      {
-        "entity": "university of sydney",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Credit: Chris Lew, University of Melbourne\nCase study: Transitioning from the lab to future applications\n(<https://www.phasorinnovation.com/>)Phasor Innovation is an Australian quantum business specialising in:",
-    "entity_1": "chris lew",
-    "h1": "government",
-    "entity_2": "phasor innovation",
-    "h2": "industry",
-    "entities": [
-      {
-        "entity": "chris lew",
-        "helix": "government"
-      },
-      {
-        "entity": "phasor innovation",
-        "helix": "industry"
       }
     ],
     "true_relation": "",
@@ -462,21 +84,21 @@
     "true_space": ""
   },
   {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Phasor Innovation is collaborating with the University of Melbourne and RMIT University on researching and developing the next generation of diamond‑based quantum sensors.",
-    "entity_1": "phasor innovation",
-    "h1": "industry",
-    "entity_2": "rmit university",
-    "h2": "academia",
+    "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
+    "country": "ESP",
+    "sentence": "For example, a quantum computing laboratory has been created in Oviedo (CINN)30 , a quantum communication laboratory in Madrid (ITEFI-CSIC)31 and the inter-university master's degree in quantum technologies in Spain32 , coordinated by the CSIC through the Menéndez Pelayo International University (UIMP), in collaboration with nine other universities.",
+    "entity_1": "csic",
+    "h1": "government",
+    "entity_2": "cinn",
+    "h2": "intermediary",
     "entities": [
       {
-        "entity": "phasor innovation",
-        "helix": "industry"
+        "entity": "csic",
+        "helix": "government"
       },
       {
-        "entity": "rmit university",
-        "helix": "academia"
+        "entity": "cinn",
+        "helix": "intermediary"
       }
     ],
     "true_relation": "",
@@ -485,18 +107,39 @@
   {
     "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
     "country": "CZE",
-    "sentence": "On January 29, 2024, the Czech Technical University in Prague (CTU) connected to IBM's quantum computer (400 qubits) and signed a cooperation agreement in the field of quantum\ntechnology between other universities and research organizations.",
-    "entity_1": "ctu",
-    "h1": "academia",
-    "entity_2": "ibm",
+    "sentence": "Responsibility\nMPSV\nCooperation\nMinistry of the Interior, Ministry of Industry and Trade, Ministry of Education, Youth and Sports, Confederation of Industry of the Czech Republic, Chamber of Commerce\nDeadline\nBy the end of 2028\nCost\nNo additional costs to the state budget.",
+    "entity_1": "ministry of the interior",
+    "h1": "government",
+    "entity_2": "chamber of commerce",
+    "h2": "civil_society",
+    "entities": [
+      {
+        "entity": "ministry of the interior",
+        "helix": "government"
+      },
+      {
+        "entity": "chamber of commerce",
+        "helix": "civil_society"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "AUS_2023_National Quantum Strategy",
+    "country": "AUS",
+    "sentence": "Case study: Addressing transportation challenges\nIn 2020 Transport for NSW approached (<https://q-ctrl.com>)Q‑CTRL with an interest in understanding how they – as an organisation with heavy computational challenges – could put quantum computing to work for them.",
+    "entity_1": "transport for nsw",
+    "h1": "government",
+    "entity_2": "q‑ctrl",
     "h2": "industry",
     "entities": [
       {
-        "entity": "ctu",
-        "helix": "academia"
+        "entity": "transport for nsw",
+        "helix": "government"
       },
       {
-        "entity": "ibm",
+        "entity": "q‑ctrl",
         "helix": "industry"
       }
     ],
@@ -504,336 +147,21 @@
     "true_space": ""
   },
   {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "•\nAnyon Systems\nThe Government of Quebec has invested heavily in quantum technologies, committing nearly $200 million in R&D for quantum projects from 2019 to 2026, including $131 million for the creation of a Sherbrooke Quantum Innovation Zone centred at the Institut Quantique de Sherbrooke.",
-    "entity_1": "quantum innovation zone",
-    "h1": "intermediary",
-    "entity_2": "institut quantique de sherbrooke",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "quantum innovation zone",
-        "helix": "intermediary"
-      },
-      {
-        "entity": "institut quantique de sherbrooke",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Australian expertise was broadly represented and participants in the development of these guidelines came from CSIRO, the Sydney Quantum Academy, the Australian National University, the University of Western Australia, The University of Queensland, Monash University and Quintessence Labs.",
-    "entity_1": "csiro",
+    "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
+    "country": "ESP",
+    "sentence": "For this reason, the Spanish Government launched its first national programme in 2022 with the creation of the Quantum Spain consortium, which brings together 27 research institutions from 14 autonomous communities, including the CSIC, BSC-CNS and 15 public universities.",
+    "entity_1": "csic",
     "h1": "government",
-    "entity_2": "sydney quantum academy",
+    "entity_2": "bsc-cns",
     "h2": "intermediary",
     "entities": [
       {
-        "entity": "csiro",
+        "entity": "csic",
         "helix": "government"
       },
       {
-        "entity": "sydney quantum academy",
+        "entity": "bsc-cns",
         "helix": "intermediary"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "These investments also include $87.5 million for access to state-of-the-art quantum computing infrastructure, including a quantum computing hub at the Institut Quantique (IBM Quantum Hub), an IBM discovery accelerator, a quantum computer from IBM Q System One, located in Quebec, as well as a quantum computer from for public research.",
-    "entity_1": "ibm quantum hub",
-    "h1": "intermediary",
-    "entity_2": "ibm",
-    "h2": "industry",
-    "entities": [
-      {
-        "entity": "ibm quantum hub",
-        "helix": "intermediary"
-      },
-      {
-        "entity": "ibm",
-        "helix": "industry"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "AQC is based on research in superconducting microwave devices, which was supported by the Australian Research Council through Future Fellowships and the (<https://equs.org/>)ARC Centre of Excellence in Engineered (<https://equs.org/>)Quantum Systems (EQUS).",
-    "entity_1": "aqc",
-    "h1": "industry",
-    "entity_2": "quantum systems",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "aqc",
-        "helix": "industry"
-      },
-      {
-        "entity": "quantum systems",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "Talent will be supported through programming at NSERC and Mitacs:",
-    "entity_1": "nserc",
-    "h1": "government",
-    "entity_2": "mitacs",
-    "h2": "intermediary",
-    "entities": [
-      {
-        "entity": "nserc",
-        "helix": "government"
-      },
-      {
-        "entity": "mitacs",
-        "helix": "intermediary"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Case study: Inspiring students\nAs part of the (<https://education.nsw.gov.au/teaching-and-learning/curriculum/stem/stem-2022-on-demand>)STEM 2022 on demand series, Sydney Quantum Academy (SQA) and the NSW Department of Education created a video showing teachers how to light a path to a quantum career for their students.",
-    "entity_1": "sydney quantum academy",
-    "h1": "intermediary",
-    "entity_2": "nsw department of education",
-    "h2": "government",
-    "entities": [
-      {
-        "entity": "sydney quantum academy",
-        "helix": "intermediary"
-      },
-      {
-        "entity": "nsw department of education",
-        "helix": "government"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "The(<https://www.uts.edu.au/research/centre-quantum-software-and-information/news/quantum-benchmarking-accelerate-quantum-development>) University of Technology Sydney’s Centre for Quantum Software and Information (QSI) is participating in the US Defense Advanced Research Projects Agency’s (DARPA) (<https://www.darpa.mil/program/quantum-benchmarking>)quantum benchmarking program.",
-    "entity_1": "university of technology sydney",
-    "h1": "academia",
-    "entity_2": "darpa",
-    "h2": "government",
-    "entities": [
-      {
-        "entity": "university of technology sydney",
-        "helix": "academia"
-      },
-      {
-        "entity": "darpa",
-        "helix": "government"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Case study: Quantum clocks and sensors supporting our defence force\nBuilding on their strong relationship with the Institute for Photonics and Advanced Sensing (IPAS) at the University of Adelaide, (<https://quantxlabs.com/>)QuantX Labs is developing groundbreaking quantum sensors and clocks.",
-    "entity_1": "ipas",
-    "h1": "academia",
-    "entity_2": "quantx labs",
-    "h2": "industry",
-    "entities": [
-      {
-        "entity": "ipas",
-        "helix": "academia"
-      },
-      {
-        "entity": "quantx labs",
-        "helix": "industry"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Australian expertise was broadly represented and participants in the development of these guidelines came from CSIRO, the Sydney Quantum Academy, the Australian National University, the University of Western Australia, The University of Queensland, Monash University and Quintessence Labs.",
-    "entity_1": "the university of queensland",
-    "h1": "academia",
-    "entity_2": "monash university",
-    "h2": "government",
-    "entities": [
-      {
-        "entity": "the university of queensland",
-        "helix": "academia"
-      },
-      {
-        "entity": "monash university",
-        "helix": "government"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "The IQC is part of a quantum ecosystem that extends from discovery research in advanced physics at the Perimeter Institute to advanced development and commercialization at the Quantum Valley Ideas Lab.",
-    "entity_1": "perimeter institute",
-    "h1": "academia",
-    "entity_2": "quantum valley ideas lab",
-    "h2": "intermediary",
-    "entities": [
-      {
-        "entity": "perimeter institute",
-        "helix": "academia"
-      },
-      {
-        "entity": "quantum valley ideas lab",
-        "helix": "intermediary"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "$40-million contribution to Vancouver-based D-Wave\nBusiness Development Bank of Canada (BDC) launched the $200 million Deep Tech Venture Fund\nNord Quantique\nIn addition, the Government of Canada has supported large projects and national innovation ecosystems through the SIF, including a in March 2021.",
-    "entity_1": "government of canada",
-    "h1": "government",
-    "entity_2": "bdc",
-    "h2": "intermediary",
-    "entities": [
-      {
-        "entity": "government of canada",
-        "helix": "government"
-      },
-      {
-        "entity": "bdc",
-        "helix": "intermediary"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Ritika Bazzad, Sydney Quantum Academy PhD scholarship recipient at UTS.",
-    "entity_1": "sydney quantum academy",
-    "h1": "intermediary",
-    "entity_2": "ritika bazzad",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "sydney quantum academy",
-        "helix": "intermediary"
-      },
-      {
-        "entity": "ritika bazzad",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
-    "country": "CZE",
-    "sentence": "CTU also cooperates with seventeen other partners from EU universities and companies on the European Photonic Quantum Computer (Epique) project funded by the European Commission.",
-    "entity_1": "european commission",
-    "h1": "government",
-    "entity_2": "ctu",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "european commission",
-        "helix": "government"
-      },
-      {
-        "entity": "ctu",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Australian expertise was broadly represented and participants in the development of these guidelines came from CSIRO, the Sydney Quantum Academy, the Australian National University, the University of Western Australia, The University of Queensland, Monash University and Quintessence Labs.",
-    "entity_1": "sydney quantum academy",
-    "h1": "intermediary",
-    "entity_2": "australian national university",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "sydney quantum academy",
-        "helix": "intermediary"
-      },
-      {
-        "entity": "australian national university",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "• In 2019, the Government of British Columbia committed $17 million over five years to establish the Quantum Algorithms Institute.",
-    "entity_1": "government of british columbia",
-    "h1": "government",
-    "entity_2": "quantum algorithms institute",
-    "h2": "intermediary",
-    "entities": [
-      {
-        "entity": "government of british columbia",
-        "helix": "government"
-      },
-      {
-        "entity": "quantum algorithms institute",
-        "helix": "intermediary"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "The(<https://www.uts.edu.au/research/centre-quantum-software-and-information/news/quantum-benchmarking-accelerate-quantum-development>) University of Technology Sydney’s Centre for Quantum Software and Information (QSI) is participating in the US Defense Advanced Research Projects Agency’s (DARPA) (<https://www.darpa.mil/program/quantum-benchmarking>)quantum benchmarking program.",
-    "entity_1": "qsi",
-    "h1": "academia",
-    "entity_2": "darpa",
-    "h2": "government",
-    "entities": [
-      {
-        "entity": "qsi",
-        "helix": "academia"
-      },
-      {
-        "entity": "darpa",
-        "helix": "government"
       }
     ],
     "true_relation": "",
@@ -844,54 +172,12 @@
     "country": "AUS",
     "sentence": "Then she heard about (<https://sydneyquantum.org/>)Sydney Quantum Academy (SQA), a partnership between 4 universities – Macquarie University, University of Sydney, UNSW and UTS – backed by the NSW Government.",
     "entity_1": "sydney quantum academy",
-    "h1": "intermediary",
-    "entity_2": "macquarie university",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "sydney quantum academy",
-        "helix": "intermediary"
-      },
-      {
-        "entity": "macquarie university",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "AQC is based on research in superconducting microwave devices, which was supported by the Australian Research Council through Future Fellowships and the (<https://equs.org/>)ARC Centre of Excellence in Engineered (<https://equs.org/>)Quantum Systems (EQUS).",
-    "entity_1": "australian research council",
-    "h1": "government",
-    "entity_2": "arc centre of excellence in engineered",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "australian research council",
-        "helix": "government"
-      },
-      {
-        "entity": "arc centre of excellence in engineered",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Then she heard about (<https://sydneyquantum.org/>)Sydney Quantum Academy (SQA), a partnership between 4 universities – Macquarie University, University of Sydney, UNSW and UTS – backed by the NSW Government.",
-    "entity_1": "sqa",
     "h1": "intermediary",
     "entity_2": "uts",
     "h2": "academia",
     "entities": [
       {
-        "entity": "sqa",
+        "entity": "sydney quantum academy",
         "helix": "intermediary"
       },
       {
@@ -903,62 +189,20 @@
     "true_space": ""
   },
   {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Then she heard about (<https://sydneyquantum.org/>)Sydney Quantum Academy (SQA), a partnership between 4 universities – Macquarie University, University of Sydney, UNSW and UTS – backed by the NSW Government.",
-    "entity_1": "sqa",
-    "h1": "intermediary",
-    "entity_2": "macquarie university",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "sqa",
-        "helix": "intermediary"
-      },
-      {
-        "entity": "macquarie university",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "As part of the Quantum Pioneers Program, the (<https://pawsey.org.au/>)Pawsey (<https://pawsey.org.au/>)Supercomputing Research Centre partnered with (<https://quantumbrilliance.com/>)Quantum Brilliance to enable industry and research teams to explore the possibilities of edge quantum computing.",
-    "entity_1": "pawsey",
-    "h1": "intermediary",
-    "entity_2": "quantum brilliance",
-    "h2": "industry",
-    "entities": [
-      {
-        "entity": "pawsey",
-        "helix": "intermediary"
-      },
-      {
-        "entity": "quantum brilliance",
-        "helix": "industry"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "MiQro Innovation Collaborative Center\nQuantum Algorithms Institute\nThe Government of Canada has supplemented the CFREF, NSERC and CFI supports with additional investments, including in key components of the Quebec and British Columbia quantum ecosystems, such as the (C2MI) and the .",
-    "entity_1": "government of canada",
-    "h1": "government",
-    "entity_2": "cfi",
+    "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
+    "country": "ESP",
+    "sentence": "Within this framework, it is essential to strengthen key centres such as the National Microelectronics Centre (notably the IMB-CNM-CSIC in Barcelona, the IMNCSIC in Madrid and the IMSE-CSIC-US in Seville), which works on superconducting and semiconductor quantum devices and on integrated photonics platforms applied to quantum computing.",
+    "entity_1": "national microelectronics centre",
+    "h1": "academia",
+    "entity_2": "imse-csic-us",
     "h2": "intermediary",
     "entities": [
       {
-        "entity": "government of canada",
-        "helix": "government"
+        "entity": "national microelectronics centre",
+        "helix": "academia"
       },
       {
-        "entity": "cfi",
+        "entity": "imse-csic-us",
         "helix": "intermediary"
       }
     ],
@@ -966,251 +210,20 @@
     "true_space": ""
   },
   {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "Over the past 10 years, the Government of Canada has provided $51 million to support the IQC.",
-    "entity_1": "government of canada",
-    "h1": "government",
-    "entity_2": "iqc",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "government of canada",
-        "helix": "government"
-      },
-      {
-        "entity": "iqc",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "1Qbit\nwas recognized by the World Economic Forum in 2015 as the first software company dedicated to producing commercial applications for quantum computers.",
-    "entity_1": "1qbit",
-    "h1": "industry",
-    "entity_2": "world economic forum",
-    "h2": "civil_society",
-    "entities": [
-      {
-        "entity": "1qbit",
-        "helix": "industry"
-      },
-      {
-        "entity": "world economic forum",
-        "helix": "civil_society"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "The(<https://www.uts.edu.au/research/centre-quantum-software-and-information/news/quantum-benchmarking-accelerate-quantum-development>) University of Technology Sydney’s Centre for Quantum Software and Information (QSI) is participating in the US Defense Advanced Research Projects Agency’s (DARPA) (<https://www.darpa.mil/program/quantum-benchmarking>)quantum benchmarking program.",
-    "entity_1": "university of technology sydney",
-    "h1": "academia",
-    "entity_2": "us defense advanced research projects agency",
+    "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
+    "country": "ESP",
+    "sentence": "Two key cases will be included: the deployment of optical ground stations (OGS) in Madrid, Barcelona and Galicia to connect with the satellite mission, which will complement those already in place at the Teide Observatory (IAC), and the development of terrestrial QKD links between Madrid and Barcelona, together with the creation of new strategic nodes in Spain, such as links between CESGA and the University of Vigo or the extension of the MadQCI quantum ring to the INTA facilities.",
+    "entity_1": "iac",
+    "h1": "intermediary",
+    "entity_2": "inta",
     "h2": "government",
     "entities": [
       {
-        "entity": "university of technology sydney",
-        "helix": "academia"
-      },
-      {
-        "entity": "us defense advanced research projects agency",
-        "helix": "government"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Case study: Inspiring students\nAs part of the (<https://education.nsw.gov.au/teaching-and-learning/curriculum/stem/stem-2022-on-demand>)STEM 2022 on demand series, Sydney Quantum Academy (SQA) and the NSW Department of Education created a video showing teachers how to light a path to a quantum career for their students.",
-    "entity_1": "sqa",
-    "h1": "intermediary",
-    "entity_2": "nsw department of education",
-    "h2": "government",
-    "entities": [
-      {
-        "entity": "sqa",
+        "entity": "iac",
         "helix": "intermediary"
       },
       {
-        "entity": "nsw department of education",
-        "helix": "government"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
-    "country": "CZE",
-    "sentence": "In the field of quantum technologies, two large consortium projects were supported under the Excellent Research call of the OP JAK program – QEENTEC led by the Institute of Scientific Instruments of the Czech Academy of Sciences and bringing together the Institute of Photonics and Electronics, the Jaroslav Heyrovský Institute of Physical Chemistry, Palacký University in Olomouc, and CESNET; and the QM4ST consortium project led by the University of West Bohemia in Plzeň, bringing together Charles University, Masaryk University, and the Brno University of Technology.",
-    "entity_1": "institute of scientific instruments",
-    "h1": "government",
-    "entity_2": "palacký university",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "institute of scientific instruments",
-        "helix": "government"
-      },
-      {
-        "entity": "palacký university",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Case study: Quantum clocks and sensors supporting our defence force\nBuilding on their strong relationship with the Institute for Photonics and Advanced Sensing (IPAS) at the University of Adelaide, (<https://quantxlabs.com/>)QuantX Labs is developing groundbreaking quantum sensors and clocks.",
-    "entity_1": "institute for photonics and advanced sensing",
-    "h1": "academia",
-    "entity_2": "quantx labs",
-    "h2": "industry",
-    "entities": [
-      {
-        "entity": "institute for photonics and advanced sensing",
-        "helix": "academia"
-      },
-      {
-        "entity": "quantx labs",
-        "helix": "industry"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Today, graduates of those programs are leading projects around the world, in industry and academia, from IBM to Alphabet, from the University of Bristol to Stanford University in the United States.",
-    "entity_1": "alphabet",
-    "h1": "industry",
-    "entity_2": "university of bristol",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "alphabet",
-        "helix": "industry"
-      },
-      {
-        "entity": "university of bristol",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Australian expertise was broadly represented and participants in the development of these guidelines came from CSIRO, the Sydney Quantum Academy, the Australian National University, the University of Western Australia, The University of Queensland, Monash University and Quintessence Labs.",
-    "entity_1": "csiro",
-    "h1": "government",
-    "entity_2": "the university of queensland",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "csiro",
-        "helix": "government"
-      },
-      {
-        "entity": "the university of queensland",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "QSI researchers are developing the Bench‑Q software suite for this purpose with the University of Southern California, University of Texas at Dallas, Aalto University in Finland, and Zapata Computing.",
-    "entity_1": "zapata computing",
-    "h1": "industry",
-    "entity_2": "aalto university",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "zapata computing",
-        "helix": "industry"
-      },
-      {
-        "entity": "aalto university",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Then she heard about (<https://sydneyquantum.org/>)Sydney Quantum Academy (SQA), a partnership between 4 universities – Macquarie University, University of Sydney, UNSW and UTS – backed by the NSW Government.",
-    "entity_1": "sydney quantum academy",
-    "h1": "intermediary",
-    "entity_2": "unsw",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "sydney quantum academy",
-        "helix": "intermediary"
-      },
-      {
-        "entity": "unsw",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Australian expertise was broadly represented and participants in the development of these guidelines came from CSIRO, the Sydney Quantum Academy, the Australian National University, the University of Western Australia, The University of Queensland, Monash University and Quintessence Labs.",
-    "entity_1": "university of western australia",
-    "h1": "government",
-    "entity_2": "the university of queensland",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "university of western australia",
-        "helix": "government"
-      },
-      {
-        "entity": "the university of queensland",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "MiQro Innovation Collaborative Center\nQuantum Algorithms Institute\nThe Government of Canada has supplemented the CFREF, NSERC and CFI supports with additional investments, including in key components of the Quebec and British Columbia quantum ecosystems, such as the (C2MI) and the .",
-    "entity_1": "cfi",
-    "h1": "intermediary",
-    "entity_2": "cfref",
-    "h2": "government",
-    "entities": [
-      {
-        "entity": "cfi",
-        "helix": "intermediary"
-      },
-      {
-        "entity": "cfref",
+        "entity": "inta",
         "helix": "government"
       }
     ],
@@ -1239,41 +252,20 @@
     "true_space": ""
   },
   {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "The IQC is part of a quantum ecosystem that extends from discovery research in advanced physics at the Perimeter Institute to advanced development and commercialization at the Quantum Valley Ideas Lab.",
-    "entity_1": "iqc",
-    "h1": "academia",
-    "entity_2": "quantum valley ideas lab",
-    "h2": "intermediary",
-    "entities": [
-      {
-        "entity": "iqc",
-        "helix": "academia"
-      },
-      {
-        "entity": "quantum valley ideas lab",
-        "helix": "intermediary"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "AQC is based on research in superconducting microwave devices, which was supported by the Australian Research Council through Future Fellowships and the (<https://equs.org/>)ARC Centre of Excellence in Engineered (<https://equs.org/>)Quantum Systems (EQUS).",
-    "entity_1": "australian research council",
-    "h1": "government",
-    "entity_2": "quantum systems",
+    "doc_id": "DNK_2023_Strategy for Quantum Technology Part 1",
+    "country": "DNK",
+    "sentence": "The Novo Nordisk Foundation has announced a grant of DKK 1.5 billion in 2022 over 12 years for a quantum program at the Niels Bohr Institute with a view to building a fully functional quantum computer within the next 10-20 years.",
+    "entity_1": "novo nordisk foundation",
+    "h1": "civil_society",
+    "entity_2": "niels bohr institute",
     "h2": "academia",
     "entities": [
       {
-        "entity": "australian research council",
-        "helix": "government"
+        "entity": "novo nordisk foundation",
+        "helix": "civil_society"
       },
       {
-        "entity": "quantum systems",
+        "entity": "niels bohr institute",
         "helix": "academia"
       }
     ],
@@ -1281,62 +273,41 @@
     "true_space": ""
   },
   {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Q‑CTRL took on the challenge and has focused on getting Transport for NSW quantum ready via a combination of quantum professional services and quantum control infrastructure software development.",
-    "entity_1": "transport for nsw",
-    "h1": "government",
-    "entity_2": "q‑ctrl",
-    "h2": "industry",
+    "doc_id": "DNK_2023_Strategy for Quantum Technology Part 1",
+    "country": "DNK",
+    "sentence": "The Villum Foundation\n427\nThe Danish National Research Foundation\n223\nThe Novo Nordisk Foundation\n210\nThe Innovation Fund Denmark\n195\nThe Independent Research Fund Denmark\n89\nThe Carlsberg Foundation\n78\nThe Augustinus Foundation 0,04\nThe general prices and wages index of the Agency for Public Finance and Management has been used for conversion from current to fixed 2021 prices.",
+    "entity_1": "the villum foundation",
+    "h1": "civil_society",
+    "entity_2": "the danish national research foundation",
+    "h2": "government",
     "entities": [
       {
-        "entity": "transport for nsw",
-        "helix": "government"
+        "entity": "the villum foundation",
+        "helix": "civil_society"
       },
       {
-        "entity": "q‑ctrl",
-        "helix": "industry"
+        "entity": "the danish national research foundation",
+        "helix": "government"
       }
     ],
     "true_relation": "",
     "true_space": ""
   },
   {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Q‑CTRL worked with Transport for NSW to improve the performance of quantum algorithms relevant to transport optimisation problems and charted a path to quantum advantage.",
-    "entity_1": "transport for nsw",
+    "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
+    "country": "ESP",
+    "sentence": "The country is also involved in European initiatives such as EuroQuantum Communication Infrastructure (EuroQ-CISPAIN), Quantum Secure Networks Partnership (QSNP) and Quantum Internet Alliance (QIA), derived from the Quantum Flagship and funded by the European Commission, which seek to consolidate a robust and secure infrastructure for quantum communications in Europe.",
+    "entity_1": "european commission",
     "h1": "government",
-    "entity_2": "q‑ctrl",
-    "h2": "industry",
-    "entities": [
-      {
-        "entity": "transport for nsw",
-        "helix": "government"
-      },
-      {
-        "entity": "q‑ctrl",
-        "helix": "industry"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "MiQro Innovation Collaborative Center\nQuantum Algorithms Institute\nThe Government of Canada has supplemented the CFREF, NSERC and CFI supports with additional investments, including in key components of the Quebec and British Columbia quantum ecosystems, such as the (C2MI) and the .",
-    "entity_1": "government of canada",
-    "h1": "government",
-    "entity_2": "miqro innovation collaborative center quantum algorithms institute",
+    "entity_2": "quantum internet alliance",
     "h2": "intermediary",
     "entities": [
       {
-        "entity": "government of canada",
+        "entity": "european commission",
         "helix": "government"
       },
       {
-        "entity": "miqro innovation collaborative center quantum algorithms institute",
+        "entity": "quantum internet alliance",
         "helix": "intermediary"
       }
     ],
@@ -1344,62 +315,20 @@
     "true_space": ""
   },
   {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "These investments also include $87.5 million for access to state-of-the-art quantum computing infrastructure, including a quantum computing hub at the Institut Quantique (IBM Quantum Hub), an IBM discovery accelerator, a quantum computer from IBM Q System One, located in Quebec, as well as a quantum computer from for public research.",
-    "entity_1": "institut quantique",
-    "h1": "academia",
-    "entity_2": "ibm",
-    "h2": "industry",
-    "entities": [
-      {
-        "entity": "institut quantique",
-        "helix": "academia"
-      },
-      {
-        "entity": "ibm",
-        "helix": "industry"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "As part of the Quantum Pioneers Program, the (<https://pawsey.org.au/>)Pawsey (<https://pawsey.org.au/>)Supercomputing Research Centre partnered with (<https://quantumbrilliance.com/>)Quantum Brilliance to enable industry and research teams to explore the possibilities of edge quantum computing.",
-    "entity_1": "supercomputing research centre",
+    "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
+    "country": "CZE",
+    "sentence": "In 2020, Masaryk University, CTU, and Brno University of Technology established a registered institute for cybersecurity, CyberSecurity Hub, z.ú.",
+    "entity_1": "cybersecurity hub",
     "h1": "intermediary",
-    "entity_2": "quantum brilliance",
-    "h2": "industry",
-    "entities": [
-      {
-        "entity": "supercomputing research centre",
-        "helix": "intermediary"
-      },
-      {
-        "entity": "quantum brilliance",
-        "helix": "industry"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "•\nAnyon Systems\nThe Government of Quebec has invested heavily in quantum technologies, committing nearly $200 million in R&D for quantum projects from 2019 to 2026, including $131 million for the creation of a Sherbrooke Quantum Innovation Zone centred at the Institut Quantique de Sherbrooke.",
-    "entity_1": "government of quebec",
-    "h1": "government",
-    "entity_2": "institut quantique de sherbrooke",
+    "entity_2": "ctu",
     "h2": "academia",
     "entities": [
       {
-        "entity": "government of quebec",
-        "helix": "government"
+        "entity": "cybersecurity hub",
+        "helix": "intermediary"
       },
       {
-        "entity": "institut quantique de sherbrooke",
+        "entity": "ctu",
         "helix": "academia"
       }
     ],
@@ -1407,20 +336,62 @@
     "true_space": ""
   },
   {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "SQA provides scholarships, career development and a thriving local community of young researchers.",
-    "entity_1": "government",
+    "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
+    "country": "CZE",
+    "sentence": "Universities and their institutes, institutes of the Czech Academy of Sciences, the Confederation of Industry of the Czech Republic, the Chamber of Commerce, companies, start-ups, and spin-offs will be involved in the implementation of educational activities.",
+    "entity_1": "czech academy of sciences",
     "h1": "government",
-    "entity_2": "sqa",
+    "entity_2": "confederation of industry of the",
     "h2": "intermediary",
     "entities": [
       {
-        "entity": "government",
+        "entity": "czech academy of sciences",
         "helix": "government"
       },
       {
-        "entity": "sqa",
+        "entity": "confederation of industry of the",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035",
+    "country": "FIN",
+    "sentence": "CSC and VTT are involved in the EuroHPC LUMI-Q project, which procures a quantum computer to be located in the Czech Republic.",
+    "entity_1": "vtt",
+    "h1": "government",
+    "entity_2": "csc",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "vtt",
+        "helix": "government"
+      },
+      {
+        "entity": "csc",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
+    "country": "ESP",
+    "sentence": "Among them, the ICFO stands out in areas such as the detection of magnetic fields with atom clouds, the CSIC with the development of optomechanical quantum sensors, the Centre for Materials Physics (CFMUPV/EHU-CSIC) with the creation of inertial sensors for navigation without GPS, using levitated particles and optomechanics, and the quantum sensorics hub in Bizkaia, associated with the laboratories of the EHU Quantum Centre, the CFM and Tecnalia.",
+    "entity_1": "csic",
+    "h1": "government",
+    "entity_2": "icfo",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "csic",
+        "helix": "government"
+      },
+      {
+        "entity": "icfo",
         "helix": "intermediary"
       }
     ],
@@ -1449,6 +420,216 @@
     "true_space": ""
   },
   {
+    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
+    "country": "CAN",
+    "sentence": "These investments also include $87.5 million for access to state-of-the-art quantum computing infrastructure, including a quantum computing hub at the Institut Quantique (IBM Quantum Hub), an IBM discovery accelerator, a quantum computer from IBM Q System One, located in Quebec, as well as a quantum computer from for public research.",
+    "entity_1": "institut quantique",
+    "h1": "academia",
+    "entity_2": "ibm quantum hub",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "institut quantique",
+        "helix": "academia"
+      },
+      {
+        "entity": "ibm quantum hub",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
+    "country": "CAN",
+    "sentence": "1Qbit\nwas recognized by the World Economic Forum in 2015 as the first software company dedicated to producing commercial applications for quantum computers.",
+    "entity_1": "1qbit",
+    "h1": "industry",
+    "entity_2": "world economic forum",
+    "h2": "civil_society",
+    "entities": [
+      {
+        "entity": "1qbit",
+        "helix": "industry"
+      },
+      {
+        "entity": "world economic forum",
+        "helix": "civil_society"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
+    "country": "CAN",
+    "sentence": "• In 2019, the Government of British Columbia committed $17 million over five years to establish the Quantum Algorithms Institute.",
+    "entity_1": "government of british columbia",
+    "h1": "government",
+    "entity_2": "quantum algorithms institute",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "government of british columbia",
+        "helix": "government"
+      },
+      {
+        "entity": "quantum algorithms institute",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035",
+    "country": "FIN",
+    "sentence": "Responsible actors:\nMEAE, MF, VTT, CSC,\nBusiness Finland, FiQCI\nDetermined the suitability of the R&D tax deductions in use and under preparation as an incentive for the introduction of quantum and high­performance computing.",
+    "entity_1": "meae",
+    "h1": "government",
+    "entity_2": "csc",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "meae",
+        "helix": "government"
+      },
+      {
+        "entity": "csc",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
+    "country": "ESP",
+    "sentence": "In addition, coordination mechanisms will be established between all public funding agents, such as CDTI and ICO-AXIS, to promote specialisation, avoid overlaps and each have an impact in their area of action with regard to the life cycle of companies and the risk of investment at each stage, in order to make the allocated resources more efficient.",
+    "entity_1": "cdti",
+    "h1": "government",
+    "entity_2": "ico-axis",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "cdti",
+        "helix": "government"
+      },
+      {
+        "entity": "ico-axis",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
+    "country": "CZE",
+    "sentence": "Responsibility\nMinistry of Education\nCooperation\nMVVI, MPSV, NAU, MPO, MO, SPČR, HK\nDeadline\nPreparation by the end of 2026, start in 2027\nCost\nOptimal budget: CZK 200 million (with gradual ramp-up)\nBenefits\nBuilding a base of qualified human resources capable of working with quantum technologies at all levels, from research and development through practical engineering applications to implementation in industry, government and security.",
+    "entity_1": "mpo",
+    "h1": "government",
+    "entity_2": "spčr",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "mpo",
+        "helix": "government"
+      },
+      {
+        "entity": "spčr",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035",
+    "country": "FIN",
+    "sentence": "The current Government has decided to invest in the development of quantum computers and, for example, in the development of semiconductor technologies through Kvanttinova.",
+    "entity_1": "government",
+    "h1": "government",
+    "entity_2": "kvanttinova",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "government",
+        "helix": "government"
+      },
+      {
+        "entity": "kvanttinova",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
+    "country": "CAN",
+    "sentence": "For example, in 2019–20, the Government of Canada supported talent mobilization in the quantum sector via more than $3 million in Mitacs internships.",
+    "entity_1": "government of canada",
+    "h1": "government",
+    "entity_2": "mitacs",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "government of canada",
+        "helix": "government"
+      },
+      {
+        "entity": "mitacs",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035",
+    "country": "FIN",
+    "sentence": "Micronova, Low Temperature Laboratory and Nanomicroscopy Center Kvanttinova Quantum computers Supercomputers Infrastructures QKD development platform NaQCI.fi FiQCI FinnLight Nanoscience Center FINNVERA Tesi Private investors Innovation fundingResearch funding • R&D&I services Products and services\nThe high level of academic research is reflected in Finland’s success in EU programmes and strong participation in European quantum coordination.",
+    "entity_1": "kvanttinova",
+    "h1": "intermediary",
+    "entity_2": "eu",
+    "h2": "government",
+    "entities": [
+      {
+        "entity": "kvanttinova",
+        "helix": "intermediary"
+      },
+      {
+        "entity": "eu",
+        "helix": "government"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
+    "country": "CAN",
+    "sentence": "To strengthen the talent pipeline, the Government of Canada will work with Mitacs to facilitate integrated work placements for foreign experts in Canadian industry.",
+    "entity_1": "government of canada",
+    "h1": "government",
+    "entity_2": "mitacs",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "government of canada",
+        "helix": "government"
+      },
+      {
+        "entity": "mitacs",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
     "doc_id": "AUS_2023_National Quantum Strategy",
     "country": "AUS",
     "sentence": "Credit: Quantum Brilliance\nThe recently announced ARC Centre of Excellence in Quantum Biotechnology will help Australia stay at the forefront of developing quantum technologies to transform our understanding of life.",
@@ -1470,21 +651,252 @@
     "true_space": ""
   },
   {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Today, graduates of those programs are leading projects around the world, in industry and academia, from IBM to Alphabet, from the University of Bristol to Stanford University in the United States.",
-    "entity_1": "ibm",
-    "h1": "industry",
-    "entity_2": "university of bristol",
+    "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
+    "country": "CZE",
+    "sentence": "Given the declared military and security nature of quantum technologies, cooperation within the EU (EDA, EDF) and NATO (STO, DIANA, NIF) must also be taken into account, including the secondment of experts and representatives to these organizations.",
+    "entity_1": "eu",
+    "h1": "government",
+    "entity_2": "diana",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "eu",
+        "helix": "government"
+      },
+      {
+        "entity": "diana",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "DNK_2023_Strategy for Quantum Technology Part 2",
+    "country": "DNK",
+    "sentence": "• Quantum Foundry Copenhagen is working on developing new quantum materials and components as part of the Novo Nordisk Foundation Quantum Computing Programme (NQCP).",
+    "entity_1": "quantum foundry copenhagen",
+    "h1": "intermediary",
+    "entity_2": "novo nordisk",
+    "h2": "civil_society",
+    "entities": [
+      {
+        "entity": "quantum foundry copenhagen",
+        "helix": "intermediary"
+      },
+      {
+        "entity": "novo nordisk",
+        "helix": "civil_society"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "DNK_2023_Strategy for Quantum Technology Part 2",
+    "country": "DNK",
+    "sentence": "The intention is for the quantum fund to support the efforts of Quantum House Denmark and be seen in connection with efforts such as Deep Tech Laboratory - Quantum under the BioInnovation Institute and NATO's Innovation Fund (NIF).",
+    "entity_1": "nato",
+    "h1": "government",
+    "entity_2": "quantum house denmark",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "nato",
+        "helix": "government"
+      },
+      {
+        "entity": "quantum house denmark",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
+    "country": "ESP",
+    "sentence": "In addition, multiple institutions, including INTA, CSIC, ICFO, IAC, UPM and the University of Vigo, continue to promote the development of these innovative key distribution technologies with space systems through various lines of activity.",
+    "entity_1": "csic",
+    "h1": "government",
+    "entity_2": "icfo",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "csic",
+        "helix": "government"
+      },
+      {
+        "entity": "icfo",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
+    "country": "CZE",
+    "sentence": "At the Czech Academy of Sciences, it is primarily the Institute of Instrumentation, the Institute of Physics, the Institute of Organic Chemistry and Biochemistry, the J. Heyrovský Institute of Physical Chemistry, the Institute of Mathematics, and the Institute of Computer Science.",
+    "entity_1": "czech academy of sciences",
+    "h1": "government",
+    "entity_2": "institute of physics",
     "h2": "academia",
     "entities": [
       {
-        "entity": "ibm",
-        "helix": "industry"
+        "entity": "czech academy of sciences",
+        "helix": "government"
       },
       {
-        "entity": "university of bristol",
+        "entity": "institute of physics",
         "helix": "academia"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035",
+    "country": "FIN",
+    "sentence": "The quantum ecosystem, together with Business Finland and the InstituteQ, creates a framework for increasing quantum awareness for end­user companies.",
+    "entity_1": "business finland",
+    "h1": "government",
+    "entity_2": "instituteq",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "business finland",
+        "helix": "government"
+      },
+      {
+        "entity": "instituteq",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
+    "country": "CZE",
+    "sentence": "Responsibility\nMinistry of Defense (through UNOB), Ministry of the Interior (internal security)\nCooperation\nMinistry of Foreign Affairs, Ministry of Foreign Affairs\nDeadline\nBy the end of 2027\nCost\nNo additional costs\nBenefits\nAn analysis of the risks associated with the use of quantum technologies will provide the state with a basis for targeted protective measures, increase its defense capabilities and internal security, and strengthen international cooperation.",
+    "entity_1": "ministry of the interior",
+    "h1": "government",
+    "entity_2": "unob",
+    "h2": "academia",
+    "entities": [
+      {
+        "entity": "ministry of the interior",
+        "helix": "government"
+      },
+      {
+        "entity": "unob",
+        "helix": "academia"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035",
+    "country": "FIN",
+    "sentence": "The secretariat of the working group was chief specialist Teija Palko, MEAE; senior adviser Martti Myllylä, MEAE; manager relations, microelectronics and quantum, Jenny Hasu, VTT, and senior academic coordinator Minna Günes of Aalto University, invited by the working group.",
+    "entity_1": "meae",
+    "h1": "government",
+    "entity_2": "aalto university",
+    "h2": "academia",
+    "entities": [
+      {
+        "entity": "meae",
+        "helix": "government"
+      },
+      {
+        "entity": "aalto university",
+        "helix": "academia"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "AUS_2023_National Quantum Strategy",
+    "country": "AUS",
+    "sentence": "Credit: Chris Lew, University of Melbourne\nCase study: Transitioning from the lab to future applications\n(<https://www.phasorinnovation.com/>)Phasor Innovation is an Australian quantum business specialising in:",
+    "entity_1": "university of melbourne",
+    "h1": "academia",
+    "entity_2": "chris lew",
+    "h2": "government",
+    "entities": [
+      {
+        "entity": "university of melbourne",
+        "helix": "academia"
+      },
+      {
+        "entity": "chris lew",
+        "helix": "government"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
+    "country": "CZE",
+    "sentence": "As part of the LUMI AI Factory consortium, of which the Czech Republic is a member through VŠBTUO, the LUMI-IQ quantum computer will be purchased as an experimental AI platform, which will also be accessible to research communities from across the Czech Republic.",
+    "entity_1": "všbtuo",
+    "h1": "academia",
+    "entity_2": "lumi ai factory",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "všbtuo",
+        "helix": "academia"
+      },
+      {
+        "entity": "lumi ai factory",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
+    "country": "CAN",
+    "sentence": "The IQC is part of a quantum ecosystem that extends from discovery research in advanced physics at the Perimeter Institute to advanced development and commercialization at the Quantum Valley Ideas Lab.",
+    "entity_1": "iqc",
+    "h1": "academia",
+    "entity_2": "quantum valley ideas lab",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "iqc",
+        "helix": "academia"
+      },
+      {
+        "entity": "quantum valley ideas lab",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
+    "country": "CZE",
+    "sentence": "In 2025, VŠB-TUO became a member of the European association QuIC (Quantum Industry Consortium), which seeks to accelerate the development of quantum technologies and strengthen Europe's role as a global leader in this dynamically developing field.",
+    "entity_1": "všb-tuo",
+    "h1": "academia",
+    "entity_2": "quic",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "všb-tuo",
+        "helix": "academia"
+      },
+      {
+        "entity": "quic",
+        "helix": "intermediary"
       }
     ],
     "true_relation": "",
@@ -1514,82 +926,82 @@
   {
     "doc_id": "AUS_2023_National Quantum Strategy",
     "country": "AUS",
-    "sentence": "Australian expertise was broadly represented and participants in the development of these guidelines came from CSIRO, the Sydney Quantum Academy, the Australian National University, the University of Western Australia, The University of Queensland, Monash University and Quintessence Labs.",
-    "entity_1": "australian national university",
-    "h1": "academia",
-    "entity_2": "monash university",
-    "h2": "government",
-    "entities": [
-      {
-        "entity": "australian national university",
-        "helix": "academia"
-      },
-      {
-        "entity": "monash university",
-        "helix": "government"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
-    "country": "CZE",
-    "sentence": "In 2025, VŠB-TUO became a member of the European association QuIC (Quantum Industry Consortium), which seeks to accelerate the development of quantum technologies and strengthen Europe's role as a global leader in this dynamically developing field.",
-    "entity_1": "všb-tuo",
-    "h1": "academia",
-    "entity_2": "quic",
-    "h2": "intermediary",
-    "entities": [
-      {
-        "entity": "všb-tuo",
-        "helix": "academia"
-      },
-      {
-        "entity": "quic",
-        "helix": "intermediary"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Australian expertise was broadly represented and participants in the development of these guidelines came from CSIRO, the Sydney Quantum Academy, the Australian National University, the University of Western Australia, The University of Queensland, Monash University and Quintessence Labs.",
+    "sentence": "Credit: Sydney Quantum Academy",
     "entity_1": "sydney quantum academy",
     "h1": "intermediary",
-    "entity_2": "university of western australia",
-    "h2": "government",
+    "entity_2": "uts",
+    "h2": "academia",
     "entities": [
       {
         "entity": "sydney quantum academy",
         "helix": "intermediary"
       },
       {
-        "entity": "university of western australia",
-        "helix": "government"
+        "entity": "uts",
+        "helix": "academia"
       }
     ],
     "true_relation": "",
     "true_space": ""
   },
   {
-    "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
-    "country": "CZE",
-    "sentence": "As part of the LUMI AI Factory consortium, of which the Czech Republic is a member through VŠBTUO, the LUMI-IQ quantum computer will be purchased as an experimental AI platform, which will also be accessible to research communities from across the Czech Republic.",
-    "entity_1": "všbtuo",
-    "h1": "academia",
-    "entity_2": "lumi ai factory",
+    "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
+    "country": "ESP",
+    "sentence": "The Autonomous Community of Aragon has also begun to develop relevant capabilities in the field of quantum technologies, highlighting the role of the Aragon Supercomputing Centre (CESAR).",
+    "entity_1": "autonomous community of aragon",
+    "h1": "government",
+    "entity_2": "aragon supercomputing centre",
     "h2": "intermediary",
     "entities": [
       {
-        "entity": "všbtuo",
-        "helix": "academia"
+        "entity": "autonomous community of aragon",
+        "helix": "government"
       },
       {
-        "entity": "lumi ai factory",
+        "entity": "aragon supercomputing centre",
         "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "DNK_2023_Strategy for Quantum Technology Part 2",
+    "country": "DNK",
+    "sentence": "In this way, Quantum House Denmark will also support the exchange of knowledge between existing research institutions and stakeholders such as DTU, KU, NATO's Defense Innovation Accelerator for the North Atlantic (DIANA), Danish Quantum Community and others, and act as an important physical framework for the development of the Danish quantum industry consisting of start-ups, established",
+    "entity_1": "nato",
+    "h1": "government",
+    "entity_2": "quantum house denmark",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "nato",
+        "helix": "government"
+      },
+      {
+        "entity": "quantum house denmark",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "DNK_2023_Strategy for Quantum Technology Part 2",
+    "country": "DNK",
+    "sentence": "• Danske Bank and Energinet – participate in field experiments with quantum communication",
+    "entity_1": "danske bank",
+    "h1": "industry",
+    "entity_2": "energinet",
+    "h2": "government",
+    "entities": [
+      {
+        "entity": "danske bank",
+        "helix": "industry"
+      },
+      {
+        "entity": "energinet",
+        "helix": "government"
       }
     ],
     "true_relation": "",
@@ -1598,19 +1010,19 @@
   {
     "doc_id": "AUS_2023_National Quantum Strategy",
     "country": "AUS",
-    "sentence": "AQC is based on research in superconducting microwave devices, which was supported by the Australian Research Council through Future Fellowships and the (<https://equs.org/>)ARC Centre of Excellence in Engineered (<https://equs.org/>)Quantum Systems (EQUS).",
-    "entity_1": "aqc",
-    "h1": "industry",
-    "entity_2": "arc centre of excellence in engineered",
-    "h2": "academia",
+    "sentence": "As part of the Quantum Pioneers Program, the (<https://pawsey.org.au/>)Pawsey (<https://pawsey.org.au/>)Supercomputing Research Centre partnered with (<https://quantumbrilliance.com/>)Quantum Brilliance to enable industry and research teams to explore the possibilities of edge quantum computing.",
+    "entity_1": "pawsey",
+    "h1": "intermediary",
+    "entity_2": "quantum brilliance",
+    "h2": "industry",
     "entities": [
       {
-        "entity": "aqc",
-        "helix": "industry"
+        "entity": "pawsey",
+        "helix": "intermediary"
       },
       {
-        "entity": "arc centre of excellence in engineered",
-        "helix": "academia"
+        "entity": "quantum brilliance",
+        "helix": "industry"
       }
     ],
     "true_relation": "",
@@ -1619,10 +1031,10 @@
   {
     "doc_id": "CAN_2022_Canada's National Quantum Strategy",
     "country": "CAN",
-    "sentence": "MiQro Innovation Collaborative Center\nQuantum Algorithms Institute\nThe Government of Canada has supplemented the CFREF, NSERC and CFI supports with additional investments, including in key components of the Quebec and British Columbia quantum ecosystems, such as the (C2MI) and the .",
+    "sentence": "Talent will be supported through programming at NSERC and Mitacs:",
     "entity_1": "nserc",
     "h1": "government",
-    "entity_2": "miqro innovation collaborative center quantum algorithms institute",
+    "entity_2": "mitacs",
     "h2": "intermediary",
     "entities": [
       {
@@ -1630,7 +1042,175 @@
         "helix": "government"
       },
       {
-        "entity": "miqro innovation collaborative center quantum algorithms institute",
+        "entity": "mitacs",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035",
+    "country": "FIN",
+    "sentence": "Tesi acts as a minority investor and it also aims to channel private and EU funding to Finnish companies and develop the Finnish fund field to a larger size so that Finnish management companies can scale deep technology companies to a larger scale in the future.",
+    "entity_1": "eu",
+    "h1": "government",
+    "entity_2": "tesi",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "eu",
+        "helix": "government"
+      },
+      {
+        "entity": "tesi",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
+    "country": "CZE",
+    "sentence": "Other important institutions include CEITEC, ELI ERIC, and the CESNET interest group, whose members include public and state universities and the Czech Academy of Sciences.",
+    "entity_1": "czech academy of sciences",
+    "h1": "government",
+    "entity_2": "cesnet",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "czech academy of sciences",
+        "helix": "government"
+      },
+      {
+        "entity": "cesnet",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "AUS_2023_National Quantum Strategy",
+    "country": "AUS",
+    "sentence": "Q‑CTRL took on the challenge and has focused on getting Transport for NSW quantum ready via a combination of quantum professional services and quantum control infrastructure software development.",
+    "entity_1": "transport for nsw",
+    "h1": "government",
+    "entity_2": "q‑ctrl",
+    "h2": "industry",
+    "entities": [
+      {
+        "entity": "transport for nsw",
+        "helix": "government"
+      },
+      {
+        "entity": "q‑ctrl",
+        "helix": "industry"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
+    "country": "CZE",
+    "sentence": "Description of the measure\nPrepare call for support participation Czech experts and representatives in the decision-making structures of the quantum ecosystem within the EU, NATO (STO, DIANA, NIF), thereby ensuring greater influence for the Czech Republic and enabling more intensive involvement in the European and international quantum ecosystem.",
+    "entity_1": "eu",
+    "h1": "government",
+    "entity_2": "diana",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "eu",
+        "helix": "government"
+      },
+      {
+        "entity": "diana",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "AUS_2023_National Quantum Strategy",
+    "country": "AUS",
+    "sentence": "SQA provides scholarships, career development and a thriving local community of young researchers.",
+    "entity_1": "government",
+    "h1": "government",
+    "entity_2": "sqa",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "government",
+        "helix": "government"
+      },
+      {
+        "entity": "sqa",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
+    "country": "CZE",
+    "sentence": "Announced government investments in billions of USD 1816141210864 1.1 1 0.7 0.5 0.3 0.3 0.2 0.1 2 0 1.8 3.7 8.4 15.3 Announced public investment in quantum technologies Chin a European Union United States Japan Canada India Russia Israel Taiwan Singapor e Australia Others Country\nFigure 1: Announced public investment in quantum technologies (Source: McKinsey & Company, 2022)",
+    "entity_1": "european union",
+    "h1": "government",
+    "entity_2": "mckinsey & company",
+    "h2": "industry",
+    "entities": [
+      {
+        "entity": "european union",
+        "helix": "government"
+      },
+      {
+        "entity": "mckinsey & company",
+        "helix": "industry"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "DNK_2023_Strategy for Quantum Technology Part 2",
+    "country": "DNK",
+    "sentence": "• As part of a research project financed by the Novo Nordisk Foundation, an IBM Quantum Hub is being established at the University of Copenhagen, so that selected researchers, including from businesses, can learn how to program a quantum computer.",
+    "entity_1": "novo nordisk foundation",
+    "h1": "civil_society",
+    "entity_2": "ibm",
+    "h2": "industry",
+    "entities": [
+      {
+        "entity": "novo nordisk foundation",
+        "helix": "civil_society"
+      },
+      {
+        "entity": "ibm",
+        "helix": "industry"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
+    "country": "ESP",
+    "sentence": "Advanced scientific infrastructure (CSIC, BSC-CNS, ICFO, IAC, etc.).",
+    "entity_1": "csic",
+    "h1": "government",
+    "entity_2": "icfo",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "csic",
+        "helix": "government"
+      },
+      {
+        "entity": "icfo",
         "helix": "intermediary"
       }
     ],
@@ -1640,18 +1220,18 @@
   {
     "doc_id": "CAN_2022_Canada's National Quantum Strategy",
     "country": "CAN",
-    "sentence": "• In 2021, the Government of Ontario announced an investment of $24 million over two years to the Perimeter Institute for Theoretical Physics, which has received nearly $137 million in provincial funding since it was founded in 1999.",
-    "entity_1": "government of ontario",
+    "sentence": "Over the past 10 years, the Government of Canada has provided $51 million to support the IQC.",
+    "entity_1": "government of canada",
     "h1": "government",
-    "entity_2": "perimeter institute for theoretical physics",
+    "entity_2": "iqc",
     "h2": "academia",
     "entities": [
       {
-        "entity": "government of ontario",
+        "entity": "government of canada",
         "helix": "government"
       },
       {
-        "entity": "perimeter institute for theoretical physics",
+        "entity": "iqc",
         "helix": "academia"
       }
     ],
@@ -1659,21 +1239,21 @@
     "true_space": ""
   },
   {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "•\nAnyon Systems\nThe Government of Quebec has invested heavily in quantum technologies, committing nearly $200 million in R&D for quantum projects from 2019 to 2026, including $131 million for the creation of a Sherbrooke Quantum Innovation Zone centred at the Institut Quantique de Sherbrooke.",
-    "entity_1": "anyon systems",
-    "h1": "industry",
-    "entity_2": "institut quantique de sherbrooke",
-    "h2": "academia",
+    "doc_id": "DNK_2023_Strategy for Quantum Technology Part 2",
+    "country": "DNK",
+    "sentence": "In connection with Quantum House Denmark, the government, in collaboration with the Novo Nordisk Foundation, will establish a national test center which not only caters for research and innovation at the public research institutions, but also takes into account the needs of startups and small companies including, among others, spin-outs from universities.",
+    "entity_1": "novo nordisk foundation",
+    "h1": "civil_society",
+    "entity_2": "quantum house denmark",
+    "h2": "intermediary",
     "entities": [
       {
-        "entity": "anyon systems",
-        "helix": "industry"
+        "entity": "novo nordisk foundation",
+        "helix": "civil_society"
       },
       {
-        "entity": "institut quantique de sherbrooke",
-        "helix": "academia"
+        "entity": "quantum house denmark",
+        "helix": "intermediary"
       }
     ],
     "true_relation": "",
@@ -1695,216 +1275,6 @@
       {
         "entity": "natural sciences and engineering research council of canada",
         "helix": "government"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Credit: Chris Lew, University of Melbourne\nCase study: Transitioning from the lab to future applications\n(<https://www.phasorinnovation.com/>)Phasor Innovation is an Australian quantum business specialising in:",
-    "entity_1": "university of melbourne",
-    "h1": "academia",
-    "entity_2": "phasor innovation",
-    "h2": "industry",
-    "entities": [
-      {
-        "entity": "university of melbourne",
-        "helix": "academia"
-      },
-      {
-        "entity": "phasor innovation",
-        "helix": "industry"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "AQC’s establishment faced 2 major challenges commonly experienced by other start‑ups seeking to commercialise university research.",
-    "entity_1": "aqc",
-    "h1": "industry",
-    "entity_2": "equs",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "aqc",
-        "helix": "industry"
-      },
-      {
-        "entity": "equs",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "• ISED’s ($14 million over seven years)\nGlobal Innovation Clusters",
-    "entity_1": "ised",
-    "h1": "government",
-    "entity_2": "global innovation clusters",
-    "h2": "intermediary",
-    "entities": [
-      {
-        "entity": "ised",
-        "helix": "government"
-      },
-      {
-        "entity": "global innovation clusters",
-        "helix": "intermediary"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
-    "country": "CZE",
-    "sentence": "CTU also cooperates with seventeen other partners from EU universities and companies on the European Photonic Quantum Computer (Epique) project funded by the European Commission.",
-    "entity_1": "eu",
-    "h1": "government",
-    "entity_2": "ctu",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "eu",
-        "helix": "government"
-      },
-      {
-        "entity": "ctu",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Case study: Addressing transportation challenges\nIn 2020 Transport for NSW approached (<https://q-ctrl.com>)Q‑CTRL with an interest in understanding how they – as an organisation with heavy computational challenges – could put quantum computing to work for them.",
-    "entity_1": "transport for nsw",
-    "h1": "government",
-    "entity_2": "q‑ctrl",
-    "h2": "industry",
-    "entities": [
-      {
-        "entity": "transport for nsw",
-        "helix": "government"
-      },
-      {
-        "entity": "q‑ctrl",
-        "helix": "industry"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Australian expertise was broadly represented and participants in the development of these guidelines came from CSIRO, the Sydney Quantum Academy, the Australian National University, the University of Western Australia, The University of Queensland, Monash University and Quintessence Labs.",
-    "entity_1": "sydney quantum academy",
-    "h1": "intermediary",
-    "entity_2": "the university of queensland",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "sydney quantum academy",
-        "helix": "intermediary"
-      },
-      {
-        "entity": "the university of queensland",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "•\nAnyon Systems\nThe Government of Quebec has invested heavily in quantum technologies, committing nearly $200 million in R&D for quantum projects from 2019 to 2026, including $131 million for the creation of a Sherbrooke Quantum Innovation Zone centred at the Institut Quantique de Sherbrooke.",
-    "entity_1": "anyon systems",
-    "h1": "industry",
-    "entity_2": "government of quebec",
-    "h2": "government",
-    "entities": [
-      {
-        "entity": "anyon systems",
-        "helix": "industry"
-      },
-      {
-        "entity": "government of quebec",
-        "helix": "government"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "The(<https://www.uts.edu.au/research/centre-quantum-software-and-information/news/quantum-benchmarking-accelerate-quantum-development>) University of Technology Sydney’s Centre for Quantum Software and Information (QSI) is participating in the US Defense Advanced Research Projects Agency’s (DARPA) (<https://www.darpa.mil/program/quantum-benchmarking>)quantum benchmarking program.",
-    "entity_1": "qsi",
-    "h1": "academia",
-    "entity_2": "us defense advanced research projects agency",
-    "h2": "government",
-    "entities": [
-      {
-        "entity": "qsi",
-        "helix": "academia"
-      },
-      {
-        "entity": "us defense advanced research projects agency",
-        "helix": "government"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "MiQro Innovation Collaborative Center\nQuantum Algorithms Institute\nThe Government of Canada has supplemented the CFREF, NSERC and CFI supports with additional investments, including in key components of the Quebec and British Columbia quantum ecosystems, such as the (C2MI) and the .",
-    "entity_1": "cfi",
-    "h1": "intermediary",
-    "entity_2": "nserc",
-    "h2": "government",
-    "entities": [
-      {
-        "entity": "cfi",
-        "helix": "intermediary"
-      },
-      {
-        "entity": "nserc",
-        "helix": "government"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
-    "country": "CAN",
-    "sentence": "To strengthen the talent pipeline, the Government of Canada will work with Mitacs to facilitate integrated work placements for foreign experts in Canadian industry.",
-    "entity_1": "government of canada",
-    "h1": "government",
-    "entity_2": "mitacs",
-    "h2": "intermediary",
-    "entities": [
-      {
-        "entity": "government of canada",
-        "helix": "government"
-      },
-      {
-        "entity": "mitacs",
-        "helix": "intermediary"
       }
     ],
     "true_relation": "",
@@ -1953,21 +1323,588 @@
     "true_space": ""
   },
   {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Credit: Chris Lew, University of Melbourne\nCase study: Transitioning from the lab to future applications\n(<https://www.phasorinnovation.com/>)Phasor Innovation is an Australian quantum business specialising in:",
-    "entity_1": "university of melbourne",
-    "h1": "academia",
-    "entity_2": "chris lew",
+    "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
+    "country": "ESP",
+    "sentence": "In addition, TECHRIOJA will host one of the nodes of the National Supercomputing Centre associated with the Industrias del Español data centre.",
+    "entity_1": "techrioja",
+    "h1": "intermediary",
+    "entity_2": "national supercomputing centre",
     "h2": "government",
     "entities": [
       {
-        "entity": "university of melbourne",
+        "entity": "techrioja",
+        "helix": "intermediary"
+      },
+      {
+        "entity": "national supercomputing centre",
+        "helix": "government"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
+    "country": "ESP",
+    "sentence": "103\nEntity\nEuropean Innovation Council and European Innovation Council Fund\nAdditional\nSupport for start-ups and projects with venture capital and grants.",
+    "entity_1": "european innovation council",
+    "h1": "government",
+    "entity_2": "european innovation council fund",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "european innovation council",
+        "helix": "government"
+      },
+      {
+        "entity": "european innovation council fund",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "AUS_2023_National Quantum Strategy",
+    "country": "AUS",
+    "sentence": "Case study: Quantum clocks and sensors supporting our defence force\nBuilding on their strong relationship with the Institute for Photonics and Advanced Sensing (IPAS) at the University of Adelaide, (<https://quantxlabs.com/>)QuantX Labs is developing groundbreaking quantum sensors and clocks.",
+    "entity_1": "institute for photonics and advanced sensing",
+    "h1": "academia",
+    "entity_2": "quantx labs",
+    "h2": "industry",
+    "entities": [
+      {
+        "entity": "institute for photonics and advanced sensing",
         "helix": "academia"
       },
       {
-        "entity": "chris lew",
+        "entity": "quantx labs",
+        "helix": "industry"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
+    "country": "ESP",
+    "sentence": "This meeting space could also have an international plan that includes, in addition to the above, the organisation of and participation in quantum technology standardisation processes, such as ETSI in quantum key distribution, ISO/IEC JTC 1/WG 14 in quantum computing, or standardisation at the International Bureau of Weights and Measures (BIPM) or the International System (SI) of units for quantum sensors, or ETSI and EURAMET for quantum metrology.",
+    "entity_1": "etsi",
+    "h1": "intermediary",
+    "entity_2": "international bureau of weights and measures",
+    "h2": "government",
+    "entities": [
+      {
+        "entity": "etsi",
+        "helix": "intermediary"
+      },
+      {
+        "entity": "international bureau of weights and measures",
         "helix": "government"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
+    "country": "CZE",
+    "sentence": "Important research centers include Palacký University in Olomouc, particularly the Department of Optics at the Faculty of Science, the joint optics laboratory of Palacký University and the Institute of Physics of the Czech Academy of Sciences, and the Czech Institute of Research and Advanced Technologies.",
+    "entity_1": "czech academy of sciences",
+    "h1": "government",
+    "entity_2": "palacký university",
+    "h2": "academia",
+    "entities": [
+      {
+        "entity": "czech academy of sciences",
+        "helix": "government"
+      },
+      {
+        "entity": "palacký university",
+        "helix": "academia"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035",
+    "country": "FIN",
+    "sentence": "Finland also has several other high-level shared infrastructures that provide an excellent framework for research and development activities in the sector, strengthening Finland’s position as a promoter of innovations, for example: OtaNano18, which includes Micronova cleanrooms, a cold laboratory and a nanomicroscopy centre, as well as the research infrastructures of the University of Jyväskylä’s Nanoscience Centre19 and the FinnLight infrastructure focusing on photonics20.",
+    "entity_1": "otanano18",
+    "h1": "academia",
+    "entity_2": "finnlight",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "otanano18",
+        "helix": "academia"
+      },
+      {
+        "entity": "finnlight",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "AUS_2023_National Quantum Strategy",
+    "country": "AUS",
+    "sentence": "Australian expertise was broadly represented and participants in the development of these guidelines came from CSIRO, the Sydney Quantum Academy, the Australian National University, the University of Western Australia, The University of Queensland, Monash University and Quintessence Labs.",
+    "entity_1": "csiro",
+    "h1": "government",
+    "entity_2": "sydney quantum academy",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "csiro",
+        "helix": "government"
+      },
+      {
+        "entity": "sydney quantum academy",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "AUS_2023_National Quantum Strategy",
+    "country": "AUS",
+    "sentence": "Today, graduates of those programs are leading projects around the world, in industry and academia, from IBM to Alphabet, from the University of Bristol to Stanford University in the United States.",
+    "entity_1": "ibm",
+    "h1": "industry",
+    "entity_2": "university of bristol",
+    "h2": "academia",
+    "entities": [
+      {
+        "entity": "ibm",
+        "helix": "industry"
+      },
+      {
+        "entity": "university of bristol",
+        "helix": "academia"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035",
+    "country": "FIN",
+    "sentence": "Responsible actors:\nMEAE, CSC, VTT, MEC,\nFiQCI\nA mechanism is in place to allocate quantum machine time, and a funding model that supports this, to higher education institutions, research institutes and companies.",
+    "entity_1": "meae",
+    "h1": "government",
+    "entity_2": "csc",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "meae",
+        "helix": "government"
+      },
+      {
+        "entity": "csc",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "DNK_2023_Strategy for Quantum Technology Part 1",
+    "country": "DNK",
+    "sentence": "Furthermore, Denmark has established a national cooperation on digital research infrastructure by setting up Danish e-Infrastructure Cooperation (DeiC), which is a cooperation of Denmark's eight universities and the Danish Agency for Higher Education and Science.",
+    "entity_1": "danish agency for higher education and science",
+    "h1": "government",
+    "entity_2": "danish e-infrastructure cooperation",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "danish agency for higher education and science",
+        "helix": "government"
+      },
+      {
+        "entity": "danish e-infrastructure cooperation",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035",
+    "country": "FIN",
+    "sentence": "Source: Business Finland, Tesi, Finnish Quantum Agenda (2023).",
+    "entity_1": "business finland",
+    "h1": "government",
+    "entity_2": "tesi",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "business finland",
+        "helix": "government"
+      },
+      {
+        "entity": "tesi",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
+    "country": "CZE",
+    "sentence": "The working group consists of a representative of the Minister for Science, Research and Innovation or a member of the government who acts as chair of the RVVI, or a representative appointed by them, a representative of the Ministry of Industry and Trade, a representative of the Ministry of Education, Youth and Sports, a representative of the Ministry of Finance, a representative of the Ministry of Foreign Affairs, a representative of the Ministry of Defense, a representative of the Ministry of the Interior, a representative of the National Cyber and Information Security Agency, a representative of the Technology Agency of the Czech Republic, a representative of the Grant Agency of the Czech Republic, a representative of the Czech Rectors' Conference, a representative of the Czech Academy of Sciences, a representative of the Confederation of Industry and Transport, a representative of the Chamber of Commerce, and a representative of the trade unions.",
+    "entity_1": "national cyber and information security agency",
+    "h1": "government",
+    "entity_2": "czech rectors' conference",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "national cyber and information security agency",
+        "helix": "government"
+      },
+      {
+        "entity": "czech rectors' conference",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035",
+    "country": "FIN",
+    "sentence": "These quantum computers of VTT and Aalto University operate as part of Finland’s Quantum Computing (FiQCI) infrastructure17.",
+    "entity_1": "aalto university",
+    "h1": "academia",
+    "entity_2": "vtt",
+    "h2": "government",
+    "entities": [
+      {
+        "entity": "aalto university",
+        "helix": "academia"
+      },
+      {
+        "entity": "vtt",
+        "helix": "government"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
+    "country": "CAN",
+    "sentence": "MiQro Innovation Collaborative Center\nQuantum Algorithms Institute\nThe Government of Canada has supplemented the CFREF, NSERC and CFI supports with additional investments, including in key components of the Quebec and British Columbia quantum ecosystems, such as the (C2MI) and the .",
+    "entity_1": "government of canada",
+    "h1": "government",
+    "entity_2": "cfi",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "government of canada",
+        "helix": "government"
+      },
+      {
+        "entity": "cfi",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
+    "country": "ESP",
+    "sentence": "Spain already has an ecosystem of excellence in this field, backed by leading institutions such as the Spanish National Research Council (CSIC), the Institute of Photonic Sciences (ICFO), the Canary Islands Institute of Astrophysics (IAC) and the National Institute of Aerospace Technology (INTA), which have made significant advances in photonics, quantum cryptography and quantum key distribution (QKD).",
+    "entity_1": "csic",
+    "h1": "government",
+    "entity_2": "institute of photonic sciences",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "csic",
+        "helix": "government"
+      },
+      {
+        "entity": "institute of photonic sciences",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035",
+    "country": "FIN",
+    "sentence": "Members of the working group: chief specialist Kaisa Kopra, MTC1; senior ministerial adviser Laura Taajamaa, MEC2; senior specialist Kalle Piirainen, MD3; chief specialist Hanna-Miina Sihvonen, MI4; senior specialist Henri Loukusa, MFA5; deputy cyber security director Stefan Lee (until 31 December 2024)/cyber security director\nRauli Paananen (1 January–14 March 2025), Office of the State Cyber Security Director; head of quantum computing campaign Outi Keski-Äijö, Business Finland; chief science specialist Anna Kalliomäki (until 31 December 2024)/director Jussi Vauhkonen (1 January–14 March 2025), Research Council of Finland; director of the Finnish Quantum Flagship Peter Liljeroth, Aalto University; development manager Mikael Johansson, CSC – Finnish IT Centre for Science Ltd; research manager Pekka Pursula, VTT; head of external relations Elsi-Mari Borrelli, Algorithmiq Oy; government relations manager Milja Kalliosaari, IQM Oy; chief science officer Janne Lehtinen, SemiQon Technologies Oy and director Ville Peltola, Technology Industries of Finland.",
+    "entity_1": "kaisa kopra",
+    "h1": "government",
+    "entity_2": "peter liljeroth",
+    "h2": "academia",
+    "entities": [
+      {
+        "entity": "kaisa kopra",
+        "helix": "government"
+      },
+      {
+        "entity": "peter liljeroth",
+        "helix": "academia"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
+    "country": "ESP",
+    "sentence": "Likewise, the University of Murcia, Carlos III University in Madrid and Arquimea Research in Tenerife have carried out important studies in this field.",
+    "entity_1": "university of murcia",
+    "h1": "academia",
+    "entity_2": "arquimea research",
+    "h2": "industry",
+    "entities": [
+      {
+        "entity": "university of murcia",
+        "helix": "academia"
+      },
+      {
+        "entity": "arquimea research",
+        "helix": "industry"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
+    "country": "ESP",
+    "sentence": "Noteworthy examples include the Defence Innovation Accelerator for the North Atlantic (DIANA), the Transatlantic Quantum Community (TQC), focused on the application of quantum technologies in defence, and the Science and Technology Organisation26 (STO), which promotes the exchange of information between key players and has recently created a specific Science and Technology Panel (TSI) to cover quantum technologies, among others.",
+    "entity_1": "defence innovation accelerator for the north atlantic",
+    "h1": "intermediary",
+    "entity_2": "tqc",
+    "h2": "government",
+    "entities": [
+      {
+        "entity": "defence innovation accelerator for the north atlantic",
+        "helix": "intermediary"
+      },
+      {
+        "entity": "tqc",
+        "helix": "government"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
+    "country": "CAN",
+    "sentence": "•\nAnyon Systems\nThe Government of Quebec has invested heavily in quantum technologies, committing nearly $200 million in R&D for quantum projects from 2019 to 2026, including $131 million for the creation of a Sherbrooke Quantum Innovation Zone centred at the Institut Quantique de Sherbrooke.",
+    "entity_1": "anyon systems",
+    "h1": "industry",
+    "entity_2": "government of quebec",
+    "h2": "government",
+    "entities": [
+      {
+        "entity": "anyon systems",
+        "helix": "industry"
+      },
+      {
+        "entity": "government of quebec",
+        "helix": "government"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
+    "country": "CAN",
+    "sentence": "Under the NQS, the Government of Canada is providing $40 million over six years to Mitacs to support the attraction, training, retention and deployment of highly qualified personnel in quantum science and technology through internship experiences and professional skills development for post-secondary students, recent graduates and postdoctoral fellows.",
+    "entity_1": "government of canada",
+    "h1": "government",
+    "entity_2": "mitacs",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "government of canada",
+        "helix": "government"
+      },
+      {
+        "entity": "mitacs",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035",
+    "country": "FIN",
+    "sentence": "The five-qubit Helmi-quantum computer as well as VTT Q50 have been connected to the common European LUMI supercomputer operated by CSC.16 The procurement of the machines has been carried out through an innovation partnership with a Finnish company manufacturing quantum computers, IQM.",
+    "entity_1": "csc.16",
+    "h1": "intermediary",
+    "entity_2": "iqm",
+    "h2": "industry",
+    "entities": [
+      {
+        "entity": "csc.16",
+        "helix": "intermediary"
+      },
+      {
+        "entity": "iqm",
+        "helix": "industry"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035",
+    "country": "FIN",
+    "sentence": "Measure\n2027 milestone\n2030 milestone\nResearch and development of products and services based on quantum key distribution\n(QKD)\nResponsible parties: MEAE,\nMTC\nOther actors: VTT, Traficom, CSC\nThe part applicable to the authorities’ networks\nResponsible actors: MD, MI,\nMF\nOther actors: Erillisverkot\nThe quantum industry RDI programme supports (see measure 5.5) research on QKD solutions and strengthens high­quality research in the field in Finland.",
+    "entity_1": "meae",
+    "h1": "government",
+    "entity_2": "csc",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "meae",
+        "helix": "government"
+      },
+      {
+        "entity": "csc",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "AUS_2023_National Quantum Strategy",
+    "country": "AUS",
+    "sentence": "The(<https://www.uts.edu.au/research/centre-quantum-software-and-information/news/quantum-benchmarking-accelerate-quantum-development>) University of Technology Sydney’s Centre for Quantum Software and Information (QSI) is participating in the US Defense Advanced Research Projects Agency’s (DARPA) (<https://www.darpa.mil/program/quantum-benchmarking>)quantum benchmarking program.",
+    "entity_1": "university of technology sydney",
+    "h1": "academia",
+    "entity_2": "us defense advanced research projects agency",
+    "h2": "government",
+    "entities": [
+      {
+        "entity": "university of technology sydney",
+        "helix": "academia"
+      },
+      {
+        "entity": "us defense advanced research projects agency",
+        "helix": "government"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "DNK_2023_Strategy for Quantum Technology Part 1",
+    "country": "DNK",
+    "sentence": "The main contributors have been the Danish National Research Foundation, the Innovation Fund Denmark, the Villum Foundation, the Carlsberg Foundation and, increasingly, the Novo Nordisk Foundation.",
+    "entity_1": "danish national research foundation",
+    "h1": "government",
+    "entity_2": "innovation fund denmark",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "danish national research foundation",
+        "helix": "government"
+      },
+      {
+        "entity": "innovation fund denmark",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
+    "country": "ESP",
+    "sentence": "In the context of random number generation, the CMB-Bell experiment, led by the IAC and the University of Vienna, will continue.",
+    "entity_1": "iac",
+    "h1": "intermediary",
+    "entity_2": "university of vienna",
+    "h2": "academia",
+    "entities": [
+      {
+        "entity": "iac",
+        "helix": "intermediary"
+      },
+      {
+        "entity": "university of vienna",
+        "helix": "academia"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "AUS_2023_National Quantum Strategy",
+    "country": "AUS",
+    "sentence": "AQC’s establishment faced 2 major challenges commonly experienced by other start‑ups seeking to commercialise university research.",
+    "entity_1": "aqc",
+    "h1": "industry",
+    "entity_2": "equs",
+    "h2": "academia",
+    "entities": [
+      {
+        "entity": "aqc",
+        "helix": "industry"
+      },
+      {
+        "entity": "equs",
+        "helix": "academia"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
+    "country": "ESP",
+    "sentence": "Finally, companies that are leaders in their sector will be supported in presenting their projects to obtain funding through the European Tech Champions Initiative (ETCI) of the European Investment Fund via the Official Credit Institute (ICO).",
+    "entity_1": "european investment fund",
+    "h1": "intermediary",
+    "entity_2": "official credit institute",
+    "h2": "government",
+    "entities": [
+      {
+        "entity": "european investment fund",
+        "helix": "intermediary"
+      },
+      {
+        "entity": "official credit institute",
+        "helix": "government"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035",
+    "country": "FIN",
+    "sentence": "Source: VTT Technical Research Centre of Finland\nQuantum Technology Ecosystem in Finland RTOs • Applied research Universities • Education • Basic research Companies • • BusinessQ OtaNano incl.",
+    "entity_1": "vtt technical research centre of finland",
+    "h1": "government",
+    "entity_2": "otanano",
+    "h2": "academia",
+    "entities": [
+      {
+        "entity": "vtt technical research centre of finland",
+        "helix": "government"
+      },
+      {
+        "entity": "otanano",
+        "helix": "academia"
       }
     ],
     "true_relation": "",
@@ -1997,10 +1934,10 @@
   {
     "doc_id": "AUS_2023_National Quantum Strategy",
     "country": "AUS",
-    "sentence": "Then she heard about (<https://sydneyquantum.org/>)Sydney Quantum Academy (SQA), a partnership between 4 universities – Macquarie University, University of Sydney, UNSW and UTS – backed by the NSW Government.",
+    "sentence": "Ritika Bazzad, Sydney Quantum Academy PhD scholarship recipient at UTS.",
     "entity_1": "sydney quantum academy",
     "h1": "intermediary",
-    "entity_2": "uts",
+    "entity_2": "ritika bazzad",
     "h2": "academia",
     "entities": [
       {
@@ -2008,70 +1945,7 @@
         "helix": "intermediary"
       },
       {
-        "entity": "uts",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
-    "country": "CZE",
-    "sentence": "In 2025, VŠB-TUO became a member of the European association QuIC (Quantum Industry Consortium), which seeks to accelerate the development of quantum technologies and strengthen Europe's role as a global leader in this dynamically developing field.",
-    "entity_1": "všb-tuo",
-    "h1": "academia",
-    "entity_2": "quantum industry consortium",
-    "h2": "intermediary",
-    "entities": [
-      {
-        "entity": "všb-tuo",
-        "helix": "academia"
-      },
-      {
-        "entity": "quantum industry consortium",
-        "helix": "intermediary"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "Today, graduates of those programs are leading projects around the world, in industry and academia, from IBM to Alphabet, from the University of Bristol to Stanford University in the United States.",
-    "entity_1": "alphabet",
-    "h1": "industry",
-    "entity_2": "stanford university",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "alphabet",
-        "helix": "industry"
-      },
-      {
-        "entity": "stanford university",
-        "helix": "academia"
-      }
-    ],
-    "true_relation": "",
-    "true_space": ""
-  },
-  {
-    "doc_id": "AUS_2023_National Quantum Strategy",
-    "country": "AUS",
-    "sentence": "QSI researchers are developing the Bench‑Q software suite for this purpose with the University of Southern California, University of Texas at Dallas, Aalto University in Finland, and Zapata Computing.",
-    "entity_1": "zapata computing",
-    "h1": "industry",
-    "entity_2": "university of southern california",
-    "h2": "academia",
-    "entities": [
-      {
-        "entity": "zapata computing",
-        "helix": "industry"
-      },
-      {
-        "entity": "university of southern california",
+        "entity": "ritika bazzad",
         "helix": "academia"
       }
     ],
@@ -2081,18 +1955,144 @@
   {
     "doc_id": "CAN_2022_Canada's National Quantum Strategy",
     "country": "CAN",
-    "sentence": "These investments also include $87.5 million for access to state-of-the-art quantum computing infrastructure, including a quantum computing hub at the Institut Quantique (IBM Quantum Hub), an IBM discovery accelerator, a quantum computer from IBM Q System One, located in Quebec, as well as a quantum computer from for public research.",
-    "entity_1": "institut quantique",
-    "h1": "academia",
-    "entity_2": "ibm quantum hub",
+    "sentence": "$40-million contribution to Vancouver-based D-Wave\nBusiness Development Bank of Canada (BDC) launched the $200 million Deep Tech Venture Fund\nNord Quantique\nIn addition, the Government of Canada has supported large projects and national innovation ecosystems through the SIF, including a in March 2021.",
+    "entity_1": "government of canada",
+    "h1": "government",
+    "entity_2": "bdc",
     "h2": "intermediary",
     "entities": [
       {
-        "entity": "institut quantique",
-        "helix": "academia"
+        "entity": "government of canada",
+        "helix": "government"
       },
       {
-        "entity": "ibm quantum hub",
+        "entity": "bdc",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
+    "country": "CAN",
+    "sentence": "• In 2021, the Government of Ontario announced an investment of $24 million over two years to the Perimeter Institute for Theoretical Physics, which has received nearly $137 million in provincial funding since it was founded in 1999.",
+    "entity_1": "government of ontario",
+    "h1": "government",
+    "entity_2": "perimeter institute for theoretical physics",
+    "h2": "academia",
+    "entities": [
+      {
+        "entity": "government of ontario",
+        "helix": "government"
+      },
+      {
+        "entity": "perimeter institute for theoretical physics",
+        "helix": "academia"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "CAN_2022_Canada's National Quantum Strategy",
+    "country": "CAN",
+    "sentence": "• ISED’s ($14 million over seven years)\nGlobal Innovation Clusters",
+    "entity_1": "ised",
+    "h1": "government",
+    "entity_2": "global innovation clusters",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "ised",
+        "helix": "government"
+      },
+      {
+        "entity": "global innovation clusters",
+        "helix": "intermediary"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035",
+    "country": "FIN",
+    "sentence": "Responsible parties: Ministry of Economic Affairs and Employment\nOther actors: VTT, Aalto University, CSC, FiQCI\nEffective error mitigation algorithms demonstrate the potential for quantum advantage in the first application areas.",
+    "entity_1": "ministry of economic affairs and employment",
+    "h1": "government",
+    "entity_2": "aalto university",
+    "h2": "academia",
+    "entities": [
+      {
+        "entity": "ministry of economic affairs and employment",
+        "helix": "government"
+      },
+      {
+        "entity": "aalto university",
+        "helix": "academia"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "AUS_2023_National Quantum Strategy",
+    "country": "AUS",
+    "sentence": "Q‑CTRL worked with Transport for NSW to improve the performance of quantum algorithms relevant to transport optimisation problems and charted a path to quantum advantage.",
+    "entity_1": "transport for nsw",
+    "h1": "government",
+    "entity_2": "q‑ctrl",
+    "h2": "industry",
+    "entities": [
+      {
+        "entity": "transport for nsw",
+        "helix": "government"
+      },
+      {
+        "entity": "q‑ctrl",
+        "helix": "industry"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "AUS_2023_National Quantum Strategy",
+    "country": "AUS",
+    "sentence": "Case study: Inspiring students\nAs part of the (<https://education.nsw.gov.au/teaching-and-learning/curriculum/stem/stem-2022-on-demand>)STEM 2022 on demand series, Sydney Quantum Academy (SQA) and the NSW Department of Education created a video showing teachers how to light a path to a quantum career for their students.",
+    "entity_1": "sydney quantum academy",
+    "h1": "intermediary",
+    "entity_2": "nsw department of education",
+    "h2": "government",
+    "entities": [
+      {
+        "entity": "sydney quantum academy",
+        "helix": "intermediary"
+      },
+      {
+        "entity": "nsw department of education",
+        "helix": "government"
+      }
+    ],
+    "true_relation": "",
+    "true_space": ""
+  },
+  {
+    "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
+    "country": "ESP",
+    "sentence": "(**) Up to €200 million from the PERTE Chip Fund will be prioritised for auxiliary and enabling companies in the semiconductor industry for their transition to quantum or hybrid technologies, at least €400 million from the PERTE Chip and Next Tech Funds for direct investments in quantum companies or co-investments with venture capital and corporate funds, through the Spanish Society for Technological Transformation (SETT) of the Ministry for Digital Transformation and Public Administration.",
+    "entity_1": "ministry for digital transformation and public administration",
+    "h1": "government",
+    "entity_2": "spanish society for technological transformation",
+    "h2": "intermediary",
+    "entities": [
+      {
+        "entity": "ministry for digital transformation and public administration",
+        "helix": "government"
+      },
+      {
+        "entity": "spanish society for technological transformation",
         "helix": "intermediary"
       }
     ],
