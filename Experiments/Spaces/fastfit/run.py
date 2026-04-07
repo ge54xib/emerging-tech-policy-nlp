@@ -101,29 +101,33 @@ def main() -> None:
 
     model = trainer.train()
 
-    # Robust id2label: prefer model.config, fallback to sorted unique train labels
-    import numpy as np, torch
-    _cfg_map = getattr(model.config, "id2label", None)
-    if _cfg_map and isinstance(list(_cfg_map.values())[0], str):
-        id2label = {int(k): v for k, v in _cfg_map.items()}
-    else:
-        id2label = {i: lbl for i, lbl in enumerate(sorted(set(train_labels)))}
+    # FastFit inference: cosine similarity between query and label embeddings
+    # FastFitTrainable wraps an encoder; we use it directly for embedding
+    import numpy as np, torch, torch.nn.functional as F
     tokenizer = trainer.tokenizer
-    model.eval()
-    device = next(model.parameters()).device
-    all_logits = []
-    for i in range(0, len(eval_texts), 32):
-        batch = tokenizer(
-            eval_texts[i:i+32],
-            padding=True, truncation=True, max_length=128,
-            return_tensors="pt"
-        ).to(device)
-        with torch.no_grad():
-            out = model(**batch)
-        logits = out.logits if hasattr(out, "logits") else out[0]
-        all_logits.append(logits.cpu().numpy())
-    pred_indices = np.concatenate(all_logits, axis=0).argmax(axis=-1)
-    pred_labels  = [id2label.get(int(i), str(i)) for i in pred_indices]
+    # Get the underlying encoder (RoBERTa) from inside FastFitTrainable
+    encoder = getattr(model, "encoder", model)
+    encoder.eval()
+    device = next(encoder.parameters()).device
+
+    def _encode(texts):
+        all_embs = []
+        for j in range(0, len(texts), 32):
+            inputs = tokenizer(
+                texts[j:j+32], padding=True, truncation=True,
+                max_length=128, return_tensors="pt"
+            ).to(device)
+            with torch.no_grad():
+                out = encoder(**inputs)
+            emb = out.last_hidden_state[:, 0] if hasattr(out, "last_hidden_state") else out[0][:, 0]
+            all_embs.append(F.normalize(emb, dim=-1).cpu().numpy())
+        return np.concatenate(all_embs, axis=0)
+
+    unique_labels = sorted(set(train_labels))
+    label_embs = _encode(unique_labels)           # (n_labels, D)
+    query_embs = _encode(eval_texts)              # (n_eval,   D)
+    sims       = query_embs @ label_embs.T        # (n_eval,   n_labels)
+    pred_labels = [unique_labels[int(i)] for i in sims.argmax(axis=-1)]
 
     predictions = [
         {"id": i, "true": t, "pred": p, "text": eval_texts[i]}
