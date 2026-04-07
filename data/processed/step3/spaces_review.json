@@ -11,7 +11,8 @@
         "helix": "government"
       }
     ],
-    "space": ""
+    "space": "no_explicit_space",
+    "confidence": "high"
   },
   {
     "doc_id": "GER_2023_Quantum Technologies Conceptual Framework Programme",
@@ -33,7 +34,8 @@
         "helix": "government"
       }
     ],
-    "space": ""
+    "space": "consensus_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "ITA_2025_ITALIAN STRATEGY FOR QUANTUM TECHNOLOGIES",
@@ -51,7 +53,8 @@
         "helix": "government"
       }
     ],
-    "space": ""
+    "space": "consensus_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "GER_2018_Quantum technologies – from basic research to market",
@@ -73,7 +76,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "IRL_2023_Quantum 2030",
@@ -99,7 +103,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "GER_2018_Quantum technologies – from basic research to market",
@@ -117,7 +122,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "innovation_space",
+    "confidence": "high"
   },
   {
     "doc_id": "JPN_2023_Strategy of Quantum Future Industry Development",
@@ -143,7 +149,8 @@
         "helix": "government"
       }
     ],
-    "space": ""
+    "space": "no_explicit_space",
+    "confidence": "high"
   },
   {
     "doc_id": "KOR_2023_Koreas National Quantum Strategy",
@@ -161,7 +168,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "no_explicit_space",
+    "confidence": "high"
   },
   {
     "doc_id": "GER_2018_Quantum technologies – from basic research to market",
@@ -179,7 +187,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "consensus_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
@@ -213,7 +222,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -243,7 +253,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
@@ -281,7 +292,8 @@
         "helix": "government"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "SVN_2025_Strategy for the Development of Quantum Technologies",
@@ -331,7 +343,8 @@
         "helix": "government"
       }
     ],
-    "space": ""
+    "space": "no_explicit_space",
+    "confidence": "high"
   },
   {
     "doc_id": "ITA_2025_ITALIAN STRATEGY FOR QUANTUM TECHNOLOGIES",
@@ -357,7 +370,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "consensus_space",
+    "confidence": "high"
   },
   {
     "doc_id": "GER_2018_Quantum technologies – from basic research to market",
@@ -379,7 +393,8 @@
         "helix": "industry"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "JPN_2024_Promotion Measures for the Development of Quantum Industries",
@@ -397,7 +412,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "innovation_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -427,7 +443,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -453,7 +470,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "no_explicit_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "USA_2018_NATIONAL STRATEGIC OVERVIEW FOR QUANTUM INFORMATION SCIENCE",
@@ -471,7 +489,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "JPN_2024_Promotion Measures for the Development of Quantum Industries",
@@ -497,7 +516,8 @@
         "helix": "government"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "JPN_2024_Promotion Measures for the Development of Quantum Industries",
@@ -515,7 +535,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "innovation_space",
+    "confidence": "high"
   },
   {
     "doc_id": "ITA_2025_ITALIAN STRATEGY FOR QUANTUM TECHNOLOGIES",
@@ -537,7 +558,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "consensus_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "IRL_2023_Quantum 2030",
@@ -563,7 +585,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "GER_2023_Quantum Technologies Conceptual Framework Programme",
@@ -597,7 +620,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "GER_2023_Quantum Technologies Conceptual Framework Programme",
@@ -615,7 +639,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "GBR_2023_National Quantum Strategy",
@@ -641,7 +666,8 @@
         "helix": "industry"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "GER_2018_Quantum technologies – from basic research to market",
@@ -655,7 +681,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "no_explicit_space",
+    "confidence": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -677,7 +704,8 @@
         "helix": "intermediary"
       }
     ],
-    "space": ""
+    "space": "public_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "AUS_2023_National Quantum Strategy",
@@ -695,7 +723,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "no_explicit_space",
+    "confidence": "high"
   },
   {
     "doc_id": "AUS_2023_National Quantum Strategy",
@@ -709,7 +738,8 @@
         "helix": "industry"
       }
     ],
-    "space": ""
+    "space": "innovation_space",
+    "confidence": "high"
   },
   {
     "doc_id": "GER_2023_Quantum Technologies Conceptual Framework Programme",
@@ -727,7 +757,8 @@
         "helix": "industry"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "IRL_2023_Quantum 2030",
@@ -745,7 +776,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -763,7 +795,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -781,7 +814,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -807,7 +841,8 @@
         "helix": "intermediary"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "SVN_2025_Strategy for the Development of Quantum Technologies",
@@ -825,7 +860,8 @@
         "helix": "intermediary"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "KOR_2023_Koreas National Quantum Strategy",
@@ -847,7 +883,8 @@
         "helix": "government"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -865,7 +902,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "public_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -919,7 +957,8 @@
         "helix": "intermediary"
       }
     ],
-    "space": ""
+    "space": "no_explicit_space",
+    "confidence": "high"
   },
   {
     "doc_id": "KOR_2023_Koreas National Quantum Strategy",
@@ -937,7 +976,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "innovation_space",
+    "confidence": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -955,7 +995,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -977,7 +1018,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "consensus_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -1007,7 +1049,8 @@
         "helix": "intermediary"
       }
     ],
-    "space": ""
+    "space": "public_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
@@ -1025,7 +1068,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -1043,7 +1087,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "innovation_space",
+    "confidence": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -1061,7 +1106,8 @@
         "helix": "industry"
       }
     ],
-    "space": ""
+    "space": "innovation_space",
+    "confidence": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -1083,7 +1129,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "innovation_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "GER_2023_Quantum Technologies Conceptual Framework Programme",
@@ -1097,7 +1144,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -1115,7 +1163,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -1137,7 +1186,8 @@
         "helix": "industry"
       }
     ],
-    "space": ""
+    "space": "innovation_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
@@ -1159,7 +1209,8 @@
         "helix": "civil_society"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "FRA_2021_National Strategy on Quantum Technologies",
@@ -1189,7 +1240,8 @@
         "helix": "government"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "AUS_2023_National Quantum Strategy",
@@ -1207,7 +1259,8 @@
         "helix": "intermediary"
       }
     ],
-    "space": ""
+    "space": "innovation_space",
+    "confidence": "high"
   },
   {
     "doc_id": "CAN_2022_Canada's National Quantum Strategy",
@@ -1225,7 +1278,8 @@
         "helix": "intermediary"
       }
     ],
-    "space": ""
+    "space": "consensus_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035",
@@ -1243,7 +1297,8 @@
         "helix": "intermediary"
       }
     ],
-    "space": ""
+    "space": "no_explicit_space",
+    "confidence": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -1261,7 +1316,8 @@
         "helix": "government"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -1279,7 +1335,8 @@
         "helix": "government"
       }
     ],
-    "space": ""
+    "space": "innovation_space",
+    "confidence": "high"
   },
   {
     "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
@@ -1317,7 +1374,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "GER_2023_Quantum Technologies Conceptual Framework Programme",
@@ -1335,7 +1393,8 @@
         "helix": "government"
       }
     ],
-    "space": ""
+    "space": "consensus_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "FRA_2021_National Strategy on Quantum Technologies",
@@ -1357,7 +1416,8 @@
         "helix": "government"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
@@ -1379,7 +1439,8 @@
         "helix": "intermediary"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
@@ -1413,7 +1474,8 @@
         "helix": "intermediary"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "CAN_2022_Canada's National Quantum Strategy",
@@ -1431,7 +1493,8 @@
         "helix": "intermediary"
       }
     ],
-    "space": ""
+    "space": "consensus_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
@@ -1449,7 +1512,8 @@
         "helix": "intermediary"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "AUS_2023_National Quantum Strategy",
@@ -1463,7 +1527,8 @@
         "helix": "intermediary"
       }
     ],
-    "space": ""
+    "space": "public_space",
+    "confidence": "high"
   },
   {
     "doc_id": "CAN_2022_Canada's National Quantum Strategy",
@@ -1481,7 +1546,8 @@
         "helix": "intermediary"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
@@ -1511,7 +1577,8 @@
         "helix": "government"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "GER_2023_Quantum Technologies Conceptual Framework Programme",
@@ -1537,7 +1604,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "no_explicit_space",
+    "confidence": "high"
   },
   {
     "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
@@ -1555,7 +1623,8 @@
         "helix": "intermediary"
       }
     ],
-    "space": ""
+    "space": "consensus_space",
+    "confidence": "high"
   },
   {
     "doc_id": "GER_2018_Quantum technologies – from basic research to market",
@@ -1577,7 +1646,8 @@
         "helix": "intermediary"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "FRA_2021_National Strategy on Quantum Technologies",
@@ -1615,7 +1685,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "innovation_space",
+    "confidence": "high"
   },
   {
     "doc_id": "ITA_2025_ITALIAN STRATEGY FOR QUANTUM TECHNOLOGIES",
@@ -1633,7 +1704,8 @@
         "helix": "intermediary"
       }
     ],
-    "space": ""
+    "space": "innovation_space",
+    "confidence": "high"
   },
   {
     "doc_id": "USA_2022_QUANTUM INFORMATION SCIENCE AND TECHNOLOGY WORKFORCE DEVELOPMENT NATIONAL STRATEGIC PLAN",
@@ -1659,7 +1731,8 @@
         "helix": "intermediary"
       }
     ],
-    "space": ""
+    "space": "public_space",
+    "confidence": "high"
   },
   {
     "doc_id": "FRA_2021_National Strategy on Quantum Technologies",
@@ -1693,7 +1766,8 @@
         "helix": "government"
       }
     ],
-    "space": ""
+    "space": "consensus_space",
+    "confidence": "high"
   },
   {
     "doc_id": "GER_2023_Quantum Technologies Conceptual Framework Programme",
@@ -1719,7 +1793,8 @@
         "helix": "intermediary"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "CAN_2022_Canada's National Quantum Strategy",
@@ -1737,7 +1812,8 @@
         "helix": "civil_society"
       }
     ],
-    "space": ""
+    "space": "innovation_space",
+    "confidence": "high"
   },
   {
     "doc_id": "GBR_2023_National Quantum Strategy",
@@ -1795,7 +1871,8 @@
         "helix": "intermediary"
       }
     ],
-    "space": ""
+    "space": "consensus_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "GBR_2023_National Quantum Strategy",
@@ -1825,7 +1902,8 @@
         "helix": "civil_society"
       }
     ],
-    "space": ""
+    "space": "consensus_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "GBR_2023_National Quantum Strategy",
@@ -1851,7 +1929,8 @@
         "helix": "government"
       }
     ],
-    "space": ""
+    "space": "consensus_space",
+    "confidence": "high"
   },
   {
     "doc_id": "DNK_2023_Strategy for Quantum Technology Part 2",
@@ -1869,7 +1948,8 @@
         "helix": "civil_society"
       }
     ],
-    "space": ""
+    "space": "knowledge_space",
+    "confidence": "high"
   },
   {
     "doc_id": "GBR_2023_National Quantum Strategy",
@@ -1887,7 +1967,8 @@
         "helix": "civil_society"
       }
     ],
-    "space": ""
+    "space": "consensus_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "GBR_2023_National Quantum Strategy",
@@ -1905,7 +1986,8 @@
         "helix": "civil_society"
       }
     ],
-    "space": ""
+    "space": "public_space",
+    "confidence": "medium"
   },
   {
     "doc_id": "DNK_2023_Strategy for Quantum Technology Part 2",
@@ -1927,7 +2009,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "public_space",
+    "confidence": "high"
   },
   {
     "doc_id": "GBR_2023_National Quantum Strategy",
@@ -1945,7 +2028,8 @@
         "helix": "intermediary"
       }
     ],
-    "space": ""
+    "space": "no_explicit_space",
+    "confidence": "high"
   },
   {
     "doc_id": "GBR_2023_National Quantum Strategy",
@@ -1979,7 +2063,8 @@
         "helix": "intermediary"
       }
     ],
-    "space": ""
+    "space": "consensus_space",
+    "confidence": "high"
   },
   {
     "doc_id": "SVN_2025_Strategy for the Development of Quantum Technologies",
@@ -1997,7 +2082,8 @@
         "helix": "intermediary"
       }
     ],
-    "space": ""
+    "space": "consensus_space",
+    "confidence": "high"
   },
   {
     "doc_id": "GBR_2023_National Quantum Strategy",
@@ -2027,7 +2113,8 @@
         "helix": "civil_society"
       }
     ],
-    "space": ""
+    "space": "consensus_space",
+    "confidence": "high"
   },
   {
     "doc_id": "SVN_2025_Strategy for the Development of Quantum Technologies",
@@ -2045,7 +2132,8 @@
         "helix": "academia"
       }
     ],
-    "space": ""
+    "space": "public_space",
+    "confidence": "high"
   },
   {
     "doc_id": "GBR_2023_National Quantum Strategy",
@@ -2099,7 +2187,8 @@
         "helix": "government"
       }
     ],
-    "space": ""
+    "space": "public_space",
+    "confidence": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -2117,7 +2206,8 @@
         "helix": "civil_society"
       }
     ],
-    "space": ""
+    "space": "no_explicit_space",
+    "confidence": "high"
   },
   {
     "doc_id": "GBR_2023_National Quantum Strategy",
@@ -2135,7 +2225,8 @@
         "helix": "civil_society"
       }
     ],
-    "space": ""
+    "space": "innovation_space",
+    "confidence": "high"
   },
   {
     "doc_id": "DNK_2023_Strategy for Quantum Technology Part 1",
@@ -2177,6 +2268,7 @@
         "helix": "civil_society"
       }
     ],
-    "space": ""
+    "space": "no_explicit_space",
+    "confidence": "high"
   }
 ]

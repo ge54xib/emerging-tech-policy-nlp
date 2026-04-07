@@ -20,7 +20,9 @@
       }
     ],
     "true_relation": "collaborative_leadership",
-    "true_space": "innovation_space"
+    "true_space": "innovation_space",
+    "confidence_space": "medium",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -43,7 +45,9 @@
       }
     ],
     "true_relation": "technology_transfer",
-    "true_space": "innovation_space"
+    "true_space": "innovation_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -66,7 +70,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "innovation_space"
+    "true_space": "innovation_space",
+    "confidence_space": "medium",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "GER_2018_Quantum technologies – from basic research to market",
@@ -89,7 +95,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "AUS_2023_National Quantum Strategy",
@@ -112,7 +120,9 @@
       }
     ],
     "true_relation": "collaborative_leadership",
-    "true_space": "innovation_space"
+    "true_space": "innovation_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "IRL_2023_Quantum 2030",
@@ -135,7 +145,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "JPN_2024_Promotion Measures for the Development of Quantum Industries",
@@ -158,7 +170,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "ITA_2025_ITALIAN STRATEGY FOR QUANTUM TECHNOLOGIES",
@@ -181,7 +195,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "GER_2023_Quantum Technologies Conceptual Framework Programme",
@@ -204,7 +220,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -227,7 +245,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "medium",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "SVN_2025_Strategy for the Development of Quantum Technologies",
@@ -250,7 +270,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "no_explicit_space"
+    "true_space": "no_explicit_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -273,7 +295,9 @@
       }
     ],
     "true_relation": "collaborative_leadership",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "medium",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "GER_2023_Quantum Technologies Conceptual Framework Programme",
@@ -296,7 +320,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -319,7 +345,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -342,7 +370,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "GER_2023_Quantum Technologies Conceptual Framework Programme",
@@ -365,7 +395,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "medium",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -388,7 +420,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "no_explicit_space"
+    "true_space": "no_explicit_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -411,7 +445,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "FRA_2021_National Strategy on Quantum Technologies",
@@ -434,7 +470,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "medium",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -457,7 +495,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "AUS_2023_National Quantum Strategy",
@@ -480,7 +520,9 @@
       }
     ],
     "true_relation": "collaborative_leadership",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035",
@@ -502,8 +544,10 @@
         "helix": "academia"
       }
     ],
-    "true_relation": "collaborative_leadership",
-    "true_space": "no_explicit_space"
+    "true_relation": "networking",
+    "true_space": "no_explicit_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "GER_2018_Quantum technologies – from basic research to market",
@@ -526,7 +570,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "medium",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -549,7 +595,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "medium",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "AUS_2023_National Quantum Strategy",
@@ -572,7 +620,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "GBR_2023_National Quantum Strategy",
@@ -595,7 +645,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -618,7 +670,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "DNK_2023_Strategy for Quantum Technology Part 1",
@@ -641,7 +695,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "medium",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -664,7 +720,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "no_explicit_space"
+    "true_space": "no_explicit_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -687,7 +745,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "medium",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "GER_2018_Quantum technologies – from basic research to market",
@@ -710,7 +770,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "AUS_2023_National Quantum Strategy",
@@ -733,7 +795,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
@@ -756,7 +820,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -779,7 +845,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "innovation_space",
+    "confidence_space": "medium",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "FRA_2021_National Strategy on Quantum Technologies",
@@ -802,7 +870,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "SVN_2025_Strategy for the Development of Quantum Technologies",
@@ -825,7 +895,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "AUS_2023_National Quantum Strategy",
@@ -848,7 +920,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "GER_2018_Quantum technologies – from basic research to market",
@@ -871,7 +945,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
@@ -894,7 +970,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "GBR_2023_National Quantum Strategy",
@@ -917,7 +995,9 @@
       }
     ],
     "true_relation": "technology_transfer",
-    "true_space": "innovation_space"
+    "true_space": "innovation_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "DNK_2023_Strategy for Quantum Technology Part 1",
@@ -940,7 +1020,9 @@
       }
     ],
     "true_relation": "collaborative_leadership",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "GER_2018_Quantum technologies – from basic research to market",
@@ -963,7 +1045,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "AUS_2023_National Quantum Strategy",
@@ -985,8 +1069,10 @@
         "helix": "industry"
       }
     ],
-    "true_relation": "collaborative_leadership",
-    "true_space": "innovation_space"
+    "true_relation": "technology_transfer",
+    "true_space": "innovation_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "ITA_2025_ITALIAN STRATEGY FOR QUANTUM TECHNOLOGIES",
@@ -1009,7 +1095,9 @@
       }
     ],
     "true_relation": "collaborative_leadership",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -1032,7 +1120,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -1055,7 +1145,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "no_explicit_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "medium",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -1078,7 +1170,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "GBR_2023_National Quantum Strategy",
@@ -1101,7 +1195,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "JPN_2024_Promotion Measures for the Development of Quantum Industries",
@@ -1124,7 +1220,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "medium",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "GBR_2023_National Quantum Strategy",
@@ -1147,7 +1245,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "IRL_2023_Quantum 2030",
@@ -1170,7 +1270,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "innovation_space"
+    "true_space": "innovation_space",
+    "confidence_space": "medium",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "GBR_2023_National Quantum Strategy",
@@ -1193,7 +1295,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -1216,7 +1320,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -1239,7 +1345,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "AUS_2023_National Quantum Strategy",
@@ -1262,7 +1370,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -1284,8 +1394,10 @@
         "helix": "industry"
       }
     ],
-    "true_relation": "collaborative_leadership",
-    "true_space": "innovation_space"
+    "true_relation": "networking",
+    "true_space": "innovation_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "IRL_2023_Quantum 2030",
@@ -1308,7 +1420,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "innovation_space"
+    "true_space": "innovation_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "ITA_2025_ITALIAN STRATEGY FOR QUANTUM TECHNOLOGIES",
@@ -1331,7 +1445,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "medium",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "AUS_2023_National Quantum Strategy",
@@ -1354,7 +1470,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
@@ -1377,7 +1495,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "medium",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -1400,7 +1520,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -1423,7 +1545,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "no_explicit_space"
+    "true_space": "no_explicit_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "IRL_2023_Quantum 2030",
@@ -1446,7 +1570,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "USA_2022_QUANTUM INFORMATION SCIENCE AND TECHNOLOGY WORKFORCE DEVELOPMENT NATIONAL STRATEGIC PLAN",
@@ -1469,7 +1595,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -1492,7 +1620,9 @@
       }
     ],
     "true_relation": "collaborative_leadership",
-    "true_space": "no_explicit_space"
+    "true_space": "no_explicit_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "GER_2023_Quantum Technologies Conceptual Framework Programme",
@@ -1515,7 +1645,9 @@
       }
     ],
     "true_relation": "technology_transfer",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "GER_2023_Quantum Technologies Conceptual Framework Programme",
@@ -1538,7 +1670,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "no_explicit_space"
+    "true_space": "no_explicit_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain",
@@ -1561,7 +1695,9 @@
       }
     ],
     "true_relation": "collaborative_leadership",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -1584,7 +1720,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "innovation_space"
+    "true_space": "innovation_space",
+    "confidence_space": "medium",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "ITA_2025_ITALIAN STRATEGY FOR QUANTUM TECHNOLOGIES",
@@ -1607,7 +1745,9 @@
       }
     ],
     "true_relation": "collaborative_leadership",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "medium",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -1630,7 +1770,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "innovation_space"
+    "true_space": "innovation_space",
+    "confidence_space": "medium",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "DNK_2023_Strategy for Quantum Technology Part 2",
@@ -1653,7 +1795,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "medium",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -1676,7 +1820,9 @@
       }
     ],
     "true_relation": "technology_transfer",
-    "true_space": "innovation_space"
+    "true_space": "innovation_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035",
@@ -1699,7 +1845,9 @@
       }
     ],
     "true_relation": "collaborative_leadership",
-    "true_space": "innovation_space"
+    "true_space": "innovation_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "GER_2018_Quantum technologies – from basic research to market",
@@ -1722,7 +1870,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "CZE_2025_National Strategy for Quantum Technologies",
@@ -1745,7 +1895,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "innovation_space"
+    "true_space": "consensus_space",
+    "confidence_space": "medium",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "IRL_2023_Quantum 2030",
@@ -1768,7 +1920,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "GBR_2023_National Quantum Strategy",
@@ -1791,7 +1945,9 @@
       }
     ],
     "true_relation": "technology_transfer",
-    "true_space": "innovation_space"
+    "true_space": "innovation_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "GBR_2023_National Quantum Strategy",
@@ -1814,7 +1970,9 @@
       }
     ],
     "true_relation": "technology_transfer",
-    "true_space": "no_explicit_space"
+    "true_space": "no_explicit_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "JPN_2022_Vision of Quantum Future Society",
@@ -1837,7 +1995,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "innovation_space"
+    "true_space": "innovation_space",
+    "confidence_relation": "medium",
+    "confidence_space": "high"
   },
   {
     "doc_id": "GBR_2023_National Quantum Strategy",
@@ -1860,7 +2020,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "IRL_2023_Quantum 2030",
@@ -1883,7 +2045,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "no_explicit_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "medium",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "GER_2018_Quantum technologies – from basic research to market",
@@ -1906,7 +2070,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "IRL_2023_Quantum 2030",
@@ -1929,7 +2095,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "no_explicit_space"
+    "true_space": "no_explicit_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "ITA_2025_ITALIAN STRATEGY FOR QUANTUM TECHNOLOGIES",
@@ -1952,7 +2120,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "medium",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "GER_2018_Quantum technologies – from basic research to market",
@@ -1975,7 +2145,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "no_explicit_space"
+    "true_space": "no_explicit_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "GBR_2023_National Quantum Strategy",
@@ -1998,7 +2170,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "DNK_2023_Strategy for Quantum Technology Part 2",
@@ -2021,7 +2195,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "innovation_space"
+    "true_space": "innovation_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -2044,7 +2220,9 @@
       }
     ],
     "true_relation": "no_explicit_relation",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "medium",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "AUS_2023_National Quantum Strategy",
@@ -2067,7 +2245,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "medium",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035",
@@ -2090,7 +2270,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "innovation_space"
+    "true_space": "innovation_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "SVN_2025_Strategy for the Development of Quantum Technologies",
@@ -2112,8 +2294,10 @@
         "helix": "academia"
       }
     ],
-    "true_relation": "no_explicit_relation",
-    "true_space": "knowledge_space"
+    "true_relation": "networking",
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -2136,7 +2320,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "GER_2023_Quantum Technologies Conceptual Framework Programme",
@@ -2159,7 +2345,9 @@
       }
     ],
     "true_relation": "technology_transfer",
-    "true_space": "knowledge_space"
+    "true_space": "consensus_space",
+    "confidence_space": "medium",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -2182,7 +2370,9 @@
       }
     ],
     "true_relation": "collaborative_leadership",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "IRL_2023_Quantum 2030",
@@ -2205,7 +2395,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "medium",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -2228,7 +2420,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "medium",
+    "confidence_relation": "medium"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -2251,7 +2445,9 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "consensus_space"
+    "true_space": "consensus_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "SVN_2025_Strategy for the Development of Quantum Technologies",
@@ -2274,7 +2470,9 @@
       }
     ],
     "true_relation": "collaborative_leadership",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "medium",
+    "confidence_relation": "high"
   },
   {
     "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY",
@@ -2297,6 +2495,8 @@
       }
     ],
     "true_relation": "networking",
-    "true_space": "knowledge_space"
+    "true_space": "knowledge_space",
+    "confidence_space": "high",
+    "confidence_relation": "high"
   }
 ]
