@@ -97,7 +97,7 @@ def run() -> None:
     print(">>> ANALYSIS: TH Spaces (NLI-predicted)")
 
     # Prefer SetFit > NLI (cooccurrence_nli.jsonl) > cooccurrence.jsonl (base step 3)
-    setfit_path = config.STEP3_DIR / "cooccurrence_setfit.jsonl"
+    setfit_path = config.STEP3_DIR / "setfit" / "cooccurrence_setfit.jsonl"
     nli_path = config.FILE_COOCCURRENCE_NLI
     use_setfit = setfit_path.exists()
     if use_setfit:

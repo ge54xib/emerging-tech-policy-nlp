@@ -5,3 +5,5 @@ __pycache__/
 data/raw/
 data/processed/step0/json/
 data/processed/step0/structured/checkpoints/
+data/processed/step3/setfit/setfit_spaces_model/model.safetensors
+data/processed/step3/setfit/setfit_spaces_model/model_head.pkl

@@ -78,11 +78,11 @@ def _review_path() -> Path:
 
 
 def _model_path() -> Path:
-    return _config().STEP3_DIR / "setfit_spaces_model"
+    return _config().STEP3_DIR / "setfit" / "setfit_spaces_model"
 
 
 def _output_path() -> Path:
-    return _config().STEP3_DIR / "cooccurrence_setfit.jsonl"
+    return _config().STEP3_DIR / "setfit" / "cooccurrence_setfit.jsonl"
 
 
 # ---------------------------------------------------------------------------
