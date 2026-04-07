@@ -1,10 +1,9 @@
 """Step 3: Co-occurrence extraction (sentence splitting + entity pair building).
 
 Builds entity co-occurrence pairs at sentence level from NER mentions and
-helix classifications. Does NOT run NLI scoring — that is Step 4.
+helix classifications. NLI scoring is a separate experiment (see Experiments/).
 
 Output: cooccurrence.jsonl with sentence text and entity pair metadata.
-NLI fields (relation_type, all_scores, th_space, etc.) are added by Step 4.
 
 Builds on:
 - Step 1 NER mentions (mention spans)
@@ -429,7 +428,7 @@ def run() -> None:
         config.FILE_ALIGNMENT.open("a", encoding="utf-8") as alignment_out,
         config.FILE_COOCCURRENCE.open("a", encoding="utf-8") as coocc_out,
     ):
-        for doc_name in tqdm(sorted(new_texts), desc="NLI Relation Extraction"):
+        for doc_name in tqdm(sorted(new_texts), desc="Co-occurrence Extraction"):
             text = new_texts[doc_name]
             paragraphs = _paragraph_spans(text)
             country, year = _country_year_from_doc_name(doc_name)
