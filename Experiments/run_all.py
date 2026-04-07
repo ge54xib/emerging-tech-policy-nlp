@@ -26,7 +26,6 @@ RELATION_EXPERIMENTS = [
     "Relation/gollie_guidelines",
     "Relation/self_consistency",
     "Relation/gpt_re",
-    "Relation/glirel",
 ]
 
 SPACES_EXPERIMENTS = [
