@@ -1,0 +1,44 @@
+{
+  "accuracy": 0.49,
+  "macro_f1": 0.171,
+  "weighted_f1": 0.4216,
+  "per_class": {
+    "technology_transfer": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 3
+    },
+    "collaboration_conflict_moderation": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "collaborative_leadership": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 13
+    },
+    "substitution": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "networking": {
+      "precision": 0.7143,
+      "recall": 0.3125,
+      "f1": 0.4348,
+      "support": 48
+    },
+    "no_explicit_relation": {
+      "precision": 0.4304,
+      "recall": 0.9444,
+      "f1": 0.5913,
+      "support": 36
+    }
+  },
+  "n_eval": 100
+}

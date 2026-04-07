@@ -1,0 +1,602 @@
+[
+  {
+    "id": 0,
+    "true": "innovation_space",
+    "pred": "public_space",
+    "text": "Case study: Addressing transportation challenges\nIn 2020 Transport for NSW approached (<https://q-ctrl.com>)Q‑CTRL with an interest in understanding how they – as an organisation with heavy computational challenges – could put quantum computing to work for them."
+  },
+  {
+    "id": 1,
+    "true": "innovation_space",
+    "pred": "innovation_space",
+    "text": "Microsoft's announcement of plans to set up its own lab on the Delft campus has led to establishment of the Q-Campus44 , an initiative intended to extend the local QuTech ecosystem with companies, startups and shared facilities."
+  },
+  {
+    "id": 2,
+    "true": "innovation_space",
+    "pred": "knowledge_space",
+    "text": "Meanwhile, NASA has partnered with Canadian company D-Wave (which makes a particular type of quantum computer) with the aim of optimizing baggage and storage onboard spacecraft."
+  },
+  {
+    "id": 3,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "Bundeswehr University Munich has taken an initial step here by signing a cooperation agreement with IBM for the foundation of an IBM quantum hub at the CODE Cyber Defence research institute in Munich."
+  },
+  {
+    "id": 4,
+    "true": "innovation_space",
+    "pred": "public_space",
+    "text": "Q‑CTRL took on the challenge and has focused on getting Transport for NSW quantum ready via a combination of quantum professional services and quantum control infrastructure software development."
+  },
+  {
+    "id": 5,
+    "true": "consensus_space",
+    "pred": "public_space",
+    "text": "Since 2018, researchers from Maynooth University and Tyndall National Institute have participated in the flagship’s Quantum Community Network board, which forms an integral part of the flagship governance."
+  },
+  {
+    "id": 6,
+    "true": "consensus_space",
+    "pred": "consensus_space",
+    "text": "However, as mentioned earlier, international standardization activities within ISO/IEC are accelerating, necessitating close monitoring of activities across various standardization bodies."
+  },
+  {
+    "id": 7,
+    "true": "consensus_space",
+    "pred": "consensus_space",
+    "text": "Every 24 months, an independent impact assessment will be commissioned from third parties (e.g., ANVUR, CNR, mixed academia-industry groups) to verify:"
+  },
+  {
+    "id": 8,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "The Leibniz Institutes are involved on a national level in relevant projects, such as the Excellence Hub ct.qmat – Complexity and Topology in Quantum Matter, the Research Factory Microelectronics Germany, QSolid – Quantum Computers in the Solid State, MUNIQC-SC – Munich Quantum Valley Quantum Computer Demonstrators – Superconducting Qubits, or QYRO – Nuclear Spin-based quantum gyroscopes for new space applications, as well as an international level, for example, at BECCAL – Bose-Einstein Condensate and Cold Atom Lab on the International Space Station."
+  },
+  {
+    "id": 9,
+    "true": "knowledge_space",
+    "pred": "consensus_space",
+    "text": "Such companies have large-scale national and international collaborative arrangements with knowledge institutions, including QuTech and QT/e; indeed, QuTech has also received support from IARPA."
+  },
+  {
+    "id": 10,
+    "true": "no_explicit_space",
+    "pred": "no_explicit_space",
+    "text": "The project partners are UL FMF (coordinator), IJS, Beyond Semiconductor, UVTP, and URSIV."
+  },
+  {
+    "id": 11,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "Under the supervision of TBM and in collaboration with QuTech, Delft University of Technology published a magazine in June describing the social impact of the quantum internet.47\nLeiden University In Leiden, research into quantum applications is being done on the aQa (applied Quantum algorithms) platform, a forum for collaboration between the Leiden Institute of Physics (LION) and the Leiden Institute of Advanced Computer Science (LIACS)."
+  },
+  {
+    "id": 12,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "∙ Research into the technological basis for a tap-proof quantum communication network in Germany and Europe.81\nAn additional contribution by DLR outside the programme-oriented research funding of the HGF is the DLR Quantum Computing Initiative, which has been funded with around EUR 740 million from the fiscal stimulus package for the construction of quantum computer systems, the development of software and initial applications."
+  },
+  {
+    "id": 13,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "QT/e and QuTech are working closely together to realize complex structures at the nano-scale for topological quantum computing applications based on Majorana particles."
+  },
+  {
+    "id": 14,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "The centre was created in 2013 as a joint initiative by Delft University of Technology and TNO, supported partly by a public-private partnership with Microsoft and the Dutch Research Council."
+  },
+  {
+    "id": 15,
+    "true": "consensus_space",
+    "pred": "consensus_space",
+    "text": "Currently, the BQA is in discussion with other federal institutions such as PTB or BAM."
+  },
+  {
+    "id": 16,
+    "true": "no_explicit_space",
+    "pred": "consensus_space",
+    "text": "The high-tech sector is a key sector of the Dutch economy, with global players such as ASML, ASM International, NXP, Philips and Thales, as well as numerous suppliers (typically SMEs) in the Eindhoven Brainport region and elsewhere."
+  },
+  {
+    "id": 17,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "QuTech is also working with Microsoft to develop a quantum computer based on the so-called topological Majorana fermions."
+  },
+  {
+    "id": 18,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "France has distinctive advantages that could make it one of the first nations to achieve the feat of developing a universal quantum computer: the excellence of its fundamental research in physics and computer science (CNRS, INRIA, CEA, ONERA), as well as the strength of its technological and industrial research (Atos, STMicro, AirLiquide, Orano, and the startup ecosystem), particularly in the fields of microelectronics, supercomputers, and enabling technologies."
+  },
+  {
+    "id": 19,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "In the west of the country, QuTech is working with KPN and others to build the world's first quantum internet based on entanglement."
+  },
+  {
+    "id": 20,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "AQC is based on research in superconducting microwave devices, which was supported by the Australian Research Council through Future Fellowships and the (<https://equs.org/>)ARC Centre of Excellence in Engineered (<https://equs.org/>)Quantum Systems (EQUS)."
+  },
+  {
+    "id": 21,
+    "true": "no_explicit_space",
+    "pred": "no_explicit_space",
+    "text": "The secretariat of the working group was chief specialist Teija Palko, MEAE; senior adviser Martti Myllylä, MEAE; manager relations, microelectronics and quantum, Jenny Hasu, VTT, and senior academic coordinator Minna Günes of Aalto University, invited by the working group."
+  },
+  {
+    "id": 22,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "The key actors currently working on topics related to quantum technologies are the German Aerospace Center (DLR), the Jülich Research Centre (FZJ), the Helmholtz Centre in Berlin (HZB), the Helmholtz Centre in Dresden-Rossendorf (HZDR) and the Karlsruhe Institute for Technology (KIT)."
+  },
+  {
+    "id": 23,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "Upscaling is not possible without major progress in that field, as acknowledged by QuTech, Intel and others."
+  },
+  {
+    "id": 24,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "As part of the Quantum Pioneers Program, the (<https://pawsey.org.au/>)Pawsey (<https://pawsey.org.au/>)Supercomputing Research Centre partnered with (<https://quantumbrilliance.com/>)Quantum Brilliance to enable industry and research teams to explore the possibilities of edge quantum computing."
+  },
+  {
+    "id": 25,
+    "true": "consensus_space",
+    "pred": "consensus_space",
+    "text": "We also work with a broad range of countries through multilateral fora, such as the OECD and the Global Technology Forum, the World Economic Forum, the G7, and NATO, and take advantage of broader collaborative R&D opportunities born out of defence pacts such as AUKUS."
+  },
+  {
+    "id": 26,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "A quantum internet testing ground, interlinking various cities in the Netherlands' western conurbation, is being developed in partnership with KPN, ABN AMRO, AMS-IX, SURF and others."
+  },
+  {
+    "id": 27,
+    "true": "consensus_space",
+    "pred": "knowledge_space",
+    "text": "The main contributors have been the Danish National Research Foundation, the Innovation Fund Denmark, the Villum Foundation, the Carlsberg Foundation and, increasingly, the Novo Nordisk Foundation."
+  },
+  {
+    "id": 28,
+    "true": "no_explicit_space",
+    "pred": "knowledge_space",
+    "text": "From north to south, the three centres are QuSoft in Amsterdam, QuTech in Delft and QT/e in Eindhoven."
+  },
+  {
+    "id": 29,
+    "true": "knowledge_space",
+    "pred": "innovation_space",
+    "text": "Quantum computing for process optimization\nBosch and QuSoft are together looking into how quantum computing could be of value to the multinational."
+  },
+  {
+    "id": 30,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "The DLR Institute for Quantum Technologies in Ulm will also carry out work to complement the activities of the Center for Integrated Quantum Science and Technology (IQST) at the Universities of Ulm and Stuttgart and the Max Planck Institute for Solid State Research in Stuttgart."
+  },
+  {
+    "id": 31,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "Credit: Quantum Brilliance\nThe recently announced ARC Centre of Excellence in Quantum Biotechnology will help Australia stay at the forefront of developing quantum technologies to transform our understanding of life."
+  },
+  {
+    "id": 32,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "As part of the LUMI AI Factory consortium, of which the Czech Republic is a member through VŠBTUO, the LUMI-IQ quantum computer will be purchased as an experimental AI platform, which will also be accessible to research communities from across the Czech Republic."
+  },
+  {
+    "id": 33,
+    "true": "innovation_space",
+    "pred": "consensus_space",
+    "text": "In the context of the European Flagship, QuTech is working with twelve companies, ranging from hardware developers (including Toptica of Germany and Janssen Precision Engineering of the Netherlands) to application developers (such as SAP)."
+  },
+  {
+    "id": 34,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "The superconducting qubits used by Google and IBM and the cold atom qubits are the result of work by Daniel Estève and Michel Devoret at the CEA in Saclay, as well as Claude Cohen-Tannoudji and Jean Dalibard at the ENS Paris / Collège de France."
+  },
+  {
+    "id": 35,
+    "true": "consensus_space",
+    "pred": "consensus_space",
+    "text": "The members of the advisory group were proposed by the Qutes association and the Chamber of Commerce and Industry of Slovenia (AtomQL, Beyond Semiconductor, CREAPLUS, Cosylab, IJS, Center of Excellence for Nanoscience and Nanotechnology – Nanocenter, Rudolfovo, UL FE, UL FMF, UL FRI, UM FERI, and TipPRI)."
+  },
+  {
+    "id": 36,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "Phasor Innovation is collaborating with the University of Melbourne and RMIT University on researching and developing the next generation of diamond‑based quantum sensors."
+  },
+  {
+    "id": 37,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "Research at the Fraunhofer IAF in collaboration with the Fraunhofer IPM, IWM, IMM and CAP-UK is focusing intensively on solid state technologies that could facilitate widespread use of customised quantum sensors at room temperature and in variable environments."
+  },
+  {
+    "id": 38,
+    "true": "consensus_space",
+    "pred": "consensus_space",
+    "text": "Description of the measure\nPrepare call for support participation Czech experts and representatives in the decision-making structures of the quantum ecosystem within the EU, NATO (STO, DIANA, NIF), thereby ensuring greater influence for the Czech Republic and enabling more intensive involvement in the European and international quantum ecosystem."
+  },
+  {
+    "id": 39,
+    "true": "innovation_space",
+    "pred": "innovation_space",
+    "text": "BPC have invested in Oxford Quantum Circuits’ £38m Series A funding round through its Future Fund: Breakthrough programme ()."
+  },
+  {
+    "id": 40,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "The Novo Nordisk Foundation has announced a grant of DKK 1.5 billion in 2022 over 12 years for a quantum program at the Niels Bohr Institute with a view to building a fully functional quantum computer within the next 10-20 years."
+  },
+  {
+    "id": 41,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "These organisations and institutes – the German Research Foundation, the Max Planck Society, the Helmholtz Association, the Fraunhofer Society and the Leibniz Association – have been working for many years on basic science, laying the foundations for technical exploitation of quantum physical effects and systems."
+  },
+  {
+    "id": 42,
+    "true": "innovation_space",
+    "pred": "knowledge_space",
+    "text": "With the support of the Department of Industry, Science and Resources’ CRC program, Silex expanded its operations to include the production of isotopically pure silicon at its facilities in Lucas Heights, NSW."
+  },
+  {
+    "id": 43,
+    "true": "consensus_space",
+    "pred": "consensus_space",
+    "text": "Promote the contributions of EuroHPC and EuroQCI grantees to JTC22 standards development activities;"
+  },
+  {
+    "id": 44,
+    "true": "consensus_space",
+    "pred": "knowledge_space",
+    "text": "The European Telecommunications Standards Institute (ETSI) has set up a QKD Industry Specification Group, while the Internet Engineering Task Force (IETF) is also looking at protocols for a future quantum internet."
+  },
+  {
+    "id": 45,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "The Microsoft Quantum Lab Delft was opened by King Willem-Alexander in February 2019."
+  },
+  {
+    "id": 46,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "In addition, Microsoft and QT/e have recently linked up with a view to moving forward the development of Majorana transmission within topological materials."
+  },
+  {
+    "id": 47,
+    "true": "consensus_space",
+    "pred": "consensus_space",
+    "text": "We will work closely with quantum companies as well as key industry and professional bodies such as UKQuantum, the Institute of Physics, the Royal Academy of Engineering, the Institute of Engineering and Technology and techUK to make sure that industry views are understood and that government actions support growth."
+  },
+  {
+    "id": 48,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "In June, an alliance was launched between Tohoku University and the University of Chicago."
+  },
+  {
+    "id": 49,
+    "true": "knowledge_space",
+    "pred": "innovation_space",
+    "text": "The NQCC is teaming up with Oxford Quantum Circuits (OQC) amongst others, to provide businesses and researchers with access to quantum compute resources including emulators, simulators, annealers and gate-based quantum computing platforms."
+  },
+  {
+    "id": 50,
+    "true": "innovation_space",
+    "pred": "knowledge_space",
+    "text": "The company was co-founded by Dr. Dirk Leipold, Prof. Robert Bogdan Staszewski (an SFI Research Professor of Electronic Circuits at UCD) and Mike Asker."
+  },
+  {
+    "id": 51,
+    "true": "consensus_space",
+    "pred": "public_space",
+    "text": "Play an active role in the World Trade Organisation, the World Economic Forum, the G7, the G20, OECD, NATO, Council of Europe, Commonwealth and the UN, including utilising the UK seat on the International Telecommunications Union (ITU) to ensure that quantum regulation supports UK business and innovation, that the UK’s wider prosperity, security and defence interests are represented and that we continue to uphold the UK’s values including those on human rights."
+  },
+  {
+    "id": 52,
+    "true": "knowledge_space",
+    "pred": "public_space",
+    "text": "The Delft QuTech, National Icon since 2014, is a joint TUD/TNO knowledge institute with a unique global position, as recently confirmed by the excellent scores and feedback in an international evaluation undertaken under Robbert Dijkgraaf's leadership.3 Other strong joint ventures are also making their mark, including QuSoft in Amsterdam and QT/e in Eindhoven."
+  },
+  {
+    "id": 53,
+    "true": "consensus_space",
+    "pred": "consensus_space",
+    "text": "XMSS is now an IETF standard and looks set to become a NIST and ISO standard before long46."
+  },
+  {
+    "id": 54,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "The(<https://www.uts.edu.au/research/centre-quantum-software-and-information/news/quantum-benchmarking-accelerate-quantum-development>) University of Technology Sydney’s Centre for Quantum Software and Information (QSI) is participating in the US Defense Advanced Research Projects Agency’s (DARPA) (<https://www.darpa.mil/program/quantum-benchmarking>)quantum benchmarking program."
+  },
+  {
+    "id": 55,
+    "true": "innovation_space",
+    "pred": "innovation_space",
+    "text": "Tematys recently published market research carried out for the European Union to gauge the global market for quantum communication (particularly QKD applications) and quantum sensors, such as atomic clocks.39 The findings suggest that, in the period 2020 to 2028, the market for quantum sensors will grow from roughly 30 million euros to 210 million, while the market for atomic clocks grows from 250 million euros to 350 million and the market for quantum communications (telecom) increases from roughly 10 million euros to 300 million."
+  },
+  {
+    "id": 56,
+    "true": "innovation_space",
+    "pred": "knowledge_space",
+    "text": "Equal1 has been funded by Atlantic Bridge, Enterprise Ireland, Matterwave and European Innovation Council and is a leader in the most scalable approach to quantum computing."
+  },
+  {
+    "id": 57,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "Several international initiatives have been launched to develop benchmarks for quantum computing and simulation, including initiatives by IBM (Quantum Volume, CLOPS), Super.tech (SupermarQ), QED-C, US DARPA, US DOE (Sandia National Labs) and UC Berkeley."
+  },
+  {
+    "id": 58,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "QSI researchers are developing the Bench‑Q software suite for this purpose with the University of Southern California, University of Texas at Dallas, Aalto University in Finland, and Zapata Computing."
+  },
+  {
+    "id": 59,
+    "true": "consensus_space",
+    "pred": "knowledge_space",
+    "text": "Noteworthy examples include the Defence Innovation Accelerator for the North Atlantic (DIANA), the Transatlantic Quantum Community (TQC), focused on the application of quantum technologies in defence, and the Science and Technology Organisation26 (STO), which promotes the exchange of information between key players and has recently created a specific Science and Technology Panel (TSI) to cover quantum technologies, among others."
+  },
+  {
+    "id": 60,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "For example, Shell and Leiden University have started a joint project that addresses issues relating to quantum chemistry and photosynthesis."
+  },
+  {
+    "id": 61,
+    "true": "no_explicit_space",
+    "pred": "innovation_space",
+    "text": "Parties such as Microsoft and Google have built major data centres in the Netherlands, while Amsterdam's Internet Exchange (AMS-IX) has established itself as one of the world's biggest internet hubs, with a status analogous to that of the logistics hubs at Schiphol\nairport and Rotterdam seaport."
+  },
+  {
+    "id": 62,
+    "true": "consensus_space",
+    "pred": "consensus_space",
+    "text": "Regarding the European Quantum Industry Consortium, the situation is developing rapidly with growing representation from Ireland’s SMEs, such as Equal1.28\nFurthermore, Ireland has recently joined the declaration supporting development of EuroQCI and has been preparing for the Digital Europe programme and the Connecting Europe Facility actions.1 These activities will support the development of national and cross-border quantum communication networks (terrestrial and space-based), the development of European devices and systems, and a testing certification infrastructure to prepare for the use of new technologies in EuroQCI."
+  },
+  {
+    "id": 63,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "QuaCGR is sponsored jointly by the ARO and the Laboratory for Physical Sciences (LPS) to stimulate U.S. graduate student participation in research related to quantum computing, and to assist in the training of graduate students to prepare them for careers in quantum information science."
+  },
+  {
+    "id": 64,
+    "true": "no_explicit_space",
+    "pred": "knowledge_space",
+    "text": "AMOLF is an NWO institute, based on the Amsterdam Science Park."
+  },
+  {
+    "id": 65,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "The FI CODE has been an IBM Quantum Hub between 2018 and 2023 and is therefore one of very few to gain exclusive access to the IBM quantum computer infrastructure worldwide."
+  },
+  {
+    "id": 66,
+    "true": "no_explicit_space",
+    "pred": "innovation_space",
+    "text": "Bundesdruckerei GmbH, including its subsidiary Maurer Electronics GmbH, is a leading German high-tech security company headquartered in Berlin."
+  },
+  {
+    "id": 67,
+    "true": "consensus_space",
+    "pred": "consensus_space",
+    "text": "(**) Up to €200 million from the PERTE Chip Fund will be prioritised for auxiliary and enabling companies in the semiconductor industry for their transition to quantum or hybrid technologies, at least €400 million from the PERTE Chip and Next Tech Funds for direct investments in quantum companies or co-investments with venture capital and corporate funds, through the Spanish Society for Technological Transformation (SETT) of the Ministry for Digital Transformation and Public Administration."
+  },
+  {
+    "id": 68,
+    "true": "innovation_space",
+    "pred": "innovation_space",
+    "text": "And the rewards have been considerable, with the Amsterdam Internet Exchange (AMS-IX) now one of the world's biggest internet hubs, major data centres coming to the country and the emergence of Dutch-based global players such as Adyen Payments and Booking.com."
+  },
+  {
+    "id": 69,
+    "true": "consensus_space",
+    "pred": "innovation_space",
+    "text": "Part of the MIMIT funding has been invested by CTEs in QTs for the development of laboratories and technological infrastructure, activation of educational/training paths on the topic, recruitment and support of startups and SMEs interested in the development of innovative solutions based on QTs, and organization of seminars and promotional events in the area."
+  },
+  {
+    "id": 70,
+    "true": "innovation_space",
+    "pred": "innovation_space",
+    "text": "Alongside those activities, QuSoft has linked up with ABN AMRO to start a project on quantum-safe banking."
+  },
+  {
+    "id": 71,
+    "true": "consensus_space",
+    "pred": "knowledge_space",
+    "text": "The intention is for the quantum fund to support the efforts of Quantum House Denmark and be seen in connection with efforts such as Deep Tech Laboratory - Quantum under the BioInnovation Institute and NATO's Innovation Fund (NIF)."
+  },
+  {
+    "id": 72,
+    "true": "innovation_space",
+    "pred": "innovation_space",
+    "text": "In pursuit of that goal, QuiX is collaborating closely with PhiX, another UT spinoff, which claims to be the first manufacturer capable of the automated production of photonic chips."
+  },
+  {
+    "id": 73,
+    "true": "innovation_space",
+    "pred": "innovation_space",
+    "text": "Tesi acts as a minority investor and it also aims to channel private and EU funding to Finnish companies and develop the Finnish fund field to a larger size so that Finnish management companies can scale deep technology companies to a larger scale in the future."
+  },
+  {
+    "id": 74,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "For example, the FZJ has founded the JARA Institute for Quantum Information in partnership with RWTH Aachen, as part of the Jülich Aachen Research Alliance (JARA)."
+  },
+  {
+    "id": 75,
+    "true": "innovation_space",
+    "pred": "consensus_space",
+    "text": "In 2025, VŠB-TUO joined the European association QuIC (Quantum Industry Consortium), which includes more than 180 institutions and companies from across Europe and aims to accelerate the development of quantum technologies and strengthen Europe's position as a world leader in this rapidly growing sector."
+  },
+  {
+    "id": 76,
+    "true": "consensus_space",
+    "pred": "consensus_space",
+    "text": "Ireland has continued to demonstrate its dedication to quantum innovation by developing financial and institutional supports for research and innovation including the establishment of a National Advisory Forum for Quantum Technology and investments from the Disruptive Technologies Innovation Fund."
+  },
+  {
+    "id": 77,
+    "true": "innovation_space",
+    "pred": "innovation_space",
+    "text": "In 2021, IBM worked with the government to establish the Hartree National Centre for Digital Innovation, which brings together world-leading expertise in AI and quantum computing to support their application in industry and the public sector."
+  },
+  {
+    "id": 78,
+    "true": "no_explicit_space",
+    "pred": "knowledge_space",
+    "text": "It is located at the Technology & Innovation Centre, University of Strathclyde."
+  },
+  {
+    "id": 79,
+    "true": "innovation_space",
+    "pred": "innovation_space",
+    "text": "To establish a hub for integrated industry-academia-government collaboration spanning fundamental research, technology demonstration, open innovation, intellectual property management, and human resource development in quantum technology, eight Quantum Innovation Hubs (QIH) were established in February 2021.Furthermore, in July of the same year, the Quantum Innovation Initiative Council (QII Council), based at the University of Tokyo, facilitated the first-ever introduction of an actual commercial quantum computer from overseas into Japan."
+  },
+  {
+    "id": 80,
+    "true": "consensus_space",
+    "pred": "consensus_space",
+    "text": "This strategy sets out the main activities we will undertake to deliver these objectives."
+  },
+  {
+    "id": 81,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "Davis was awarded the 2023 Buckley Physics Prize by the American Physical Society."
+  },
+  {
+    "id": 82,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "This will strengthen collaboration between\nthe Fraunhofer IOF and the IQOQI as an internationally recognised centre for quantum information theory."
+  },
+  {
+    "id": 83,
+    "true": "no_explicit_space",
+    "pred": "knowledge_space",
+    "text": "Current Chief Scientific Officer Elena Blokhina is an Associate Prof. in the School of Electrical and Electronic Engineering in UCD."
+  },
+  {
+    "id": 84,
+    "true": "consensus_space",
+    "pred": "consensus_space",
+    "text": "The remainder (about 20%) is divided among Projects of Significant National Interest (PRIN; 7%), projects managed within CNR and INFN (in total, 4%), and other projects (10%)."
+  },
+  {
+    "id": 85,
+    "true": "no_explicit_space",
+    "pred": "knowledge_space",
+    "text": "Other participants include the Center of Applied Space Technology and Micrograv-ity (ZARM), the PTB, TU Braunschweig, the Hanover Institute of Technology (HITec) and the Laboratory of Nano and Quantum Engineering (LNQE) at Leibniz University Hanover – this latter is also linked through the regional network with the Max Planck Institute for Gravitational Physics and the University of Bremen."
+  },
+  {
+    "id": 86,
+    "true": "consensus_space",
+    "pred": "consensus_space",
+    "text": "International conversations on technical standards are at an early stage within standards development organisations such as the Institute of Electrical and Electronics Engineers\nStandards Association, International Organization for Standardization and International Electrotechnical Commission."
+  },
+  {
+    "id": 87,
+    "true": "innovation_space",
+    "pred": "innovation_space",
+    "text": "In connection with Quantum House Denmark, the government, in collaboration with the Novo Nordisk Foundation, will establish a national test center which not only caters for research and innovation at the public research institutions, but also takes into account the needs of startups and small companies including, among others, spin-outs from universities."
+  },
+  {
+    "id": 88,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "Among those active in the field of post-quantum cryptography are KPN, QT/e and QuSoft; Microsoft and Google are also taking a keen interest."
+  },
+  {
+    "id": 89,
+    "true": "consensus_space",
+    "pred": "consensus_space",
+    "text": "Australian expertise was broadly represented and participants in the development of these guidelines came from CSIRO, the Sydney Quantum Academy, the Australian National University, the University of Western Australia, The University of Queensland, Monash University and Quintessence Labs."
+  },
+  {
+    "id": 90,
+    "true": "innovation_space",
+    "pred": "knowledge_space",
+    "text": "The five-qubit Helmi-quantum computer as well as VTT Q50 have been connected to the common European LUMI supercomputer operated by CSC.16 The procurement of the machines has been carried out through an innovation partnership with a Finnish company manufacturing quantum computers, IQM."
+  },
+  {
+    "id": 91,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "Analysis of the situation and reasons for the proposed measure:\nAmong the selected postdoctoral projects in the EC's MSCA COFUND 2023 public call, the Slovenian Quantum Science Hub (SQUASH) project, which will be coordinated by the Jožef Stefan Institute (IJS), stands out."
+  },
+  {
+    "id": 92,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "In 2018, a NWA project was started, in which Delft University of Technology, QuTech, Leiden University, TNO and two startups (Applied Nanolayers and Leiden Spin Imaging) are developing a 'quantum microscope' that utilizes a diamond magnetic field sensor to visualize the nano-scale behaviour of electrons close to absolute zero, and at room temperature."
+  },
+  {
+    "id": 93,
+    "true": "consensus_space",
+    "pred": "knowledge_space",
+    "text": "The funds provided to (<http://dtec.bw>)dtec.bw by the BMVg division will be used at both Bundeswehr universities to finance research projects and projects for knowledge and technology transfer."
+  },
+  {
+    "id": 94,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "Using quantum computers to design complex molecules\nWith financial support from Shell Research, a research team has been established at Leiden University which, in collaboration with Vrije Universiteit Amsterdam, will investigate the possibility of using a quantum computer to design complex molecules."
+  },
+  {
+    "id": 95,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "In 2019, the Irish Centre for High-End Computing (ICHEC) secured the organisation of the second European Quantum Technologies Conference, which took place virtually in 2021 and which was in part funded by the Coordination and Support Action QFlag."
+  },
+  {
+    "id": 96,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "Only twenty-six algorithms now remain in the NIST competition to find a post-quantum cryptography standard, and six of them are strong candidates put forward by QT/e. Some of the candidate algorithms were developed in partnership with Cisco, IBM, NXP, Philips and others."
+  },
+  {
+    "id": 97,
+    "true": "consensus_space",
+    "pred": "consensus_space",
+    "text": "Many of them were involved in the development of this agenda: ABN AMRO, Shell, Aramco and the Ministry of Defence were represented in the consultation group, for example, while organizations from the health care sector, the water sector and the security domain attended the open day organized to gather input for the agenda."
+  },
+  {
+    "id": 98,
+    "true": "knowledge_space",
+    "pred": "consensus_space",
+    "text": "With further co-financing under EuroHPC JU, EuroCC was established in Slovenia – competence centers at the national level within EuroHPC, which continued in EuroCC2."
+  },
+  {
+    "id": 99,
+    "true": "knowledge_space",
+    "pred": "knowledge_space",
+    "text": "Together, the various research activities taking place around the country form a basis for the development of optical atomic clocks, with LioniX International, the University of Twente and ESA joining forces to develop new, simplified laser systems, for example, but also to do research into quantum computers and quantum simulators based on ultra-cold atoms."
+  }
+]

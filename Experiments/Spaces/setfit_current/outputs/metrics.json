@@ -1,0 +1,38 @@
+{
+  "accuracy": 0.7,
+  "macro_f1": 0.4898,
+  "weighted_f1": 0.6958,
+  "per_class": {
+    "knowledge_space": {
+      "precision": 0.7321,
+      "recall": 0.8913,
+      "f1": 0.8039,
+      "support": 46
+    },
+    "innovation_space": {
+      "precision": 0.6667,
+      "recall": 0.5263,
+      "f1": 0.5882,
+      "support": 19
+    },
+    "consensus_space": {
+      "precision": 0.7727,
+      "recall": 0.68,
+      "f1": 0.7234,
+      "support": 25
+    },
+    "public_space": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "no_explicit_space": {
+      "precision": 1.0,
+      "recall": 0.2,
+      "f1": 0.3333,
+      "support": 10
+    }
+  },
+  "n_eval": 100
+}
