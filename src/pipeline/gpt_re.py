@@ -38,7 +38,7 @@ from src import config
 from src.utils import normalize_helix, to_str
 
 SIMCSE_MODEL   = "princeton-nlp/sup-simcse-roberta-large"
-GPT_MODEL      = "gpt-4o"
+GPT_MODEL      = "gpt-4o-mini"
 K_DEMOS        = 4
 SAVE_EVERY     = 50
 
