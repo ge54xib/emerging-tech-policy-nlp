@@ -96,7 +96,7 @@ def main() -> None:
         learning_rate=LEARNING_RATE,
         per_device_train_batch_size=BATCH_SIZE,
         train_dataset=train_ds,
-        validation_dataset=eval_ds,
+        test_dataset=eval_ds,
     )
 
     model = trainer.train()
