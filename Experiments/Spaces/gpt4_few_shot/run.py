@@ -131,20 +131,33 @@ def main() -> None:
     demos = _select_demos(demo_pool)
     print(f"Selected {len(demos)} demos ({K_PER_CLASS} per class)")
 
+    import time
+
     client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
     eval_true, pred_labels = [], []
 
     for i, entry in enumerate(eval_entries):
         messages = _build_messages(demos, entry["sentence"])
-        response = client.chat.completions.create(
-            model=MODEL,
-            messages=messages,
-            max_tokens=32,
-            temperature=0.0,
-        )
+        for attempt in range(5):
+            try:
+                response = client.chat.completions.create(
+                    model=MODEL,
+                    messages=messages,
+                    max_tokens=32,
+                    temperature=0.0,
+                )
+                break
+            except Exception as e:
+                if "429" in str(e) or "rate_limit" in str(e).lower():
+                    wait = 10 * (attempt + 1)
+                    print(f"  Rate limit, waiting {wait}s...")
+                    time.sleep(wait)
+                else:
+                    raise
         pred = _parse_label(response.choices[0].message.content or "")
         eval_true.append(entry["true_space"])
         pred_labels.append(pred)
+        time.sleep(3)  # ~19 calls/min stays under 30k TPM
 
         if (i + 1) % 10 == 0:
             print(f"  {i+1}/{len(eval_entries)} done")
