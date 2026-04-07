@@ -60,8 +60,11 @@ technology and creating IP (Ranga & Etzkowitz 2013)
 - consensus_space: bringing together Triple Helix components for blue-sky thinking, discussing \
 proposals for advancement toward a knowledge-based regime; turning diverging interests into \
 convergence through governance and dialogue (Ranga & Etzkowitz 2013)
-- public_space: civil society engagement; ethics and equity in technology; democratic oversight; \
-public trust and awareness — the fourth helix (Quadruple Helix extension)
+- public_space: civil society, media, and culture as innovation actors; public engagement, trust, \
+and awareness; ethics, equity, and democratic oversight; innovation culture and cultural values; \
+creative industries and the creative class; gender diversity in STEM; public legitimation of \
+knowledge and technology policy; open-source movements and user communities — fourth helix \
+(Carayannis & Campbell 2009; Quadruple Helix extension of R&E 2013)
 
 Output only the label, nothing else."""
 

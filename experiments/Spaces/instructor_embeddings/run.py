@@ -13,14 +13,14 @@ Method (from paper):
 Task instruction: "Represent the innovation policy sentence for classifying
                   its Triple Helix space:"
 
-Training data: spaces_review.json (25 per class) → class prototypes (mean embedding)
+Training data: spaces_labels.json (25 per class) → class prototypes (mean embedding)
                No fine-tuning; embedding model weights are frozen.
 
 Space definitions (Ranga & Etzkowitz 2013):
   knowledge_space  — knowledge generation, diffusion and use; R&D resources
   innovation_space — hybrid orgs; tech transfer, IP, firm formation
   consensus_space  — blue-sky thinking; stakeholder dialogue; governance
-  public_space     — civil society engagement; ethics; equity; public trust (QH extension)
+  public_space     — civil society, media and culture as innovation actors; public trust, ethics, equity, democratic oversight; innovation culture; creative industries; gender diversity; public legitimation of knowledge (QH extension)
 
 Run:
     python Experiments/Spaces/instructor_embeddings/run.py
@@ -44,14 +44,14 @@ from eval_utils import (
 )
 
 _REPO_ROOT  = Path(__file__).parent.parent.parent.parent
-REVIEW_FILE = _REPO_ROOT / "data/processed/step3/spaces_review.json"
+REVIEW_FILE = Path(__file__).parent.parent / "spaces_labels.json"
 
 INSTRUCTOR_MODEL = "hkunlp/instructor-xl"
 TASK_INSTRUCTION = "Represent the innovation policy sentence for classifying its Triple Helix space:"
 
 
 def _load_training_data() -> dict[str, list[str]]:
-    """Return {label: [sentences]} from spaces_review.json."""
+    """Return {label: [sentences]} from spaces_labels.json."""
     entries = json.loads(REVIEW_FILE.read_text(encoding="utf-8"))
     by_label: dict[str, list[str]] = {lbl: [] for lbl in SPACE_LABELS}
     for e in entries:

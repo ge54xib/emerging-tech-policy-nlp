@@ -5,7 +5,7 @@ Workflow
 Stage 1 — Sample and review:
     python -m src.pipeline.spaces_setfit --sample
 
-    Writes data/processed/step3/spaces_review.json with cross-helix sentences
+    Writes data/processed/step3/spaces_labels.json with cross-helix sentences
     stratified by helix-pair TH_SPACE_MAP. Each entry has:
       - ``sentence``         ±1 sentence window  (for human review context)
       - ``central_sentence`` central sentence only (what SetFit trains/predicts on)
@@ -15,7 +15,7 @@ Stage 1 — Sample and review:
 Stage 2 — Train SetFit:
     python -m src.pipeline.spaces_setfit --train
 
-    Reads spaces_review.json, takes entries where use="true", balances to
+    Reads spaces_labels.json, takes entries where use="true", balances to
     minority class size, trains SetFit on central_sentence text only.
     Saves model to data/processed/step3/setfit_spaces_model/.
 
@@ -74,7 +74,7 @@ def _config():
 
 
 def _review_path() -> Path:
-    return _config().STEP3_DIR / "spaces_review.json"
+    return Path(__file__).parent.parent.parent / "Experiments" / "Spaces" / "spaces_labels.json"
 
 
 def _model_path() -> Path:
@@ -86,7 +86,7 @@ def _output_path() -> Path:
 
 
 # ---------------------------------------------------------------------------
-# Stage 1: sample → spaces_review.json
+# Stage 1: sample → spaces_labels.json
 # ---------------------------------------------------------------------------
 
 def sample_cmd() -> None:
@@ -247,7 +247,7 @@ def sample_cmd() -> None:
 
 
 # ---------------------------------------------------------------------------
-# Stage 2: train from spaces_review.json (use="true" entries only)
+# Stage 2: train from spaces_labels.json (use="true" entries only)
 # ---------------------------------------------------------------------------
 
 def train_cmd() -> None:
@@ -266,7 +266,7 @@ def train_cmd() -> None:
 
     by_label: dict[int, list[str]] = {i: [] for i in range(len(SPACE_LABELS))}
 
-    # Manual training set (spaces_review.json) — all entries included
+    # Manual training set (spaces_labels.json) — all entries included
     raw = json.loads(review_path.read_text(encoding="utf-8"))
     manual_count = 0
     for entry in raw:
@@ -413,7 +413,7 @@ def main() -> None:
     )
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument("--sample", action="store_true",
-                       help="Sample sentences → spaces_review.json")
+                       help="Sample sentences → spaces_labels.json")
     group.add_argument("--train", action="store_true",
                        help="Train on use=true entries → setfit_spaces_model/")
     group.add_argument("--predict", action="store_true",

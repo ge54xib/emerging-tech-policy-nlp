@@ -105,7 +105,7 @@ def predict(entries: list[dict]) -> tuple[list[str], list[str], list[str]]:
         h1   = entry["h1"]
         e2   = entry["entity_2"]
         h2   = entry["h2"]
-        text = entry.get("central_sent_text") or entry["sent_text"]
+        text = entry.get("sentence") or entry.get("central_sent_text", "")
 
         # Mark entities in the sentence for the prompt
         sentence = mark_entities_typed(text, e1, h1, e2, h2)
@@ -143,7 +143,7 @@ def main() -> None:
             "id":        i,
             "true":      t,
             "pred":      p,
-            "text":      entries[i].get("central_sent_text") or entries[i]["sent_text"],
+            "text":      entries[i].get("sentence") or entries[i].get("central_sent_text", ""),
             "reasoning": traces[i],
         }
         for i, (t, p) in enumerate(zip(true_labels, pred_labels))

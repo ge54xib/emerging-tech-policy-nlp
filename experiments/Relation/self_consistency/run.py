@@ -113,7 +113,7 @@ def predict(entries: list[dict]) -> tuple[list[str], list[str]]:
         h1   = entry["h1"]
         e2   = entry["entity_2"]
         h2   = entry["h2"]
-        text = entry.get("central_sent_text") or entry["sent_text"]
+        text = entry.get("sentence") or entry.get("central_sent_text", "")
         sentence = mark_entities_typed(text, e1, h1, e2, h2)
         prompt = USER_TEMPLATE.format(sentence=sentence, h1=h1, e1=e1, h2=h2, e2=e2)
 

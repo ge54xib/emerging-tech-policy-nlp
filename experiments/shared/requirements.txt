@@ -1,55 +1,28 @@
-# ============================================================
-# Experiment suite dependencies
-# ============================================================
-#
-# IMPORTANT — PyTorch / RunPod:
-#   Do NOT pip-install torch from this file on RunPod or any
-#   machine that already has a CUDA-compiled torch.
-#   RunPod PyTorch templates ship torch+CUDA pre-installed;
-#   reinstalling from PyPI replaces it with a CPU-only build.
-#
-#   Only install torch if starting from a plain Python env:
-#     pip install torch --index-url https://download.pytorch.org/whl/cu121
-#
-# Install everything else:
-#   pip install -r Experiments/shared/requirements.txt
-# ============================================================
+# Core ML
+transformers>=4.40
+torch>=2.0
+accelerate>=0.28
+datasets>=2.18
 
-# ── Hugging Face core ────────────────────────────────────────
-transformers>=4.40.0
-accelerate>=0.28.0
-datasets>=2.18.0
-huggingface_hub>=0.22.0
-safetensors>=0.4.0       # modern model format (.safetensors replaces .bin)
-tokenizers>=0.19.0       # fast tokenizers used by transformers
+# Sentence Transformers & few-shot classifiers
+sentence-transformers>=2.7
+setfit>=1.0
+fast-fit>=0.1
 
-# ── Sentence Transformers ────────────────────────────────────
-# Upper-bound: InstructorEmbedding (S2) is not yet compatible with v3.x
-sentence-transformers>=2.7.0,<3.0.0
+# Instruction-tuned embeddings (INSTRUCTOR)
+InstructorEmbedding>=1.0
 
-# ── Few-shot classifiers ─────────────────────────────────────
-setfit>=1.0.0            # S1 — contrastive fine-tuning
-fast-fit>=0.1.0          # S4, S5 — token-level similarity (imports as `fastfit`)
+# LLM APIs
+openai>=1.30
+anthropic>=0.25
 
-# ── Instruction-tuned embeddings ─────────────────────────────
-InstructorEmbedding>=1.0.0   # S2 — hkunlp/instructor-xl
+# Retrieval / similarity (GPT-RE SimCSE)
+faiss-cpu>=1.7
 
-# ── LLM APIs ─────────────────────────────────────────────────
-openai>=1.30.0           # R4 gollie, R5 gpt_re, S3 gpt4_few_shot, S5 llm_augmenter
-anthropic>=0.25.0        # R2 claude_cot, R3 self_consistency
+# Evaluation & data science
+scikit-learn>=1.4
+numpy>=1.24
+tabulate>=0.9
 
-# ── Tokenizer extras ─────────────────────────────────────────
-sentencepiece>=0.1.99    # required by some tokenizers
-protobuf>=3.20.0         # required by sentencepiece on some platforms
-
-# ── Numerical / evaluation ───────────────────────────────────
-numpy>=1.24.0
-scipy>=1.10.0            # used internally by sentence-transformers
-scikit-learn>=1.4.0      # precision/recall/F1 in eval_utils.py
-
-# ── Utilities ────────────────────────────────────────────────
-tqdm>=4.65.0             # progress bars throughout
-tabulate>=0.9.0          # formatted F1 tables in eval_utils.py
-packaging>=23.0          # version checks used by HF libraries
-filelock>=3.12.0         # HuggingFace cache locking
-requests>=2.31.0         # model downloads
+# Optional: local LLM quantization (Mistral, if used)
+bitsandbytes>=0.43

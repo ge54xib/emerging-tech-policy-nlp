@@ -11,7 +11,7 @@ Method (from paper):
     - Entity pairs sampled from civil_society entities in entities_classified.jsonl
 
   Stage 2 — Train classifier on augmented dataset:
-    - Combine spaces_review.json (real) + synthetic_public_space.json (synthetic)
+    - Combine spaces_labels.json (real) + synthetic_public_space.json (synthetic)
     - Train FastFit (same config as S4 for clean ablation) on augmented set
     - Evaluate on annotation_spaces.json (human-annotated gold standard)
 
@@ -43,7 +43,7 @@ from eval_utils import (
 )
 
 _REPO_ROOT       = Path(__file__).parent.parent.parent.parent
-REVIEW_FILE      = _REPO_ROOT / "data/processed/step3/spaces_review.json"
+REVIEW_FILE      = Path(__file__).parent.parent / "spaces_labels.json"
 ENTITIES_FILE    = _REPO_ROOT / "data/processed/step2/entities_classified.jsonl"
 SYNTHETIC_FILE   = Path(__file__).parent / "synthetic_public_space.json"
 
@@ -58,8 +58,10 @@ BATCH_SIZE       = 32
 # Signal words for public_space that guide constrained generation
 PUBLIC_SIGNAL_WORDS = [
     "public", "society", "citizen", "ethics", "equity",
-    "inclusion", "trust", "democratic", "governance",
-    "awareness", "engagement", "transparency", "accountability",
+    "inclusion", "trust", "democratic", "awareness", "engagement",
+    "transparency", "accountability", "culture", "media", "creative",
+    "gender", "diversity", "open-source", "legitimation", "community",
+    "life style", "innovation culture", "fourth helix",
 ]
 
 # Other helices to pair with civil_society for diversity
@@ -141,8 +143,10 @@ _AUGMENT_SYSTEM = (
 _AUGMENT_USER = """\
 Write a single sentence from a national quantum technology policy document that:
 1. Involves {entity_1} ({helix_1}) and {entity_2} ({helix_2}) as actors
-2. Describes civil society engagement, public awareness, ethics, equity, \
-or democratic oversight in the context of quantum technology
+2. Describes civil society, media, or cultural engagement with quantum technology; OR \
+public trust, ethics, equity, or democratic oversight; OR innovation culture, creative \
+industries, gender diversity in STEM, public legitimation of R&D, or open-source and \
+user community involvement
 3. Uses at least one of these signal words: {signal_words}
 
 Output only the sentence. No explanation, no quotes."""
@@ -205,7 +209,7 @@ def _generate_synthetic(
 # ── Stage 2: FastFit on augmented data ────────────────────────────────────────
 
 def _load_training_data(synthetic: list[dict]) -> tuple[list[str], list[str]]:
-    """Combine real spaces_review.json + synthetic public_space sentences."""
+    """Combine real spaces_labels.json + synthetic public_space sentences."""
     texts, labels = [], []
 
     # Real annotated training data

@@ -52,7 +52,7 @@ from eval_utils import (
 )
 
 _REPO_ROOT = Path(__file__).parent.parent.parent.parent
-ANNOTATION_V1 = _REPO_ROOT / "evaluation" / "annotation_v1.json"
+ANNOTATION_DEMOS = Path(__file__).parent.parent / "relation_labels.json"
 
 SIMCSE_MODEL   = "princeton-nlp/sup-simcse-roberta-large"
 GPT_MODEL      = "gpt-4o"
@@ -120,7 +120,7 @@ def _generate_reasoning(client, demo: dict, cache: dict) -> str:
 
     e1, e2 = demo["entity_1"], demo["entity_2"]
     label  = demo["true_relation"]
-    sent   = demo.get("central_sent_text") or demo["sent_text"]
+    sent   = demo.get("sentence") or demo.get("central_sent_text", "")
     prompt = (
         f"What are the clues that lead to the relation between {e1} and {e2} "
         f"to be {label} in the sentence '{sent}'? It is because: "
@@ -150,7 +150,7 @@ def _select_demos(
     """Entity-aware retrieval: prefer demos with matching (h1,h2) helix pair."""
     target_query = _entity_query(
         target["entity_1"], target["entity_2"],
-        target.get("central_sent_text") or target["sent_text"]
+        target.get("sentence") or target.get("central_sent_text", "")
     )
     target_emb = _embed([target_query], tokenizer, model, device)  # (1, D)
     sims = (demo_embeddings @ target_emb.T).squeeze(-1)            # (N,)
@@ -179,7 +179,7 @@ def _build_prompt(target: dict, selected_demos: list[dict], reasonings: list[str
     demo_blocks = []
     for demo, reasoning in zip(selected_demos, reasonings):
         sent = mark_entities_typed(
-            demo.get("central_sent_text") or demo["sent_text"],
+            demo.get("sentence") or demo.get("central_sent_text", ""),
             demo["entity_1"], demo["h1"], demo["entity_2"], demo["h2"]
         )
         demo_blocks.append(
@@ -191,7 +191,7 @@ def _build_prompt(target: dict, selected_demos: list[dict], reasonings: list[str
         )
 
     test_sent = mark_entities_typed(
-        target.get("central_sent_text") or target["sent_text"],
+        target.get("sentence") or target.get("central_sent_text", ""),
         target["entity_1"], target["h1"], target["entity_2"], target["h2"]
     )
     test_block = (
@@ -230,7 +230,7 @@ def predict(entries: list[dict], demos: list[dict]) -> tuple[list[str], list[str
     tokenizer, sim_model, device = _load_simcse()
     demo_queries = [
         _entity_query(d["entity_1"], d["entity_2"],
-                      d.get("central_sent_text") or d["sent_text"])
+                      d.get("sentence") or d.get("central_sent_text", ""))
         for d in demos
     ]
     # Embed in batches of 64
@@ -251,7 +251,7 @@ def predict(entries: list[dict], demos: list[dict]) -> tuple[list[str], list[str
     true_labels, pred_labels = [], []
 
     for i, entry in enumerate(entries):
-        # Select k=4 entity-aware demos
+        # Select k=4 entity-aware demos from separate demo pool (relation_labels.json)
         selected_idx = _select_demos(entry, demos, demo_embeddings, tokenizer, sim_model, device)
         selected = [demos[j] for j in selected_idx]
         reasonings = [
@@ -284,13 +284,16 @@ def main() -> None:
     entries = load_relation_eval()
     print(f"Loaded {len(entries)} labeled relation examples (eval set)")
 
-    if not ANNOTATION_V1.exists():
-        raise FileNotFoundError(f"Demo pool not found: {ANNOTATION_V1}")
+    if not ANNOTATION_DEMOS.exists():
+        raise FileNotFoundError(
+            f"Demo pool not found: {ANNOTATION_DEMOS}\n"
+            "Fill in true_relation for each entry in Experiments/Relation/gpt_re/relation_labels.json"
+        )
     demos = [
-        e for e in json.loads(ANNOTATION_V1.read_text(encoding="utf-8"))
+        e for e in json.loads(ANNOTATION_DEMOS.read_text(encoding="utf-8"))
         if e.get("true_relation", "").strip()
     ]
-    print(f"Loaded {len(demos)} demo candidates from annotation_v1.json")
+    print(f"Loaded {len(demos)} demo candidates from relation_labels.json")
 
     true_labels, pred_labels = predict(entries, demos)
 
@@ -299,7 +302,7 @@ def main() -> None:
             "id":   i,
             "true": t,
             "pred": p,
-            "text": entries[i].get("central_sent_text") or entries[i]["sent_text"],
+            "text": entries[i].get("sentence") or entries[i].get("central_sent_text", ""),
         }
         for i, (t, p) in enumerate(zip(true_labels, pred_labels))
     ]

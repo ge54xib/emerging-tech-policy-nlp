@@ -14,7 +14,7 @@ Stage 1 — Annotate with LLM:
       - ``llm_reasoning`` Claude's brief reasoning
       - ``verified``      set to "true" after human review to include in training
 
-    Sentences already in spaces_review.json (manual training set) are excluded.
+    Sentences already in spaces_labels.json (manual training set) are excluded.
     Supports resume: already-processed sentences are skipped on re-run.
 
 Stage 2 — Review:
@@ -22,7 +22,7 @@ Stage 2 — Review:
 
 Stage 3 — Train:
     python -m src.pipeline.spaces_setfit --train
-    (automatically uses both spaces_review.json and spaces_llm_review.json)
+    (automatically uses both spaces_labels.json and spaces_llm_review.json)
 
 Valid labels: knowledge_space, innovation_space, consensus_space, public_space
 """
@@ -110,7 +110,7 @@ def _pair_space(h1: str, h2: str) -> str:
 
 def _load_training_sentences() -> set[str]:
     """Return sentences already in the manual training set."""
-    path = _config().STEP3_DIR / "spaces_review.json"
+    path = Path(__file__).parent.parent.parent / "Experiments" / "Spaces" / "spaces_labels.json"
     if not path.exists():
         return set()
     data = json.loads(path.read_text(encoding="utf-8"))

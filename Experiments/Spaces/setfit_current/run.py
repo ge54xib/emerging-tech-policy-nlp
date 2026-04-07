@@ -16,7 +16,7 @@ Method (from paper):
   Key: no prompts, no templates — pure embedding similarity and contrastive training.
 
 Training data:
-  spaces_review.json (25 per class, human-annotated) +
+  spaces_labels.json (25 per class, human-annotated) +
   spaces_llm_review.json (GPT-4 annotated, combined)
 
 Run:
@@ -39,7 +39,7 @@ from eval_utils import (
 )
 
 _REPO_ROOT    = Path(__file__).parent.parent.parent.parent
-REVIEW_FILE   = _REPO_ROOT / "data/processed/step3/spaces_review.json"
+REVIEW_FILE   = Path(__file__).parent.parent / "spaces_labels.json"
 LLM_FILE      = _REPO_ROOT / "data/processed/step3/spaces_llm_review.json"
 
 SETFIT_MODEL  = "sentence-transformers/all-mpnet-base-v2"

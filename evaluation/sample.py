@@ -280,15 +280,94 @@ def extend(n_per_class: int = 10) -> None:
     print('Fill in "true_relation" and "true_space" for new entries.')
 
 
+
+
+DEMO_FILE = Path(__file__).parent.parent / "Experiments" / "Relation" / "relation_labels.json"
+N_DEMO = 50
+
+
+def demo() -> None:
+    """Sample a separate demo pool for Experiments/Relation/gpt_re/run.py only.
+
+    Writes relation_labels.json (50 entries), excluding sentences already in
+    annotation.json (the evaluation set). Annotate true_relation before running gpt_re.
+    """
+    random.seed(RANDOM_SEED + 1)
+    rows = _load_cooccurrence()
+
+    eval_sids: set = set()
+    if OUTPUT_FILE.exists():
+        for e in json.loads(OUTPUT_FILE.read_text(encoding="utf-8")):
+            eval_sids.add((e.get("doc_id"), e.get("paragraph_id"), e.get("sentence_id")))
+
+    by_bucket: dict = defaultdict(list)
+    seen_sids: set = set()
+    for row in rows:
+        if not _is_clean_sentence(_get_sentence(row)):
+            continue
+        sid = (row.get("doc_id"), row.get("paragraph_id"), row.get("sentence_id"))
+        if sid in seen_sids or sid in eval_sids:
+            continue
+        seen_sids.add(sid)
+        key = _bucket(row.get("h1", ""), row.get("h2", ""))
+        by_bucket[key].append(row)
+
+    for bucket in by_bucket.values():
+        random.shuffle(bucket)
+
+    n_buckets = len(HELIX_PAIR_BUCKETS)
+    base = N_DEMO // n_buckets
+    remainder = N_DEMO % n_buckets
+    per_bucket = {b: base + (1 if i < remainder else 0) for i, b in enumerate(HELIX_PAIR_BUCKETS)}
+
+    samples = []
+    used_sids: set = set()
+    leftover: list = []
+    for bucket_key in HELIX_PAIR_BUCKETS:
+        pool = by_bucket.get(bucket_key, [])
+        taken = 0
+        for row in pool:
+            if taken >= per_bucket[bucket_key]:
+                leftover.extend(pool[taken:])
+                break
+            sid = (row.get("doc_id"), row.get("paragraph_id"), row.get("sentence_id"))
+            if sid in used_sids:
+                continue
+            used_sids.add(sid)
+            samples.append(_make_entry(row))
+            taken += 1
+        bucket_label = " & ".join(sorted(bucket_key)) if isinstance(bucket_key, frozenset) else bucket_key
+        print(f"  {bucket_label}: {len(pool)} candidates → sampled {taken}")
+
+    if len(samples) < N_DEMO:
+        random.shuffle(leftover)
+        for row in leftover:
+            if len(samples) >= N_DEMO:
+                break
+            sid = (row.get("doc_id"), row.get("paragraph_id"), row.get("sentence_id"))
+            if sid in used_sids:
+                continue
+            used_sids.add(sid)
+            samples.append(_make_entry(row))
+
+    random.shuffle(samples)
+    DEMO_FILE.write_text(json.dumps(samples, indent=2, ensure_ascii=False), encoding="utf-8")
+    print(f"\nWrote {len(samples)} entries to {DEMO_FILE}")
+    print('Fill in "true_relation" for each entry (demo pool for gpt_re only).')
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--extend", action="store_true",
                         help="Append targeted keyword-matched candidates for rare classes")
+    parser.add_argument("--demo", action="store_true",
+                        help="Generate relation_labels.json — demo pool for gpt_re only")
     parser.add_argument("--n", type=int, default=10,
                         help="Number of candidates to add per rare class (default: 10)")
     args = parser.parse_args()
 
     if args.extend:
         extend(n_per_class=args.n)
+    elif args.demo:
+        demo()
     else:
         sample()

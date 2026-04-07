@@ -15,7 +15,7 @@ Valid labels: knowledge_space, innovation_space, consensus_space, public_space
 Sampling strategy:
   Deduplicated to unique sentences (SetFit classifies at sentence level).
   Stratified by helix-pair → TH_SPACE_MAP (same as training stratification).
-  Training sentences (from spaces_review.json) are excluded to avoid leakage.
+  Training sentences (from spaces_labels.json) are excluded to avoid leakage.
   25 per space (100 total).
 """
 
@@ -30,7 +30,7 @@ _NLI_FILE = ROOT / "data/processed/step3/cooccurrence_nli.jsonl"
 _BASE_FILE = ROOT / "data/processed/step3/cooccurrence.jsonl"
 COOCCURRENCE_FILE = _NLI_FILE if _NLI_FILE.exists() else _BASE_FILE  # NLI file optional
 SETFIT_FILE = ROOT / "data/processed/step3/cooccurrence_setfit.jsonl"
-REVIEW_FILE = ROOT / "data/processed/step3/spaces_review.json"
+REVIEW_FILE = ROOT / "Experiments" / "Spaces" / "spaces_labels.json"
 LLM_REVIEW_FILE = ROOT / "data/processed/step3/spaces_llm_review.json"
 OUTPUT_FILE = Path(__file__).parent / "annotation_spaces.json"
 
@@ -210,7 +210,7 @@ def extend(n_per_class: int = 10) -> None:
     """Append N keyword-matched public_space candidates to annotation_spaces.json.
 
     Excludes sentences already in annotation_spaces.json or in training data
-    (spaces_review.json, spaces_llm_review.json). Leaves true_space="" for labeling.
+    (spaces_labels.json, spaces_llm_review.json). Leaves true_space="" for labeling.
     """
     if not OUTPUT_FILE.exists():
         print("No annotation_spaces.json found — run without flags first.")

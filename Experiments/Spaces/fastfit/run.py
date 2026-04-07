@@ -13,7 +13,7 @@ Method (from paper):
   - 3-20x faster training than SetFit; designed for tasks with many semantically similar classes
   - Directly addresses knowledge_space / consensus_space overlap in this dataset
 
-Training data: spaces_review.json (25 per class = 100 total)
+Training data: spaces_labels.json (25 per class = 100 total)
                optionally + spaces_llm_review.json
 
 Run:
@@ -37,7 +37,7 @@ from eval_utils import (
 )
 
 _REPO_ROOT    = Path(__file__).parent.parent.parent.parent
-REVIEW_FILE   = _REPO_ROOT / "data/processed/step3/spaces_review.json"
+REVIEW_FILE   = Path(__file__).parent.parent / "spaces_labels.json"
 LLM_FILE      = _REPO_ROOT / "data/processed/step3/spaces_llm_review.json"
 
 BASE_MODEL         = "roberta-base"
