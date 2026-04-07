@@ -38,7 +38,7 @@ from eval_utils import (
     save_outputs,
 )
 
-MODEL = "claude-3-5-sonnet-20241022"
+MODEL = "claude-sonnet-4-6"
 
 SYSTEM_PROMPT = (
     "You are an expert in Triple Helix innovation theory (Ranga & Etzkowitz 2013). "
