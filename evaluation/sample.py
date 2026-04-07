@@ -17,7 +17,7 @@ Valid true_relation:
   collaborative_leadership, substitution, networking, no_explicit_relation
 
 Valid true_space:
-  knowledge_space, innovation_space, consensus_space, public_space
+  knowledge_space, innovation_space, consensus_space, public_space, no_explicit_space
 """
 
 import argparse

@@ -26,20 +26,22 @@ from src.analysis._helpers import utc_now_iso, write_json, thesis_style
 from src.utils import normalize_helix, to_str
 
 
-SPACES = ["knowledge_space", "innovation_space", "consensus_space", "public_space"]
+SPACES = ["knowledge_space", "innovation_space", "consensus_space", "public_space", "no_explicit_space"]
 
 SPACE_LABELS = {
-    "knowledge_space":  "Knowledge Space",
-    "innovation_space": "Innovation Space",
-    "consensus_space":  "Consensus Space",
-    "public_space":     "Public Space",
+    "knowledge_space":   "Knowledge Space",
+    "innovation_space":  "Innovation Space",
+    "consensus_space":   "Consensus Space",
+    "public_space":      "Public Space",
+    "no_explicit_space": "No Explicit Space",
 }
 
 SPACE_COLORS = {
-    "knowledge_space":  "#4393c3",
-    "innovation_space": "#74c476",
-    "consensus_space":  "#fd8d3c",
-    "public_space":     "#9e9ac8",
+    "knowledge_space":   "#4393c3",
+    "innovation_space":  "#74c476",
+    "consensus_space":   "#fd8d3c",
+    "public_space":      "#9e9ac8",
+    "no_explicit_space": "#bdbdbd",
 }
 
 EXPLICIT_RELATION_TYPES = [

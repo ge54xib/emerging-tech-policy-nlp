@@ -26,6 +26,8 @@ from eval_utils import (
     save_outputs,
 )
 
+SPACE_LABELS = ["knowledge_space", "innovation_space", "consensus_space", "public_space", "no_explicit_space"]
+
 PAIR_TO_SPACE = {
     frozenset({"academia", "academia"}):      "knowledge_space",
     frozenset({"academia", "government"}):    "knowledge_space",
@@ -46,7 +48,7 @@ def _predict_space(entities: list[dict]) -> str:
             space = PAIR_TO_SPACE.get(frozenset({h1, h2}))
             if space:
                 return space
-    return "knowledge_space"  # fallback to most common
+    return "no_explicit_space"  # no matching pair found
 
 
 def main() -> None:

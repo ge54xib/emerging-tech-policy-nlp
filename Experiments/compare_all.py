@@ -41,12 +41,14 @@ SPACE_LABELS = [
     "innovation_space",
     "consensus_space",
     "public_space",
+    "no_explicit_space",
 ]
 SPACE_SHORT = {
     "knowledge_space":  "know",
     "innovation_space": "innov",
     "consensus_space":  "consens",
     "public_space":     "public",
+    "no_explicit_space": "none",
 }
 
 

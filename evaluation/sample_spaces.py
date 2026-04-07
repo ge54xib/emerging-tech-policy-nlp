@@ -42,7 +42,7 @@ _PUBLIC_SPACE_PATTERN = re.compile(
     re.IGNORECASE,
 )
 
-SPACE_LABELS = ["knowledge_space", "innovation_space", "consensus_space", "public_space"]
+SPACE_LABELS = ["knowledge_space", "innovation_space", "consensus_space", "public_space", "no_explicit_space"]
 N_PER_SPACE = 25
 RANDOM_SEED = 42
 

@@ -49,6 +49,7 @@ SPACE_LABELS = [
     "innovation_space",
     "consensus_space",
     "public_space",
+    "no_explicit_space",
 ]
 
 

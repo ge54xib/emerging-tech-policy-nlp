@@ -10,7 +10,7 @@ from pathlib import Path
 
 ANNOTATION_FILE = Path(__file__).parent / "annotation_spaces.json"
 
-SPACE_LABELS = ["knowledge_space", "innovation_space", "consensus_space", "public_space"]
+SPACE_LABELS = ["knowledge_space", "innovation_space", "consensus_space", "public_space", "no_explicit_space"]
 
 
 def precision_recall_f1(tp, fp, fn):
