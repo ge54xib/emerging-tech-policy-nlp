@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import importlib
 
-from src.analysis import descriptives, methodology, rq1, rq2, rq3, rq_extended, spaces
+from src.analysis import descriptives, methodology, rq1, rq2, rq2_gpt_re, rq3, rq_extended, spaces, rq_spaces
 
 
 def _require_plot_dependencies() -> None:
@@ -28,9 +28,11 @@ def run() -> None:
     methodology.run()
     rq1.run()
     rq2.run()
+    rq2_gpt_re.run()
     rq3.run()
     rq_extended.run()
     spaces.run()
+    rq_spaces.run()
 
 
 if __name__ == "__main__":
