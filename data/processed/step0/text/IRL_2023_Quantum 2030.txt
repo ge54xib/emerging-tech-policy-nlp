@@ -1,0 +1,433 @@
+Quantum 2030
+A National Quantum Technologies Strategy for Ireland
+Putting Ireland in a Quantum Super Position
+Prepared by the Department of Further and Higher Education, Research, Innovation and Science www.gov.ie
+
+# Contents
+
+Minister’s Foreword
+2
+Executive summary
+3
+Introduction
+5
+What are quantum technologies?
+5
+What are the opportunities?
+8
+Quantum technologies in Ireland
+10
+What is the policy context in Ireland?
+12
+What is Ireland’s approach to quantum technologies?
+14
+Pillar 1: Excellent fundamental and applied quantum research
+15
+Pillar 2: Top science and engineering talent
+17
+Pillar 3: National and international collaboration
+19
+Pillar 4: Innovation, entrepreneurship and economic competitiveness
+21
+Pillar 5: Building awareness of quantum technologies and real-world benefits
+23
+Appendices
+A. Snapshot of Ireland’s involvement in European quantum-technologies activities
+25
+B. Acronyms and abbreviations
+26
+C. Glossary of quantum terms
+27
+D. Membership of the National Advisory Forum for Quantum Technologies
+28
+E. Journey of Ireland’s Strategy for Quantum Technologies
+29
+F. Acknowledgements
+30
+
+# Minister’s Foreword
+
+The potential impact of quantum technologies in Ireland is enormous. The first quantum revolution resulted in technologies that are fundamental to today’s digital society including lasers and fibre-optic communications, atomic clocks and GPS, transistors, solar cells, and magnetic resonance imaging (MRI). As we move toward technologies rooted in a deeper understanding of quantum mechanics and precision control, we find ourselves in the early stages of a second quantum revolution – Quantum 2.0 – the effects of which may be just as significant.
+Quantum technologies will massively expand the bounds of possibility in computing, sensing, simulation and communication without replacing classical technologies. These new technologies will enable new approaches to social and environmental concerns, and they will have applications across industries including digital, pharmaceuticals, finance, and manufacturing. For example, the anticipated capacity for quantum computers to process information of enormous complexity could allow us to create climate predictions with great speed and accuracy. Quantum sensors will improve medical diagnostics, and quantum communications will provide an unprecedented level of security.
+As the development of quantum technologies accelerates, this strategy sets the national course with a core vision by 2030 to make Ireland an internationally competitive hub in Quantum Technologies at the forefront of scientific and engineering advances, through research, talent, collaboration and innovation.
+Impact 2030: Ireland’s Research and Innovation Strategy targets emerging and new growth areas of opportunity and research where Ireland can achieve a competitive advantage. Thanks to our knowledge-based economy and talent-driven research and innovation ecosystem, Ireland is well positioned to take a leading role in Quantum 2.0. Today Ireland has a significant level of expertise in quantum technology and fundamental quantum science, with a talent pool and research portfolio relevant to the main pillars of the field. Ireland’s indigenous quantum research and innovation community already has capabilities across key enabling technologies including photonics, electronics, and nanotechnology.
+Ireland has continued to demonstrate its dedication to quantum innovation by developing financial and institutional supports for research and innovation including the establishment of a National Advisory Forum for Quantum Technology and investments from the Disruptive Technologies Innovation Fund.
+Additionally, many of the world’s largest technology companies have a substantial presence in Ireland and are beginning to invest in quantum technologies. With this generative starting point, Quantum 2.0 will present unique opportunities for Ireland.
+Quantum 2030 has been designed to bring Ireland’s diverse quantum technologies stakeholders together under a national vision that reflects the community and targets existing strengths. This strategy will maximise the benefits of these opportunities by focusing on areas where Ireland can excel. We will deliver this strategy’s ambitious vision through actions organised under five key pillars that are aligned with Impact 2030, and which emerged through close collaboration between stakeholders across academia, enterprise, Government and the public sector. This collaborative ecosystem will be central to the success of this strategy which will connect, grow and direct Ireland’s strong quantum community and put Ireland in a leading position for this technological turning point.
+This strategy is the product of forward-looking, long-term and community-driven work to prepare Ireland for Quantum 2.0. It supports the broader national goal to equip Ireland with the workforce needed not only today but in years to come. My Department will continue to work with the quantum community in Ireland and internationally to implement this strategy. Together we can build on our existing successes in information and communication technologies to become a global leader in the research, development and innovation that underpins the quantum revolution and become a hub for realising and exploiting the new opportunities in quantum technologies.
+Minister for Further and Higher Education, Research, Innovation and Science
+Simon Harris TD
+
+# Executive summary
+
+Quantum technology is an exciting and rapidly evolving field of scientific research and innovation with tremendous disruptive potential in the medium to long term. The anticipated applications for this technology range from drug discovery, new materials and new ways to tackle climate change to financial services, cybersecurity and a quantum internet. As a result, billions of euro are being invested internationally by both governments and private investors as companies and countries race to make their mark in this space.
+Ireland is ideally situated to capitalise on the opportunities presented by quantum technology. We are fortunate to have a highly interconnected quantum community with capabilities and strengths across the full quantum stack well beyond what our small size would suggest. Coupled to this is the presence of many of the world’s largest quantum technology enterprises in Ireland. By coordinating these strengths under a national quantum-technology strategy, we can deliver on an ambitious vision by 2030 to make Ireland an internationally competitive hub in quantum technologies at the forefront of scientific and engineering advances, through research, talent, collaboration and innovation.
+There are four distinct pillars to the strategy with an additional, entangled pillar that interacts with all four pillars (See Figure 1). Notably, this strategy recognises the importance of fundamental research in broad quantum and related science and engineering with an increasing focus specifically on quantum technologies as we move across the pillars.
+
+# Vision
+
+By 2030, Ireland is an internationally competitive hub in quantum technologies at the forefront of scientific and engineering advances, through research, talent, collaboration and innovation
+Pillar 1 focuses on supporting excellent fundamental and applied quantum research. This internationally excellent research underpins advances in quantum technologies. Ireland has a strong track record in fundamental and applied quantum research, and we need to enhance this further to enable breakthrough discoveries and feed the pipeline of innovations and technologies.
+The best way to move knowledge through our economy and society is by fostering top science and engineering talent (Pillar 2). Developing a pipeline of agile, innovative and highly skilled individuals across the spectrum of quantum science, engineering and technology while also improving equality, diversity and inclusion (EDI) is a no-regret investment for the state.
+As a small country, we need to build on the advantage of our interconnectedness while also contributing to, and learning from, international best practice. This will be done through greater national and international collaboration (Pillar 3) in the field of quantum technologies.
+To fully capitalise on the opportunities quantum technologies will provide, we need a focus on innovation, entrepreneurship and economic competitiveness (Pillar 4). This pillar seeks to stimulate innovation and entrepreneurship in quantum technologies and related areas, including in indigenous small and medium-sized enterprises (SMEs). It also aims to strengthen collaborative work between academia and enterprise.
+Finally, as quantum technologies are new and evolving at pace, it is important that we build awareness of quantum technologies and real-world benefits across a broad range of stakeholders (Pillar 5). The purpose of this pillar is to have a quantum-literate society that takes full advantage, for everyone, of the benefits quantum technologies can bring. To ensure the ambitions in Pillar 1 to 4 are realised, the stakeholders involved in these pillars will also need to focus on actions outlined in Pillar 5.
+Figure 1: Framework for Quantum 2030
+Pillar 1 Pillar 2 Pillar 3 Pillar 4 Excellent fundamental and applied quantum research National and international collaboration Innovation, entrepreneurship and economic competitiveness Top science and engineering talent Pillar 5 Building awareness of quantum technologies and real-world benefits
+
+# Introduction
+
+## What are quantum technologies?
+
+### For over 100 years, scientists and engineers have sought to understand quantum science and leverage it to make our lives better.
+
+Our understanding of quantum effects has already led to applications with tremendous economic and societal impact. These applications include smartphones, computers, lasers and advanced medical diagnostics. Such advances relied on understanding and exploiting the quantum mechanical properties of matter and are associated with the first quantum revolution (Quantum 1.0).
+The second quantum revolution, now under way, will engineer previously untapped quantum effects into next-generation technologies with increased performance and new capabilities. Quantum technology is the umbrella term for technologies resulting from this new wave of quantum innovation, Quantum 2.0.
+These quantum technologies can be categorised into four main areas: computing, communication, simulation and sensing – all of which are underpinned by advances in fundamental quantum science.1
+Progress in these four main areas hinges on the development of key enabling technologies including photonics, electronics, cryogenics and nano-fabrication capabilities, alongside advanced quantum software and dedicated algorithms.
+Figure 2: Key Technologies of the First and Second Quantum Revolution
+1.0 2.0 LASERS MRI SCANNERS COMPUTERS SMARTPHONES QUANTUM COMPUTING QUANTUM SENSING QUANTUM SIMULATION QUANTUM COMMUNICATION SEMICONDUCTORSQuantum Quantum
+Quantum technologies can be categorised into four main areas: computing, communication, simulation and sensing
+
+### Quantum computing
+
+Quantum computing is currently the largest branch of quantum technologies in terms of interest from enterprise, investment, and estimated market2 . It is a type of computation whose operations can harness the phenomena of quantum mechanics, such as superposition, interference and entanglement (see Appendix C for glossary of quantum terms).
+Devices that perform quantum computation are known as quantum computers. Whereas classical computers have memory comprised of bits, and each bit can hold a value of 0 or 1, quantum computers are based on quantum bits, or qubits, which can hold a value of 0, 1 or a superposition of these states. The ability of qubits to hold multiple states simultaneously allows the performance of quantum computers to increase exponentially when additional qubits are added, meaning they have the potential to solve certain problems at speeds far surpassing anything possible with even the most powerful conventional high-performance computing. Indeed, quantum advantage in computation has already been shown in a variety of quantum algorithms, and ongoing research globally seeks to fully develop quantum computers and demonstrate their advantage at a system level.
+Quantum computers will not universally replace conventional computers, but, for certain tasks and application areas, they hold massive disruptive potential. The development of quantum computers is evolving quickly and will have multiple use cases across various sectors including artificial intelligence and machine-learning solutions where optimisation problems scale exponentially (e.g., financial modelling and logistics optimisation), computational chemistry, drug development, cybersecurity and cryptography to name a few. Examples of enabling technologies under development include quantum hardware, cryogenics, superconductors and associated software development to program the quantum computers.
+
+### Quantum communication
+
+Quantum communication takes advantage of the laws of quantum physics to protect data. It will involve developing new communication protocols and digital infrastructure using quantum phenomena. With advances in quantum computers continually being achieved, it is becoming increasingly important to build new quantum communication technologies and networks to connect these resources for transmitting highly sensitive data and to ensure their long-term security.
+One of the ultimate aims in this area is to develop an ultra-fast global quantum internet, based on entangled qubits and separated by large distances, to future-proof critical communications infrastructure, data assets and encryption systems that have the potential to become more vulnerable to future cyberattacks. Applications in this area include quantum cryptography, quantum computing architectures, quantum key distribution (QKD) and secure quantum computing in the cloud.
+Quantum cryptography is one of the most advanced quantum technologies with commercial products already available, providing secure communication means to various industries. Examples of enabling technologies under development include quantum-ready fibre-optic components, quantum repeaters, cryogenic systems and satellite communications equipment.
+
+### Quantum sensors
+
+Quantum sensors promise the highest possible sensitivities in sensor technologies spanning a range of different platforms for the quantum-enhanced measurement of, for example, time, position, gravity and electrical and magnetic fields. Potential applications in this area include ultrasensitive sensing for improved medical diagnostics, greenhouse-gas monitoring, precise measurement of pollution in urban areas, and highly precise global positioning systems. Examples of underlying technologies under development include improved optical detectors, advanced nano-fabrication capabilities and sensor-specific software.
+
+### Quantum simulators
+
+Quantum simulators are physical quantum devices that can be used to model the properties of an interacting system and in turn address challenging problems in a number of areas. While quantum computers are digital, generally programmable and can be applied to a wide array of quantum problems, simulators are typically analogue devices that are targeted at specific problems. Quantum simulators have led to major advances in fundamental science, including the recent discovery of previously unidentified phases of matter, and they promise to tackle further key questions across materials science, physics and quantum chemistry. Examples of enabling technologies under development include capabilities for the manufacture and manipulation of advanced materials and novel photonic components.
+Figure 3: Potential Commercial Uses for Quantum Technologies in the Future3
+By 2030:
+- • Ultra-high precision non-destructive measurements of materials
+- • Improved medical diagnostics such as magnetoencephalography and magnetocardiography
+- • Quantum-enhanced global positioning system
+- • Satellite-based quantum cryptography
+- • Programmable quantum simulators without error correction
+- • Industry demonstration of fault-tolerant quantum computing hardware
+By 2040:
+- • New sensors for environmental mapping and underground mapping
+- • Quantum secure communication networks
+- • Quantum computing systems for high-value problems
+- • New medical diagnostics and health monitoring
+- • Quantum positioning system
+By 2050:
+- • Personalised quantum computing for intractable problems
+- • Quantum internet with quantum computing networks
+- • Teaching with quantum simulator training kits
+
+## What are the opportunities?
+
+### We are at a pivotal point where the power and energy scalability of traditional high-performance computing technologies is plateauing.4
+
+With the amount of data to be handled and analysed growing exponentially, next-generation information and communication technologies (ICTs) will require scientific and technological paradigm shifts for energy efficiency and faster time-to-solution. Radical advances will require new concepts, an understanding of new materials and their fundamental properties, and the exploration of new fundamental principles.5 Quantum technologies, associated enabling technologies and advances in quantum science have a crucial role to play in taking us beyond the limits of current ICTs.
+Quantum technologies hold massive disruptive potential and are expected to profoundly impact many of the largest global markets.6,7 Quantum computing promises the most significant societal and economic impact in the next decade with spillover effects in other quantum technologies, enabling technologies, the broader digital sector and cross-sectoral applications.
+Quantum computing has the potential to provide advantages where conventional approaches, including high-performance computing, are insufficient or even entirely unsuited to the task. This includes computer-aided drug discovery, where quantum computers could perform calculations exponentially faster than today’s computers and rapidly accelerate pharmaceutical research, development and innovation (RD&I).8
+Quantum computing may unlock solutions and new responses to specific challenges across many sectors and in turn may accelerate progress towards several of the United Nations Sustainable Development Goals.
+These challenges include:
+- • the design of new materials and chemicals for medical technologies and (bio) pharmaceuticals;
+- • the reduction of resources and fertilisers used to achieve food security and safety;
+- • the reduction of the amount of greenhouse gases being produced and remediation;
+- • improving the time and accuracy of medical diagnoses;
+- • modelling weather and climate change.
+The opportunities and challenges offered by quantum technologies require a strong national strategy and action plan similar to those that have been developed in the European Union (EU) and other countries.9 The global public investment in these programmes is estimated to amount to almost €30 billion as of Q1 2022.10 Major investors globally include China, Germany, France, India, the United States of America (USA), the United Kingdom (UK) and Canada. Smaller EU countries, including the Netherlands and Austria, also have a significant focus on quantum technologies and have successfully positioned themselves as global competitors. Recent investments by other EU countries, such as Sweden, Finland and Denmark, are also aimed at positioning them on the quantum technologies global map. There is little doubt that the countries in leading positions on the global scene in these disruptive technologies are supported by a strong and essential national investment in quantum technologies.11
+The wealth of business opportunities in quantum technologies has also triggered investments from major private companies. Quantum technologies are now major research topics for IBM, Google, Microsoft, Intel, Honeywell and other technology giants. Quantum technologies is also a rapidly evolving market with several SMEs such as Pasqal, IQM, IonQ, AQT, PsiQuantum, Xanadu Quantum Technologies, and Ireland’s Equal1 driving innovation in this space.
+Quantum technologies are expected to strongly impact markets across a wide variety of sectors. Moreover, their exploitation holds the potential to address some of the paramount societal and environmental issues of our time. The development and utilisation of quantum technologies has already attracted considerable investment from international governments and industry leaders in the technology sector, including those with a strong presence in Ireland.
+Predictions point towards this investment increasing in the coming years.12 Alongside this investment, the number of highly skilled jobs in researching and utilising quantum technologies will grow.
+To derive maximum benefit from the second quantum revolution, and to realise its vision of being an innovation leader, it is critical that Ireland cultivates a rich and diverse quantum technologies ecosystem.
+
+## Quantum technologies in Ireland
+
+### Ireland is strongly positioned to play a pivotal role in the development of quantum technologies and to reap the benefits from increased research, development and innovation in this area in the future.
+
+Over the years, Ireland has built a solid foundation of fundamental and applied quantum-technologies research with a particular focus on quantum computing and communication. Much effort has focused on the science and engineering of enablers for quantum technologies (including novel materials, advanced characterisation and modelling and nanofabrication); in-depth knowledge of the quantum building blocks (such as qubit devices and integrated quantum circuits); and the interfaces to the classical world (including quantum control theory, quantum programming and (cryo-) electronics).
+Ireland has unique strengths in the core technologies that underpin quantum communications and the quantum internet, such as communication networks and photonics, with expertise provided by CONNECT (SFI Research Centre for Future Networks & Communications), IPIC (SFI Research Centre for Photonics) and the Tyndall National Institute. Ireland is also internationally recognised for academic research on the fundamentals of quantum science, quantum algorithms and simulations, which underpins quantum technologies.
+This innovation ecosystem produces world-class research and a new generation of researchers with the potential to develop and utilise quantum technologies.
+In the coming years, with the right support, Ireland’s talent pipeline will conduct groundbreaking research in quantum technologies, fill highly skilled roles within multinational enterprises and SMEs, and also spin out quantum start-ups in Ireland.
+Ireland has a strategically important position in the technology sector as a competitive global hub. Nine of the top ten global software companies, nine of the top ten technology companies, and three of the top four internet companies have significant operations in Ireland. In addition, four of the top five information-technology services companies have a presence in Ireland. As a whole, the technology sector accounts for 58.3 per cent of Irish exports and 6.6 per cent of national employment, and it continues to grow.13 Ireland also plays an important role in other sectors such as pharmaceuticals, biotechnology, medical devices, logistics and finance with significant exports and employment.14
+Nine of the top ten global software companies, nine of the top ten technology companies, and three of the top four internet companies have significant operations in Ireland
+Quantum technologies will change the hardware and software engineering landscape for the coming decades and will impact all key economic sectors as well as our society. For example, the projected global market for quantum computing alone is $2–5 billion in the next three to five years with an estimated growth of more than tenfold every ten years reaching upper estimates of $850 billion in twenty years.15 This is roughly one-third of the whole technology sector globally today.
+Given the cross-sectoral impact quantum technologies will have, it is critical that Ireland capitalises on its underlying strengths in quantum science and engineering to derive the maximum benefit.
+Ireland can become a global attractor for international SMEs and further investment by multinationals. Irish headquartered Equal1, Rockley Photonics and IBM are examples of companies with a well-defined quantum-technologies programme and a strong presence in Ireland. Ireland can build on well-established scientific and technological leadership to develop experimental technologies, devices and systems that exploit quantum science and deliver radical, disruptive solutions. Additionally, Ireland can develop a pipeline of skilled quantum scientists and engineers to fill high-value jobs and meet the growing demand for talent, which is considered a bottleneck in the development and utilisation of quantum technologies.16,17
+There is already a significant technology and applications value chain in Ireland; there are end-to-end providers such as IBM, Google, Microsoft and Atos and global hardware players such as Intel, Analog Devices, and Huawei. If the necessary conditions are met, there is still an opportunity for quantum software players to establish operations in Ireland, and there are several companies who could potentially benefit from services, applications and skills development specifically in quantum computing, including major international organisations.
+Besides the commercial potential of the quantum-technologies sector itself, there are potentially significant gains to be earned through the application of quantum technologies in Ireland’s foremost industries. Examples include digital (machine learning, artificial intelligence, cybersecurity); pharmaceutical (drug design); finance (pricing, risk optimisation); industrial goods and energy (materials science, compound selection); and manufacturing (artificial intelligence for efficient processes). Adapting for these opportunities will require substantial investment, but not doing so is likely to result in Ireland missing the optimal window of opportunity to attract and stimulate business growth.
+Ireland’s strong research base in quantum science and the associated talent pipeline coupled with the presence of major global leaders in technology and other sectors mean it is well positioned to benefit from the second quantum revolution. While there is not yet a single strong centre of gravity in quantum technologies in Ireland, there is an underlying grass-roots quantum research and enterprise community that is gaining momentum. Given the appropriate supports, this growing community can thrive internationally as an attractor for investment and growth. Increased and coordinated investment in RD&I, talent and collaboration in quantum science and technologies is necessary to secure this position.
+
+## What is the policy context in Ireland?
+
+The National Strategy for Quantum Technologies supports and aligns with relevant national strategies, including:
+- Impact 2030: Ireland’s Research and Innovation Strategy
+- Harnessing Digital: The Digital Ireland Framework
+- Technology Skills 2022: Ireland’s Third ICT Skills Action Plan
+- Economic Recovery Plan 2021
+
+### Impact 2030
+
+Impact 2030 targets emerging and new growth areas of opportunity and research with the intention for Ireland to achieve a competitive advantage.18 Quantum computing is highlighted as one such area. The pillars of the National Quantum Technologies Strategy for Ireland 2030 strongly support and underpin the Impact 2030 strategic pillars. Indeed, all five of Impact 2030’s pillars are supported:
+- 1. Maximising the impact of research and innovation on the economy, society and the environment;
+- 2. Impact of research and innovation structures on excellence and outcomes;
+- 3. Innovation driving enterprise success;
+- 4. Talent at the heart of the research and innovation ecosystem;
+- 5. All-island, EU and global connectivity.
+
+### Harnessing Digital
+
+The recently published Harnessing Digital: The Digital Ireland Framework is led by the Department of Enterprise, Trade and Employment.19 Harnessing Digital recognises the importance of digitalisation and identifies digital leadership as a national priority. Ireland’s digital transformation will rely on research, technological advances and digital innovation across the enterprise sector, the public sector and wider society. The framework names quantum technology as one of a number of emerging areas for growth that Ireland will continue to target. It also highlights the importance of publicly funded research and working with industry to maximise economic opportunities in these areas.
+
+### Technology Skills 2022 and Economic Recovery Plan 2021
+
+In Technology Skills 2022 and Economic Recovery Plan 2021, there is significant emphasis on high-level ICT skill sets, such as computing and electrical and electronic engineering.20,21 This is instrumental in delivering on the high industry demand for skills in the design, building and maintenance of ICT systems and associated devices.
+The National Quantum Technologies Strategy for Ireland also focuses on training a new generation of engineers and scientists equipped with the tools they will need for the economy of the future. This new generation of scientists and engineers will have substantial knowledge in both quantum mechanics and its technological applications.
+
+# What is Ireland’s approach to quantum technologies?
+
+By 2030, Ireland is an internationally competitive hub in quantum technologies at the forefront of scientific and engineering advances, through research, talent, collaboration and innovation.
+This Strategy will put Ireland into a quantum super position. To develop a high-performing, highly productive, and economically competitive quantum technologies RD&I hub in Ireland, there is a need to accelerate efforts across five pillars.
+To ensure the ambitions in Pillar 1 to 4 are realised, the stakeholders involved in these pillars will also need to focus on actions outlined in Pillar 5.
+Figure 1: Framework for Quantum 2030
+Pillar 1 Pillar 2 Pillar 3 Pillar 4 Excellent fundamental and applied quantum research National and international collaboration Innovation, entrepreneurship and economic competitiveness Top science and engineering talent Pillar 5 Building awareness of quantum technologies and real-world benefits
+
+# Pillar 1:
+
+## Excellent fundamental and applied quantum research
+
+The development of quantum technologies is underpinned by advances in fundamental and applied quantum research. Ireland has a strong track record in researching fundamental quantum science and some of the key enablers for quantum technologies. To maintain this strength, to accelerate and advance research in quantum technologies and to compete on the global stage, intensified and sustainable support is required for fundamental and applied research in quantum technologies and fields underpinning their development. This includes investment in infrastructure for quantum technologies and enabling technologies, particularly in quantum computing and quantum communications, and targeted measures to build cohesion and momentum in Ireland’s quantum research community. To compete internationally, funding of quantum technologies should be strategically aligned with areas of high strength (quantum computing, quantum internet and enabling technologies) and priority for Ireland.
+
+### Key actions
+
+- 1. Invest in new quantum-technology research to accelerate growth in the Irish quantum-technology system. This should range from smaller-scale, short-term, high-risk high-gain investments to larger, longer-term, national-scale and multi-partner investments.
+- 2. Continue to support Ireland’s internationally excellent research in fields underpinning the development of quantum technologies. This ranges from fundamental science to applied quantum science and engineering. Ensure that any new activities build on the existing research base.
+- 3. Establish a virtual centre of excellence to provide a platform for collaboration and to create a critical mass of researchers and partners from the public and private sector working across the country in quantum technologies.
+CASE STUDY
+J. C. Séamus Davis, SFI Research Professor of Quantum Physics, University College Cork
+Prof. Davis investigates the fundamental physics of electronic, magnetic and atomic quantum matter. Davis and his research group have recently reported several research breakthroughs including understanding of the atomic mechanism behind room-temperature superconductors and the discovery of a Cooper-pair density wave state in the two-dimensional material niobium diselenide. These advances improve understanding of the fundamental properties of quantum matter and could potentially pave the way for room-temperature quantum computers. Davis was awarded the 2023 Buckley Physics Prize by the American Physical Society.
+- 4. Work with academia, enterprise and Government to identify the needs and opportunities for investment and collaboration with new and existing quantum-technology research infrastructure.
+- 5. Maintain existing infrastructure and support the development of new state-of-the-art infrastructure to sustain excellent research and investment in quantum technologies in Ireland. Ensure that any investment in quantum technologies infrastructure is utilised as a national, shared asset by academic, public sector and enterprise communities.
+- 6. Work across the public and private sectors to map out the opportunities to leverage, repurpose and extend existing infrastructure. For example, identify existing manufacturing and engineering facilities that could be repurposed or augmented to be used for rapidly advancing quantum technologies development.
+- 7. Play an active role in designing, developing and deploying the European Quantum Communication Infrastructure (EuroQCI) to maximise the benefit for RD&I in Ireland.22
+
+# Pillar 2:
+
+## Top science and engineering talent
+
+It is crucial to develop a sustained pipeline of graduates with transferable skills and expertise in quantum science, engineering and technology, who are ready for future roles in the public and private sector. The importance of this is threefold. First, the growth of the Irish quantum ecosystem critically depends on the provision of highly skilled graduates who will take on specialist roles across the public and private sector. Second, advances in frontier research achieved by rising talent may provide a differentiator for Ireland to establish a competitive advantage in emerging areas of quantum technologies.
+Finally, investment in the talent pipeline will not only produce a highly skilled workforce of scientists and engineers for the quantum technologies sector, but their transferable skills will add value to the ICT and related sectors also.
+Actions within this pillar seek to develop the pipeline of agile, innovative and highly skilled individuals across the spectrum of quantum science, engineering and technology while also improving equality, diversity and inclusion. This will be achieved through a coherent national training framework in quantum science and technologies and other targeted measures for upskilling. Other actions in this pillar seek to attract and retain world leaders and rising talent in quantum technologies to Ireland.
+CASE STUDY
+Quantum Science and Technology master’s in Trinity College Dublin
+In 2021, Ireland’s first master’s in Quantum Science and Technology was launched, focusing primarily on the theoretical and software aspects of this technology. The course, part-funded through the Human Capital Initiative, enables graduates to develop key skills, such as how to write programs for quantum computers, preparing them for diverse careers in industry or academia. In partnership with Microsoft Ireland, two scholarships have been offered for 2022/23 for outstanding female students wishing to undertake the master’s. Trinity College Dublin are also collaborating with IBM on quantum research and pre-doctoral training programmes.
+
+### Key actions
+
+- 1. Deliver a review of the skills implications of quantum technologies over the next ten years and the skills-related actions needed to realise the potential of quantum technologies in Ireland.
+- 2. Invest in a range of research training activities to grow and develop a talent pipeline in Ireland across the spectrum of quantum science and technology. Ireland should have a pool of top talent that meets the needs of a growing field, future enterprise and the future of work. This could be achieved through individual and cohort-based training schemes already well established in Ireland.
+- 3. Promote the establishment of a national quantum-technologies training framework. This will enable sharing of resources and expertise, e.g., through consortia for master’s and doctoral training, and increase the scale of quantum-related education as part of the learning offerings at higher-education institutions (HEIs) in Ireland. These efforts should be aligned to the national framework for doctoral education and should be designed to provide a range of skills, such as entrepreneurship, that will meet the future needs of the public and private sector.
+- 4. Identify and address skills gaps by providing supports for the upskilling of personnel. Consideration should be given to the Skillnet Ireland Initiative and apprenticeship programmes to create a quantum-ready community that will further boost the vibrant Irish ICT sector in the next decade and prepare other critical sectors in Ireland to develop and use quantum-technologies applications.
+- 5. Develop, attract and retain world-leading researchers and rising talent in quantum technologies in Ireland to carry out excellent research and to collaborate across sectors nationally and internationally. They will mentor and support the talent pipeline, attract foreign direct investment and boost entrepreneurial activity locally and nationally.
+- 6. Ensure appropriate conditions are in place to support the development and retention of the technical support and expertise required for quantum-technologies research and infrastructure use in Ireland.
+- 7. Focus on improving EDI, with a particular focus on gender, in the quantum-technologies research community across all career stages, by leveraging existing EDI initiatives of research performing bodies and funders.
+It is crucial to develop a sustained pipeline of graduates with transferable skills and expertise in quantum science, engineering and technology, who are ready for future roles in the public and private sector.
+
+# Pillar 3:
+
+## National and international collaboration
+
+The scale of the challenges and investment required to realise quantum technologies means that some projects are only feasible through large-scale national and international collaborations, often involving partners from multiple sectors. Ireland already participates in several European academic collaborations on quantum technologies and related areas. To strengthen Ireland’s position, it is essential to foster collaboration at national, All-Island, European and global levels. Furthermore, stronger collaborative relationships in Ireland between actors across academia, industry and Government must be facilitated to translate science to innovation and nurture the growth of quantum technologies. As a small country with finite resources, it is essential that we foster relationships and collaborations internationally to bring knowledge and experiences into Ireland without duplicating efforts on a smaller scale in Ireland. Ireland must increase and strengthen collaboration nationally and internationally to gain access to world-leading talent, facilities and funding opportunities and remain internationally competitive.
+
+### Key actions
+
+- 1. Establish a coordinated and connected stakeholder network of quantum science and technologies researchers, engineers, entrepreneurs, enterprise, policymakers, and research-funding partners across Ireland. This should foster dialogue and collaboration across disciplines and sectors, engage the broader community to share knowledge and experience and grow the quantum-research community. These efforts should build on NAF-QT and other existing efforts such as the ÉQUITY (Éire Strategy for Quantum Information and Technology) project.23
+- 2. Build and maintain collaboration with international partners. In particular, develop stronger links with the EU, USA and UK on quantum-technologies research. This could include developing new funding mechanisms as well as utilising established sources of funding, such as the joint UK Engineering and Physical Sciences Research Council and SFI programme to strengthen collaboration with institutions in Northern Ireland and the UK Quantum Hubs, and the US-Ireland R&D Programme to strengthen collaboration with Northern Ireland and USA institutions.24, 25
+CASE STUDY
+Convergent Quantum Research Alliance in Telecommunications
+In July 2022, an investment of €3 million was announced in Convergent Quantum Research Alliance in Telecommunications (CoQREATE) through the SFI US-Ireland Research and Development Partnership Scheme. This project brings together researchers from the Republic of Ireland (SFI Research Centres CONNECT and IPIC), Northern Ireland (Queen’s University Belfast) and the USA (National Science Foundation Engineering Research Center for Quantum Networks), to investigate technologies that will form the building blocks of a quantum internet.
+- 3. Develop mechanisms to facilitate the flow of people, knowledge, skills and innovation between academia, enterprise and Government, nationally and internationally. This will build Ireland’s reputation internationally as well as researchers’ networks and increase Ireland’s competitiveness in international funding schemes. It will also provide opportunities for Ireland to learn from international best practice, for example in ethics and regulation, without focusing significant resources nationally in these areas.
+- 4. Facilitate stronger relationships nationally and internationally between industry and the higher-education sector in Ireland. This can be through providing Irish researchers access to existing international activities and through the development of new consortia accessing investment in Ireland and the EU.
+- 5. Incentivise Irish partners from academia and enterprise to compete for the funding and collaboration opportunities that come with the EU Quantum Technologies Flagship programme, launched in 2018 with a commitment of €1bn over ten years.26
+- 6. Utilise existing and develop new mechanisms that support the access of Irish researchers to competitively engage with international partners, such as the EuroQCI and similar programmes internationally. An initial focus could be to develop a national-scale staging network within EuroQCI that will evolve to a quantum internet for Ireland connected to the EU and the rest of the world, including testbeds and facilities to support RD&I from early-stage development through to production operation.
+CASE STUDY
+Quantum Computing in Ireland initiative
+In 2020, Quantum Computing in Ireland (QCoIr) aimed to unite quantum computer researchers and lay the foundations for a quantum ecosystem in Ireland. This €11.1 million project received €7.3 million in funding from the Disruptive Technologies Innovation Fund run by the Department of Enterprise, Trade and Employment (DETE) with Enterprise Ireland. The project brings together partners from academia (Tyndall National Institute, Maynooth University, University College Dublin [UCD]) and enterprise, with participants from the multinational (IBM, Mastercard) and SME sectors (Equal1, Rockley Photonics) to collaborate on quantum computing with a particular focus on leveraging the on-chip photonic qubit platform developed in Tyndall National Institute.
+
+# Pillar 4:
+
+## Innovation, entrepreneurship and economic competitiveness
+
+A truly cohesive and economically competitive quantum research and innovation ecosystem in Ireland will require seamless collaboration between all actors across the higher-education sector, enterprise and Government. Actions within this pillar seek to stimulate innovation and entrepreneurship in quantum technologies and related areas, including in indigenous SMEs.
+Further actions will strengthen collaborative work between academia and enterprise and enable each to gain access to platform infrastructure for quantum technologies. Others seek to stimulate RD&I activities in enterprise and advance the quantum technologies pipeline towards adoption and implementation in the real world. Ireland must remain economically competitive and ensure that the breakthroughs in quantum technologies advance further down the development pipeline.
+CASE STUDY
+Ireland’s involvement in the European Quantum Communication Infrastructure
+EuroQCI aims to build a secure quantum communication infrastructure that will connect the whole EU. The Irish response to the EuroQCI call for proposals, ‘Deploying advanced national QCI systems and networks’ was approved by the European Commission in July 2022. The consortium is coordinated by the CONNECT SFI Research Centre for Future Networks & Communications. The consortium will build Ireland’s national quantum network, which will consist of QKD infrastructure along a major network backbone from Dublin to Cork via Waterford using dark fibre integrated with existing classical fibre systems. In addition, two metropolitan networks will connect to public, industry and academic organisations such as banks, Government Departments, data centres, HEIs and hospitals.
+The quantum engineering and testing facilities in South East Technological University, Trinity College Dublin and Tyndall National Institute will provide nationwide access to testing, prototyping and training. The next phase will explicitly focus on developing a European technology supply chain in which Ireland can play a strong part.
+Key Irish Partners:
+ESB Telecoms
+HEAnet: Ireland’s National Education and
+Research Network
+Irish Centre for High-End Computing,
+University of Galway
+Maynooth University
+South East Technological University,
+Walton Institute (lead)
+Trinity College Dublin
+Tyndall National Institute
+University College Dublin
+
+### Key actions
+
+- 1. Build quantum technologies RD&I into existing and new Government research and innovation programmes to improve SME and entrepreneur engagement across Ireland. Ireland must create the necessary conditions and collaborations with enterprise to incentivise their quantum-technologies RD&I operations to be conducted in Ireland and to promote the development of an indigenous SME ecosystem.
+- 2. Incentivise the involvement of enterprise from an early stage in quantum-technologies research. Work is required to identify the needs and roadblocks, coordinate efforts, address intellectual property upfront, enable enterprise to access state-of-the-art talent and facilities in the HEIs and streamline technology-transfer mechanisms between the sectors. Compliance with state aid will need to be considered from the beginning.
+- 3. Encourage and support HEIs to foster collaboration, entrepreneurship and commercialisation in quantum-technologies research to align with enterprise needs and standards. This will facilitate the seamless flow into the later stages of development, commercialisation and adoption.
+- 4. Ensure all necessary Government Departments and agencies stay abreast of the implications of quantum technologies (e.g., defence and security) and help balance the benefits of economic growth with new risks created by the technologies, as well as being prepared to be early adopters of quantum technologies in the public sector.
+- 5. Ensure enterprise working in quantum technologies work closely with traditional industrial sectors across the regions in Ireland and the public sector to identify first use cases and to develop quantum-enabled solutions for tomorrow’s digital world.
+- 6. Ensure Ireland plays an active role in securing the EU supply chains in quantum technologies and key enabling technologies.
+- 7. Develop a network between research performers and enterprise across the full supply chain for developing quantum technologies: from materials-processing and device fabrication, to hardware and infrastructure, quantum programming software and quantum algorithms.
+CASE STUDY
+Equal1
+Equal1 is a quantum-computing SME that spun out from UCD. It currently is headquartered in Dublin with facilities in Silicon Valley, California, Romania and Canada. The company is developing scalable quantum-on-chip quantum computing technology using silicon semiconductor processes and has demonstrated a fully integrated quantum processor unit operating at 3.7 kelvin. Equal1 has been funded by Atlantic Bridge, Enterprise Ireland, Matterwave and European Innovation Council and is a leader in the most scalable approach to quantum computing.
+Equal1’s story highlights the need for a collaborative ecosystem in quantum technologies. The company was co-founded by Dr. Dirk Leipold, Prof. Robert Bogdan Staszewski (an SFI Research Professor of Electronic Circuits at UCD) and Mike Asker. Current Chief Scientific Officer Elena Blokhina is an Associate Prof. in the School of Electrical and Electronic Engineering in UCD.
+
+# Pillar 5:
+
+## Building awareness of quantum technologies and real-world benefits
+
+As RD&I in quantum science and technologies ramps up across the other four pillars, increased efforts are required to better communicate the value of these efforts and the associated opportunities for Ireland. This is required across a range of stakeholders from policymakers to enterprise, end users and the public.
+This pillar is entangled with the other four pillars and cannot be delivered in isolation. Actions detailed here include effectively communicating the opportunities and showcasing the benefits of quantum technologies to stakeholders. They also include targeted measures to engage the public and private sector, the education sector and the public in quantum science with the aim of realising a quantum-literate society. Other actions are focused on linking advances in quantum technologies with other national and Government priorities.
+
+### Key actions
+
+- 1. Promote nationally and internationally the research ongoing in quantum technology in Ireland and its associated benefits to attract talent and enterprise and to establish Ireland as a hub for quantum technologies.
+- 2. Raise awareness and understanding of emerging quantum technologies within enterprise, particularly in SMEs, and the potential business benefits and opportunities to be derived from engaging in quantum technologies.
+- 3. Promote and expand activities that inform and engage the general public in quantum science and technologies. Building on the public-engagement exercise, Creating Our Future, novel approaches should be developed when engaging with the public.27
+CASE STUDY
+Éire Strategy for Quantum Information and Technology
+The Éire Strategy for Quantum Information and Technology (ÉQUITY) project aims to map out the expertise in quantum science across Ireland, enhance all-island impact through forging and strengthening collaborative efforts, and engage at all levels to demonstrate the benefits of quantum science. This nine-month project, led by Dr Steve Campbell of UCD, was funded through the Irish Research Council’s New Foundation scheme as part of the Shared Island initiative. In May 2022, a workshop was held in UCD bringing together stakeholders from across academia, industry and funding agencies. A quantum festival and early-career event took place in UCD in September 2022.
+- 4. Develop and implement courses to educate and stimulate children and young people’s interest in quantum science and technologies at an early stage. Build on the wider STEM (science, technology, engineering and mathematics) efforts already ongoing in Ireland to grow diverse and inclusive participation in science education and to increase awareness within undergraduate programmes in Ireland. Consideration should be given to build quantum literacy in schools. This could be initiated through piloting a programme that brings together stakeholders from the Department of Education, teachers, students and quantum researchers to generate material on core concepts taught in secondary-level subjects such as physics, chemistry, mathematics and computer science through a quantum-technology lens.
+- 5. Identify and promote opportunities for quantum technologies to address other Government priorities, for example in Ireland’s energy and climate plans for 2030 and the national cybersecurity strategy.
+- 6. Establish a quantum-technologies awareness working group with broad representation across society to identify use cases and to champion awareness of the potential of quantum technologies to benefit Ireland’s economy and society.
+
+# Appendix A
+
+## Snapshot of Ireland’s involvement in European quantum-technologies activities
+
+Ireland has participated in a variety of EU activities related to quantum technologies. SFI has been part of the consortia of EU funding agencies QuantERA and QuantERA II since 2015. QuantERA and QuantERA II have provided financial support both to basic science underpinning quantum technologies and to applications within the ERANET (European Research Area Network) Cofund programme of the European Commission. In 2017, the consortium elected a researcher from Maynooth University as one of the members of its strategic advisory board.
+In 2018 researchers from Tyndall National Institute and Cork Institute of Technology (now Munster Technological University) secured QuantERA funding as a part of the project CUSPIDOR (CMOS Compatible Single Photon Sources based on SiGe Quantum Dots). Further success followed in QuantERA II with researchers from Trinity College Dublin coordinating the project DISCO (Dicke-enhanced single-emitter strong coupling at ambient conditions as a quantum resource).
+The Irish community also contributed to the preparation of the Quantum Technologies Flagship programme. Since 2018, researchers from Maynooth University and Tyndall National Institute have participated in the flagship’s Quantum Community Network board, which forms an integral part of the flagship governance. In this position they have significantly contributed to both national and European developments in quantum technologies.
+In 2019, the Irish Centre for High-End Computing (ICHEC) secured the organisation of the second European Quantum Technologies Conference, which took place virtually in 2021 and which was in part funded by the Coordination and Support Action QFlag. ICHEC also secured a place in the consortium of the flagship project NEASQC (Next Applications of Quantum Computing) dedicated to the development of quantum-computing applications, and it participates in the European High Performance Computing project HPCQS (High Performance Computer-Quantum Simulator hybrid) on a quantum simulator pilot.
+Tyndall National Institute leads the European Research Infrastructure project ASCENT+ (European Nanoelectronics Access) which facilitates free-of-charge access to major European infrastructures to advanced materials and devices for quantum computing and sensing. Regarding the European Quantum Industry Consortium, the situation is developing rapidly with growing representation from Ireland’s SMEs, such as Equal1.28
+Furthermore, Ireland has recently joined the declaration supporting development of EuroQCI and has been preparing for the Digital Europe programme and the Connecting Europe Facility actions.1 These activities will support the development of national and cross-border quantum communication networks (terrestrial and space-based), the development of European devices and systems, and a testing certification infrastructure to prepare for the use of new technologies in EuroQCI. EuroQCI objectives align with Ireland’s Digital Strategy to position Ireland as a digital leader, driving and enabling digital transformation across the economy and society through innovative devices and systems. Future stages of EuroQCI will support the National Space Strategy for Enterprise 2019–25 and its key aims in research, innovation, education and industry exploitation of technology.
+As the EuroQCI initiative develops further, there will also be a need for the national development of secure quantum networks. The CONNECT SFI Research Centre for Future Networks & Communications has been designated by DECC to lead IrelandQCI (Ireland Quantum Communication Infrastructure).
+Considering the quantity of data transiting through downlinks and the need to store and process the ever-growing volume of Earth observation data, hybrid quantum algorithms that combine conventional and quantum computing will need to be developed to maximise the insights derived from these massive data sets. A number of research proposals have been funded in quantum and satellite communications, which is a new strategic research theme for CONNECT.
+
+# Appendix B
+
+## Acronyms and abbreviations
+
+CONNECT
+SFI Research Centre for Future Networks and Communications
+CoQREATE
+Convergent Quantum Research Alliance in Telecommunications
+DBEI
+Department of Business, Enterprise and Innovation (remit now largely covered by DETE)
+DECC
+Department of the Environment, Climate and Communications
+DETE
+Department of Enterprise, Trade and Employment
+DFHERIS
+Department of Further and Higher Education, Research, Innovation and Science
+EDI
+Equality, diversity and inclusion
+ÉQUITY
+Éire Strategy for Quantum Information and Technology
+ERA-NET
+European Research Area Network
+EU
+European Union
+EuroQCI
+European Quantum Communication Infrastructure
+HEI
+Higher Education Institution
+ICHEC
+Irish Centre for High-End Computing
+ICT
+Information and communications technology
+IDA
+Industrial Development Agency
+IPIC
+SFI Research Centre for Photonics
+NAF-QT
+National Advisory Forum for Quantum Technologies
+QCoIr
+Quantum Computing in Ireland
+QKD
+Quantum key distribution
+QT
+Quantum technologies
+RD&I
+Research, development and innovation
+SFI
+Science Foundation Ireland
+SME
+Small and medium-sized enterprise
+STEM
+Science, technology, engineering and mathematics
+UCD
+University College Dublin
+UK
+United Kingdom
+USA
+United States of America
+
+# Appendix C
+
+## Glossary of quantum terms
+
+What is quantum technology?
+Quantum technology is an emerging field of science and engineering which is about creating practical applications based on properties of quantum mechanics, especially quantum superposition, interference and entanglement. Quantum technologies can be categorised into four main areas: computing, communication, simulation, and sensing.
+What is quantum superposition?
+An unobserved particle (or quantum system) exists in many possible states simultaneously. Like waves in classical physics, a quantum system can be described by the addition of two or more (superposed) states.
+What is quantum interference?
+Since a particle (or quantum system) can be in more than one place or state at any given time through superposition, the possibility exists that its quantum states can either reinforce or diminish each other, much like classical waves. This is quantum interference.
+What is quantum entanglement?
+When two particles (or quantum systems) are prepared in a superposition (entangled) state, they remain connected so observing the state of one immediately affects the other, even when separated by great distances.
+What is a qubit?
+A qubit is the fundamental unit of quantum information theory based on a superposition of two states. It is the quantum analogue of the binary bit in classical information.
+
+# Appendix D
+
+## Membership of the National Advisory Forum for Quantum Technologies
+
+DETE (Department of Enterprise, Trade and Employment): David Barrett and Céline McHugh
+DFHERIS: Peter Healy, Lola Hourihane and Paddy Howard
+Enterprise Ireland: Thomas Melia and Stephen O’Reilly
+Equal1: Elena Blokhina*
+IBM: Juan Bernabe-Moreno and Martin Mevissen
+ICHEC: Jean-Christophe Desplat* and Venkatesh Kannan*
+IDA: Brendan Bonner
+Intel: Jim Kenneally
+Maynooth University: Joost Slingerland and Jiri Vala*
+Microsoft: Kieran McCorry
+Queen’s University Belfast: Mauro Paternostro*
+SFI: Aisling McEvoy, Maria Nash, and Ciarán Seoighe
+Trinity College Dublin: John Goold and Stefano Sanvito
+Tyndall National Institute: Giorgos Fagas* and Emanuele Pelucchi*
+University College Cork: J. C. Séamus Davis and Andreas Ruschhaupt*
+University College Dublin: Robert Bogdan Staszewski*
+University of Galway: Mark Howard and Michael McGettrick*
+Note: * signifies members of the National Advisory Forum subgroup who drafted the strategy on behalf of the wider group.
+
+# Appendix E
+
+## Journey of Ireland’s Strategy for Quantum Technologies
+
+Q3 Tyndall National Institute produced the White Paper on quantum technologies (QT). Q4 IDA hosted a QT discussion forum. Q4 IDA, Enterprise Ireland, SFI and Department of Business, Enterprise and Innovation discuss QT. SFI appointed lead agency for QT. Q1 National QT Workshop hosted by SFI. Q2-3 NAF-QT established and inaugural meeting hosted. Q4 NAF-QT subgroup established to draft strategy. Q2-4 Drafts of the National Strategy presented to NAF-QT and feedback gathered. Q4 Recommendations for the National Strategy for QT presented to DFHERIS. Q2 Impact 2030 published by DFHERIS, committing to action on QT. Q2 Recommendations for the National Strategy presented at the ÉQUITY All-Island workshop. Q3 National QT webinar hosted by SFI; written feedback received on draft National Strategy from community (including Government Departments). Q3 Final revisions made to National Strategy (DFHERIS, SFI, NAF-QT subgroup leads). Q4 National Strategy approved by DFHERIS & Cabinet. Q4 Ireland’s National QT Strategy published. 2019 2020 2021 2022 2023

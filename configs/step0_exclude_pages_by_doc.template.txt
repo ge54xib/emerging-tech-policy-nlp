@@ -1,0 +1,29 @@
+# Step0 per-document page exclusions (human page numbers, 1-based).
+# One row per document:
+# <exact_doc_stem>:<comma-separated pages>
+# Example:
+# DK_2023_Strategy for Quantum Technology Part 1:1,2
+
+AUS_2023_National Quantum Strategy:2,3
+CAN_2022_Canada's National Quantum Strategy:2,3
+CZE_2025_National Strategy for Quantum Technologies:2,50,51
+DNK_2023_Strategy for Quantum Technology Part 1:2,3
+DNK_2023_Strategy for Quantum Technology Part 2:2,3,24
+ESP_2025_Strategy of Quantum Technologies of Spain:2,4,5
+FIN_2025_Finland’s Quantum Technology Strategy 2025-2035:2,3,4,5,6,7,54,55
+FRA_2021_National Strategy on Quantum Technologies:2,26
+GER_2018_Quantum technologies – from basic research to market:2
+GER_2023_Quantum Technologies Conceptual Framework Programme:2,49,50,51
+IRL_2023_Quantum 2030:32,33,34,35,36
+ITA_2025_ITALIAN STRATEGY FOR QUANTUM TECHNOLOGIES:3,4,5,72
+JPN_2022_Vision of Quantum Future Society:2
+JPN_2023_Strategy of Quantum Future Industry Development:2
+JPN_2024_Promotion Measures for the Development of Quantum Industries:2
+KOR_2023_Koreas National Quantum Strategy:2,49
+NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY:50
+ROU_2024_National Strategy in the Field of Quantum Technologies for the Period 2024-2029:3,4
+SVN_2025_Strategy for the Development of Quantum Technologies:2,5,73
+GBR_2023_National Quantum Strategy:2,3,4,61
+USA_2018_NATIONAL STRATEGIC OVERVIEW FOR QUANTUM INFORMATION SCIENCE:2,3,5
+USA_2020_A Strategic Vision for Americas Quantum Networks:4
+USA_2022_QUANTUM INFORMATION SCIENCE AND TECHNOLOGY WORKFORCE DEVELOPMENT NATIONAL STRATEGIC PLAN:2,3,4

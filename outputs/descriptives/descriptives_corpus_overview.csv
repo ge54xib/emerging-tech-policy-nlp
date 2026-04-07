@@ -1,0 +1,23 @@
+Country,Year,Doc_Name,Paragraphs,Entities_NER,Entities_Classified,Gov,Ind,Acad,CS,Int,HBI
+GER,2018,GER_2018_Quantum technologies – from basic research to market,115,244,208,55,8,130,0,15,0.5967
+USA,2018,USA_2018_NATIONAL STRATEGIC OVERVIEW FOR QUANTUM INFORMATION SCIENCE,45,55,48,46,0,1,0,1,0.1256
+NLD,2019,NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY,226,296,218,32,70,74,10,32,0.8924
+USA,2020,USA_2020_A Strategic Vision for Americas Quantum Networks,5,22,17,17,0,0,0,0,0.0000
+FRA,2021,FRA_2021_National Strategy on Quantum Technologies,90,60,49,22,13,10,0,4,0.7707
+CAN,2022,CAN_2022_Canada's National Quantum Strategy,109,128,98,61,5,15,1,16,0.6691
+JPN,2022,JPN_2022_Vision of Quantum Future Society,64,45,35,11,7,7,4,6,0.9679
+USA,2022,USA_2022_QUANTUM INFORMATION SCIENCE AND TECHNOLOGY WORKFORCE DEVELOPMENT NATIONAL STRATEGIC PLAN,47,127,86,70,1,2,0,13,0.3681
+AUS,2023,AUS_2023_National Quantum Strategy,184,125,106,36,28,34,0,8,0.7942
+DNK,2023,DNK_2023_Strategy for Quantum Technology Part 1,70,73,59,31,1,13,8,6,0.7729
+DNK,2023,DNK_2023_Strategy for Quantum Technology Part 2,58,58,47,15,17,3,2,10,0.8522
+GBR,2023,GBR_2023_National Quantum Strategy,116,166,145,63,12,22,19,29,0.8964
+GER,2023,GER_2023_Quantum Technologies Conceptual Framework Programme,160,143,117,46,6,39,2,24,0.7954
+IRL,2023,IRL_2023_Quantum 2030,77,136,119,47,25,33,1,13,0.8279
+JPN,2023,JPN_2023_Strategy of Quantum Future Industry Development,126,28,20,11,1,2,0,6,0.6649
+KOR,2023,KOR_2023_Koreas National Quantum Strategy,208,42,30,10,8,7,1,4,0.8949
+JPN,2024,JPN_2024_Promotion Measures for the Development of Quantum Industries,116,65,51,25,2,11,2,11,0.7861
+CZE,2025,CZE_2025_National Strategy for Quantum Technologies,41,166,143,69,14,39,2,19,0.7837
+ESP,2025,ESP_2025_Strategy of Quantum Technologies of Spain,94,185,152,92,1,25,1,33,0.6204
+FIN,2025,FIN_2025_Finland’s Quantum Technology Strategy 2025-2035,66,104,95,49,8,15,0,23,0.7361
+ITA,2025,ITA_2025_ITALIAN STRATEGY FOR QUANTUM TECHNOLOGIES,210,156,98,47,2,12,2,35,0.7059
+SVN,2025,SVN_2025_Strategy for the Development of Quantum Technologies,145,260,197,117,10,34,3,33,0.7002

@@ -1,0 +1,374 @@
+{
+  "id": "rq1_actor_prominence_and_balance",
+  "title": "RQ1 Actor Prominence and Helix Balance by Country",
+  "generated_utc": "2026-04-06T16:33:05.442189+00:00",
+  "helix_values": [
+    "government",
+    "industry",
+    "academia",
+    "civil_society",
+    "intermediary"
+  ],
+  "definition_helix_balance_index": "Normalized Shannon entropy over helix shares within each country.",
+  "rows": [
+    {
+      "country": "USA",
+      "total_mentions": 151,
+      "total_paragraphs": 97,
+      "helix_balance_index": 0.275486667834137,
+      "shares": {
+        "government": 0.8807947019867549,
+        "industry": 0.006622516556291391,
+        "academia": 0.019867549668874173,
+        "civil_society": 0.0,
+        "intermediary": 0.09271523178807947
+      },
+      "densities_per_paragraph": {
+        "government": 1.3711340206185567,
+        "industry": 0.010309278350515464,
+        "academia": 0.030927835051546393,
+        "civil_society": 0.0,
+        "intermediary": 0.14432989690721648
+      }
+    },
+    {
+      "country": "ESP",
+      "total_mentions": 152,
+      "total_paragraphs": 94,
+      "helix_balance_index": 0.6203892175381387,
+      "shares": {
+        "government": 0.6052631578947368,
+        "industry": 0.006578947368421052,
+        "academia": 0.16447368421052633,
+        "civil_society": 0.006578947368421052,
+        "intermediary": 0.21710526315789475
+      },
+      "densities_per_paragraph": {
+        "government": 0.9787234042553191,
+        "industry": 0.010638297872340425,
+        "academia": 0.26595744680851063,
+        "civil_society": 0.010638297872340425,
+        "intermediary": 0.35106382978723405
+      }
+    },
+    {
+      "country": "CAN",
+      "total_mentions": 98,
+      "total_paragraphs": 109,
+      "helix_balance_index": 0.6691025623983153,
+      "shares": {
+        "government": 0.6224489795918368,
+        "industry": 0.05102040816326531,
+        "academia": 0.15306122448979592,
+        "civil_society": 0.01020408163265306,
+        "intermediary": 0.16326530612244897
+      },
+      "densities_per_paragraph": {
+        "government": 0.5596330275229358,
+        "industry": 0.045871559633027525,
+        "academia": 0.13761467889908258,
+        "civil_society": 0.009174311926605505,
+        "intermediary": 0.14678899082568808
+      }
+    },
+    {
+      "country": "GER",
+      "total_mentions": 325,
+      "total_paragraphs": 275,
+      "helix_balance_index": 0.6986693930385501,
+      "shares": {
+        "government": 0.31076923076923074,
+        "industry": 0.043076923076923075,
+        "academia": 0.52,
+        "civil_society": 0.006153846153846154,
+        "intermediary": 0.12
+      },
+      "densities_per_paragraph": {
+        "government": 0.36727272727272725,
+        "industry": 0.05090909090909091,
+        "academia": 0.6145454545454545,
+        "civil_society": 0.007272727272727273,
+        "intermediary": 0.14181818181818182
+      }
+    },
+    {
+      "country": "SVN",
+      "total_mentions": 197,
+      "total_paragraphs": 145,
+      "helix_balance_index": 0.7002289821218035,
+      "shares": {
+        "government": 0.5939086294416244,
+        "industry": 0.050761421319796954,
+        "academia": 0.17258883248730963,
+        "civil_society": 0.015228426395939087,
+        "intermediary": 0.16751269035532995
+      },
+      "densities_per_paragraph": {
+        "government": 0.8068965517241379,
+        "industry": 0.06896551724137931,
+        "academia": 0.23448275862068965,
+        "civil_society": 0.020689655172413793,
+        "intermediary": 0.22758620689655173
+      }
+    },
+    {
+      "country": "ITA",
+      "total_mentions": 98,
+      "total_paragraphs": 210,
+      "helix_balance_index": 0.7059203339057805,
+      "shares": {
+        "government": 0.47959183673469385,
+        "industry": 0.02040816326530612,
+        "academia": 0.12244897959183673,
+        "civil_society": 0.02040816326530612,
+        "intermediary": 0.35714285714285715
+      },
+      "densities_per_paragraph": {
+        "government": 0.22380952380952382,
+        "industry": 0.009523809523809525,
+        "academia": 0.05714285714285714,
+        "civil_society": 0.009523809523809525,
+        "intermediary": 0.16666666666666666
+      }
+    },
+    {
+      "country": "FIN",
+      "total_mentions": 95,
+      "total_paragraphs": 66,
+      "helix_balance_index": 0.7360952208272519,
+      "shares": {
+        "government": 0.5157894736842106,
+        "industry": 0.08421052631578947,
+        "academia": 0.15789473684210525,
+        "civil_society": 0.0,
+        "intermediary": 0.24210526315789474
+      },
+      "densities_per_paragraph": {
+        "government": 0.7424242424242424,
+        "industry": 0.12121212121212122,
+        "academia": 0.22727272727272727,
+        "civil_society": 0.0,
+        "intermediary": 0.3484848484848485
+      }
+    },
+    {
+      "country": "FRA",
+      "total_mentions": 49,
+      "total_paragraphs": 90,
+      "helix_balance_index": 0.7707202181827574,
+      "shares": {
+        "government": 0.4489795918367347,
+        "industry": 0.2653061224489796,
+        "academia": 0.20408163265306123,
+        "civil_society": 0.0,
+        "intermediary": 0.08163265306122448
+      },
+      "densities_per_paragraph": {
+        "government": 0.24444444444444444,
+        "industry": 0.14444444444444443,
+        "academia": 0.1111111111111111,
+        "civil_society": 0.0,
+        "intermediary": 0.044444444444444446
+      }
+    },
+    {
+      "country": "CZE",
+      "total_mentions": 143,
+      "total_paragraphs": 41,
+      "helix_balance_index": 0.7837383801571283,
+      "shares": {
+        "government": 0.4825174825174825,
+        "industry": 0.0979020979020979,
+        "academia": 0.2727272727272727,
+        "civil_society": 0.013986013986013986,
+        "intermediary": 0.13286713286713286
+      },
+      "densities_per_paragraph": {
+        "government": 1.6829268292682926,
+        "industry": 0.34146341463414637,
+        "academia": 0.9512195121951219,
+        "civil_society": 0.04878048780487805,
+        "intermediary": 0.4634146341463415
+      }
+    },
+    {
+      "country": "AUS",
+      "total_mentions": 106,
+      "total_paragraphs": 184,
+      "helix_balance_index": 0.7941618593569063,
+      "shares": {
+        "government": 0.33962264150943394,
+        "industry": 0.2641509433962264,
+        "academia": 0.32075471698113206,
+        "civil_society": 0.0,
+        "intermediary": 0.07547169811320754
+      },
+      "densities_per_paragraph": {
+        "government": 0.1956521739130435,
+        "industry": 0.15217391304347827,
+        "academia": 0.18478260869565216,
+        "civil_society": 0.0,
+        "intermediary": 0.043478260869565216
+      }
+    },
+    {
+      "country": "IRL",
+      "total_mentions": 119,
+      "total_paragraphs": 77,
+      "helix_balance_index": 0.8278780054012089,
+      "shares": {
+        "government": 0.3949579831932773,
+        "industry": 0.21008403361344538,
+        "academia": 0.2773109243697479,
+        "civil_society": 0.008403361344537815,
+        "intermediary": 0.1092436974789916
+      },
+      "densities_per_paragraph": {
+        "government": 0.6103896103896104,
+        "industry": 0.3246753246753247,
+        "academia": 0.42857142857142855,
+        "civil_society": 0.012987012987012988,
+        "intermediary": 0.16883116883116883
+      }
+    },
+    {
+      "country": "JPN",
+      "total_mentions": 106,
+      "total_paragraphs": 306,
+      "helix_balance_index": 0.864946215382094,
+      "shares": {
+        "government": 0.44339622641509435,
+        "industry": 0.09433962264150944,
+        "academia": 0.18867924528301888,
+        "civil_society": 0.05660377358490566,
+        "intermediary": 0.2169811320754717
+      },
+      "densities_per_paragraph": {
+        "government": 0.15359477124183007,
+        "industry": 0.032679738562091505,
+        "academia": 0.06535947712418301,
+        "civil_society": 0.0196078431372549,
+        "intermediary": 0.07516339869281045
+      }
+    },
+    {
+      "country": "NLD",
+      "total_mentions": 218,
+      "total_paragraphs": 226,
+      "helix_balance_index": 0.8923609227413234,
+      "shares": {
+        "government": 0.14678899082568808,
+        "industry": 0.3211009174311927,
+        "academia": 0.3394495412844037,
+        "civil_society": 0.045871559633027525,
+        "intermediary": 0.14678899082568808
+      },
+      "densities_per_paragraph": {
+        "government": 0.1415929203539823,
+        "industry": 0.30973451327433627,
+        "academia": 0.3274336283185841,
+        "civil_society": 0.04424778761061947,
+        "intermediary": 0.1415929203539823
+      }
+    },
+    {
+      "country": "KOR",
+      "total_mentions": 30,
+      "total_paragraphs": 208,
+      "helix_balance_index": 0.8948877817281224,
+      "shares": {
+        "government": 0.3333333333333333,
+        "industry": 0.26666666666666666,
+        "academia": 0.23333333333333334,
+        "civil_society": 0.03333333333333333,
+        "intermediary": 0.13333333333333333
+      },
+      "densities_per_paragraph": {
+        "government": 0.04807692307692308,
+        "industry": 0.038461538461538464,
+        "academia": 0.03365384615384615,
+        "civil_society": 0.004807692307692308,
+        "intermediary": 0.019230769230769232
+      }
+    },
+    {
+      "country": "GBR",
+      "total_mentions": 145,
+      "total_paragraphs": 116,
+      "helix_balance_index": 0.8963985022007861,
+      "shares": {
+        "government": 0.43448275862068964,
+        "industry": 0.08275862068965517,
+        "academia": 0.15172413793103448,
+        "civil_society": 0.1310344827586207,
+        "intermediary": 0.2
+      },
+      "densities_per_paragraph": {
+        "government": 0.5431034482758621,
+        "industry": 0.10344827586206896,
+        "academia": 0.1896551724137931,
+        "civil_society": 0.16379310344827586,
+        "intermediary": 0.25
+      }
+    },
+    {
+      "country": "DNK",
+      "total_mentions": 106,
+      "total_paragraphs": 128,
+      "helix_balance_index": 0.9052243787800802,
+      "shares": {
+        "government": 0.4339622641509434,
+        "industry": 0.16981132075471697,
+        "academia": 0.1509433962264151,
+        "civil_society": 0.09433962264150944,
+        "intermediary": 0.1509433962264151
+      },
+      "densities_per_paragraph": {
+        "government": 0.359375,
+        "industry": 0.140625,
+        "academia": 0.125,
+        "civil_society": 0.078125,
+        "intermediary": 0.125
+      }
+    }
+  ],
+  "rankings": {
+    "by_total_mentions": [
+      "GER",
+      "NLD",
+      "SVN",
+      "ESP",
+      "USA",
+      "GBR",
+      "CZE",
+      "IRL",
+      "AUS",
+      "JPN",
+      "DNK",
+      "CAN",
+      "ITA",
+      "FIN",
+      "FRA",
+      "KOR"
+    ],
+    "by_helix_balance_index": [
+      "USA",
+      "ESP",
+      "CAN",
+      "GER",
+      "SVN",
+      "ITA",
+      "FIN",
+      "FRA",
+      "CZE",
+      "AUS",
+      "IRL",
+      "JPN",
+      "NLD",
+      "KOR",
+      "GBR",
+      "DNK"
+    ]
+  },
+  "figure_path": "/workspace/emerging-tech-policy-nlp/outputs/rq1/rq1_actor_prominence_and_balance.png"
+}

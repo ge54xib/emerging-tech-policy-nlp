@@ -1,0 +1,11 @@
+Helix,Count,Share,Countries_Present
+government,972,0.4546,22
+industry,239,0.1118,20
+academia,528,0.2470,21
+civil_society,58,0.0271,14
+intermediary,341,0.1595,21
+--- Global stats ---,,,
+R&D share (all entities),,0.5510,
+Non-R&D share (all entities),,0.4476,
+Multi-sphere share (all entities),,0.1595,
+Individual actor share (all entities),,0.0463,

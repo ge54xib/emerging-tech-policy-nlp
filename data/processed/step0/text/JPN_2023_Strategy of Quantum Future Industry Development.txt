@@ -1,0 +1,437 @@
+Quantum Future Industry Creation Strategy
+April 14, 2023
+Integrated Innovation Strategy Promotion Council
+
+# 1. Introduction
+
+- ✓ The "Quantum Future Society Vision"(Integrated Innovation Strategy Promotion Council, April 22, 2022) outlines a vision for achieving a sustainable society, economy, and environment through the utilization of quantum technology. It sets three goals: increasing the number of domestic quantum technology users to 10 million by 2030, achieving a production value of 50 trillion yen through quantum technology, and creating quantum unicorn venture companies that pioneer future markets.
+- ✓ To achieve these goals, it is crucial to advance the practical application and industrialization of quantum technology, linking it to value creation such as productivity enhancement, new industry creation, and solving societal challenges. Particularly, to realize the targeted number of users and production value, it is vital for diverse industries to utilize quantum technology in their own businesses and services, thereby forming a broad-based market.
+- ✓ To promote the adoption of quantum technology across diverse industries, it is vital to focus on creating valuable use cases tailored to each sector. Examples include use cases in industrial fields (e.g., materials, chemistry, finance, health/medical, manufacturing, logistics/transportation, AI, information and communications) and addressing societal challenges (e.g., environment, water, food, energy, urban development, defense).Furthermore, actively disseminating information about the outcomes and value of these use cases is vital, as is creating an environment where executives and others understand this value and can utilize quantum technology in their business activities. Additionally, establishing an environment where diverse industries can effectively utilize quantum computers andrelatedtechnologiesiscrucial.
+- ✓ The value market created by the utilization of quantum technology is expected to reach enormous scale in the future. Consequently, overseas, public and private investment is intensifying, and private companies are actively and rapidly expanding globally, leading to fierce international competition. Furthermore, as this is an industry requiring advanced technical capabilities, many private companies are developing businesses in close collaboration with universities and research institutions. This represents an area where basic research and industrial application are becoming closer than ever before.
+- ✓ Therefore, for practical application and industrialization, it is crucial for industry, academia, and government to unite. While conducting fundamental research, they must strategically consider future business development from an early stage, with an eye toward global collaboration and expansion, accelerating efforts more than ever before.
+- ✓ In emerging markets where quantum technology creates new value, startups and venture companies pioneering unprecedented new businesses and services can become key players. On the other hand, since much quantum technology requires long-term investment before practical application and industrialization, it is vital to form a venture ecosystem by attracting investment and talent to startups, etc., with a long-term perspective, taking into account the market characteristics of quantum technology fields requiring sustained investment.
+- ✓
+Inthefuture,astechnologieslikeAI,Beyond 5G, and semiconductors undergo rapid innovation and markets evolve at a dizzying pace, combining these with quantum technology is expected to drive socioeconomic development.
+Furthermore, efforts toward realizing a sustainable socio-economic system, including SDGs and a decarbonized society, will be demanded more than ever, and quantum technology is expected to make significant contributions. When pursuing the practical application and industrialization of quantum technology, it is also important to maintain a perspective that flexibly responds to such technological innovations and future changes in the economy and society.
+- ✓ Based on these considerations, and to achieve the goals outlined in the Quantum Future Society Vision, this report presents the policies to be pursued and the specific, priority initiatives to be undertaken for the practical application and industrialization of quantum technology, under collaboration between industry, academia, and government.
+
+# 2. Positioning of This Report
+
+The Quantum Future Society Vision complements the "Quantum Technology Innovation Strategy" (January 21, 2020, Integrated Innovation Strategy Promotion Council)(essentially a "Quantum Technology R&D Strategy"). In contrast, the Quantum Future Society Vision was formulated asa"Strategy for Societal Transformation through Quantum Technology"—outlining the future society envisioned through quantum technology and the strategy for its realization—to leverage quantum technology for creating growth opportunities for Japanese industry, solving societal challenges, and achieving transformation across society as a whole.
+This report is formulated as a strategy outlining the policies and action plans for the practical application and industrialization of quantum technology. It aims to achievethe goals setforthinthe Quantum Future Society Vision through collaboration among industry, academia, and government, and specifies the direction to pursue for the practical application and industrialization of quantum technology, along with concrete initiatives that should be prioritized and focused on in the immediate term. In essence, it is a strategy presenting the policies and action plans for the practical application and industrialization of quantum technology.
+
+# 3. Future Industrial Direction to Pursue
+
+- (1) Participation, Collaboration, and Co-creation Across Diverse Industries
+(Software and Hardware)
+（i） Creation and deployment of services through diverse user participation
+- ✓ The majority of the market/value chain for the future quantum industry 1(<>)is expected to be in the service sector. Therefore, it isanticipatedthat user industries providing services across various fields will participate in the quantum technology sector. Under the collaboration and co-creation of diverse stakeholders from industry, academia, and government, new services utilizing quantum technology will be created and deployed in each field. As a result, it is expected that a model will be formed where funds circulate fromservicestohardware.
+- ✓ Furthermore, for user industries, quantum technology is merely one tool among many for advancing business activities. From this perspective, it is also expected that an environment will be created where executives and others fully understand the benefits of introducing quantum technology compared to other technologies, enabling them to leverage quantum technology in their respective business activities to achieve productivity improvements and the creation of new industries.
+- ✓ Furthermore, it is crucial to establish mechanisms where investors actively evaluate and invest in companies effectively utilizing such quantum technology in their business activities.
+- （ii） Hardware and System Manufacturing Through Broad Industry Participation and Co-creation
+- ✓ When manufacturing hardware systems like quantum computers, broad participation and co-creation are expected from a wide range of industries, including SMEs, spanning devices, components, materials, electronics, semiconductors, architecture/systems, refrigeration units, and manufacturing process equipment. Furthermore, it is crucial to incorporate user needs into the hardwaresystems throughco-creationwithusers from an early stage.
+- ✓ Furthermore, it is expected that Japan will strategically capture the global market in areas where its industries have strengths, such as materials and devices, as well as in strategically important technology fields (choke point areas). Additionally, it is expected that Japan will build resilient and stable supply chains while collaborating globally with companies from like-minded nations.
+✓ Regarding future hardware and system-related businesses, the focus is shifting from businesses combining hardware with software and services (such as cloud-based computing resource provision services and computing/solution provision services) to hardware sales (hardware-only sales).
+At present, the market is in its infancy, with technology approaches and business models yet to be established.
+- ✓ Currently, as this is a nascent market, technical approaches and business models are not yet fixed. It is crucial to respond flexibly (resiliently) and swiftly (agile) to maximize winning strategies while anticipating future developments, enabling pivots at any time.Furthermore, it is expected that companies will strategically collaborate to reduce business risks and build stable supply chains. This could involve establishing common parts and materials across multiple technology approaches for manufacturing, or adopting parts and materials compatible with off-the-shelf products.
+- (2)
+An Environment Where Many Industries Can Access and Utilize Quantum Technology
+- ✓ Currently, utilizing quantum technologies like quantum computers requires specialized knowledge, and development environments differ for each computer, presenting significant barriers for user companies.
+- ✓ To lower these barriers, the development of companies providing user-friendly environments for accessing quantum computers and services supporting user companies' utilization of quantum technology (such as educational services and consulting) is anticipated.
+- ✓ In the future, it will be crucial to enable everyone to use quantum technology without conscious effort. To achievethis,building user-friendly services is anticipated—services that maintain conventionaluser interfacesas much as possible while automatically distributing computational tasks to eitherclasicaorl quantum technology in the background for specific problems.
+- ✓ Furthermore, it is important to adopt perspectivessuchas building and utilizing quantum-classical hybrid systems that complement the strengths of conventional (classical) technology and quantum technology, rather than making everything quantum. Another important perspective is migration (system transition), such as gradually replacing some conventional technology components with quantum technologywithinservices,dependingontheprogressoftechnologicaldevelopment.
+- (3)
+Creation and Growth of Startups/Venture Companies and New Businesses
+- ✓ In emerging markets like the quantum technology sector, startups and venture companies become key players. Leveraging their agility and flexibility, they are expected to adapt to rapidly changing markets and capture both domestic and international market share. Furthermore, it is anticipated that a venture ecosystem will form where profits from commercialization are reinvested into developing new businesses and nurturing startups.
+- ✓
+For the success of startups and similar ventures, it is crucial to cultivate and secure entrepreneurs and managers who can design and deploy business strategies using not only researchers and engineers but also deep tech. Furthermore, it is necessary to cultivate and secure investors who understand deep tech and can provide long-term financial support.
+Furthermore, cultivating and securing investors who understand deep tech and can provide long-term financial support is essential.
+- ✓ Furthermore, it is expected that existing companies, including large corporations, will leverage their comprehensive capabilities and capital strength to establish new business divisions or carve-out ventures (intrapreneurship).
+- (4)
+Global Collaboration and Expansion
+- ✓ The quantum technology market is seeing active global investment, with dramatic growth anticipated in the future global market. With future technologies and business models still undefined and no clear winner established yet, Japan's industries have a significant opportunity to capture the global market depending on their future strategies.
+- ✓ Therefore, it is expected that companies will activelycollaborate with like-mindednationsboth horizontally and vertically in terms of services and technologies while expanding their businesses globally. Furthermore, depending on the characteristics of each service, strategic overseas expansion is also expected, such as conducting service demonstrations inEurope,theUS,Asia,andotherregions.
+- ✓ Furthermore, to secure the global market, proactive efforts toward standardization are crucial. Regarding intellectual property, given the long-term nature of these technological fields, it is also expected that companies will thoroughly implement an open-close strategy. This involves carefully distinguishing between what should and should not be patented, including know-how, while also considering the patenting period.
+- (5)
+Promoting Industrialization through Industry-Academia-Government Collaboration
+- ✓ The quantum industry often requires advanced technologies, leading to many cases where industrialization leverages the results of basic research from universities and research institutes. In recent years, the convergence between basic research and industrial applications has been accelerating.
+- ✓ Therefore,it is expected that organizations such as the GeneralIncorporatedAssociationforNewIndustry Creation through Quantum Technology (Q-STAR) and the Quantum Innovation Hub (QIH) will collaborate systematically. This will enable the sharing of vision and values, and the establishment of frameworks and mechanisms for comprehensive collaboration among industry, academia, and government in all aspects, including joint research, personnel exchanges, and information sharing.
+- ✓ National projects will also work to establish such collaborative frameworks among industry, academia, and government while enhancing and strengthening efforts spanning from research and developmentto industrial application.
+
+# 4. Three Perspectives for Advancing Practical Application and Industrialization Efforts
+
+Building upon the future industrial direction outlined in the previous chapter and the fundamental concepts of the Quantum Future Society Vision 2(<>), efforts to advance the practical application and industrialization of quantum technology should be guided by the following three perspectives. Given intensifying international competition, these efforts must be pursued with greater acceleration than ever before.
+■ Collaboration: "Diverse Industries' Participation, Collaboration, and Co-creation in Quantum Technology; Global Partnerships and Expansion; Industry-Academia-Government Collaboration"
+As stated in the goals of the Quantum Future Society Vision, to expand the user base and production value of quantum technology, it is crucial to broaden the market base by leveraging quantum technology across various fields while securing participation from a wide range of industries.
+T o achieve this, it is essential that diverse companies collaborate to create and co-create new value, with participation from user companies across various fields such as materials, chemistry, finance, health and medicine, manufacturing, logistics and transportation, environment, agriculture, energy, urban development, defense, AI, and information and communications.Furthermore, implementing quantum computers and other technologies in real-world applications necessitates participation not only from the quantum technology sector but also from companies specializing in conventional (classical) devices, components, materials, electronics, semiconductors, and related fields (quantum-classical hybrid).To promote such diverse corporate participation, it is crucial to support the development of compelling use cases (killer applications)with strong appeal for user companies, clearly demonstrate their benefits, and establish mechanisms enabling diverse companies—including various user firms and those in conventional (classical) technology domains—to participate, collaborate, and co-create.Furthermore, it is important to build stable and resilient supply chains and develop global markets while pursuing horizontalandverticalglobalcollaborationwithcompaniesfromlike-mindedcountries.
+Moreover, as basic research and industrial applications grow increasingly intertwined, it is vital to further strengthen industry-academia-government collaboration at both organizational and individual levels.
+■ Accessibility: "Realizing an Open Utilization Environment for Quantum Technology in Industry"
+To encourage broad participation from industry in the quantum technology field, we must establish an environment where user companies across diverse sectors can utilize quantum technology to create new value (e.g., quantum computers, quantum measurement/sensing, quantum security/networks).
+It is also important to provide necessary support (usage support, technical support, educational support, etc.) to make quantum technology more accessible and easier to utilize for general compani
+Furthermore, since quantum technology is often perceived as having a high barrier to entry for general companies and is strongly associated with future technologies, it is also important to provide necessary support (usage support, technical support, educational support, etc.) to enable these companies to easily utilize quantum technology.
+Furthermore, when applying quantum technology across various fields, it is vital to proactively disclose and provide information on its advantages and effectiveness (performance, cost, convenience, etc.) relative to existingtechnologies.
+■ Incubation "Proactive Support for Startups/Venture Companies and New Business Creation"
+In emerging markets like the quantum technology sector, startups and venture companies pioneering unprecedented businesses and services can become key players.
+Therefore, it is important to foster and support startups that pioneer new markets by encouraging longterm, stable investment and promoting market development, while also building a future venture ecosystem. Furthermore, it is crucial to foster the creation of new business divisions and carve-out ventures from existing companies.
+InJapantoo, startups and venture companies are emerging in bothsoftwareandhardwaresectors. It is vital to form a comprehensive innovation infrastructure that creates and supports these startups at each stage and according to their characteristics. This requires close collaboration among industry, academia, and government, encompassing activities such as matching with financial institutions, nurturing young entrepreneurial talent, discovering and generating business ideas, and supporting overseas expansion.Furthermore, it is vital to foster investment from overseas and build a global ecosystem, including like-minded nations, with an eye on the global market.
+
+# 5. Major Industrial Challenges and Basic Response Policies
+
+## (1) Lack of compelling use cases to drive entry into the quantum technology field
+
+### (Challenge)
+
+- ✓ In quantum computing, quantum measurement/sensing, and quantum security/networks, there are currently few effective usecases demonstrating the benefits of quantumtechnology.
+- ✓ User companies are particularly interested in the extent of benefits quantum technology offers compared to existing technologies, including performance, cost, and convenience. However, as the technology is still developing, there are few use cases that clearly demonstrate its advantages over existing technologies.
+- ✓ Furthermore, there is a lack of accurate information—including current status and future outlook—regarding the benefits of utilizing quantum technology (such as advantages from a business perspective for user companies), which is essential for user companies to make commercialization decisions.
+
+### (Basic Response Policy)
+
+- ✓ Looking ahead to future quantum technology development, we will actively promote participation from various user industries to broaden the market base. We will provide support and disseminate information to create compelling use cases for users.When developing use cases, it is necessary to establish a framework for co-creation where diverse user companies, vendor companies, universities, research institutions, etc., exchange information and opinions and engage in personnel exchanges. Therefore, we will build a framework where industry, academia, and government can collaborate to develop use cases, taking into account areas of cooperation and competition as well as the characteristics of each use case.
+- ✓ Furthermore, we will set precise benchmarks for the effects of utilizing quantum technology, including not only performance but also advantages and effectiveness over existing technologies in terms of cost, convenience, and other factors, from a management perspective. We will widely disseminate this information.In doing so, we will provide information such as Technology Readiness Leve l (TRL)and Business Readiness Level (BRL) necessary for users to make commercialization decisions, taking into account the current status and future outlook, including the fact that technologiessuch as quantumcomputers are still underdevelopment.
+- ✓ Furthermore, for users, quantum technology is merely one means among others and is not viewed as particularly special. Therefore, it is also important to incorporate quantum technology into conventional (classical) technology systems (including migration from classical to quantum technology), advance the development of use cases within quantum-classical hybrid systems, and conduct benchmark comparisons with existing technologies to clearly demonstrate the benefits of utilizing quantum technology.
+
+## (2) High Technical Barriers to Quantum Technology
+
+### (Challenges)
+
+- ✓ Commercializing and industrializing quantum technology often requires advanced knowledge and skills, leading companies outside the quantum technology field to perceive high barriers to entry.
+- ✓ On the software side, participation from user companies across diverse fields is expected. However, many companies lack the necessary infrastructure (e.g., equipment) to utilize quantum technology and also lack expertise and personnel in this area.
+- ✓ Regarding hardware, participation from stakeholders in conventional (classical) devices, components, materials, electronics, etc., is essential. However, information is often lacking on where entry opportunities and market potential exist.
+
+### (Basic Policy)
+
+- ✓ To encourage broad participation from industry in quantum technology, we will establish environments enabling user companies across diverse fields to utilize quantum technology (e.g., quantum computers, quantum measurement/sensing, quantum security/networks).
+- ✓ Furthermore, since industries outside the quantum technology field often lack expertise and personnel in quantum technology, we will support their participation in terms of information, technology, and personnel. This will be achieved by expanding opportunities for exchange and collaboration with researchers and engineers in the quantum technology field, while also actively providing educational programs.
+- ✓ To advance the practical application and industrialization of quantum technologies in the future, we will clarify and organize the necessary conventional (classical) devices, components, materials, electronics, and information and communication technologies. We will provide information on areas where new entry opportunities and market potential exist.
+
+## (3) Future technology and markets are uncertain, and business risks are high
+
+### (Challenges)
+
+- ✓ Although the quantum technology industry is expected to have a massive market in the future, the winning strategies for technology and industry are not yet determined at this stage. This makes it difficult to forecast future technology and market trends. Furthermore, the need for long-term investment means that, compared to other industrial sectors, this field currently carries higher business risks.
+- ✓ Particularly in Japan's industrial sector, there is a tendency for investment to be low in fields requiring such long-term investment.
+- ✓ Furthermore, amid the difficulty in forecasting future technology and markets, some argue that individual companies undertaking highly uncertain basic research or investing in massive manufacturing facilities carries significant risk.
+
+### (Basic Policy)
+
+- ✓ To mitigate these business risks as much as possible, the public and private sectors will collaborate to establish shared prototyping, testing, and evaluation facilities accessible to multiple companies, building mechanisms for the effective and efficient utilization of public and private resources.
+- ✓ Additionally, we will support the establishment and activities of open innovation frameworks where multiple companies collaborate in co-creation domains (such as common components).
+- ✓ Even at the basic research stage, the government will actively provide necessary support, clarifying the division of roles between public and private sectors while responding to industrial needs.
+
+## (4) Insufficient Environment for Startup/Venture Creation and Growth
+
+### (Challenge)
+
+- ✓ In emerging markets like the quantum industry, startups/ventures (including new business divisions of existing companies and carve-out ventures) pioneering unprecedented businesses and services can become key players.
+- ✓ Overseas, numerous startups have emerged in both software and hardware sectors, actively raising substantial funds from VCs and others. Conversely, for startups with limited capital, quantum technology businesses requiring long-term investment, technological development, and market expansion—essentially a long-term battle—represent a high-risk area under private-sector market mechanisms alone.
+- ✓ Furthermore, within Japan's investment environment, there are concerns that the total investment amount directed toward startups is insufficient, and that financial institutions tend to avoid investments with long payback periods. This creates an inadequate business environment and insufficient opportunities for the creation and growth of startups. Additionally, there are opinions that startups lacking sufficient capital, organizational structure, and information dissemination capabilities may face difficulties in smoothly expanding overseas.
+
+### (Basic Policy)
+
+- ✓ As the quantum technology field requires long-term investment and technological development, the government will actively use national projects as catalysts to encourage private investment. Through integrated support from industry, academia, and government, it will foster the creation and nurturing of startupsand other entities with a long-term perspective.
+- ✓ We will promote the creation and support of startups through matching with financial institutions and partner companies, cultivate young entrepreneurial talent to become key players, and establish mechanisms to generate business ideas utilizing quantum technology (e.g., pitch contests, ideathons/hackathons).
+- ✓
+Furthermore, we will form an innovation foundation that comprehensively supports startups and other entities by fostering collaboration between existing companies and venture companies, collaboration among venture companies themselves, and ecosystem formation.
+.
+
+## (5) Shortage of Industrial Talent
+
+### (Challenge)
+
+- ✓ Globally, there is a shortage of industrial talent in the quantum technology field, and competition for talent is intensifying. To commercialize and industrialize quantum technology, it requires not only research and technical personnel in quantum technology but also talent from diverse technical fields (devices/components/materials, electronics, semiconductors, architecture/systems, software, information and communications, etc.).
+- ✓ Furthermore, it is crucial to cultivate and secure not only business personnel supporting commercialization and industrialization (such as management, intellectual property, and legal experts) but also personnel in user fields.
+- ✓ Bothvendorandusercompaniesfaceseveretalentshortages,making it necessary to cultivate and secure industrial talent in the quantum technology field in a long-term and strategic manner.
+
+### (Basic Response Policy)
+
+- ✓ Industry and academia, including universities, research institutions, and industry, will work together to develop and provide educational programs for various fields, including industrial personnel and students. Furthermore, we will promote personnel exchange and mobility among industry, academia, and government, both domestically and internationally, including talent matching between industry and academia (e.g., internship programs) and cross-disciplinary personnel exchanges.
+- ✓ Furthermore, national R&D projects will actively establish mechanisms and set themes that enable participation from personnel across diverse fields.
+- ✓ Furthermore, we will enhance and strengthen outreach activities, such as educational programs and science museum exhibitions, targeting younger generations in junior high and high schools, who are the source of industrial talent.
+
+# 6. Direction of Initiatives
+
+## (1) Quantum Computers (Software, Utilization Environment Development, etc.)
+
+- ✓ Support the creation of compelling and attractive use cases with the participation of numerous user companies to expand and promote user industries. Furthermore, advance the examination of performance and effectiveness metrics for quantum technology utilization from the user company perspective, such as management and ESG viewpoints (performance, cost, convenience, decarbonization, etc.), and explore mechanisms enabling executives and investors to utilize these metrics for management and investment decisions.
+- ✓ We will advance the development and provision of environments (including applications, middleware, and development environments)that enable users to easily utilize quantum-classical hybrid computing environments, while fostering and promoting software and usage supportserviceprovidersthroughtheseefforts.
+- ✓ We will utilize domestically developed quantum computers for diverse applications through industry-academia-government collaboration. Furthermore, by linking these with quantum computers and conventional (classical) computers both domestically and internationally, we will build and provide cutting-edge quantum-classical hybrid computing environments that lead industrialization through practical application environments and pioneer new frontiers in industry and science.
+
+### ① Creation and Promotion of User Industries
+
+- ○
+Support for Use Case Development, etc.
+- ✓ To create and expand the service market utilizing quantum computers, it is crucial for user companies across various fields to take the lead in discovering compelling value and needs from an industrial perspective and creating new services. Therefore, we will support initiatives to develop compelling and attractive use cases with the participation of many user companies, aiming to expand and promote user industries.In doing so, we will also promote the participation of new user companies and support the creation of use cases by integrating quantumcomputers with the ongoing DXtrends,including AI technology utilization, that are advancing in actual industrial settings.
+- ✓ For sustainable industrial development, it is crucial to establish a sustainable funding cycle (ecosystem) that connects profits from industrial applications to investment in new technology R&D and product/service development, both in the short and medium-to-long term.
+- ✓
+Therefore, in the short term, we will utilize quantum annealing machines and simulated annealing machines to address urgent challenges (3), aiming for early creation of new markets and business expansion.
+- to address urgent challenges 3(<>)and aim for early creation of new markets and business expansion. In the medium to long term, by utilizing large-scale gate-based quantum computers expected for industrial practical use, we will solve problems that cannot be solved in a realistic timeframe using conventional
+- (classical)computers or quantum annealing machines cannot solve within a realistic timeframe. This will expand the scope and scale of quantum computer applications, further expanding and promoting the market.
+- ✓ Furthermore, to utilize quantum computers in promising fields such as bio and materials, we will coordinate with initiatives like the "Bio Strategy 2020"(June 26, 2020 [fundamental measures]; January 19, 2021 [finalized market domain measures], Integrated Innovation Strategy Promotion Council) and the "Strategy for Strengthening Resilience in Materials Innovation"(Integrated Innovation Strategy Promotion Council, April 27, 2021).
+- ✓ Furthermore, we will support initiatives where multiple user companies exchange information and opinions within consortiums such as Q-STAR, where multiple companies participate in each use casefield, and develop use cases in collaborative areas as necessary 4 (<>).
+
+### 〇Examination of Performance and Effectiveness Metrics for Quantum Technology Utilization from the User Company Perspective
+
+- ✓ To promote the adoption and investment in quantum computers across diverse industries, it is crucial to demonstrate to user company executives and investors how quantum computer utilization can impact business activities. This demonstration should include performance comparisons with existing technologies, as well as perspectives from management viewpoints (e.g., ROI) and ESG viewpoints (including SDGs and decarbonization).
+- ✓ Therefore, to enable user companies to understand and judge whether quantum computers offer performance advantages over existing technologies, we will examine performance metrics for quantum computers, software (algorithms), and quantum-classical hybrid systems (advantages over existing technologies, benchmarks in real-world use, etc.), incorporating results from use cases.
+✓ Furthermore, from a management and ESG perspective, we will evaluate the effects of quantum computer utilization on business activities, encompassing not only performance but also cost, convenience, and decarbonization.
+Effectiveness metrics capable of appropriately evaluating outcomes (including future effects) will also be examined. Furthermore, mechanisms will be developed to enable executives, investors, and others to accurately assess business activities utilizing quantum computers and similar technologies, thereby facilitating informed management and investment decisions.
+- ✓ Furthermore, we will advance the development of mechanisms (such as performance comparison software) enabling user companies to compare the performance of multiple quantum computers and software. When considering performance metrics, we will also factor in the potential for future technological advancements to improve these metrics, given the current limitations of quantum computer performance.
+
+### ② Promotion of the Software Industry
+
+### 〇 Cultivating and Promoting Software and Application Support Service Providers
+
+- ✓ Quantum computers often require different middleware connecting applications to the quantum computer, as well as different software development environments (such as Software Development Kits (SDKs)), depending on the specific machine or platform. Furthermore, a certain level of specialized knowledge is often required, making the barrier to entry high for general users.
+- ✓ To expand quantum computer usage in the future, it is crucial to create an environment where users can seamlessly switch between diverse machines without conscious awareness. Furthermore, from a future practical application perspective, an integrated computing environment (quantum-classical hybrid computing environment) that intelligently selects and utilizes quantum computers or conventional (classical) computers in the background for specific computational tasks is also anticipated.
+- ✓ Therefore, we will build and provide an environment where users can easily utilize quantum-classical hybrid computing environments. This includes developing common application software, middleware, SDKs, and other development tools that can handle multiple quantum computers in combination with classical computers.
+- ✓ Furthermore, considering that the processing on the classical computer side used to control quantum computers is rapidly becoming more sophisticated as quantum computer performance improves, the integrated use of quantum computers and high-performance computing (HPC).
+✓ In recentyears,private companies have become increasingly active in providing comprehensive usage support services, including consulting and education, alongside software services that offer applications, middleware, development environments, and other tools to assist users. In Japan, many of these private companies are venture firms. They are key players contributing to improving quantum computer usability and serving as hubs connecting users with quantum computing utilization.
+When the government advances the development of quantum computer usage environments as described above, it will maximize the utilization of these private companies to establish and provide highly convenient usage environments for users, while fostering and promoting software and usage support service providers.
+
+### ③ Establishing a Quantum Computer Utilization Environment for Software Development 〇Establishing Flagship Computing Environments to Pioneer New Frontiers
+
+- ✓ InMarch2023,theNationalInstituteforBasicBiology(hereinafterreferredtoas"RIKEN") announced and began operating Japan's first domestically developed prototype machine (a superconducting quantum computer testbed).
+- ✓ Leveragingthe characteristics of this domestically developed hardware,this testbed enablescontroldown to deep layers of the hardware. Following its operational launch, it will foster and advance core technologies spanning software (error suppression/correction, etc.), middleware (architecture/systems), and hardware (control devices, etc.), as well as develop quantum-classical hybrid technologies. This will create an environment usable by industry, academia, and government for diverse applications.
+- ✓ Furthermore, RIKEN will advance the development of an Advanced Computation Hub. This hub will provide cutting-edge quantum-classical hybrid computing environments, including this testbed, integrated with state-of-the-art quantum computers and conventional (classical) computing systems like Fugaku. It will involve not only the quantum technology community but also computational science and mathematical science communities, pioneering new frontiers in industry and science.
+
+### 〇Establishing Practical Computational Environments to Lead Industrialization
+
+- ✓ To foster the creation of quantum computer use cases and promote industrial adoption, we will establish a practical quantum-classical hybrid computing environment that leads industrialization and is easily accessible to a broad range of users.
+- ✓ In the near term, we will utilize simulated annealing machines, followed by quantum computers (annealing-based). Furthermore, we will consider industrial applications for quantum computers (gate-based) from a medium-to-long-term perspective.
+- ✓ Furthermore, the utilization of diverse types of commercially available quantum computers 5(<>)from overseas manufacturers, which are leading in commercialization, is also beneficial. We will carefully examine and select the actual machines necessary for creating use cases based on userneeds and effectiveness, and utilize them flexibly.
+
+## (2) Quantum Computers (Hardware, Foundational Technologies, etc.)
+
+- ✓ For superconducting quantum computers, which lead in gate-based quantum computing technology, we will strengthen and accelerate technological development and commercialization. Furthermore, we will accumulate operational experience and knowhow, cultivate the personnel to carry out these tasks, and establish mechanisms to feed back operational results into hardware development. For other approaches, we will strive to promotetheparticipationandactivitiesofprivatecompanies,includingstartups.
+- ✓ For quantum computers (annealing), we will clarify their quantitative performance advantages, advance early physical verification, and integrate them with diverse computing resources such as HPC and simulated annealing machines. By utilizing them as practicalcomputationalenvironmentsleadingindustrialapplications,we will enhance competitive advantages in industrial use.
+✓
+To build a stable and resilient supply chain, we will collaborate with like-minded nations to identify the equipment, components, materials, and other elements necessary for future quantum computer systems, clarify their technical requirements, and promote the participation of companies, including small and medium-sized enterprises (SMEs), that will play a key role in this effort.Concurrently, we will identify priority technology fields where
+Japanese industry can leverage its strengths, as well as critical technology areas based on this assessment. We will work to secure and advance the necessary equipment, components, materials, andtechnologiesinthesefields.
+- ✓ We will advance the creation of an environment that supports private sector activities in fundamental research on elemental technologies such as quantum chips, as well as in prototyping, testing, evaluation, and other processes aimed at scaling up.
+<Superconducting Quantum Computers>
+① Quantum Computer (Gated Approach)
+〇Support for Quantum Computer Technology Development
+- ✓ The superconducting approach is leading in quantum computer technology, and while overseas countries are actively advancing technological development and commercialization, Japan is also advancingthedevelopmentofadomesticallyproducedactualmachinethroughintegratedeffortsbyindustry, academia, and government.Thedevelopmentofadomesticallyproducedactualmachineholds significant importance, contributing to the cultivation and advancement of elemental technologies from software to hardware, various related technologies for the entire system, and the design of hardware and architecture for quantum-classical hybrid technology development.
+✓ In March 2023, RIKEN commenced operation of Japan's first domestically developed quantum computer. Subsequently, domestic vendors collaborating with RIKEN plan to make their own quantum computers publicly available in fiscal year 2023. To compete internationally, Japan must continue strengthening and accelerating its technological development.Furthermore, since controlling quantum computers requires insights from fundamental science, such as controlling quantum many-body systems and dissipative systems, RIKEN willleadtheresearchanddevelopmentofcore technologieslikequantumstatecontrolbasedontheoreticalprinciples,whilevendorcompanieswill...
+It is expected that these core technologies will be leveraged to drive large-scale implementation and systemization.
+- ✓ Furthermore, as domestically produced aircraft enter the operational phase, we will accumulate operational experience and know-how while cultivating the personnel to carry out these tasks. We will also establish mechanisms to feed back results from operations and user experienceintohardwareresearchanddevelopment.
+
+### 〇Supporting Commercialization of Private Machines and Enhancing International
+
+### Competitiveness
+
+- ✓ Although superconducting quantum computers have been released commercially, the superconducting approach, like other approaches, is not yet a mature technology. It requires long-term research and development, and achieving practical application and large-scale deployment demands enormous costs.Consequently, while some point out that relying solely on private companies for R&D, practical application, and industrialization carries high risk, this also presents a business opportunity for quantum computer vendors and suppliers of related components and materials to create new markets.
+- ✓ Therefore, the National Institute of Advanced Industrial Science and Technology (AIST) will advance the creation of an environment that supports private sector activities in fundamental research on elemental technologies such as quantum chips, and in processes for prototyping, testing, and evaluation aimed at scaling up (e.g., prototyping, testing, and evaluation of quantum chips; testing peripheral components under cryogenic conditions).
+- ✓ Furthermore, at the main hubs—RIKEN and AIST—RIKEN will support research and development at the fundamental stage, while AIST will support industry in the prototyping, testing, and evaluation processes for scaling up. By clarifying such roles and working together, both institutions will cooperate and collaborate to support private sector activities.
+
+### <Other Gate Technologies (Ion Trap, Optical, Silicon, Atomic, etc.)>
+
+### Promoting Industry Participation and Strengthening Collaborative Systems
+
+- ✓ InJapan, alongside superconductingmethods,research and development for other approaches such as ion traps, optical, silicon, and atomic methods is being strongly accelerated and promoted, primarily through national projects (e.g., the Moonshot R&D Program).
+- ✓ Overseas, private companies are leading commercialization efforts across various technical approaches. Japan will actively build partnerships with private companies, including startups, to promote their participation and activities, aiming for future practical application and industrialization.
+✓ Furthermore, Japan's first startup in the quantum computer (hardware) field was established in 2022 and plans to develop and release quantum computers/quantum networks going forward. For startups/ventures advancing cutting-edge technologies requiring long-term investment and carrying high risk, utilizing national project support is also an effective means. Therefore, to bolster the activities of these startups/ventures, we will enhance support mechanisms and build frameworks through national projects.
+Therefore, to support the activities of such startups and venture companies, we will enhance support throughnational projects and establish mechanisms.
+
+### ② Quantum Computers (Annealing Method)
+
+### 〇Support for Technology Development and Commercialization of Quantum Annealing Machines
+
+- ✓ Developing quantum annealing machines—which are nearing practical application and industrialization in Japan—and creating new markets and expanding businesses utilizing them holds significant importance. This approach enables the rapid formation of a market for the quantum computing industry and realizes a sustainable funding cycle (ecosystem) where profits from industrial applications are reinvested into technological R&D.
+- ✓ Domestic companies are collaborating with AIST to develop quantum annealing machines, with plans to unveil a prototype around fiscal year 2024 and aim for a 1,000-qubit-class machine by fiscal year 2027.
+- ✓ Currently, Canada's D-Wave Systems leads with commercial services for machines around 5,000 qubits. However, qubit scale does not necessarily determine performance. Therefore, we will clarify quantitative performance advantages, advance support for early prototype verification, and steadily progress technical development and commercialization support.
+- ✓ Furthermore,by integrating with conventional(classical)computers to tackle large-scale problems, and by operating in unison with diverse computing resources such as HPC and simulated annealing machines, we will utilize this as a practical computing environment leading industrial applications. This will enhance competitive advantage in industrial utilization.
+
+### ③ Common Foundational Technologies
+
+### 〇 Securing and Advancing Essential Components for Global Quantum Computer Commercialization and Strengthening the Supply Chain
+
+6)
+- ✓ To steadily advance the R&D and commercialization of quantum computers, establishing a strategic supply chain that stably supplies high-performance devices, components, and materials is indispensable. For quantum computers, roadmaps toward scaling up have been presented by various companies for the 2020s (. Realizing these systems requires building stable and resilient supply chains for related equipment, components, materials, and more.
+✓ Therefore, anticipating future large-scale quantum computer systems, the necessary equipment, components, and materials must be secured.
+We will identify the key industrial sectors and companies, including SMEs, that will play a leading role in this endeavor, and promote their participation.Concurrently, we will identify priority technology fields where Japanese industry can leverage its strengths, as well as strategically importantchoke point technologies within the supplychain. We will then develop and implement strategies to secure and advance the necessary equipment, components, materials, and technologies in these fields. This will encourage participation from numerous companies in existing electronics sectors and other fields. Through collaboration between domestic and like-minded international companies, we will build a stable and resilient global supply chain.
+- ✓ The practical application and scaling up of quantum computers require the development and commercialization of diverse components and materials. However, the enormous costs and human resources involved create barriers to entry for new companies.Therefore, AIST will promote the establishment of a global supply chain by supporting the activities of private companies, such as component and material suppliers and quantum computer vendors. This support will be provided through R&Doncoretechnologieslikequantumchips, prototyping of controldevices, peripheral components, and materials forlarge-scaleimplementation,andevaluation undercryogenic conditions.
+
+## (3) Quantum Security and Networks
+
+- ✓ To discover and expand user industries both domestically and internationally, we will promote the creation of compelling use cases and encourage public institutions to serve as anchor tenants/early adopters.
+- ✓ To support domestic vendor businesses, we will provide technical development assistance through operations in wide-area testbeds, accumulate operational and usage (use case)track records, and pursue overseas expansion through public-private collaboration. Furthermore, we will promote the establishment of a domestic certification framework for quantum cryptographycommunicationdevicestoexpandusageandadoption.
+- ✓ We will alsobuildacomprehensivearchitecturecombiningquantumandclassicaltechnologiesand enhance the large-scale quantum cryptography testbed. Furthermore, we will advance research and development for a future quantum internet and examine its implementation roadmap.
+
+### ① Industrial Promotion of Quantum Security Networks
+
+### 〇 Promotion and Expansion of User Industries
+
+- ✓ To discover and expand domestic and international user industries, we will support the creation of compelling use cases (killer applications) that attract new users by leveraging wide-area testbeds for quantum cryptographic communication (QKD networks), among other means.
+- ✓ Particularemphasis will be placed on promoting adoption inpromisingbusinesssectorssuchasfinance,healthcare, manufacturing, and security. In developing these use cases, it is crucial to maintain a balance between security,cost,and usability.
+- ✓ Looking toward future full-scale adoption and widespread use, we will strive to enhance user incentives. This includes promoting the use of quantum security in rules and guidelines for each field, based on these use cases. We will also support public institutions, such as local governments, in promoting adoption as anchor tenants/early adopters.
+
+### 〇Supporting Commercialization and Enhancing International Competitiveness of Quantum
+
+### Security Networks
+
+- ✓ One domestic vendor has already released a commercial quantum cryptography communication device and is actively pursuing business development with an eye toward international expansion. Furthermore, another domestic vendor is scheduled to enter the market and release a commercial device in fiscal year 2023 or later.
+✓ To bolster the efforts of domestic vendors, we will actively support technological development through operations in the aforementioned wide-area testbeds. Furthermore, we will steadily accumulate operational and usage (use case) track records and leverage these
+utilizing this accumulated experience, the public and private sectors will unite to support overseas expansion. Furthermore, we will vigorously advance standardization and intellectual property development to promote deployment and adoption both domestically and internationally.
+- ✓ In doing so, we will not only focus on hardware vendors but also cultivate private companies that will provide future application support services.
+
+### 〇Promoting the Establishment of a Domestic Certification Infrastructure for Quantum
+
+### Cryptography Communication Equipment
+
+- ✓ In recent years, serious domestic cases where cyberattacks have made business continuity difficult have been increasingly observed, making security assurance an extremely critical issue for users. Given the importance of ensuring security, a mechanism is required that allows users to determine whether quantum cryptography devices reliably guarantee the performance they demand when introducing them.Furthermore, starting in fiscal year 2023, multiple domestic vendors will offer quantum cryptography communication devices. Users also require a mechanism to objectively compare the performance of these devices using standardized metrics.
+- ✓ Considering these points, to expand the use and adoption of quantum cryptography communication devices, establishing a third-party device certification system is necessary. Therefore, alongside examining the certification system, efforts will be made to build a domestic certification infrastructure, including the operational and management framework for evaluation bodies.
+- ✓ In doing so, we will establish mechanisms to utilize private companies as evaluation bodies, fostering an autonomous ecosystem for the certification system, and cultivate and secure the necessary personnel. Furthermore, when considering the certification system, we will pay attention to international cooperation and coordination at the institutional level, with an eye toward future overseas expansion.
+
+### ② Enhancing the Utilization Environment for Quantum Security Networks and Expanding Practical
+
+### Demonstrations
+
+### 〇 Building and Verifying a Comprehensive Architecture Using Quantum-Classical Hybrid Systems
+
+- ✓ To promote the utilization and adoption of quantum security networks, it is necessary to migrate systems from conventional (classical) architectures while ensuring user convenience.
+- ✓ In doing so, it is crucial to adopt a perspective that complements the strengths and weaknesses of diverse quantum and classical cryptographic methods—such as quantum cryptography, quantum streaming cryptography, post-quantum cryptography (PQC), secret sharing, and secure multi-party computation—to explore the optimal mix. ( P Q C ), secret sharing, and secure computation.
+- ✓ To establish an environment capable of verifying this optimal mix of quantum and classical technologies, we will construct and validate a quantum integrated architecture (quantum technology platform) encompassing quantum cryptography, quantum-secure cloud, quantum computers, and other elements.
+
+### Enhancement and Strengthening of the Wide-Area Testbed for Quantum Cryptographic
+
+### Communications
+
+- ✓ The wide-area testbed for quantum cryptographic communication (QKD network) developed by the Ministry of Internal Affairs and Communications and the National Institute of Information and Communications Technology (NICT) serves as a valuable platform accessible to a broad range of users for quantum cryptographic communication applications.
+- ✓ To further expand various use cases, we will construct an inter-city quantum cryptography communication network that includes space assets such as satellites, and subsequently scale it from inter-city to nationwide coverage.
+- ✓ In doing so, wewillalsofocusonbuildingandadvancingthetestbedtocontributeto creating use cases that achieve the optimal mix of quantum and classical technologies.
+
+### ③ Advancement of Quantum Security Networks
+
+### 〇 Research and Development on Quantum Internet
+
+- ✓ The quantum internet, which enables long-distance communication using quantum states, is anticipated not only for highly secure quantum cryptography but also as a future technology enabling large-scale computations byconnecting multiple quantumcomputers.
+- ✓ Furthermore,newstartups are emerging torealizethefuturequantuminternet.
+- ✓ With an eye toward fostering future industries, including these startups, we will advance R&D and technical demonstrations covering devices, architectures, and protocols. We will also proceed with studies to concretize a roadmap for introducing quantum internet.
+
+## (4) Quantum Measurement/Sensing and Quantum Materials
+
+- ✓ To promote the quantum measurement and sensing industry, we will actively provide information on quantum measurement and sensing technologies and their applications to a wide range of industries, support technology development and commercialization, and establish frameworks such as industry-academia-government consortia where stakeholderscan shareinformationandexchangeopinions.
+- ✓ We will prepare and provide an environment enabling many companies to easily utilize and develop quantum measurement and sensing, along with technical and application support. Furthermore, we will actively support the creation of compelling, appealing use cases for users and the development and demonstration of technologies for commercialization.
+- ✓ Under the participation of the materials industry, promote a framework enabling integrated hardware and software development for technological advancement and commercialization. Furthermore, establish a system where industry, academia, and government collaborate to ensure a stable supply of quantum materials strategically vital for Japan.
+
+### ① Promotion of the Quantum Measurement and Sensing Industry
+
+### 〇 Support for Technology Development and Commercialization in Quantum Measurement and Sensing
+
+- ✓ Quantum measurement and sensing has diverse applications across fields such as healthcare, energy, communications, mobility, and security. It is crucial to advance technology development and commercialization with the participation of numerous companies.
+- ✓ Therefore, key hubs such as the Quantum Technology Infrastructure Hub (tentative name), the Quantum Life Hub (National Institute for Quantum Science and Technology (QST)),and the Quantum Sensor Hub (Tokyo Institute of Technology) will take the lead. They will actively provide information to a broad range of industry stakeholders, including users and vendors, on quantum measurement and sensing technologies and their applications, including their stage of practical implementation and advantages over existing technologies. They will also support technology development and commercialization.Furthermore, beyond pursuing top-tier performance in fundamental research, industry, academia, and government will collaborate to advance technology development and commercialization, including engineering technologies for practical implementation such as miniaturization, modularization, and chip integration. Progress will also be made with an integrated perspective, considering the fusion of quantum measurement and sensing into existing systems.
+- ✓ To encourage participation from numerous companies and realize an industrial ecosystem where multiple companies collaborate and cooperate (horizontal division of labor, vertical integration, etc.), we will also promote the establishment of structures such as industry-academia-government consortia where diverse stakeholders can share information and exchange opinions.
+
+### Providing Utilization and Development Environments for Quantum Measurement and Sensing
+
+✓ For quantum measurement and sensing technologies, the technical barriers are high for many companies.
+Furthermore, unlike quantum computers, many require hardware, making technical and application support crucial.
+- ✓ Therefore, major hubs such as the Quantum Technology Infrastructure Hub (tentative name)and the Quantum Life Hub (Quantum Research Organization) will take the lead in establishing and providing an open environment where numerous companies, including users and vendors, can easily utilize and develop quantum measurement and sensing technologies (particularly solid-state quantum sensors, hyperpolarization technology, optical lattice clock networks, etc., applicable to a wide range of industrial uses). They will also advance necessary technical and application support based on user needs.
+✓ Furthermore, to enable the full-scale utilization and dissemination of quantum measurement and sensing, efforts will be promoted to standardize quantum measurement and sensing technologies and to establish measurement standards utilizing quantum measurement and sensing.
+○ Expanding and Promoting User Industries
+- ✓ To promote the quantum measurement and sensing industry, it is crucial to expand the user market by discovering and increasing the number of various user companies utilizing quantum measurement and sensing.
+- ✓ Therefore, we will actively support the development and demonstration of technologies for creating compelling use cases and commercialization that appeal to many users, including through the provision of quantum measurement and sensing utilization environments.
+- ✓ In doing so, we will proactively provide accurate and easy-to-understand information, including the performance of quantum measurement and sensing, its advantages and effectiveness over existing sensing technologies (performance, cost, convenience, etc.).
+
+### ② Promotion of the Quantum Materials Industry
+
+### 〇Support for Technology Development and Commercialization of Quantum Materials
+
+- ✓ Quantum materials are foundational technologies for quantum computers, quantum measurement and sensing, and quantum networks. Furthermore, the materials field, including quantum materials, is an area where Japanese industry can leverage its strengths.However, it is also pointed out that the barriers to entry into the quantum materials industry are high at present. This is because quantum technology is not yet established, and use cases and markets are not yet defined, making it difficult to forecast sales and assess business risks.
+- ✓ Therefore, when conducting R&D on quantum technologies and developing use cases, we will strive to identify and demonstrate use cases with early realization potential. Simultaneously, we will clarify future market prospects and impacts from an early stage and disseminate this information widely to relevant industries.
+- ✓ Furthermore, to expedite industrialization efforts, we will promote the participation of private companies that could become key players in the quantum materials field from the earliest stages. This will establish an integrated framework where hardware, software, and materials development are advanced together.
+and software to drive technological development.
+
+### 〇Building a Quantum Materials Supply Chain
+
+- ✓ Quantum materials form the foundation of quantum technology. It is crucial for Japan to establish stable and strategic supply chains for key quantum materials that must be secured.
+- ✓ To this end, the Quantum and AI Convergence Technology Business Development Global Hub (AIST),the Quantum Technology Infrastructure Center (tentative name)(Japan Atomic Energy Agency), and the Quantum Materials Center (National Institute for Materials Science), among others. Industry, academia, and government will collaborate to identify quantum materials Japan should strategically secure based on user needs, then establish a system for their stable supply.
+- ✓ Furthermore, with an eye toward the future quantum industry, efforts will be made to form an industrial ecosystem where quantum materials (upstream) and quantum device-related industries (downstream) collaborate and cooperate.
+
+## (5) Innovation Infrastructure
+
+### 〇Global Collaboration and Expansion of the Quantum Industry
+
+- ✓ Given the anticipated massive global market for quantum industries in the future, securing overseas markets requires leveraging Memorandums of Understanding (MoUs) 8(<>)between quantum industry organizations and the global networks 9(<>)of private companies. It is crucial to promote global collaboration (technical cooperation, business partnerships, etc.)and overseas expansion across industries through integrated public-private efforts.Furthermore, with an eye toward future overseas expansion, actively demonstrating services overseas (in Europe, the Americas, Asia, etc.) is also effective.
+- ✓ Therefore, leveraging the know-how and track record accumulated through the utilization and technical demonstration of quantum technologies, including the leading QKD network, the public and private sectors will work together to promote the international expansion of products and services and global information dissemination. In doing so, local networks will also be utilized through foreign government agencies (such as embassies in Japan).Furthermore, since small and medium-sized enterprises (SMEs), including startups and venture companies, often lack opportunities for overseas expansion, we will provide detailed support such asassistance withexhibiting atoverseas trade showsanddisseminating information.
+- ✓ Furthermore, through international cooperation, dialogue, and exchange across various levels of industry, academia, and government, we will work toward global industrial collaboration, overseas market expansion, and the acquisition of international standards.
+
+## 〇Establishing Foundations for Creating Startups/Venture Companies and New Businesses
+
+- ✓ In Japan, both software and hardware startups/venture companies (including new business divisions of existing companies and carve-out ventures) are increasing.
+- ✓ As the quantum technology market requires long-term investment, it is crucial for industry, academia, and government to work together to create and support startups and venture companies, enhancing various forms of support tailored to each stage and characteristic, with the goal of forming a future venture ecosystem.
+✓ Therefore, it is essential to foster and support startups through matching with financial institutions, incubators, partner companies, etc.; cultivate young entrepreneurial talent to lead these startups; facilitate talent matching (e.g., between research personnel and management talent); and develop businesses utilizing quantum technology.
+We will establish a comprehensive innovation foundation to create and support startups through close collaboration among industry, academia, and government. This includes mechanisms for discovering and creating ideas (pitch contests, ideathons/hackathons, etc.), forming ecosystems through partnerships with existing companies and collaboration among startups, disseminating information about business activities domestically and internationally, and supporting overseas expansion.
+
+### 〇 Cultivating and Securing Industrial Talent
+
+- ✓ The global shortage of talent in quantum technology fields is intensifying competition for personnel. It is crucial for industry, academia, and government to unite, collaborating with like-minded nations, to strategically cultivate and secure industrial talent in quantum technology fields over the long term.
+- ✓ Looking ahead to future industries, it is vital to cultivate and secure not only research and technical personnel in quantum technology but also talent in related fields (devices/components/materials, electronics,semiconductors, architecture/systems, software, information and communications, etc.). Furthermore, it is necessary to cultivate and secure personnel capable of effectively utilizing quantum technology in user-sector industries through reskilling and similar measures.Furthermore, for the commercialization and industrialization of quantum technology, it is also necessary to cultivate and secure business personnel, such as those with expertise in management, intellectual property, and law. Additionally, for DX-related industries in fields like AI, cloud computing, and IoT, synergistic effects are expected through collaboration with quantum computers and similar technologies. Therefore, reskilling personnel in these industries is also considered effective.
+- ✓ Therefore, we will vigorously promote educational support for developing and securing industrial talent. This involves defining the necessary skills for personnel across these industrial sectors, developing effective educational programs based on these definitions, and providing these programs to personnel at various levels within the industries.Furthermore, we will enhance outreach activities, such as educational programs and science museum exhibits, targeting younger generations—including university students and junior/senior high school students who could become future industrial talent—to provide seamless educational opportunities from youth to industry.
+- ✓ We will also explore mechanisms to expand employment and entrepreneurship opportunities by guaranteeing the quality of human resources through certification systems for those who complete educational programs.
+- ✓ Furthermore, we will foster a talent development ecosystem by promoting talent matching between industry and academia and across different fields (e.g., industry-academia talent matching events, talent pools and matching mechanisms for executives and engineers, internship programs for students tackling industrial challenges), as well as talent exchange and mobility among industry, academia, and government, both domestically and internationally.
+
+## 〇 Building a New Partnership Framework for Industry-Academia-Government
+
+- ✓ To strengthen collaboration and work as one, it is expected that Q-STAR, an industry-led organization, and QIH, an organization centered on public research institutions and universities, will share information, interact, and collaborate more extensively than before.
+- ✓ To this end, we will promote initiatives to strengthen the industry-academia-government collaboration framework. This includes establishing regular forums for systematic information sharing and exchange between Q-STAR and QIH, as well as building a new partnership framework (tentantivealymedQ-Partnership)that facilitates personnel exchanges and other collaborative activities.
+- ✓ Progress and outcomes from national projects will also be actively shared in these forums to enhance and strengthen future industry-academia-government collaborative efforts for technology development and commercialization.
+
+### 〇Standardization, Intellectual Property Protection, Benchmark Setting, etc.
+
+- ✓ Given the anticipated massive future market for the quantum industry, strategically pursuing standardization and intellectual property protection is crucial for Japan to gain overseas markets and leverage quantum technology as a driver of economic growth, thereby enhancing international competitiveness.
+- ✓ Therefore, industry, academia, and government will work together to identify technologies requiring standardization for quantum devices (including materials and components) such as quantum computers, quantum sensors, and quantum communication equipment. We will then collaborate with existing standardization frameworks and stakeholders to vigorously and strategically advance standardization efforts, strongly influencing the formation of market rules.
+- ✓ Quantum technology innovation hubs will also strengthen their efforts, such as actively and strategically pursuing intellectual property rights for quantum technologies, similar to other cutting-edge technologies, while referring to policies such as the "Intellectual Property Promotion Plan" 10 (<>).
+- ✓ Furthermore, we will actively examine, establish, and provide benchmark indicators (performance, cost, convenience, low-carbonization, etc.) regarding the effects and performance of quantum devices from both business and technical perspectives (including the advantages of quantum technology over existing technologies), which are important for users.
+
+### 〇 Initiatives for Building a Strategic Supply Chain
+
+- ✓ To steadily advance the R&D and commercialization of quantum computers, quantum measurement/sensing/quantum materials, and quantum networks, it is crucial to build a strategic supply chain that stably supplies advanced devices, components, materials, etc.
+✓ Therefore, industry, academia, and government will collaborate to identify and secure critical devices and components that Japan must ensure.
+and components/materials that Japan should secure, develop a supply chain map, and build stable supply chains for these items from a strategic perspective.
+- ✓ In doing so, we will also examine the development of devices unique or common to quantum computers, quantum measurement/sensing, and quantum networks, as well as the utilization of off-the-shelf products, considering factors such as reducing business risks, building stable supply chains, and economic rationality.
+- ✓ Furthermore, we will build a broad-based industrial ecosystem by identifying key players (including SMEs) and form a broad-based market with high economic ripple effects.
+
+### 〇Platform Strategy and Collaborative Environment Development
+
+- ✓ Quantum technologies, such as quantum computers, have yet to settle on definitive technical approaches or winning strategies. Therefore, a platform strategy—aimed at securing foundational technologies (platform technologies) that will be universally necessary regardless of future technical directions—is also crucial. To this end, industry, academia, and government will collaborate toexaminetheplatformtechnologiesJapanshouldprioritizeasanindustry,in parallelwithdiscussionsonthe aforementioned supplychainmap.Basedonthisexamination,wewill developaplatformstrategythatincludesconsiderationsforestablishingthedevelopmentandmanufacturing foundationsforthesetechnologies.
+- ✓ Furthermore, the practical application and scaling of future quantum computers willrequiremassive investment.Giventheuncertaintysurroundingfuturetechnicalapproaches,relyingsolelyonindividual privatecompaniestotacklethiscanbehigh-riskinsomecases.Therefore, it is also important to actively provide industrial support, considering both areasforcollaborationand areas for competition.For instance, areas where collaboration among multiple companies is effective and efficient include sharing processes for prototyping, testing, and evaluation of semiconductors and other components; developing common technologies; building supply chains for common parts; setting benchmarks; and standardization.
+- ✓ Therefore, under industry-academia-government collaboration, while considering initiatives to be implemented in both cooperative and competitive domains, we will establish frameworks and mechanisms enabling multiple companies to collaborate through open innovation in cooperative domains, along with providing necessary support.
+
+# 〇 Strengthening Quantum Technology Innovation Hubs, etc.
+
+To leverage Japan's industrial strengths and powerfully support the creation of new value in industry— such as fostering new industries, enhancing productivity, and solving societal challenges—by integrating and collaborating quantum technology with various industrial sectors, we will strengthen the Quantum Technology Innovation Hub as follows.
+
+## "Global Hub for Quantum-AI Convergence Technology Business Development (Provisional Name)"
+
+### (AIST)(Enhancement)
+
+- ✓ Aiming for Japan to become an international hub for the industrial application of quantum technology, particularly in Asia, we will establish a global development hub at AIST for the industrialization of quantum technology. This initiative will involve not only European and American vendor companies but also global enterprises and startups/ventures, including user companies from Southeast Asia and other regions.Specifically, it will rapidly establish and provide a practical quantum-AI hybrid computing environment for creating new businesses while utilizing available quantum computers, aiming to generate use cases and cultivate talent.Regarding the quantum computer supply chain, by pioneering the establishment and provision of cryogenic testing environments globally, we will collaborate with domestic and international quantum computer vendors to gatherneeds andexpertise.Thiswillsupportthesystemization ofquantumcomputersandthedevelopmentand evaluation of components and materials, thereby enhancing the international competitiveness of domestic companies.Furthermore, for quantum computer chips, we will comprehensively support industrial activities. This includes not only research and development but also providing environments and services that offer development and prototyping capabilities for quantum devices and integrated circuits, aiming for the realization of large-scale commercial machines.
+
+### "Quantum Computation Pioneer Base (Provisional Name)(Headquarters Base)(RIKEN)" (Enhancement)
+
+- ✓ We will vigorously advance cutting-edge and broad fundamental research in quantum technologies, including quantum computers, and promote the transfer of research results to industry.Furthermore, itwilladvancetheestablishmentofanAdvancedComputationHub. Thishubwill integrate cutting-edge quantum computers with conventional (classical)computing systems like Fugaku, engaging not only the quantum technology community but also computational science and mathematical science communities.Itwillprovideflagship quantum-classicalhybridcomputing environmentsandutilizethemtopioneernewindustrialandscientificfrontiers.
+
+### "Quantum Technology Infrastructure Center (Provisional Name)(Quantum Research Institute)"
+
+### (Enhancement)
+
+✓ In addition to continuing the development and supply of quantum materials exhibiting advanced quantum functionality, we will establish and provide an environment where industry can utilize, test, and evaluate quantum materials and quantum measurement/sensing technologies utilizing them. We will also provide utilization support and technical assistance to industry regarding quantum materials, quantum measurement, and sensing.
+Furthermore, while also leveraging optical science and technology, it will promote fundamental R&D and industrial support for quantum technology, including the development of technologies and devices that enable advancedobservationand control ofquantumstates.
+
+## "Quantum Frontier Industry Creation Hub (Provisional Name)"(Tokai National University Organization)
+
+### (Additional Candidate) 11 (<>)
+
+- ✓ By integrating technologies in fields where Japanese industry holds strengths, such as chemistry and materials, with quantum technologies, this initiative will pioneer new approaches to leading-edge technologies in chemistry and materials, as well as new business and service frontiers, under industry-academia-government collaboration. It will support the creation of new industries and the advancement of industrial activities. Furthermore, it will promote the development of human resources proficient in both the chemistry/materials field and the quantum technology field, who will serve as drivers of collaboration and integration between these domains.
+
+# 7. In Conclusion
+
+The quantum industry is an industrial field requiring the combined efforts of various sectors—from hardware to software and services—and can be described as a comprehensive discipline. Therefore, it is crucial for organizations and talent from industry, academia, and government across diverse fields to collaborate closely and co-create new value.
+Furthermore, giventhe involvementof numerousindustrialsectors,this is an area with extremely high potentialfor economic ripple effects across related industries. Considering this, quantum technology's growth can be expected to serve as a catalyst for realizing Japan's comprehensive growth.
+A massive market for the quantum industry is anticipated in the future, and investment is intensifying globally. However, technology often experiences waves of investment enthusiasm (booms), and there may be periods of lower investment activity ahead. Therefore, it is crucial that industry, academia, and government strengthen their unity now, avoid reacting to every upswing and downswing, and instead steadily and continuously nurture technology and talent from a long-term perspective, working towards future success.Furthermore, from the perspective of attracting investment and talent in a sustainable manner, it is vital to strive for accurate information dissemination based on scientific evidence.
+As quantum technology is an emerging market, it is vital to build an environment where young talent can start businesses and boldly pursue new ventures with free thinking. Furthermore, within existing companies, it is expected that management will take the lead in creating environments where young talent can challenge themselves asintrapreneursin newbusinessventures.
+Looking ahead, rapid changes in technologies like AI, Beyond 5G, and semiconductors, alongside markets, are anticipated. Initiatives for sustainable socio-economic development, such as the SDGs and a decarbonized society, will be demanded more than ever. When practicalizing and industrializing quantum technology, a perspective that flexibly adapts to future technological innovations and socioeconomic changes is also vital.
+Approximately 100 years after its inception, quantum technology is transitioning into a phase of full-scale practical application and industrialization. It is hoped that industries will leverage quantum technology to identify winning strategies for futuregrowth and enrich economic and social systems.

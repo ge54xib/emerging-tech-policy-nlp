@@ -1,0 +1,827 @@
+[
+  {
+    "space": "knowledge_space",
+    "confidence": "high",
+    "sentence": "The funds are provided under the MVZI budget item, and the measure is implemented by JŠRIPS.",
+    "entities": [],
+    "doc_id": "SVN_2025_Strategy for the Development of Quantum Technologies"
+  },
+  {
+    "space": "knowledge_space",
+    "confidence": "high",
+    "sentence": "For example, Utrecht is participating in the NWO cold atoms and molecules programme, together with the University\nof Amsterdam, Eindhoven University of Technology and Radboud University, and Utrecht is overseeing an NWO spintronics programme.",
+    "entities": [
+      {
+        "entity": "nwo",
+        "helix": "government"
+      },
+      {
+        "entity": "radboud university",
+        "helix": "academia"
+      },
+      {
+        "entity": "eindhoven university of technology",
+        "helix": "academia"
+      }
+    ],
+    "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY"
+  },
+  {
+    "space": "knowledge_space",
+    "confidence": "high",
+    "sentence": "In 1981, the Max Planck Institute (MPI) for Quantum Optics was founded in Garching, in 1993 the experimental branch of the MPI for Gravitational Physics was set up in Hanover, in 1994 it was the turn of the MPI for the Physics of Complex Systems in Dresden, and in 2009 the MPI for the Physics of Light in Erlangen.",
+    "entities": [],
+    "doc_id": "GER_2023_Quantum Technologies Conceptual Framework Programme"
+  },
+  {
+    "space": "knowledge_space",
+    "confidence": "high",
+    "sentence": "Research at the Fraunhofer IAF in collaboration with the Fraunhofer IPM, IWM, IMM and CAP-UK is focusing intensively on solid state technologies that could facilitate widespread use of customised quantum sensors at room temperature and in variable environments.",
+    "entities": [
+      {
+        "entity": "fraunhofer ipm",
+        "helix": "academia"
+      },
+      {
+        "entity": "iwm",
+        "helix": "government"
+      },
+      {
+        "entity": "fraunhofer iaf",
+        "helix": "academia"
+      },
+      {
+        "entity": "imm",
+        "helix": "academia"
+      },
+      {
+        "entity": "cap-uk",
+        "helix": "academia"
+      }
+    ],
+    "doc_id": "GER_2018_Quantum technologies – from basic research to market"
+  },
+  {
+    "space": "knowledge_space",
+    "confidence": "high",
+    "sentence": "The quantum engineering and testing facilities in South East Technological University, Trinity College Dublin and Tyndall National Institute will provide nationwide access to testing, prototyping and training.",
+    "entities": [],
+    "doc_id": "IRL_2023_Quantum 2030"
+  },
+  {
+    "space": "knowledge_space",
+    "confidence": "high",
+    "sentence": "For this reason, the Spanish Government launched its first national programme in 2022 with the creation of the Quantum Spain consortium, which brings together 27 research institutions from 14 autonomous communities, including the CSIC, BSC-CNS and 15 public universities.",
+    "entities": [
+      {
+        "entity": "csic",
+        "helix": "government"
+      },
+      {
+        "entity": "bsc-cns",
+        "helix": "intermediary"
+      },
+      {
+        "entity": "spanish government",
+        "helix": "government"
+      }
+    ],
+    "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain"
+  },
+  {
+    "space": "knowledge_space",
+    "confidence": "high",
+    "sentence": "The Leibniz Institutes are involved on a national level in relevant projects, such as the Excellence Hub ct.qmat – Complexity and Topology in Quantum Matter, the Research Factory Microelectronics Germany, QSolid – Quantum Computers in the Solid State, MUNIQC-SC – Munich Quantum Valley Quantum Computer Demonstrators – Superconducting Qubits, or QYRO – Nuclear Spin-based quantum gyroscopes for new space applications, as well as an international level, for example, at BECCAL – Bose-Einstein Condensate and Cold Atom Lab on the International Space Station.",
+    "entities": [
+      {
+        "entity": "leibniz institutes",
+        "helix": "academia"
+      },
+      {
+        "entity": "munich quantum valley",
+        "helix": "intermediary"
+      },
+      {
+        "entity": "beccal",
+        "helix": "academia"
+      },
+      {
+        "entity": "condensate and cold atom lab",
+        "helix": "academia"
+      }
+    ],
+    "doc_id": "GER_2023_Quantum Technologies Conceptual Framework Programme"
+  },
+  {
+    "space": "knowledge_space",
+    "confidence": "high",
+    "sentence": "Within the Quantum Software Consortium, for example, QuSoft collaborates with QuTech and Leiden University on the development of quantum software and applications.",
+    "entities": [
+      {
+        "entity": "qutech",
+        "helix": "intermediary"
+      },
+      {
+        "entity": "qusoft",
+        "helix": "academia"
+      },
+      {
+        "entity": "leiden university",
+        "helix": "academia"
+      },
+      {
+        "entity": "quantum software consortium",
+        "helix": "intermediary"
+      }
+    ],
+    "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY"
+  },
+  {
+    "space": "knowledge_space",
+    "confidence": "high",
+    "sentence": "The Max Planck Society (MPG) was an early supporter of basic research on quantum technologies, in the sense of the second quantum revolution.",
+    "entities": [],
+    "doc_id": "GER_2018_Quantum technologies – from basic research to market"
+  },
+  {
+    "space": "knowledge_space",
+    "confidence": "high",
+    "sentence": "With further co-financing under EuroHPC JU, EuroCC was established in Slovenia – competence centers at the national level within EuroHPC, which continued in EuroCC2.",
+    "entities": [
+      {
+        "entity": "eurohpc",
+        "helix": "government"
+      },
+      {
+        "entity": "eurocc",
+        "helix": "intermediary"
+      },
+      {
+        "entity": "eurocc2",
+        "helix": "intermediary"
+      }
+    ],
+    "doc_id": "SVN_2025_Strategy for the Development of Quantum Technologies"
+  },
+  {
+    "space": "knowledge_space",
+    "confidence": "high",
+    "sentence": "In 2025, VŠB-TUO joined the European association QuIC (Quantum Industry Consortium), which includes more than 180 institutions and companies from across Europe and aims to accelerate the development of quantum technologies and strengthen Europe's position as a world leader in this rapidly growing sector.",
+    "entities": [
+      {
+        "entity": "všb-tuo",
+        "helix": "academia"
+      },
+      {
+        "entity": "quic",
+        "helix": "intermediary"
+      },
+      {
+        "entity": "quantum industry consortium",
+        "helix": "intermediary"
+      }
+    ],
+    "doc_id": "CZE_2025_National Strategy for Quantum Technologies"
+  },
+  {
+    "space": "knowledge_space",
+    "confidence": "high",
+    "sentence": "In addition, TECHRIOJA will host one of the nodes of the National Supercomputing Centre associated with the Industrias del Español data centre.",
+    "entities": [
+      {
+        "entity": "techrioja",
+        "helix": "intermediary"
+      },
+      {
+        "entity": "national supercomputing centre",
+        "helix": "government"
+      }
+    ],
+    "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain"
+  },
+  {
+    "space": "knowledge_space",
+    "confidence": "high",
+    "sentence": "Responsibility\nMinistry of Education, Youth and Sports\nCooperation\nMinistry of Defense, TAČR, GAČR, Ministry of Transport\nDeadline\nFrom 2026\nCost\nOptimally CZK 1.25 billion (CZK 250 million per year for 5 years)\nBenefits\nInterconnection, participation, and development of Czech research teams within European and non-European research consortia.",
+    "entities": [],
+    "doc_id": "CZE_2025_National Strategy for Quantum Technologies"
+  },
+  {
+    "space": "knowledge_space",
+    "confidence": "high",
+    "sentence": "QSI researchers are developing the Bench‑Q software suite for this purpose with the University of Southern California, University of Texas at Dallas, Aalto University in Finland, and Zapata Computing.",
+    "entities": [
+      {
+        "entity": "qsi",
+        "helix": "academia"
+      },
+      {
+        "entity": "zapata computing",
+        "helix": "industry"
+      },
+      {
+        "entity": "university of southern california",
+        "helix": "academia"
+      },
+      {
+        "entity": "university of texas at dallas",
+        "helix": "academia"
+      },
+      {
+        "entity": "aalto university",
+        "helix": "academia"
+      }
+    ],
+    "doc_id": "AUS_2023_National Quantum Strategy"
+  },
+  {
+    "space": "knowledge_space",
+    "confidence": "high",
+    "sentence": "In doing so, we will consider utilizing personnel from the IT/digital field and developing a so-called \"quantum skill standard\" based on the IT Skill Standard of the Information-technology Promotion Agency, Japan (IPA).",
+    "entities": [],
+    "doc_id": "JPN_2024_Promotion Measures for the Development of Quantum Industries"
+  },
+  {
+    "space": "innovation_space",
+    "confidence": "high",
+    "sentence": "- ✓ Therefore, key hubs such as the Quantum Technology Infrastructure Center (National Institute for Quantum Science and Technology; hereinafter referred to as \"QST\") and AIST will collaborate to establish a single point of contact for testbed usage.",
+    "entities": [],
+    "doc_id": "JPN_2024_Promotion Measures for the Development of Quantum Industries"
+  },
+  {
+    "space": "innovation_space",
+    "confidence": "high",
+    "sentence": "Phasor Innovation is collaborating with the University of Melbourne and RMIT University on researching and developing the next generation of diamond‑based quantum sensors.",
+    "entities": [
+      {
+        "entity": "university of melbourne",
+        "helix": "academia"
+      },
+      {
+        "entity": "phasor innovation",
+        "helix": "industry"
+      },
+      {
+        "entity": "rmit university",
+        "helix": "academia"
+      }
+    ],
+    "doc_id": "AUS_2023_National Quantum Strategy"
+  },
+  {
+    "space": "innovation_space",
+    "confidence": "high",
+    "sentence": "There are numerous examples where procurement has been used to drive innovation such as through the (SBRI) and the (NSSIF), providing public service improvements for the government whilst supporting small businesses and stimulating markets.",
+    "entities": [
+      {
+        "entity": "nssif",
+        "helix": "government"
+      },
+      {
+        "entity": "sbri",
+        "helix": "intermediary"
+      }
+    ],
+    "doc_id": "GBR_2023_National Quantum Strategy"
+  },
+  {
+    "space": "innovation_space",
+    "confidence": "high",
+    "sentence": "AQC is based on research in superconducting microwave devices, which was supported by the Australian Research Council through Future Fellowships and the (<https://equs.org/>)ARC Centre of Excellence in Engineered (<https://equs.org/>)Quantum Systems (EQUS).",
+    "entities": [
+      {
+        "entity": "australian research council",
+        "helix": "government"
+      },
+      {
+        "entity": "aqc",
+        "helix": "industry"
+      },
+      {
+        "entity": "arc centre of excellence in engineered",
+        "helix": "academia"
+      },
+      {
+        "entity": "quantum systems",
+        "helix": "academia"
+      },
+      {
+        "entity": "equs",
+        "helix": "academia"
+      }
+    ],
+    "doc_id": "AUS_2023_National Quantum Strategy"
+  },
+  {
+    "space": "innovation_space",
+    "confidence": "high",
+    "sentence": "Quantum Insider\nIn February 2023, London based start-up Quantum Motion raised over £42m in equity funding from some of the world’s leading quantum investors ().",
+    "entities": [
+      {
+        "entity": "quantum motion",
+        "helix": "industry"
+      },
+      {
+        "entity": "quantum insider",
+        "helix": "civil_society"
+      }
+    ],
+    "doc_id": "GBR_2023_National Quantum Strategy"
+  },
+  {
+    "space": "innovation_space",
+    "confidence": "high",
+    "sentence": "The high-tech sector is a key sector of the Dutch economy, with global players such as ASML, ASM International, NXP, Philips and Thales, as well as numerous suppliers (typically SMEs) in the Eindhoven Brainport region and elsewhere.",
+    "entities": [
+      {
+        "entity": "asml",
+        "helix": "industry"
+      },
+      {
+        "entity": "asm international",
+        "helix": "civil_society"
+      },
+      {
+        "entity": "nxp",
+        "helix": "industry"
+      },
+      {
+        "entity": "philips",
+        "helix": "industry"
+      },
+      {
+        "entity": "thales",
+        "helix": "industry"
+      }
+    ],
+    "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY"
+  },
+  {
+    "space": "innovation_space",
+    "confidence": "high",
+    "sentence": "Example of a startup: QuiX\nEnschede-based QuiX is a spinoff from the University of Twente.",
+    "entities": [
+      {
+        "entity": "quix",
+        "helix": "industry"
+      },
+      {
+        "entity": "university of twente",
+        "helix": "academia"
+      }
+    ],
+    "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY"
+  },
+  {
+    "space": "innovation_space",
+    "confidence": "high",
+    "sentence": "Responsible actors:\nMEAE, MF, VTT, CSC,\nBusiness Finland, FiQCI\nDetermined the suitability of the R&D tax deductions in use and under preparation as an incentive for the introduction of quantum and high­performance computing.",
+    "entities": [
+      {
+        "entity": "meae",
+        "helix": "government"
+      },
+      {
+        "entity": "csc",
+        "helix": "intermediary"
+      },
+      {
+        "entity": "fiqci",
+        "helix": "academia"
+      },
+      {
+        "entity": "business finland",
+        "helix": "government"
+      },
+      {
+        "entity": "vtt",
+        "helix": "government"
+      },
+      {
+        "entity": "mf",
+        "helix": "government"
+      }
+    ],
+    "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035"
+  },
+  {
+    "space": "innovation_space",
+    "confidence": "high",
+    "sentence": "IN PROGRESS\n2024–2030\nMVZI\nStrengthening the project offices of public research organizations\nIn 2022, the Ministry of Education, Science and Sport published a call for proposals aimed at strengthening the support environment for project offices and public research organizations, which play an important role in activities related to applications for public tenders and the implementation of EU centralized programs, with an emphasis on Horizon Europe tenders and projects.",
+    "entities": [],
+    "doc_id": "SVN_2025_Strategy for the Development of Quantum Technologies"
+  },
+  {
+    "space": "innovation_space",
+    "confidence": "high",
+    "sentence": "There are investment funds that focus, among other things, on investments in quantum technologies, such as Tensor Ventures and Presto Ventures.",
+    "entities": [],
+    "doc_id": "CZE_2025_National Strategy for Quantum Technologies"
+  },
+  {
+    "space": "innovation_space",
+    "confidence": "high",
+    "sentence": "The quantum ecosystem, together with Business Finland and the InstituteQ, creates a framework for increasing quantum awareness for end­user companies.",
+    "entities": [
+      {
+        "entity": "business finland",
+        "helix": "government"
+      },
+      {
+        "entity": "instituteq",
+        "helix": "intermediary"
+      }
+    ],
+    "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035"
+  },
+  {
+    "space": "innovation_space",
+    "confidence": "high",
+    "sentence": "To complement this multidisciplinary funding landscape, there are plans to launch initiatives focused specifically on quantum technology and designed for start-ups and SMEs – for example, by providing suitable infrastructures (see Centre of Excellence for Quantum Technologies at the PTB).",
+    "entities": [
+      {
+        "entity": "ptb",
+        "helix": "government"
+      },
+      {
+        "entity": "centre of excellence for quantum technologies",
+        "helix": "academia"
+      }
+    ],
+    "doc_id": "GER_2018_Quantum technologies – from basic research to market"
+  },
+  {
+    "space": "innovation_space",
+    "confidence": "high",
+    "sentence": "In order to limit the level of risk and losses on the portfolio, one hypothesis could be to introduce \"guarantees\" of a public nature (e.g., through SACE), i.e., insurance instruments to guarantee part of the qualified investment, by an institutional fund (Limited Partner), in units or shares of deep-tech Venture Capital Funds residing in the territory of the state (or that of member states of the European Union or states party to the Agreement on the European Economic Area, provided that the manager's investment is in startups operating mainly in Italy).",
+    "entities": [
+      {
+        "entity": "european union",
+        "helix": "government"
+      },
+      {
+        "entity": "sace",
+        "helix": "intermediary"
+      }
+    ],
+    "doc_id": "ITA_2025_ITALIAN STRATEGY FOR QUANTUM TECHNOLOGIES"
+  },
+  {
+    "space": "innovation_space",
+    "confidence": "high",
+    "sentence": "Invest-in activities that support growth\nResponsible actors: MEAE, Business Finland\nThanks to the invest­in measures, 5 new international actors have established themselves in Finland, have invested a total of €20 million and created 60 new jobs.",
+    "entities": [],
+    "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035"
+  },
+  {
+    "space": "innovation_space",
+    "confidence": "high",
+    "sentence": "→ BMBF, BMWK\n- ∙ work towards close dovetailing with European partners at all levels.",
+    "entities": [],
+    "doc_id": "GER_2023_Quantum Technologies Conceptual Framework Programme"
+  },
+  {
+    "space": "consensus_space",
+    "confidence": "high",
+    "sentence": "The indicative financial resources for the implementation of the measure in the period 2025–2035\nIn the period 2028–2035, a total of EUR 20,000,000 (MVZI, MDP, MGTŠ, MO – provision and planning of funds to be divided among the aforementioned ministries)\nExpected effects\n− Establishment and operation of its own quantum computer computer by 2035.",
+    "entities": [],
+    "doc_id": "SVN_2025_Strategy for the Development of Quantum Technologies"
+  },
+  {
+    "space": "consensus_space",
+    "confidence": "high",
+    "sentence": "Promote the contributions of EuroHPC and EuroQCI grantees to JTC22 standards development activities;\n- b) Support the JTC22 strategy group in creating a dynamic and user-friendly document outlining existing and emerging standards and providing up-to-date information on global quantum standardization activities;\n- c) Assign the JTC22 strategy group to oversee and unify quantum technology standardization initiatives at the European level, avoiding duplication.",
+    "entities": [
+      {
+        "entity": "jtc22",
+        "helix": "intermediary"
+      },
+      {
+        "entity": "eurohpc",
+        "helix": "government"
+      }
+    ],
+    "doc_id": "ITA_2025_ITALIAN STRATEGY FOR QUANTUM TECHNOLOGIES"
+  },
+  {
+    "space": "consensus_space",
+    "confidence": "high",
+    "sentence": "SI has recognized the scientific and technological potential of this field and joined the QuantERA network in 2017.",
+    "entities": [],
+    "doc_id": "SVN_2025_Strategy for the Development of Quantum Technologies"
+  },
+  {
+    "space": "consensus_space",
+    "confidence": "high",
+    "sentence": "In 2023, SI joined the European Quantum Declaration, the so-called quantum pact, which represents a commitment to cooperate with other Member States and the EC in developing a cutting-edge QT ecosystem.",
+    "entities": [],
+    "doc_id": "SVN_2025_Strategy for the Development of Quantum Technologies"
+  },
+  {
+    "space": "consensus_space",
+    "confidence": "high",
+    "sentence": "- • Take a leading role in multilateral fora to support UK quantum growth, for example through the OECD and the recently announced Global Technology Forum, the World Economic Forum, the G7, and NATO and look for broader collaborative R&D opportunities born out of defence pacts such as AUKUS.",
+    "entities": [
+      {
+        "entity": "oecd",
+        "helix": "government"
+      },
+      {
+        "entity": "world economic forum",
+        "helix": "civil_society"
+      },
+      {
+        "entity": "g7",
+        "helix": "government"
+      },
+      {
+        "entity": "nato",
+        "helix": "government"
+      }
+    ],
+    "doc_id": "GBR_2023_National Quantum Strategy"
+  },
+  {
+    "space": "consensus_space",
+    "confidence": "high",
+    "sentence": "In addition, coordination mechanisms will be established between all public funding agents, such as CDTI and ICO-AXIS, to promote specialisation, avoid overlaps and each have an impact in their area of action with regard to the life cycle of companies and the risk of investment at each stage, in order to make the allocated resources more efficient.",
+    "entities": [
+      {
+        "entity": "cdti",
+        "helix": "government"
+      },
+      {
+        "entity": "ico-axis",
+        "helix": "intermediary"
+      }
+    ],
+    "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain"
+  },
+  {
+    "space": "consensus_space",
+    "confidence": "high",
+    "sentence": "Responsibility\nMinistry of Education\nCooperation\nMVVI, MPSV, NAU, MPO, MO, SPČR, HK\nDeadline\nPreparation by the end of 2026, start in 2027\nCost\nOptimal budget: CZK 200 million (with gradual ramp-up)\nBenefits\nBuilding a base of qualified human resources capable of working with quantum technologies at all levels, from research and development through practical engineering applications to implementation in industry, government and security.",
+    "entities": [
+      {
+        "entity": "mpo",
+        "helix": "government"
+      },
+      {
+        "entity": "spčr",
+        "helix": "intermediary"
+      },
+      {
+        "entity": "mpsv",
+        "helix": "government"
+      },
+      {
+        "entity": "nau",
+        "helix": "government"
+      },
+      {
+        "entity": "mo",
+        "helix": "government"
+      }
+    ],
+    "doc_id": "CZE_2025_National Strategy for Quantum Technologies"
+  },
+  {
+    "space": "consensus_space",
+    "confidence": "high",
+    "sentence": "Talent will be supported through programming at NSERC and Mitacs:\n- • ($5.4 million over six years)\nNSERC CREATE grants program\n- • ($40 million over six years)\nMitacs",
+    "entities": [
+      {
+        "entity": "nserc",
+        "helix": "government"
+      },
+      {
+        "entity": "mitacs",
+        "helix": "intermediary"
+      }
+    ],
+    "doc_id": "CAN_2022_Canada's National Quantum Strategy"
+  },
+  {
+    "space": "consensus_space",
+    "confidence": "high",
+    "sentence": "Responsible parties: InstituteQ\nOther actors: MEC, Business Finland, Technology Industries of Finland, Team Finland network\nEach year, one national (Finnish/ Swedish) and one international awareness campaign targeted at companies, another at young adults and students, the third for UAS and general upper secondary school teachers.",
+    "entities": [
+      {
+        "entity": "business finland",
+        "helix": "government"
+      },
+      {
+        "entity": "technology industries of finland",
+        "helix": "intermediary"
+      },
+      {
+        "entity": "instituteq",
+        "helix": "intermediary"
+      },
+      {
+        "entity": "mec",
+        "helix": "government"
+      }
+    ],
+    "doc_id": "FIN_2025_Finland’s Quantum Technology Strategy 2025-2035"
+  },
+  {
+    "space": "consensus_space",
+    "confidence": "high",
+    "sentence": "Budget chapter\nMinistry of Education, Youth and Sports\nP4.2\nInternational memoranda on cooperation in the field of quantum technologies with countries with advanced quantum ecosystems\nDescription of measures\nConclude memoranda on cooperation in research, development, and innovation in the field of quantum technologies within the EU (e.g., Denmark, Germany, Finland, France, Belgium, the Netherlands) or with democratic countries with advanced quantum ecosystems, such as the United States, the United Kingdom, Japan, Israel, Singapore, and South Korea, and with countries where quantum technologies may be promising from the perspective of the Czech Republic, and support this cooperation with resources for financing projects from measure P1.2.",
+    "entities": [],
+    "doc_id": "CZE_2025_National Strategy for Quantum Technologies"
+  },
+  {
+    "space": "consensus_space",
+    "confidence": "high",
+    "sentence": "The Danish Ministry of Industry, Business and Financial Affairs is the overall responsible for the implementation of Part 2 of the strategy in close cooperation with the other ministries in the interministerial quantum secretariat, which consists of the Ministry of Industry, Business and Financial Affairs, the Ministry of Higher Education and Science, the Ministry of Foreign Affairs, the Ministry of Defense and the Ministry of Digital Government and Gender Equality.",
+    "entities": [],
+    "doc_id": "DNK_2023_Strategy for Quantum Technology Part 2"
+  },
+  {
+    "space": "consensus_space",
+    "confidence": "high",
+    "sentence": "Indicative financial for the implementation of the measure in the period 2025– 2035\nThe project, worth EUR 120,000, will be financed in equal shares by ARIS and the Ministry of Defense for 18 months (starting in October 2024).",
+    "entities": [],
+    "doc_id": "SVN_2025_Strategy for the Development of Quantum Technologies"
+  },
+  {
+    "space": "consensus_space",
+    "confidence": "high",
+    "sentence": "## World Economic Forum Global Future Council",
+    "entities": [
+      {
+        "entity": "world economic forum",
+        "helix": "civil_society"
+      },
+      {
+        "entity": "global future council",
+        "helix": "intermediary"
+      }
+    ],
+    "doc_id": "GBR_2023_National Quantum Strategy"
+  },
+  {
+    "space": "consensus_space",
+    "confidence": "high",
+    "sentence": "And the rewards have been considerable, with the Amsterdam Internet Exchange (AMS-IX) now one of the world's biggest internet hubs, major data centres coming to the country and the emergence of Dutch-based global players such as Adyen Payments and Booking.com.",
+    "entities": [
+      {
+        "entity": "amsterdam internet exchange",
+        "helix": "civil_society"
+      },
+      {
+        "entity": "ams-ix",
+        "helix": "intermediary"
+      },
+      {
+        "entity": "adyen payments",
+        "helix": "industry"
+      },
+      {
+        "entity": "booking.com",
+        "helix": "industry"
+      }
+    ],
+    "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY"
+  },
+  {
+    "space": "consensus_space",
+    "confidence": "high",
+    "sentence": "Trusted Research\nSecure\nInnovation\nGovernment guidance for academia (“”) and industry ( “”), as well as wider advice1 is available through NPSA and NCSC.",
+    "entities": [],
+    "doc_id": "GBR_2023_National Quantum Strategy"
+  },
+  {
+    "space": "public_space",
+    "confidence": "high",
+    "sentence": "- • Agencies such as NSF and NASA should support efforts that promote the development of QIST awareness, starting with K-12 age groups.",
+    "entities": [],
+    "doc_id": "USA_2022_QUANTUM INFORMATION SCIENCE AND TECHNOLOGY WORKFORCE DEVELOPMENT NATIONAL STRATEGIC PLAN"
+  },
+  {
+    "space": "public_space",
+    "confidence": "high",
+    "sentence": "Since 2015, Innovation, Science and Economic Development Canada (ISED) has provided $22.5 million to enable the organization to deliver STEM-based programming for early years to grade 12 youth, build career awareness among students and teachers, and offer career-building volunteer opportunities to post-secondary students.",
+    "entities": [],
+    "doc_id": "CAN_2022_Canada's National Quantum Strategy"
+  },
+  {
+    "space": "public_space",
+    "confidence": "high",
+    "sentence": "The objectives of RRI are to analyze the impact of quantum technologies on security systems, national security, and defense mechanisms of the Republic of Slovenia, to review opportunities for Slovenian stakeholders to participate in quantum technology projects to strengthen the capabilities of the European Defense Agency (EDA), and to prepare and organize a workshop on quantum technologies with\n- a focus on their use for security purposes.",
+    "entities": [],
+    "doc_id": "SVN_2025_Strategy for the Development of Quantum Technologies"
+  },
+  {
+    "space": "public_space",
+    "confidence": "high",
+    "sentence": "This nine-month project, led by Dr Steve Campbell of UCD, was funded through the Irish Research Council’s New Foundation scheme as part of the Shared Island initiative.",
+    "entities": [
+      {
+        "entity": "ucd",
+        "helix": "academia"
+      },
+      {
+        "entity": "irish research council",
+        "helix": "government"
+      },
+      {
+        "entity": "steve campbell",
+        "helix": "academia"
+      }
+    ],
+    "doc_id": "IRL_2023_Quantum 2030"
+  },
+  {
+    "space": "public_space",
+    "confidence": "high",
+    "sentence": "A start has already been made, with a publication40 on the quantum internet's impact on society by the Quantum Vision team at Delft University of Technology.",
+    "entities": [],
+    "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY"
+  },
+  {
+    "space": "public_space",
+    "confidence": "high",
+    "sentence": "To this end, OSTP and NSF spearheaded the (<https://q12education.org/>)National Q-12 Education Partnership (Q-12 Partnership) to begin fostering and grow such a community.",
+    "entities": [],
+    "doc_id": "USA_2022_QUANTUM INFORMATION SCIENCE AND TECHNOLOGY WORKFORCE DEVELOPMENT NATIONAL STRATEGIC PLAN"
+  },
+  {
+    "space": "public_space",
+    "confidence": "high",
+    "sentence": "- • Government sponsored efforts that include workforce development activities, such as DOE's National Quantum Information Science Research Centers and NSF’s Quantum Leap Challenge Institutes, should strive to create a positive and accurate branding of QIST.",
+    "entities": [
+      {
+        "entity": "doe",
+        "helix": "government"
+      },
+      {
+        "entity": "quantum information science",
+        "helix": "intermediary"
+      },
+      {
+        "entity": "nsf",
+        "helix": "government"
+      }
+    ],
+    "doc_id": "USA_2022_QUANTUM INFORMATION SCIENCE AND TECHNOLOGY WORKFORCE DEVELOPMENT NATIONAL STRATEGIC PLAN"
+  },
+  {
+    "space": "public_space",
+    "confidence": "high",
+    "sentence": "- • The SCQIS and its workforce IWG should coordinate with the NSTC Committee on STEM Education (Co-STEM) as they implement the STEM Education Strategic Plan.",
+    "entities": [],
+    "doc_id": "USA_2022_QUANTUM INFORMATION SCIENCE AND TECHNOLOGY WORKFORCE DEVELOPMENT NATIONAL STRATEGIC PLAN"
+  },
+  {
+    "space": "public_space",
+    "confidence": "high",
+    "sentence": "Centres for Doctoral Training\nDefence Science and Technology Laboratory\nNational Physical Laboratory\nPeople and know-how are driving the early development of the emerging sector.",
+    "entities": [],
+    "doc_id": "GBR_2023_National Quantum Strategy"
+  },
+  {
+    "space": "public_space",
+    "confidence": "high",
+    "sentence": "It was suggested that the Social Sciences and Humanities Research Council (SSHRC) could fund studies on the societal and ethical considerations of quantum technologies.",
+    "entities": [],
+    "doc_id": "CAN_2022_Canada's National Quantum Strategy"
+  },
+  {
+    "space": "public_space",
+    "confidence": "high",
+    "sentence": "- Recommendations will be drawn up to promote the development of quantum technologies and respect for fundamental rights at national and international level, particularly within the European Union, the Council of Europe and UNESCO.",
+    "entities": [],
+    "doc_id": "ESP_2025_Strategy of Quantum Technologies of Spain"
+  },
+  {
+    "space": "public_space",
+    "confidence": "high",
+    "sentence": "Expand the NQCC’s ability to act as a first customer on Government’s behalf by procuring prototype platforms and access to compute to accelerate the growth of the sector and enable sectors and government users to explore use cases.",
+    "entities": [],
+    "doc_id": "GBR_2023_National Quantum Strategy"
+  },
+  {
+    "space": "public_space",
+    "confidence": "high",
+    "sentence": "Status\nIN PREPARATION/BEING IMPLEMENTED\nExpected results after implementation of the measure\n- − Awareness campaign: 1 (UNESCO)\n- − Events held: 1 (Science Month)\nMeasure implementer\nMVZI (State Agency for UNESCO)",
+    "entities": [],
+    "doc_id": "SVN_2025_Strategy for the Development of Quantum Technologies"
+  },
+  {
+    "space": "public_space",
+    "confidence": "high",
+    "sentence": "Community input is welcomed, and related curricula are sought.65 (<>)Key Concepts for QIS Learners include:\n- ● Mathematics of probability, vectors, algebra, trigonometry, complex numbers, and linear transformations to describe the physical world via quantum mechanics\n- ● The description of a quantum state\n- ● Quantum measurement outcomes and applications\n- ● The quantum bit, or qubit\n- ● Entanglement and superposition\n- ● Coherence and decoherence\n- ● Quantum computers that solve certain complex computational problems more efficiently than classical computers\n- ● Quantum communication using entanglement or a transmission channel, such as optical fiber, to transfer quantum information between different locations\n- ● Quantum sensing using quantum states to detect and measure physical properties with the highest precision allowed by quantum mechanics\nhttps://qis-learners.research.illinois.edu/\nTo read more about Key Concepts for QIS Learners see\nAt the American high school level, some schools still do not offer physics courses, and a majority of students will not have taken a physics course during their K-12 education;66 (<>)even fewer students have the option to take computer science courses.67 (<>)Based on available data, it appears that only a small minority of these available classes include quantum physics or QIST concepts.68 (<>)Furthermore, those schools that do offer these opportunities tend to have lower enrollment of people from backgrounds historically underrepresented in STEM fields.69 (<>)Another major challenge is that only about 1/3 of high school physics teachers majored in physics.70 (<>)Efforts, partially supported by NSF, are underway to provide critically needed teacher development opportunities, but they are still small and will need to grow.71(<>),72 (<>)\nTo start addressing teacher preparation, student access, and community awareness, NSF, in coordination with the NQCO, facilitated a workshop where a group of various stakeholders outlined nine key QIST concepts across computer science, mathematics, physics, and chemistry that could be further expanded and adapted for students as well as broader public audiences.73 (<>)These Key Concepts\nfor QIS Learners are highlighted in Box 1.",
+    "entities": [],
+    "doc_id": "USA_2022_QUANTUM INFORMATION SCIENCE AND TECHNOLOGY WORKFORCE DEVELOPMENT NATIONAL STRATEGIC PLAN"
+  },
+  {
+    "space": "public_space",
+    "confidence": "high",
+    "sentence": "One recent product of that consultative approach was the 2018 Quantum Technologies Public Dialogue Report, commissioned by the British Engineering and Physical Sciences Research Council (EPSRC).",
+    "entities": [],
+    "doc_id": "NLD_2019_NATIONAL AGENDA FOR QUANTUM TECHNOLOGY"
+  }
+]

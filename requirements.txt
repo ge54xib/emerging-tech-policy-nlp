@@ -1,0 +1,27 @@
+# Python >= 3.10 required (tested on Python 3.11)
+# Install: pip install -r requirements.txt
+
+# --- Pipeline ---
+pdfservices-sdk>=4.0.0        # Step 0: Adobe PDF extraction
+python-dotenv>=1.0.1          # Environment variable loading
+flair>=0.14.0                 # Step 1: NER model
+transformers>=4.45.0          # Flair/HuggingFace backend
+accelerate>=0.33.0            # Model acceleration
+torch>=2.2.0                  # Deep learning backend
+tqdm>=4.66.0                  # Progress bars
+sentencepiece>=0.2.0          # Tokenizer dependency for NLI model
+hf-transfer>=0.1.6            # Fast HuggingFace model downloads (Rust-based)
+setfit>=0.9.0                 # Few-shot TH space classification (spaces_setfit.py)
+spacy>=3.7.0                  # Step 3: sentence splitting
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+
+# --- Analysis ---
+numpy>=1.26.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+scipy>=1.12.0                 # Convex hull (RQ4 figure)
+scikit-learn>=1.5.0           # Utility metrics
+
+# --- UI ---
+streamlit>=1.32.0             # Manual classification UI (python run.py ui)

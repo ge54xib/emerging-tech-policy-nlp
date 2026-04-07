@@ -1,0 +1,9 @@
+{
+  "labels": [
+    "knowledge_space",
+    "innovation_space",
+    "consensus_space",
+    "public_space"
+  ],
+  "normalize_embeddings": false
+}

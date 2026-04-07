@@ -1,0 +1,327 @@
+National Strategy for Quantum Technology
+Part 2 – Commercialisation, Security and International Cooperation
+SEPTEMBER 2023
+
+# Preface
+
+In 1922, Niels Bohr was awarded the Nobel Prize in Physics for his groundbreaking work on atomic structure and quantum theory. This marked a pivotal moment in the history of physics and the natural sciences. While the world has evolved significantly since then, Bohr's legacy continues to resonate. As of 2023, Denmark remains at the forefront of quantum technology research, enjoying widespread international recognition. This presents us with a unique opportunity to unlock the immense potential of quantum technologies, not only in the realm of research but also in translating this knowledge into solutions that can benefit society, businesses, and national security, ultimately improving the lives of individuals worldwide.
+Thanks to the remarkable increase in computational power, quantum computers are expected to tackle highly complex problems that classical computers simply cannot solve. Quantum simulators have the potential to enhance medical diagnostics, advance materials and drug development, and quantum sensors promise precise scans while revolutionising navigation and sea monitoring, as well as resource management. Additionally, quantum communication can significantly enhance security by minimizing the risks associated with decryption, contributing to more secure global communications.
+As we begin to realise the extensive business and personal potential of quantum technology, we must also acknowledge the security challenges it poses. Quantum technology has profound strategic and security implications worldwide. Its far-reaching potential can be exploited militarily and pose threats to cyber and information security. Security considerations are an integral part of our engagement with quantum technology, especially in a world
+marked by geopolitical tensions, exemplified by events like the European conflict and the global race for technological supremacy. Such challenges place demanding requirements on small, open economies like Denmark.
+Across the globe, countries are heavily investing in quantum technology, with the United States and China leading the race. Quantum technology has become a pivotal aspect of the geopolitical technology competition. Therefore, fostering close international partnerships with like-minded countries becomes imperative. Denmark's expertise is in high demand on the global stage, providing us with the opportunity to maintain a prominent role internationally. Consequently, we must collaborate with such nations in the field of quantum technology to safeguard our technological sovereignty and security.
+The government's ambition is for Denmark to harness the commercial potential of quantum technology for the benefit of Danish businesses and the nation's security. This publication marks the second part of a National Strategy for Quantum Technology. Building upon Part 1, the government aims to sustain high levels of funding for research and innovation from the Finance Act of 2023, which entails a prioritization of DKK 1 billion from 2023 to 2027. In addition, with Part 2, the government has allocated an extra DKK 200 million from 2024 to 2027 to strengthen efforts in commercialisation, security, and international collaboration.
+Preserving Niels Bohr's legacy necessitates a collective endeavor. If we collectively set our course and make commitments, quantum technology can propel Denmark far into the future.
+The government
+
+# Introduction
+
+## The commercial potential of quantum technologies
+
+The quantum field is developing rapidly and will become a foundational technology for the next century. Basically, quantum computers are expected to deliver significantly increased computing power, which holds great potential.
+The first generation of quantum technology laid the foundation for our current high-tech society. Scanners, GPS navigation, but also semiconductor components such as transistors, lasers, computer chips as well as long-distance and high-speed communication stand on the shoulders of quantum technology.
+Now, we are at the verge of the second generation of quantum technologies which, in the coming years, are expected to open up an equally new and different world. This applies to, for example, the use of quantum computers to develop medicine and quantum sensors to perform a novel type of diagnosis or for improved tracking of submarines, drones, aircrafts and vehicles.
+
+## What is quantum technology?
+
+Quantum technology is a collective term for various technological solutions that have a wide range of applications in society. Generally, the so-called second generation quantum technologies can be divided into four main areas:
+Quantum Computers
+A quantum computer processes and stores information through quantum bits, as opposed to a traditional computer that uses bits. Unlike classical bits, which can have two values, one or zero, quantum bits (realised by a "quantum transistor") can be in a specific quantum state – a superposition where they can, theoretically, have all imaginable values – and, therefore, quantum computers can very quickly handle an enormous amount of output data to find the optimal solution to a complex question. Efforts are being made to develop quantum computers using various quantum transistor approaches. What the different approaches have in common is that it is extremely technically demanding to develop
+Quantum Simulators
+A quantum simulator is a simple quantum computer that differs from quantum computers in being an advanced modeling system that can be used to simulate specific phenomena in the physical world such as photosynthesis or specific biochemical processes. Quantum simulators are specially developed to simulate a specific situation with one or more complex phenomena from the physical world.
+Quantum Communication
+There are two overall purposes of quantum communication. The first one is protection of the communication that takes place via classical computers against potential quantum computer attacks. The second one is the use of quantum technology to create secure encryption keys that are shared in communication contexts. Within quantum resistant encryption, we talk about "quantum key distribution" (QKD). With QKD, quantum physics is being used for creating and distributiting encryption keys that cannot be intercepted or decrypted and, thus, securing the transmitted data from potential quantum computer attacks and hacker attacks. As an alternative, work is also being done on so-called post quantum cryptography (PQC), which is a non quantum mechanical approach based on a mathematical algorithm immune to quantum decryption attacks.
+Quantum Sensors/Metrology
+Quantum sensors are sensors that are highly sensitive and that use quantum mechanical principles to measure ultra-small variations in, for example, magnetic fields, electric fields and gravitational fields. Quantum sensors can provide measurements with much greater precision and accuracy than conventional sensors. This opens new applications in, for example, medicine, navigation and advanced imaging. Quantum metrology also makes use of quantum sensors to define standards for, among other things, timekeeping, and electrical measurements.
+In the long run quantum technologies have the potential to pave the way for groundbreaking advancements in areas such as sustainable energy, healthcare, novel materials, and transportation. These solutions hold the promise of addressing significant global challenges. Naturally, there's substantial commercial promise in our ability to develop and enhance processes using the increased computational power that quantum technologies offer.
+While many quantum technology products are still in their infancy, there are already some products and solutions available in the market. However, the real game-changer is anticipated to be the introduction of quantum computers capable of performing calculations that far surpass the capabilities of current computer technology. This monumental breakthrough is expected to reshape the landscape of technology as we know it
+
+## Threats and Challenges of Quantum Technology
+
+Quantum technology also brings serious threats and challenges since it will fundamentally alter our comprehension and approach to data processing, encryption, computational capabilities, and communication.The geopolitical situation with the war in Ukraine, increased rivalry between the US and China, and the technological race places new
+demands on a small, open economy like Denmark and emphasize that business and trade policy has increasingly become a matter of security policy.
+The defense and security implications of quantum technologies call for more focus on security. For instance, quantum computers are expected to pose a threat to cyber and information security in Denmark, as the computing power in the future is believed to be able to break current encryption systems. This is a serious threat, as a large part of Danish IT infrastructure will thus be vulnerable to attacks.
+In fact, the threat is already present today, even if there are not yet quantum computers that can break the current encryption protocols. Malicious actors can collect encrypted data with to the purpose of decrypting it in the future when a sufficiently powerful quantum computer has been developed. Experts do not agree on when this scenario will become a reality, but it is not inconceivable that sufficiently powerful quantum computers will be developed by 2030. Therefore, it is crucial to our digital society that we increase the resilience of Denmark's critical digital infrastructure.
+
+## Examples of Activities in the Danish Quantum Society
+
+Quantum Communication and Encryption
+- • Sparrow Quantum uses single-photon sources to develop quantum hardware for use in scaling advanced applications in quantum information processing, secure communications, quantum computing and the quantum internet.
+- • Zybersafe is participating in a field trial with quantum key distribution (QKD), and Cryptomathic and Dencrypt deliver products that support cyber security in larger networks and for mobile devices, respectively.
+- • Alea Quantum Technologies has developed a quantum random number generator that can generate random numbers for e.g. encryption.
+Quantum Computing and Algorithms
+- • Microsoft Development Center is developing quantum materials and topological qubits in their Quantum Materials Lab in Lyngby, Denmark. The laboratory will be at the forefront of developing the world's first scalable quantum computer.
+- • Molecular Quantum Solutions is developing quantum chemical calculations using quantum computers in pharma, biotechnology and chemical applications to reduce the need for trivial laboratory experiments.
+- • Quantum Machines (QDevil) has developed management and control systems for quantum computers in the form of electronics and low-level software.
+- • Kvantify has developed quantum-based software for the pharmaceutical, finance and logistics industries, including a product that can be used in the development of new drugs and solutions that can optimise, e.g., returns from financial portfolios or route plans.
+- • QPurpose has developed quantum algorithms and software for use across industries.
+- • As part of a research project financed by the Novo Nordisk Foundation, an IBM Quantum Hub is being established at the University of Copenhagen, so that selected researchers, including from businesses, can learn how to program a quantum computer.
+Components
+- • NKT Photonics is a leading supplier of speciality fiber lasers and Denmark's largest exporter of hardware for the quantum industry.
+- • SiPhotonIC manufactures prototypes of Photonic Integrated Circuits, special designed silicon-based microchip that forms a central hardware component in products for quantum optics.
+- • With its quantum technology test center, Danish National Metrology Institute (DFM) develops new measurement methods to characterize quantum materials and tests components for use in quantum encryption and quantum sensors.
+- • Beamfox Technologies has developed software used by universities and companies for the manufacturing of quantum and nano components.
+- • Quantum Foundry Copenhagen is working on developing new quantum materials and components as part of the Novo Nordisk Foundation Quantum Computing Programme (NQCP).
+
+## When will a quantum computer be able to break the encryption used today?
+
+Note: The figure shows data collected from a questionnaire where 40 experts were asked to indicate the probability that a cryptographically relevant quantum computer can break an RSA-2048 key in 24 hours within various time frames, from 5 years to 30 years.
+Source: 2022 Quantum Threat Timeline Report, Global Risk Institute
+- • There is great uncertainty as to when a quantum computer can break the encryption sys-tems used today. Is it within the next 5 years? Or is it not until 30 years from now? 40 experts have been asked to provide their estimate.
+- • Over half of the experts estimate that it is unlikely to happen (less than a 5% chance) within 5 years.
+- • On the other hand, over half of them believe that it is very likely to happen (over a 95% chance) within the next 30 years.
+A Strengthened Danish Ecosystem
+As Danish quantum research is considered to be world-class in a number of areas, Denmark has the potential to be able to create a strong competitive position in the long term. But in order for quantum technology to be a benefit to Danish companies, civil society and security, there is a need to strengthen the Danish quantum ecosystem.
+Quantum technology is a relatively new technology where there is currently an international race between countries to be at the forefront of the development and application of quantum technologies. This applies in particular to the US and China, but several European countries are also making large investments in quantum technology, and the quantum agenda is receiving increased attention in the EU and NATO. Thus, a national strategy sends a strong signal to our partners and allies about Denmark's commitment.
+At a national level, there are also considerations regarding technological sovereignty, cyber and information security, privacy protection and commercial interests.
+There is also considerable focus on attracting quantum talents, investments and new companies. Therefore, we must create an attractive Danish ecosystem for quantum technology that can develop and attract companies, experts and investments. A stronger commitment must further expand the Danish quantum ecosystem and strengthen international relations – also to the benefit of our collaboration partners and our technological sovereignty. At the same time, we must ensure that Danish companies and research institutions are sufficiently resilient to handle the security challenges that quantum technology generates.
+Link between Part 1 and Part 2
+With the security and defense policy challenges, quantum technology can be of fundamental importance to the future global balance of power and our national and economic security. Therefore, it is crucial that our critical knowledge and technology do not end up in the hands of the wrong people. Among other things, this will require widespread security policy consultacion efforts within the Danish quantum ecosystem, and we must cooperate with like-minded countries to ensure that quantum technology is developed and applied in a responsible manner and for the benefit of a better future.
+National Strategy for Quantum Technology in Two Parts
+Part 1 of the National Strategy for Quantum Technology, which was published in June 2023, sets the intention for the Danish investments in quantum research and knowledge-based innovation. Research and innovation play a decisive role
+in ensuring that Danish society and companies will be able to fully realise the potential of quantum technology in the long run. Furthermore, research and innovation of the very highest quality must strengthen Denmark's international position in the global competition for the development of quantum technology.
+With Part 2 of the National Strategy for Quantum Technology, the government is taking the next step. Part 2 focuses on strengthening the emerging Danish quantum technology ecosystem, and supporting the development, commercialisation and application of quantum technology in Denmark for the benefit of society, economy, security and international cooperation. A central part of this task is to ensure that the development takes into account the safety and protection of Danish quantum technology, just as international partnerships must contribute to creating the best possible framework conditions for the development of Danish quantum technology.
+CommercializationFinancing Talent EU-leadership Security International cooperation International research and innovation cooperation PART 2 PART 1 Improved access to digital research infrastructure Long term and strategic investments
+Our effort does not stop here. Along with the strategy, the government will also establish the National Forum for Quantum Technology, which will be tasked with continuously monitoring the implementation of the initiatives. The Forum will also discuss priorities, challenges and needs in the quantum area, which will play a role in the follow-up of the strategy. This is essential as quantum technology is developing rapidly, and because it is uncertain when major breakthroughs will materialize. Therefore, the government will carry out a midterm evaluation in 2025, which will provide the opportunity to follow up on the strategy and adjust it according to the needs that may arise along the way.
+The Danish Ministry of Industry, Business and Financial Affairs is the overall responsible for the implementation of Part 2 of the strategy in close cooperation with the other ministries in the interministerial quantum secretariat, which consists of the Ministry of Industry, Business and Financial Affairs, the Ministry of Higher Education and Science, the Ministry of Foreign Affairs, the Ministry of Defense and the Ministry of Digital Government and Gender Equality.
+
+# Objective
+
+## Part 1
+
+Denmark aims to have one of the world’s leading quantum research environments and to have the ability to effectively convert research into new, applicable technology.
+With the Finance Act, DKK 212 million has been set aside for 2023 for research and innovation in the quantum field. The government's ambition is to maintain this high level for the next four years. Over the period 2023-2027, this translates into an allocation of DKK 1 billion for research and innovation in the field of quantum technology.
+With Part 1 of the National Strategy for Quantum Technology, increased momentum has been set for the Danish investment in quantum research. This gives Denmark a unique position to also make the most of the commercial potential within the quantum field.
+
+## Part 2
+
+Denmark must utilize the commercial potential of quantum technology for the benefit of Danish business and Denmark's security through a strengthening of the quantum ecosystem. The Danish strongholds must be used to spearhead the application of quantum technology.
+An additional DKK 200 million will be allocated for the period 2024-2027 to strengthen commercialisation, security, and international cooperation in the field of quantum technology.
+Part 2 focuses on ensuring that the actors in the quantum technology ecosystem have good opportunities to develop and commercialize quantum technologies. In addition, efforts related to Danish security and international cooperation must be strengthened. To support the ambition, Part 2 must contribute to further strengthening the quantum ecosystem for the development and commercialisation of quantum technology, and to increase Denmark's resilience against the threats and security challenges that may be associated with quantum technologies.
+
+# Overview of Initiatives
+
+## PRIORITY ACTION 1:
+
+## Commercialising Quantum Technology
+
+1
+2
+3
+4
+5
+Quantum House
+Denmark
+Establishing the Quantum
+Fund
+Activate the Danish strongholds in quantum technology through usecases and demonstration projects
+More quantum talent in Denmark
+National Forum on Quantum Technology – continued from Part 1
+
+## PRIORITY ACTION 2:
+
+## Security as a Foundation for Quantum Technological Development
+
+# 6
+
+7 Increased security in the Danish quantum Community
+
+## PRIORITY ACTION 3:
+
+## Advancing Danish Quantum Interests Internationally
+
+# 8
+
+9
+
+# 11
+
+## Priority Action 1: Commercialising Quantum Technology
+
+Denmark's strong position in quantum research must benefit both business and society. Our strong research position must be developed to also become a strong business position, which supports Denmark's long-term competitiveness.
+Therefore, the government will actively strengthen the emerging Danish ecosystem for applied quantum technology, so that the Danish research environments and start-ups in the quantum field as well as in the established business community with an interest in and potential for using quantum technologies can become even closer connected.
+Quantum technology is still in the early maturity stage, and the companies in the quantum field are mainly spin-outs from universities. In order to speed up the commercialisation of quantum technology, there is a need to improve access to facilities and funding, as well as support the development of and access to the right skills. An important part of the work is to increase awareness of the technology's
+potential applications. The Boston Consulting Group estimates that, of the 450-850 billion dollars, which generally applicable and faulttolerant quantum computers can generate in value, around 80 percent is expected to come from end users within e.g. life science and financial service companies. Therefore, there is a need for knowledge sharing and guidance on the possibilities of quantum technology for potential end users, so that more people can benefit from quantum technologies.
+Reaping the gains requires flexibility and risk tolerance on the behalf of the companies, but also for employees to have the right skills and knowledge. Denmark has a strong higher education system in quantum science, particularly in physics, chemistry, nanoscience, photonics, mathematics and computer science. But there is a need to secure talent development and meet an increasing need for interdisciplinary knowledge and skills to be successful with quantum technology – at both educational and research institutions and in the business world.
+Examples of quantum technology consultants and users
+- • Danske Bank and Energinet – participate in field experiments with quantum communication
+- • Novo Nordisk – is investigating quantum simulation and computing for drug discovery
+- • TDC NET – has used quantum algorithms for route optimization for service technicians
+- • KPMG – has located its global quantum hub in Denmark and focuses on applied quantum technology via advisory and consulting services
+1
+
+# 2
+
+# 3
+
+## Quantum House Danmark
+
+As part of the existing education, research and innovation environment around Nørre Campus in Copenhagen, the government in collaboration with a wide circle of stakeholders will initiate Quantum House Denmark, which will strengthen the physical environment within applied quantum technology. The effort must bring together the players within quantum technology in a competitive environment where there is access to office space, test and measurement equipment, and business development guidance while also creating support networks for development and knowledge sharing. In this way, Quantum House Denmark will also support the exchange of knowledge between existing research institutions and stakeholders such as DTU, KU, NATO's Defense Innovation Accelerator for the North Atlantic (DIANA), Danish Quantum Community and others, and act as an important physical framework for the development of the Danish quantum industry consisting of start-ups, established
+
+## Establishinf the Quantum Fund
+
+Quantum technology is complex, long-term and expensive to develop. It is a technology in continuous development, where the full potential is still to be realized. Therefore, the development of quantum technology from research to commercial opportunities requires risk-taking and patient capital that can support the transition from research and innovation to commercialisation and application.
+As part of the strategy, the government will establish a European quantum fund based in Denmark. The government plans to establish the fund within Denmark's Export and Investment Fund (EIFO) under the Ministry of Industry, Business and Financial Affairs, as EIFO has experience in creating
+Activate the Danish strongholds in quantum technology through use cases and demonstration projects For quantum technology to become a commercial success in Denmark, there is a need for end users to realize the potential in using quantum technology's many possibilities. This could be, for example, in the field of health, where quantum sensors can be used for image diagnostics, or within the optimization of energy resources.
+The distance between the companies that offer new quantum technology solutions and companies that can profit from using the solutions must be shortened. This must be done by promoting the development of demonstration projects and "use-cases" within strong Danish positions where the potential
+companies, etc. The initiative will be an asset for the companies and investors who want to get involved in the quantum environment around Nørre Campus. The establishment of Quantum House Denmark will also support awareness of Denmark's quantum efforts abroad, thereby helping to attract foreign talent and investments to Denmark.
+In connection with Quantum House Denmark, the government, in collaboration with the Novo Nordisk Foundation, will establish a national test center which not only caters for research and innovation at the public research institutions, but also takes into account the needs of startups and small companies including, among others, spin-outs from universities. The test center must provide access to advanced equipment that can be used to test the many elements and ideas that originate from e.g. the research environment and business life within quantum technology.
+funds in cooperation with private actors. The longterm goal is for the fund to attract private institutional capital amounting to a collective fund in the billions. The final fund size will, however, depend on the extent to which financing can be mobilized from private parties. Thereby, the growing Danish ecosystem for quantum technology can contribute to creating a strong innovative position.
+The intention is for the quantum fund to support the efforts of Quantum House Denmark and be seen in connection with efforts such as Deep Tech Laboratory - Quantum under the BioInnovation Institute and NATO's Innovation Fund (NIF). To establish the fund, the government will re-prioritise parts of the unused funds from the Restart Fund to the quantum fund.
+in quantum technology is greatest. The purpose is to increase awareness of the application possibilities among Danish companies and public institutions, so that more people can benefit from quantum technologies.
+Efforts are therefore being made to speed up the integration of quantum technology solutions in Danish companies with a particular focus on use-cases and demonstration projects as essential tools to show how quantum technology can be used in practice. The effort will encompass various supporting activities established through a close and dedicated partnership with researchers, quantum start-ups, pertinent businesses, and participants within the quantum ecosystem, including the Danish Quantum Community (DQC).
+
+# 4
+
+# 5
+
+## More quantum talent in Denmark
+
+Denmark has strong higher education programs with relevance to the quantum field in particular within physics, chemistry, nanoscience, photonics, mathematics and computer science, but with intensified international competition for the best talents to research and develop quantum technology, there is a need to future-proof the talent base in Denmark by developing, attracting and retaining talent and skills.
+Therefore, funds will be established in 2024, from which the higher education institutions can receive grants for the development of new educational offers and courses as well as teaching material within quantum science. Through, e.g., transversal subject packages or new continuing/further education courses, the funds must also help support other subject disciplines being brought into play to a greater extent in relation to contributing to the development of quantum technology.
+An international summer school is also being established in Denmark for talented students in quantum science. It must both empower Danish students through interaction with international students, support interest in Danish quantum research and open up opportunities in Danish business life for talented international students. In addition, opportunities are being pursued to increase the intake of international students at master's level, including in the quantum science, e.g. physics, chemistry, nanoscience, photonics, mathematics and computer science.
+
+## National Forum on Quantum Technology - continued from Part 1
+
+The quantum sector must be supported by broad cooperation between key stakeholders in order to promote a broadly based national approach through the National Forum for Quantum Technology, which is an initiative under Part 1 of the strategy. The forum will also be able to take up and discuss crosscutting themes such as how the framework conditions for the ecosystem can be improved and commercialisation of research and talent efforts can be further strengthened. The forum will discuss and make recommendations for future efforts.
+NATIONAL STRATEGY F OR QUANTUM TECHNOLOGY -PART 2 7
+Priority Action 2: Security as a Foundation for Quantum Technological Development
+Quantum technology holds many opportunities but is also associated with security challenges and threats. The rapid development and complexity of quantum technologies make it difficult to assess where and when the greatest challenges lie. This applies, for example, to the development of quantum computers and quantum-safe communication solutions, which must protect our critical digital infrastructure and drive the transition to quantum-safe communication.
+Knowledge of potential threats and the ability to deal with them is necessary to, among other things, avoid unwanted knowledge transfer, especially to non-like-minded states that can use this knowledge as part of their military capacity building. In addition, the ability to resist decryption of both private companies' and public authorities' sensitive and socially critical data is crucial.
+International cooperation, investments and exports are crucial for the development of quantum technologies. But openness also creates vulnerabilities. Investments must be made on a mutually informed basis, just as exports of critical Danish quantum technology must not end up in the wrong places,
+where it can be used in conflict with Danish values and interests.
+Development, use of and protection against quantum technology in Denmark therefore requires that Danish authorities work to strengthen Denmark's critical digital infrastructure against the potential threats that result from quantum technology. At the same time, efforts in relation to quantum technology protection must be strengthened, so that the quantum ecosystem can build resilience against the unwanted transfer of critical knowledge and technology.
+Denmark must be a safe, open and flexible country when it comes to developing quantum technology, where technological development and commer-cialisation is based on a secure foundation in close cooperation with like-minded international partners. It will be important to strike the right balance between regulation, protection, and innovation. Denmark would like to help set the rules of the game, so that regulation can support innovation and commercialisation and, at the same time, protect citizens, companies, and public authorities.
+
+## 6
+
+7
+8
+Strengthen Denmark's critical digital infrastructure against the threats from quantum technologies
+The development of certain quantum technologies can threaten Denmark's digital and social security. At present, sensitive and classified data can potentially be in danger of being collected with the purpose of decrypting the data when a sufficiently powerful quantum computer is available. This creates new requirements for how we need to secure Denmark's critical digital infrastructure against the threat from quantum technology.
+Denmark must promptly initiate the work to strengthen Denmark's critical digital infrastructure against compromise from, for example, quantum computers.
+Increased security in the Danish quantum society
+To increase security in the Danish quantum ecosystem, the advisory efforts of the Police Intelligence Service's (PET) will be significantly enhanced. This means that PET will provide more proactive support to the Danish quantum companies and research institutions with the aim of strengthening their ability to be ensure a proper level of security as new quantum technologies are developed.
+The strengthening of the advisory will promote the creation of local security organisations in the quantum ecosystem in Denmark and develop a targeted and modern form of knowledge sharing between the security authorities and the quantum community in Denmark. This will be done through the
+Effective regulation and protection of quantum technology
+An important framework condition for the development of quantum technology in Denmark is effective regulation and protection of those parts of quantum technology where the risk of misuse is greatest if the technologies end up in the wrong place. Here, it is important that we, from the Danish side, are part of a community that is aligned with our values. In addition to the security consequences, it will be harmful to Danish growth and exports if, for example, Danish quantum technology is linked to military use in non-like-minded countries.
+Therefore, some quantum technologies are already subject to regulation from Danish authorities. Among other things, export controls have been placed on certain quantum technologies, and
+A secretariat is therefore being established to coordinate the response to this security challenge with the support of an expert group. The secretariat must prepare guidelines and recommendations for handling the challenges as well as a plan for future-proofing Denmark's critical digital infrastructure against the threats that may arise from quantum technologies. The secretariat must also be able to provide guidance on the significance of the quantum threat for the critical digital infrastructure and cyber security, as well as enter collaborations with, for example, companies and research institutions that can help counter the quantum threat.
+recently established Quantum Technology Security Forum and by increasing support for building local security organisations, advice on investments and international collaborations, as well as dissemination of an updated threat picture against Danish quantum research.
+The initiatives will contribute to security becoming a strategic priority among Danish developers of quantum technology and increase the understanding that security policy is a responsibility that is largely managed in the decisions taken by companies and research institutions.
+foreign investments in Danish quantum companies are currently screened by the authorities.
+It needs to be easy for Danish companies to get guidance from the authorities. Companies must be able to find out whether the technology they are working with is controlled. Application and case processing must be as flexible and efficient as possible, so that transparency and predictability are achieved for the benefit of investments and exports.
+To address this, there will be initiated an effort to strengthen the analysis and management capacity in relation to risks within export control and investment screening and a consequently strengthened guidance effort towards companies and research institutions.
+
+## Priority Action 3:
+
+# Advancing Danish Quantum Interests Internationally
+
+The development of quantum technology is characterized by great international and geopolitical competition. Quantum technology is central to the technological race, given that the first countries to develop and use the technology may face great economic and security advantages. Quantum technology is a new and disruptive technology that contains risks and dilemmas, but is not yet globally regulated as the technology is still under development. There is a need to incorporate international principles, rules and standards for the responsible development and use of quantum technology that are aligned with Danish and European values. Frameworks that can promote the Danish quantum ecosystem.
+International cooperation in the EU and with like-minded countries and allies will be decisive for the commercialisation of quantum technology in Denmark. International cooperation must support Denmark's ability to attract talent and companies. This should give Denmark a central position in the global value chains and in the European quantum technology infrastructure. The Danish quantum ecosystem must become a central part of Europe's technological sovereignty.
+Denmark must engage actively on the international stage. This applies particularly in the EU, where the European rules are established and from which global norms and standards are shaped. Strategic partnerships with strong and like-minded quantum nations, where we can promote the strong Danish positions, will also be a priority. It will be through international commitment that Denmark can work to ensure that quantum technology's great potential is utilized solve global challenges. Through new breakthroughs in research and innovation, we must jointly contribute to a better future.
+Denmark is in a unique position when it comes to taking on that task. Standing on the shoulders of Niels Bohr's pioneering research and a contemporary research environment internationally. Denmark has a special voice in the international quantum ecosystem. It must be used to leave a Danish mark on the global rules and accelerate the development, growth, and export of Danish quantum technology. If the Danish quantum ecosystem is to continue to be world-leading, it also requires an intensified effort to attract foreign companies that can supply the knowledge, talent and capital needed to develop the quantum technologies of the future.
+
+## 9
+
+## 10
+
+## 11
+
+Denmark in a leading role in the development of quantum technology in Europe
+Denmark cannot fully realize the potential of quantum technology without close and committed cooperation with our neighboring European countries. Increased cooperation must support knowledge sharing and the scaling of quantum products and services to a level where we in Europe can compete internationally and thus exert influence on the global development of the technology. This calls for solutions across borders in Europe, and thus the EU's strategic approach and level of ambition will play a decisive role in the years ahead.
+International quantum hub will strengthen Denmark's strategic quantum partnerships Denmark must develop international partnerships that can advance the Danish strongholds and promote strategic initiatives with other countries. Since quantum technology has also become geopolitics and security politics, there will be a need for a strengthened diplomatic effort to strike the balance between protection, competition, and international cooperation.
+To address this, the government will establish an international quantum hub, which will promote Denmark strongly internationally and ensure progress in new cooperation agreements. The hub will strengthen Denmark's strategic quantum cooperation bilaterally, multilaterally and regionally in the EU and the Nordic region, and with central research institutions and companies in the field of quantum technology. It must be the primary entrance for international actors to the Danish authorities and ecosystem.
+A strategic approach to international quantum partnerships will require that partnerships are assessed based on Danish interests and, in certain cases, that a political framework is developed for this purpose. The partnerships may include activities such as coordination of national efforts, regulation,
+Danish footprint in international standardisation in the quantum field
+The government will strengthen the Danish commitment to the quantum agenda in the European standardisation system by working to ensure that Denmark is given responsibility for a European quantum secretariat that can have a significant influence on the work with the development of standards within quantum technology at European level. In addition, a targeted effort is launched to build a bridge between researchers, government
+By virtue of its strong position in quantum research, Denmark has the opportunity to take a leading role in the EU cooperation. In turn, a targeted effort is being launched to strengthen Denmark's commitment to EU initiatives within the development, com-mercialisation, and application of quantum technology. The effort must safeguard secure Danish interests in the development of an internal market for quantum technologies, where supportive regulation, reduction of burdens and barriers as well as access to financing, infrastructure and skilled labor are expected to be central.
+research, talent development, public-private partnerships on use-case development or joint investments in infrastructure as well as demonstration and test facilities. The bilateral quantum declaration between the USA and Denmark from 2022 is an example of this, just as cooperation on quantum technology is an important element in the declaration on cooperation between Denmark and Great Britain from 2023.
+With the quantum hub, Denmark can assume a central role that is in demand among international partner countries for the benefit of the Danish ecosystem and Denmark's security. In relation to this, Denmark must take advantage of its strongholds to set the tone when it comes to international cooperation on security policy perspectives on quantum technology, including in the EU and NATO cooperation. As part of the initiative, investments are also being made in a strengthened international presence to promote the Danish quantum ecosystem by attracting foreign companies that can contribute with knowledge, talent and capital. At the same time, Denmark’s strengthened international presence must help to support the quantum hub's work in developing bilateral partnerships with countries where there is a strategic and political interest in international cooperation in the quantum field. authorities, innovation projects and standardization bodies to support the development and dissemination of relevant standards, as well as a strengthened effort for knowledge sharing and networking in the quantum area with a focus on the importance of standards for the development of quantum technology in Denmark. The work must contribute to a Danish strategic prioritisation of standardisation activities for the EU's standardisation work program 2024.
+
+# Appendix
+
+# Financial Overview
+
+The government proposes to set aside a total of DKK 200 million in 2024-2027 for part 2 of the National Strategy for Quantum Technology with proposals for the Finance Act for 2024.
+Table 1: Allocation of Funds to Initiatives in Part 2 of the National Strategy for Quantum Technology
+(DKK mill.)
+2024
+2025
+2026
+2027
+1. Commercialing Quantum Technology
+28
+23
+23
+23
+Quantum House Denmark
+15
+16
+16
+16
+Establishing The Quantum Fund
+-
+-
+-
+-*
+Activate the Danish strongholds in quantum technology through use cases and demonstration projects
+5
+5
+5
+5
+More quantum talent in Denmark
+8
+2
+2
+2
+National Forum on Quantum Technology - continued from Part 1
+0
+0
+0
+0
+2. Security as a Foundation for Quantum Technological Development
+8
+14
+15
+15
+Strengthen Denmark's critical digital infrastructure against the threat from quantum technologies
+3
+8
+9
+9
+Increased security in the Danish quantum society
+2
+3
+3
+3
+Effective regulation and protection of quantum technology
+3
+3
+3
+3
+3. Advancing Danish Quantum Interests Internationally
+15
+14
+13
+13
+Denmark in a leading role in the development of quantum technology in Europe
+2
+2
+2
+2
+International quantum hub will strengthen Denmark's strategic quantum partnerships
+10
+10
+10
+10
+Danish footprint in international standardisation in the quantum field
+3
+2
+1
+1
+Total
+50
+50
+50
+50
+Note: Due to rounding off, the figures do not necessarily add up to the total.

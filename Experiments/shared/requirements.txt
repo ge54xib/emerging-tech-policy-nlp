@@ -1,0 +1,28 @@
+# Core ML
+transformers>=4.40
+torch>=2.0
+accelerate>=0.28
+datasets>=2.18
+
+# Sentence Transformers & few-shot classifiers
+sentence-transformers>=2.7
+setfit>=1.0
+fast-fit>=0.1
+
+# Instruction-tuned embeddings (INSTRUCTOR)
+InstructorEmbedding>=1.0
+
+# LLM APIs
+openai>=1.30
+anthropic>=0.25
+
+# Retrieval / similarity (GPT-RE SimCSE)
+faiss-cpu>=1.7
+
+# Evaluation & data science
+scikit-learn>=1.4
+numpy>=1.24
+tabulate>=0.9
+
+# Optional: local LLM quantization (Mistral, if used)
+bitsandbytes>=0.43

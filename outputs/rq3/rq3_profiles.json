@@ -1,0 +1,253 @@
+{
+  "id": "rq3_qh_profiles",
+  "title": "RQ3 Quadruple Helix Country Profiles",
+  "generated_utc": "2026-04-06T16:33:08.725362+00:00",
+  "classification_rules": {
+    "Balanced": "HBI >= 0.80 (all spheres roughly equal)",
+    "Statist": "HBI < 0.80 AND gov > 0.50 (government has clear majority)",
+    "Laissez-faire": "HBI < 0.80 AND gov <= 0.50 AND industry leads non-gov spheres",
+    "Mixed": "HBI < 0.80 AND gov <= 0.50 AND academia/civil_society leads non-gov spheres"
+  },
+  "profiles": [
+    {
+      "country": "DNK",
+      "qh_configuration": "Balanced",
+      "hbi": 0.9052243787800802,
+      "shares": {
+        "government": 0.4339622641509434,
+        "industry": 0.16981132075471697,
+        "academia": 0.1509433962264151,
+        "civil_society": 0.09433962264150944,
+        "intermediary": 0.1509433962264151
+      },
+      "civil_society_present": true,
+      "dominant_cross_pair": "",
+      "th_space_emphasis": ""
+    },
+    {
+      "country": "GBR",
+      "qh_configuration": "Balanced",
+      "hbi": 0.8963985022007861,
+      "shares": {
+        "government": 0.43448275862068964,
+        "industry": 0.08275862068965517,
+        "academia": 0.15172413793103448,
+        "civil_society": 0.1310344827586207,
+        "intermediary": 0.2
+      },
+      "civil_society_present": true,
+      "dominant_cross_pair": "",
+      "th_space_emphasis": ""
+    },
+    {
+      "country": "KOR",
+      "qh_configuration": "Balanced",
+      "hbi": 0.8948877817281224,
+      "shares": {
+        "government": 0.3333333333333333,
+        "industry": 0.26666666666666666,
+        "academia": 0.23333333333333334,
+        "civil_society": 0.03333333333333333,
+        "intermediary": 0.13333333333333333
+      },
+      "civil_society_present": true,
+      "dominant_cross_pair": "",
+      "th_space_emphasis": ""
+    },
+    {
+      "country": "NLD",
+      "qh_configuration": "Balanced",
+      "hbi": 0.8923609227413234,
+      "shares": {
+        "government": 0.14678899082568808,
+        "industry": 0.3211009174311927,
+        "academia": 0.3394495412844037,
+        "civil_society": 0.045871559633027525,
+        "intermediary": 0.14678899082568808
+      },
+      "civil_society_present": true,
+      "dominant_cross_pair": "",
+      "th_space_emphasis": ""
+    },
+    {
+      "country": "JPN",
+      "qh_configuration": "Balanced",
+      "hbi": 0.864946215382094,
+      "shares": {
+        "government": 0.44339622641509435,
+        "industry": 0.09433962264150944,
+        "academia": 0.18867924528301888,
+        "civil_society": 0.05660377358490566,
+        "intermediary": 0.2169811320754717
+      },
+      "civil_society_present": true,
+      "dominant_cross_pair": "",
+      "th_space_emphasis": ""
+    },
+    {
+      "country": "IRL",
+      "qh_configuration": "Balanced",
+      "hbi": 0.8278780054012089,
+      "shares": {
+        "government": 0.3949579831932773,
+        "industry": 0.21008403361344538,
+        "academia": 0.2773109243697479,
+        "civil_society": 0.008403361344537815,
+        "intermediary": 0.1092436974789916
+      },
+      "civil_society_present": true,
+      "dominant_cross_pair": "",
+      "th_space_emphasis": ""
+    },
+    {
+      "country": "FRA",
+      "qh_configuration": "Laissez-faire",
+      "hbi": 0.7707202181827574,
+      "shares": {
+        "government": 0.4489795918367347,
+        "industry": 0.2653061224489796,
+        "academia": 0.20408163265306123,
+        "civil_society": 0.0,
+        "intermediary": 0.08163265306122448
+      },
+      "civil_society_present": false,
+      "dominant_cross_pair": "",
+      "th_space_emphasis": ""
+    },
+    {
+      "country": "AUS",
+      "qh_configuration": "Mixed",
+      "hbi": 0.7941618593569063,
+      "shares": {
+        "government": 0.33962264150943394,
+        "industry": 0.2641509433962264,
+        "academia": 0.32075471698113206,
+        "civil_society": 0.0,
+        "intermediary": 0.07547169811320754
+      },
+      "civil_society_present": false,
+      "dominant_cross_pair": "",
+      "th_space_emphasis": ""
+    },
+    {
+      "country": "CZE",
+      "qh_configuration": "Mixed",
+      "hbi": 0.7837383801571283,
+      "shares": {
+        "government": 0.4825174825174825,
+        "industry": 0.0979020979020979,
+        "academia": 0.2727272727272727,
+        "civil_society": 0.013986013986013986,
+        "intermediary": 0.13286713286713286
+      },
+      "civil_society_present": true,
+      "dominant_cross_pair": "",
+      "th_space_emphasis": ""
+    },
+    {
+      "country": "ITA",
+      "qh_configuration": "Mixed",
+      "hbi": 0.7059203339057805,
+      "shares": {
+        "government": 0.47959183673469385,
+        "industry": 0.02040816326530612,
+        "academia": 0.12244897959183673,
+        "civil_society": 0.02040816326530612,
+        "intermediary": 0.35714285714285715
+      },
+      "civil_society_present": true,
+      "dominant_cross_pair": "",
+      "th_space_emphasis": ""
+    },
+    {
+      "country": "GER",
+      "qh_configuration": "Mixed",
+      "hbi": 0.6986693930385501,
+      "shares": {
+        "government": 0.31076923076923074,
+        "industry": 0.043076923076923075,
+        "academia": 0.52,
+        "civil_society": 0.006153846153846154,
+        "intermediary": 0.12
+      },
+      "civil_society_present": true,
+      "dominant_cross_pair": "",
+      "th_space_emphasis": ""
+    },
+    {
+      "country": "FIN",
+      "qh_configuration": "Statist",
+      "hbi": 0.7360952208272519,
+      "shares": {
+        "government": 0.5157894736842106,
+        "industry": 0.08421052631578947,
+        "academia": 0.15789473684210525,
+        "civil_society": 0.0,
+        "intermediary": 0.24210526315789474
+      },
+      "civil_society_present": false,
+      "dominant_cross_pair": "",
+      "th_space_emphasis": ""
+    },
+    {
+      "country": "SVN",
+      "qh_configuration": "Statist",
+      "hbi": 0.7002289821218035,
+      "shares": {
+        "government": 0.5939086294416244,
+        "industry": 0.050761421319796954,
+        "academia": 0.17258883248730963,
+        "civil_society": 0.015228426395939087,
+        "intermediary": 0.16751269035532995
+      },
+      "civil_society_present": true,
+      "dominant_cross_pair": "",
+      "th_space_emphasis": ""
+    },
+    {
+      "country": "CAN",
+      "qh_configuration": "Statist",
+      "hbi": 0.6691025623983153,
+      "shares": {
+        "government": 0.6224489795918368,
+        "industry": 0.05102040816326531,
+        "academia": 0.15306122448979592,
+        "civil_society": 0.01020408163265306,
+        "intermediary": 0.16326530612244897
+      },
+      "civil_society_present": true,
+      "dominant_cross_pair": "",
+      "th_space_emphasis": ""
+    },
+    {
+      "country": "ESP",
+      "qh_configuration": "Statist",
+      "hbi": 0.6203892175381387,
+      "shares": {
+        "government": 0.6052631578947368,
+        "industry": 0.006578947368421052,
+        "academia": 0.16447368421052633,
+        "civil_society": 0.006578947368421052,
+        "intermediary": 0.21710526315789475
+      },
+      "civil_society_present": true,
+      "dominant_cross_pair": "",
+      "th_space_emphasis": ""
+    },
+    {
+      "country": "USA",
+      "qh_configuration": "Statist",
+      "hbi": 0.275486667834137,
+      "shares": {
+        "government": 0.8807947019867549,
+        "industry": 0.006622516556291391,
+        "academia": 0.019867549668874173,
+        "civil_society": 0.0,
+        "intermediary": 0.09271523178807947
+      },
+      "civil_society_present": false,
+      "dominant_cross_pair": "",
+      "th_space_emphasis": ""
+    }
+  ]
+}

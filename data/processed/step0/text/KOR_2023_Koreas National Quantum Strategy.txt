@@ -1,0 +1,609 @@
+June 27, 2023 Korea's National Quantum Strategy
+Ł
+Korea's New Quantum Jump into the Future
+“Quantum Jump,” a quantum mechanical term, refers to the phenomenon where anelectron in a lower-energy atomic orbit around the nucleus makes a sudden transition to a higher-energy atomic orbit, resulting in an abrupt increase in energy levels, much like ascending a staircase, when the atom absorbs energy. This phenomenon, resembling teleportation, is increasingly used as a metaphor for swift innovation and progress over a short time span.
+Since its inception, Korea, supported by exceptional national capabilities, foresight, world-leading science and technology, and industries, has achieved unprecedented success unmatched in global history. It stands as the only country to have transitioned from a developing nation into an advanced economy. Now, with the dawn of the quantum era, it is poised for yet another quantum jump.
+Science and technology stand as the most potent forces propelling human civilization into entirely new dimensions. Among these forces, quantum science and technology, while not widely known to the general public, have profoundly impacted various aspects of human life. From smartphones, laptops, and electronic devices that dominate our daily routines to chemical substances, life sciences, medical technology, lasers, and remote communications, our understanding of the atomic micro-world underpins almost every advanced civilization of the 21st century. In our contemporary world, quantum science and technology have become so indispensable that even the smallest progress seems unattainable without them.
+What is even more inspiring to witness is that the quantum revolution, with the potential to address the world's challenges in the 21st century and shape a new human civilization, is only in its early stages. The journey has just begun, from fundamental research shedding light on the origins of life and the universe to combatting climate change, ensuring human safety, overcoming incurable diseases, extending the human lifespan, uncovering new energy sources, and exploring uncharted territories of the universe. Humanity nurtures great expectations for every conceivable scientific and technological innovation.
+The pursuit of innovation in quantum science and technology not only offers Korea a new engine for future growth but also contributes to the global community's prosperity, consequently elevating the nation's status and dignity to unprecedented levels.
+Fundamentals of Quantum Science and Technology
+
+# What is Quantum?
+
+Quantum is a broad term encompassing physical phenomena that involve the discrete nature of physical quantities, including energy and momentum. Quantum objects demonstrate characteristics of both particle discreteness and wave superposition.
+4VCTUBODF "UPN &MFDUSPO 1SPUPO 2VBSL /FVUSPO "UPNJD OVDMFVT
+One of the misconceptions about quantum is interpreting it as a particle. In quantum mechanics, “quantum” does not refer to particles
+
+# What is Quantum Science and Technology?
+
+Quantum science and technology apply quantum physics' attributes to information technology, including computing, communication, sensing, and more, to enable “ultra-fast computation,” “ultra-secure communication,” and “ultra-precise measurements.”
+2VBOUVN Quantum 1IZsics CIarcteristics 4VQFSQPTJUJPO /PDMPOJOH &OUBOHMFNFOU 6ODFSUBJOUZ CPNQVUJOH CPNNVOJDBUJPO 4FOTPS *CT tecInoMogZ 2VBOUVN DPNQVUJOH 2VBOUVN DPNNVOJDBUJPOT 2VBOUVN TFOTPS Quantum Science  TecInoMogZ 6MUSBGBTU DPNQVUBUJPO 6MUSBTFDVSF DPNNVOJDBUJPO 6MUSBQSFDJTJPO NFBTVSFNFOUT
+Korea's National Quantum Strategy
+
+# PART.
+
+# Why Quantum Science and Technology?
+
+## Quantum Entanglement
+
+The property where two quantum particles remain correlated no matter how far apart they are separated.
+First Generation Quantum Computer
+01
+
+# 01 Korea is Focusing on Quantum Science and Technology
+
+It has been over 120 years since the concept of quantum emerged, and almost 100 years since the inception of modern quantum physics. The period encompassing the 20th century and the early 21st century, in which semiconductor technology based on quantum physics brought about a revolutionary transformation in human civilization, is known as the era of the “First Quantum Revolution.”
+
+## The Advent of the Second Quantum Revolution
+
+The forthcoming era of the “Second Quantum Revolution” will harness advanced quantum phenomena such as superposition and entanglement to a greater extent. Beyond the traditional binary representation of bits, which signify either 0 or 1, a novel information unit called a qubit, capable of exploiting the property of superposition to simultaneously hold both 0 and 1 values, will play a pivotal role. Quantum computers, showcasing unprecedented computational power achieved through qubit interconnection, will be extensively employed in the advancement of artificial intelligence, acceleration of drug discovery and material research, transformation of energy solutions, space exploration, and resolution of complex mathematical problems.
+The emergence of quantum computers also signifies the collapse of traditional encryption systems based on integer factorization that could not be cracked by classical digital computers. Consequently, countries around the world are striving to develop groundbreaking quantum cryptography and network technologies that leverage quantum phenomena such as superposition, entanglement, and observation-induced changes in information to significantly enhance security. Furthermore, there is a burgeoning technological competition to apply quantum sensor technology, which surpasses the fundamental limitations of conventional sensors in terms of precision and sensitivity, to advanced industries that require high detection capabilities, including national defense and other cutting-edge sectors.
+
+## Global Technological Hegemony Competition toward the Era of the Second Quantum Revolution
+
+The current global quantum market is valued at only 2.1 billion USD (approximately 2.7 trillion KRW); however, it is poised for high growth, with an average annual growth rate exceeding 20%. Quantum cryptography communication has already entered the initial commercialization phase, while quantum sensors are expected to enter the commercial market within the next 7 to 9 years, followed by quantum computers within the next 10 to 15 years.
+Major powerhouses such as the United States, Europe, Japan, and China have long recognized the universality and disruptive potential of quantum science and technology and have established comprehensive national development strategies to make substantial funding in large-scale research and development efforts.
+Korea has also recently designated quantum science and technology as one of the 12 National Strategic Technologies and included it in the New Growth 4.0 Strategy's 15 Projects and makes efforts to narrow the gap with other advanced countries through workforce development and aggressive funding expansion.
+ 4PVSDF *OTJEF 2VBOUVN 5FDIOPMPHZ            CAGR 22.7 % 16.7814.83 20.65 25.30 29.84 41.23 53.49 70.81 95.57 131.36 183.58 $PNQVUJOH $PNNVOJDBUJPOT 4FOTJOH §Projected Quantum Market Size>
+   4UP6ZFBST 7UP9ZFBST 10UP14 ZFBST  4PVSDF 3FTFBSDI CZ UIF .JOJTUSZ PG 4DJFODF BOE *$5 2VBOUVN DPNNVOJDBUJPOT 2VBOUVN TFOTPST 2VBOUVN DPNQVUJOH
+§Expected Timeline for the Formation of the Quantum Market>
+ Quantum Science and Technology Strategies by Country >
+National Quantum Information Science Vision National Quantum Technologies 3oadmap Quantum Flagship Program Announce to establish the worldss largest quantum research facility Strategies for Advancing 0ptical and Quantum Technologies Q--&AP Flagship Program Quantum Innovation Strategies Moonshot ProKect Quantum Future Society Vision National Quantum Strategy National Quantum Strategy Quantum $omputer 3oadmap National Quantum Strategy Quantum Network Strategy Plan Selected as one of the top  promising national security technologies A Quantum Information Science and Technology 3oadmap Quantum Manifesto National Quantum Initiative ActThe th Five-:ear Plan (-) s s s s s s s s s
+02
+
+# 02 From a Semiconductor Powerhouse into a Leader in the Quantum Revolution
+
+Some core original technologies in the quantum field have already completed initial verification. However, dominant technologies have yet to emerge and various candidate technologies are in competition. Since no country has reached a level of completion, one can say that the real competition begins from now.
+
+## Leading the Way in Semiconductor and Display Industries with "No. 1 DNA"
+
+Korea has attained global success in advanced manufacturing sectors, including semiconductors, automobiles, shipbuilding, steel, and petrochemicals, thanks to its rapid and focused growth. Among these industries, Korea's semiconductor ecosystem, driven by its robust human and material resources, has played a pivotal role in advancing the global semiconductor industry through the first quantum revolution. These capabilities are poised to continue driving innovation as we approach the imminent second quantum revolution. Korean companies, armed with world's top-class semiconductor processing technologies, are strategically positioned to maintain their leadership in the development and mass production of quantum processors and semiconductor photoelements, which are essential in the era of the quantum economy.
+
+## Global Leadership in ICT and Service Test Beds
+
+Korea's excellence extends beyond manufacturing; it stands at the forefront of global advanced service markets, including logistics, transportation, medical care, and finance. Moreover, the nation has successfully cultivated essential resources, such as individuals with exceptional software talent, to usher in the era of quantum science and technology. Korea is poised to become an international testing ground where the convergence of existing industries with quantum science and technology generates unprecedented new value
+
+## Korea's Pioneering Strategy in the Quantum Era
+
+The combination of Korea’s accumulated capabilities in science, technology, industries, and ICT infrastructure will create synergy, aligning with new opportunities in quantum science and technology. This synergy will propel Korea to the forefront of a quantum jump in the Quantum Era. By 2035, we aim to present a vision and strategy for Korea's quantum science and technology to further transform Korea into a fairer, safer, and more prosperous nation of happiness.
+
+## Status of Korea’s Quautum Science and Technology
+
+### Technology level
+
+At 62.5% compared to leading countries
+* Source: Technology Level Assessment 2020/KISTEP, 2021 100% 96.5% 90% 85%
+
+### Human resources
+
+As of 2022, Korea has approximately 400 key quantum workforce
+
+### Patent applications
+
+(Cumulative, %, 2010¬2019) 4 12 17 8 19 40 0tIers |2VBOUVN DPNNVOJDBUJPOT} 13 26 10 23 23 0tIers |2VBOUVN TFOTPST} 13 10 9 6 59 0tIers |2VBOUVN DPNQVUJOH}
+
+### Strengths and weaknesses
+
+- ¬ World-class ICT infrastructure and semiconductor capabilities
+- ¬ High policy priority as national strategic technologies
+S
+- ¬ Advancement of high tech industries including automobiles, semiconductors, and shipbuilding
+- ¬ Technical workforce with higher academic degrees
+- ¬ Shortage of key workforce in quantum science and technology
+- W ¬ Lack of industrial ecosystem for quantum science and technology development.
+- ¬ Low R&D funding and lack of quantum device fabrication infrastructure, compared to major overseas countries
+
+## S80T
+
+- ¬ Global quantum science and technology at an early stage
+O
+- ¬ Global expansion of funding in the quantum field and strengthened cooperation with technology-friendly nations
+- assets ¬ Enhanced export controls and restrictions on technology Tcooperation to prevent the leakage of military andstrategic
+- ¬ Overseas demand for quantum workforce leading to the overseas outflow of trained workforce
+03
+
+# 03 The Journey of Quantum Science and Technology in Korea
+
+## Mar. 2021
+
+- Dec. 2014 Quantum Information Strategies
+- June 2016 Application of quantum cryptography communication (SKT) to LTE network (30km) between Sejong and Daejeon
+- Dec. 2018 Quantum Information and Communication Technology Roadmap
+- Mar. 2019 Application of the quantum cryptography communication to the Seoul-Daejeon-Daegu 5G network (360km) (SKT)
+Apr. 2019 Commencement of Government R&D Program for quantum
+Oct. 2021 Organization of a quantum technology special committee under the National Science and Technology Advisory Council Aug. 2020 Quantum Information Research Support Center Opened 12
+- Apr. 2020 Commencement of pilot infrastructure development for quantum cryptography communication
+- June 2020 Launch of Galaxy Quantum mobile phone with quantum random number chip (SKT)
+- June 2020 Held the 1st Quantum Week 2020
+Development of the original technology for world's top-class quantum gravity sensors (KRISS)
+- Apr. 2021 National Strategy for Quantum Technology Research and Development
+- June 2021 Quantum information communication section incorporated in “The Special Act on Promotion of Information and Communications Technology and Vitalization of Convergence Thereof”
+Jan. 2022 NIA designated as Korea-Quantum Industry Center
+
+## Mar. 2022
+
+Application of the heterogeneous quantum cryptography to Seoul-Busan (KT)
+- June 2022 Introduction of quantum cryptography communication in 33 government organizations over the national convergence network
+
+### June 2022
+
+Commencement of development for a 50-qubit quantum computer
+
+### June 2022
+
+July 2022
+Launch of the world's first post-quantum cryptography service (LGU¯)
+- Sept. 2022 Establishment of the Quantum Information Society of Korea
+- Sept. 2022 Korea-US Quantum Technology Cooperation Center opened in Washington D.C.
+
+### Oct. 2022
+
+Designated as one of 12 National Strategic Technologies
+
+### Nov. 2022
+
+The Korea Quantum Computing Industry Leaders' Alliance
+KRISS designated as a Quantum Computing Research Center ETRI, KIST designated as Quantum Internet Research Centers
+
+### July 2022
+
+- Launch of the world's third quantum cryptography communication service (SKT/KT)
+
+### Dec. 2022
+
+- The Quantum Science and Technology Roadmap
+- Dec. 2022 Quantum Workforce Development Strategies
+- Dec. 2022 Designated as one of the 15 projects of New Growth 4.0 Strategy
+
+## Mar. 2023
+
+Applied wireless quantum cryptography system to commercial network (Jeju International University) (KT)
+
+### Mar. 2023
+
+- KRISS designated as National Center for Quantum Technology & Strategy
+
+### Apr. 2023
+
+- Introduced the world's first security verification system for quantum cryptographic communication
+Apr. 2023 Commencement of the preliminary feasibility study for a quantum science and technology flagship project
+
+### June 2023
+
+Held Quantum Korea 2023
+Korea's National Quantum Strategy
+
+# PART. “
+
+# The Future Shaped by Quantum Science and Technology
+
+## Quantum Superposition
+
+Quantum states exist in a simultaneous superposition of probability distributions and phases, and the measurement results can only be probabilistically predicted
+01
+
+# 01 Vibrant Quantum Economy
+
+The global competition is intensifying in semiconductors, automobiles, shipbuilding, steel, and petrochemicals, which are Korea's major flagship industries that have been driving the growth of our economy. In such an overheated competitive environment, it is imperative for a country to secure exceptionally advanced technology that prevents competitors from overtaking. Quantum science and technology, in this regard, are expected to be the lever for enhancing national competitiveness and improving productivity.
+
+## Leading Korea’s Five Major Flagship Industries with “Significant Lead"
+
+The integration of quantum science and advanced manufacturing technologies will enable a significant increase in production efficiency across Korean industries. Examples of this integration include optimizing semiconductor production and manufacturing based on quantum computing, innovating ultra-fine process designs for autonomous driving technology and batteries using quantum sensors, and precise defect detection.
+
+## The Acceleration of "Advanced Industries" such as Artificial Intelligence and Biotechnology
+
+"Data," often referred to as the "oil of the 21st century," is an essential resource for future advanced industries such as biotechnology, robotics, and artificial intelligence which require high-speed, large-scale data processing and advanced data security measures. Quantum science and technology-based computing, detection, and security capabilities will completely overcome the limitations of traditional digital systems and accelerate the development of advanced industries. Quantum computers will be able to analyze DNA composed of billions of base pairs and process vast amounts of genetic sequence variation data, paving the way for innovative disease treatment technologies and drug development. Furthermore, they will accelerate the development of super-large artificial intelligence capable of processing parameters on the scale of trillions and expedite the emergence of humanoid robots resembling humans.
+
+## The Great Leap of "New Key Industries" such as Space, Resources, and Energy
+
+The increasing challenges of global issues such as resource depletion on Earth and asteroid collisions necessitate more extensive international collaboration and cooperation in various fields including space, resources, and energy. Quantum computers are poised to provide the foundation for addressing major global issues, and quantum navigation technology will expand humanity's horizons beyond Earth to enable the development of space resources. Furthermore, quantum computers will be utilized for vast experiments and calculations to unveil the mysteries of the universe's creation and evolution. Quantum simulations hold the potential to elucidate the principles of nitrogen fixation to reduce the substantial energy costs associated with global fertilizer production, contributing to the resolution of global energy issues.
+Optimization of Semiconductor Manufacturing and Processing Quantum Wafer Defect Detection Quantum Communication-based Industrial Confidentiality Protection t ommunication-based dustrial Confidentiality rotection uantum Sensor-based ackaging and Ultrafine efect Detection Ł / IŁ1 Ł ŁŁ /
+Quantum 1-2 Autonomous Driving and Route Optimization for Vehicles 13% Ł E Ł Ł o_fQuantum LiDAR and -' Quantum Optical Sensors Ł AutonŁous Driving based e·· --> •Ł--_ Ł Ł ŁŁ Ł Generation of Ultra-Precise Positioning, Navigation, and Timing Information based on Quantum Sensors (Atomic Clocks) Ł IQuantum Communication based Satellite PNT Ł Ł Information Reception Ł Ł es ŁŁ --Ł • a -ŁŁŁŁ-Ł Ł -2 ŁŁ ŁŁ a ŁŁŁ Quantum Computer based Route Optimization
+02
+
+# 02 Quantum for Safe Society
+
+"What happens when your spear pierces your shield?" This ancient paradox may indeed be symbolic of the fierce competition that will unfold in the near future between quantum computer capable of breaking through anything and quantum cryptography technology that can defend against everything.
+
+## A Hack-Free, Ultra-Fast Information Society
+
+With the ubiquity of e-commerce and IT information services, the ability to protect from personal information leaks, hacking, eavesdropping, and similar threats has become a core function for maintaining the societal order. Information processing technologies based on quantum cryptography communication, which are impervious to eavesdropping and hacking, will provide an essential safeguard against the risk of personal data leaks in such areas as communication security, financial transactions, and medical data. Currently, quantum security modules such as quantum random number generators, applied in some smartphones and automotive security systems, are evolving to a system-wide level. In the future, this will lead to the creation of new security industries and services utilizing quantum science and technology.
+
+## Science and Technology-based Strong Military Force and National Security
+
+In the complex and ever-changing international landscape, countries around the world are diving into a new arms race centered on cutting-edge technologies. Countries are focusing their interest and research on new weapon systems including: quantum computers capable of neutralizing the adversary's encryption systems, quantum cryptography technology that detects eavesdropping attempts in real, quantum radar for remotely detecting low-observable objects such as unmanned aircraft, and submarine/ aircraft navigation systems for use in deep-sea or military scenarios where GPS location information is unavailable. Korea, too, is expected to enhance its position as a scientific and technological powerhouse in the field of national defense and security by applying advanced quantum science and technology.
+
+## Disaster and Accident Prevention
+
+Quantum sensors, with revolutionary improvements in sensitivity, precision, and resolution, will enable the early detection and prevention of various social risks such as natural disasters, harmful gas leaks, and large-scale fires, which continuously threaten the lives of people. Additionally, Quantum sensors will be instrumental in capturing subtle signals beneath the Earth's surface to contribute to the early detection of various urban disasters like sinkholes and reducing the human and property damage caused by volcanic and seismic activities.
+Quantum 2-1 on Wired Quantum Communication Quantum Sensor-based Early Detection of Fire/Gas Leaks Ł Ł Ł -Ł Ł Ł Ł 6 ndlldittilitn*}and Re onal Data based on Wire Vireless Quantum Communication e Safe Remote Healthcare and yr n Financial Transactions based on Quantum Cryptography Communication Generator Chip-based Safety Door Lock
+Remote Real-Time Detection of CBR Substances Ł based on Quantum Sensors Quantum Radar-based Target Detection Disabling and Hacking of Cryptographic Systems using Quantum Computer Surveillance and o Optimized Unit Deployment and Ł Logistics based on Quantum Simulation Quantum Sensor Networkbased High-Precise Observation Satellite Quantum Communication-based Secure Military Communication Ł-Quantum-based New Ł Ł 3Ł i=;..-.,..,...,..,...,..,....,.... ŁŁ QuantŁŁ Sensor-based Underwater GPSIndependeht® Navigation Alternative Underwater Navigation based on Quantum Sensor Secure Military Communication based on Wired/Wireless Quantum Communication Quantum Internet with Extremely Enhanced Security
+03
+
+# 03 Quantum for Better Daily Life
+
+Quantum science and technology will overcome the limitations of everyday life-related fields such as healthcare, meteorology, and transportation, allowing all the people to enjoy a safer and healthier life. The introduction of quantum computers and quantum sensor technology, with their excellent capabilities for analyzing variables and deriving optimal solutions, will not only enable the rapid and accurate acquisition of optimal social problem solutions but also lead to significant cost savings.
+
+## Innovation in New Drug Development and High-Quality Healthcare Services
+
+The integration of quantum science and artificial intelligence enables more accurate disease diagnosis and treatment. High-performance artificial intelligence technology based on quantum computing will provide optimized clinical data and treatment options for patients' diseases. Furthermore, the development of quantum sensor technology will provide more precise imaging scans and analysis results than CT and MRI, which enables ultra-fine cancer diagnosis and aids in the development of new treatments through the observation of live viruses. This opens up new possibilities for the advancement of cutting-edge medical technology.
+
+## Precise Weather and Climate Prediction
+
+Global climate change is having an increasingly direct impact on the daily lives, affecting food production, changes in living environments, and the emergence of new and infectious diseases. In the future, quantum sensor technology will allow for more precise data collection, and the ultra-fast, large-scale computational power of quantum computers will be used for real-time processing and analysis of volatile weather data. This will enhance the reliability of weather and climate information and help find solutions to weather-related disasters, leading to a healthier and more pleasant daily life for the people.
+
+## Optimized Transportation Services
+
+Quantum LiDARs and quantum time sensors have precise location information and advanced sensing capabilities and will contribute to ushering in a new era of fully autonomous vehicles, ships, and aircraft. They will play a crucial role in expanding and enhancing urban transportation systems, including urban air mobility (UAM) and destination-based mobility, and ensure safer and more convenient transportation for the people through diverse variable analysis and real-time predictions in metropolitan areas.
+Quantum 3-1 Overcoming Incurable Diseases and Developing New Drugs • Ultra-fast, large-scale clinical data analysis using quantum computers Ł • Medical information protection using quantum communication .. I Discovery of New Drug Candidat it3 Kasa 1 Clinical Trials (phase 1-3) 't%)m... • High-precisestability check, including body dynamics and side effects, of candidate drugs using quantum sensors L • Exploration of efficacy effects for expected indications using quantum sensor
+Quantum 3-2 Precise Diagnosis, Treatment and High-Quality Medical Services Treatment Method Simulation using Quantum Computing sing y
+Korea's National Quantum Strategy
+
+# PART. š
+
+# Korea's Vision and Policy Objectives for Quantum Science and Technology
+
+## Quantum Uncertainty
+
+The measurement results of quantum physical quantities are given in terms of probabilities, and there exist cases where it is impossible to measure two or more physical quantities simultaneously with absolute precision
+Łgle-elect •
+
+# Korea's Vision and Policy Objectives for Quantum Science and Technology
+
+VISION
+By 2035, Korea will stand tall as the nexus of the global quantum economy.
+
+## Policy Objectives
+
+Quantum Computers with Korea’s own technology Develop and utilize Quantum Internet Leader From the Internet powerhouse into a Quantum Sensors Global market leader with world-class
+
+## Strategic Tasks
+
+Quantum Entanglement
+Create a quantum ecosystem
+2,500 Key Quantum Talents
+Including 500 global workforce
+- - Foster quantum convergence talents
+- - Strengthen quantum device/process infrastructure
+- - Advance quantum materials/components /equipment
+- - Secure technology alliances and supply chains
+Quantum Jump
+Advance quantum science and technology
+Technology Level 85%
+Quantum computing 80%, Quantum communication / sensors 90%
+- - Develop Korean quantum computing services
+- - Demonstrate early quantum network
+- - Manufacture the prototype of the world- class quantum sensor
+- - Support fundamental quantum research
+Quantum Superposition Converge quantum technology industries Global Market Share 10% Cultivate 1,200 quantum-enabling companies - Generate demand for quantum technology applications - Support quantum startups and industrialization - Promote the quantum application to national defense and security - Foster quantum-centric sectors
+Investment
+
+## Over 3 Trillion KRW in Public-Private Joint Investment
+
+Fundamental Research and Industry Applications: [Government] 2.4 Trillion KRW (2023-2035), [Private Sector] 600 Billion KRW (2023-2027).
+
+# Key Indicators
+
+- Science &Technology Industry and Market International Cooperation Investment
+01 Technology Level 02 Key Workforce Current 62.5%1) 2035 85% Current 384 2035 2,50080% for quantum computing, 90% for quantum communication/sensors) Persons 3) Persons 2)
+- 03 Quantum Workforce
+1,000 2035 10,000 Persons Persons Current
+04 Quantum Market Share Current 1.8%10th globally4) 2035 10.0% 4th globally
+- 05
+Quantum Technology Supplying and Enabling Companies
+Current
+2035
+5)
+80 Companies
+6)
+Companies
+1,200
+06 Global Workforce Current 53 2035 500 For the government's quantum -specific projects 2019-2022Persons Persons
+- 07 International
+Cooperation & Investment
+Current
+2035
+13billion KRW 7)
+For the government's quantum-specific projects 2019-2022
+210
+billion KRW
+Government, 2023-2035
+Korea's National Quantum Strategy
+
+# PART. ™ Three-Phase Development Strategies for Transitioning to Quantum Economy
+
+Particle-Wave Duality All matter possesses both particle and wave properties simultaneously.
+2023 Superconducting Quantum Computer
+
+# Three-Phase Development Strategies for Transitioning to Quantum Economy
+
+Category
+Current
+Phase Ifl 2023Ł2027
+Industrializing quantum sensors and quantum cryptography communication
+Phase IIfl 2028Ł2031
+Domesticating quantum computing systems and services
+Phase IIIfl 2032Ł 2035
+Positioning as a global quantum leading country
+Key workforce
+(accumulative)
+384persons
+700persons
+1,400persons
+2,500persons
+Quantum computing
+10-qubits
+Quantum computers
+50-qubits
+Quantum computers and cloud services
+1,000-qubits
+(Error rate 0.5% or less) Quantum computers and cloud services
+Commercialization of quantum computers
+Demonstration of the interconnectivity of quantum devices
+(between quantum computing, communication, and sensors)
+Quantum
+communications
+Initiation of the commercialization of quantum cryptography communication
+Development of elementary technologies for quantum networks (Original technology for quantum transmission, quantum memories)
+Initial demonstration of intercity quantum network (quantum memory-based quantum repeater prototype)
+Pilot quantum internet based on nationwide network
+Quantum sensors
+Original technology for quantum sensors
+Commercialization of quantum sensors such as secondary batteries for advanced industries
+Development of world's top-class quantum sensor convergence systems (prototypes) for national defense, healthcare, and semiconductor applications.
+Quantum industry base activated by quantum sensors
+Infrastructure
+Operation of a single quantum fab
+Expanding public open* quantum fabs Concentrated training of a processing workforce (*For researchers)
+Operation of public specialized production quantum fabs (foundries)
+Expansion of private specialized production quantum fabs (foundries)
+
+## Phase 1
+
+2023-2027
+Focusing on the creation of a basic quantum ecosystem and accelerating the industrialization of quantum sensors and quantum cryptography communication
+Identify national priorities by harnessing the collective capabilities of domestic academia, industry, and research institutions. Undertake mission-oriented research and development to boost Korea's quantum technology level from the current 62.5% to 70% compared to leading countries.
+Develop a 50-qubit superconducting quantum computing system by 2027 and support various initiatives to explore the socio-economic feasibility of quantum computing. Promote the widespread adoption of quantum cryptography communication, which is in its early stages of commercialization, and secure key technologies for quantum networks, including quantum information storage memory and quantum transmission. Continuously advance original technologies for the four major quantum sensors (inertial, time, electromagnetic field, imaging) and also develop quantum sensors for commercial use in advanced industries such as secondary batteries.
+Expand quantum graduate schools and academic-research centers (ITRC, SRC/ ERC, etc.) to increase the advanced key workforce from the current 380 individuals to 700 individuals and continue to support fundamental quantum research. Establish infrastructure that supports various research activities, including open public quantum fabs available for researchers, and focus on nurturing specialized workforce for device processing.
+
+## Phase 2
+
+2028-2031
+Domesticating quantum computing systems and leaping into a quantum science and technology industrial powerhouse
+Drive system-level research and development (R&D) through the integration of elementary technologies to elevate the Technology Level to 80% compared to leading countries. Develop a 1,000-qubit quantum computer with world-class reliability by 2031, along with a quantum memory-based quantum relay for quantum information conversion and storage and conduct initial demonstrations of inter-city quantum networks.
+Develop a world's top-class quantum sensor convergence system for national defense, healthcare, semiconductor, and other sectors. Continuously support quantum theory and fundamental research for new innovative original technologies and enhance quantum academic programs and expand the workforce through broadening the base, aiming to cultivate 1,400 key quantum workforce. Strengthen various institutional support, including commercialization and entrepreneurship assistance, regulatory improvements, for the industrialization of quantum science and technology R&D outcomes. Additionally, operate advanced production quantum fabs (foundries) to provide high-quality quantum devices for research and industrial use. Promote research and development, as well as industrialization, of materials, components, and equipment that constitute quantum systems to advance quantum science and technology and safeguard the supply chains aiming to support the transition to a quantum economy.
+
+## Phase 3
+
+2032-2035
+Leading the global quantum economy based on the global quantum system and accomplishing as a defense powerhouse
+Strive for balanced development in basic and source research and industrial applications R&D to reach a quantum science technology level to 85% compared to leading countries to secure international leadership and realize significant quantum advantages in socioeconomic aspects.
+Demonstrate the interconnectivity of quantum devices to connect quantum computers, quantum sensors, or multiple quantum computers with quantum networks to drive disruptive innovation in quantum science and technology. Expand the quantum key workforce up to 2,500 individuals to sustain continuous global competitiveness. Establish a robust quantum industry ecosystem through the widespread commercialization of quantum science and technology and foster the proliferation of private sector-led quantum device foundries, solidifying Korea's position as a leading global quantum country.
+Policy Orientations PART. Ž Korea's National Quantum Strategy
+01
+
+# 01 Securing Quantum Workforce
+
+Korea's success in quantum science and technology depends significantly on securing exceptional quantum science and technology talents. To achieve balanced development in quantum science and technology, it's essential to acquire both a workforce having deep understanding of quantum physical principles and phenomena (key quantum workforce) and a diverse engineering workforce (quantum engineers) with expertise in electrical, electronic, ICT, system control engineering to systematically implement and operate these principles.
+Currently, Korea has around 380 key quantum workforce members in universities, research institutions, and industries, but there is a significant shortage of specialized quantum engineering workforce. Challenges such as the high academic difficulty, a weak industrial ecosystem, and a lack of incentives for attracting advanced talents are hindering talent acquisition.
+
+## Cultivating Quantum Science and Technology Talents
+
+### By 2035, concentrate on nurturing 2,500 key quantum workforce in the field of quantum science and technology.
+
+The Korean government will expand quantum graduate schools to integrate quantum science and technology theory, practice, and projects in master's and doctoral programs, and designate quantum academic and research institutions in universities and research centers to cultivate key quantum workforce by providing overseas assignments and training opportunities. Furthermore, institutional support will be provided to facilitate the establishment or expansion of quantum-related departments at universities and graduate schools. Furthermore, Korea will support quantum academic programs and quantum convergence projects targeting such departments as electrical and electronic engineering, computer science, and information communication to provide diverse career paths for quantum engineers. Through these efforts, Korea aims to secure approximately 10,000 quantum workforce by 2035, including researchers, HW/SW/system engineers, and professionals in manufacturing and application industries.
+
+### Support the stable settlement of the quantum science and technology workforce in Korea.
+
+Taking into account the immaturity of the quantum industry ecosystem in Korea, initial efforts will focus on establishing stable career paths for quantum-specialized workforce and creating conducive research environments for focused research activities. Korea will designate relevant universities and government-funded research institutes as quantum research hubs and initiate large-scale government quantum research and development projects to stimulate job creation in the public sector. The support for quantum projects with industry participation and assistance in hiring quantum workforce by the industry will further contribute to the establishment of quantum workforce stability in the private sector.
+
+## Establishing a Global Quantum Science and Technology Talent Circulation System
+
+### Provide opportunities for Korean researchers to acquire quantum science and technology capabilities through overseas assignments.
+
+Korea will increase support for doctoral and postdoctoral researchers to expand their overseas collaborative research and exchanges. Academic and training programs will be implemented to dispatch industry professionals and master’s and doctoral program students involved in quantum science and technology to leading global quantum companies to strengthen the absorption and utilization capabilities of advanced quantum knowledge. Specifically, Korea aims to secure a global technology exchange channel by providing opportunities for overseas assignments and exchanges to approximately 500 quantum workforce by 2035.
+
+### Attract outstanding overseas quantum scientists and enhance international joint research and exchanges.
+
+Korea will expand and revise the Brain Pool program to attract outstanding overseas researchers. In particular, efforts will be made to attract global talents by providing overseas experts with opportunities as program leaders or principal investigators. Korea will also support joint research with leading quantum science and technology countries and expand opportunities for novice researchers to study abroad and engage in joint research. Regional international collaborative research centers, joint labs, and exchange programs for top-level overseas researchers will be operated in foreign locations.
+
+## Early Nurturing Quantum Workforce in Elementary, Middle, and High Schools
+
+### Prepare for the Quantum Era through tailored education and experiential programs for talented students.
+
+orea will support the operation of early quantum education programs to allow students in gifted schools and science high schools to optionally study advanced subjects related to quantum science and technology, enabling them to grow into a specialized quantum workforce.
+
+### Expand the outreach of quantum science and technology through education and experiential programs to the general public and students in elementary, middle, and high schools.
+
+Korea will develop and distribute educational content and materials, as well as teaching guides, that introduce popular concepts in quantum physics, mathematics, and computer science for elementary and middle school students to easily understand. Efforts will be made to increase public interest in quantum science and technology through the National Science Museum’s permanent education and experiential programs or quantum hackathon competitions for college students and the general public.
+02
+
+# 02 Mission-Oriented Research and Development
+
+Quantum science and technology are game-changing innovations that will bring about revolutionary changes in the global economy and society. Furthermore, as they hold significant strategic value in national defense and security, many countries are to strengthen export controls on quantum science and technology and related core components and equipment. Currently, Korea’s technology level is at approximately 62.5% compared to the leading country, the United States, and it is imperative for us to strengthen our own quantum capabilities.
+To address these challenges, the Korean government designated "quantum" as one of the National Strategic Technologies in 2021, and in December 2022, presented a roadmap for quantum science and technology which outlines development goals, milestones, and support strategies for quantum computing, quantum communication, and quantum sensors. This roadmap categorized support methods based on the maturity of technology and the technology level in each sector and, building upon this, Korea plans to launch a Quantum Science and Technology Flagship Project with clear technology objectives by 2031(mission-oriented). In addition, the government will continue to support development for other technologies as well, taking into account the trends in advancements and changes in the technological landscape.
+Korea’s technology level Technology maturity Track 3 Topological qubit Point defects in solids Semiconductor spin qubits Ion capture Superconductivity Neutral atoms Photons Track 12) Track 2
+Industrial security implications Technology maturity Track 12) Quantum network Track 2 Wireless QKD Track 3 Wired QKD
+Quantum Sensor Industrial security implications Technology maturity Track 12) Track 3 National defense GPS-independent navigation Aerospace Atomic clock for satellite detection Basic core technology (Four quantum sensor Platforms and measurement) Medical and bio Quantum imaging systems Medical and bio Viral biomolecules Detecting equipment Advanced industry and safety Battery defect detection Gas detection Precise diagnosis Safety diagnostic imaging system semiconductor defect detection Track 2
+
+## Securing Quantum Computing System Technology and Developing Enabling Technologies
+
+### Secure Korea’s own core technology with the goal of developing a 1,000-qubit quantum computer system in the early 2030s.
+
+In the field of quantum computing, where the dominant technology has not yet been determined, there is ongoing competition among various candidate approaches (platforms2)). The government has created technology roadmaps, keeping the innovation potential of each platform open, and plans to provide customized support based on technology maturity and domestic technology levels.
+First, Korea focuses on the development and the establishment of systems for universal quantum computers3) based on superconducting technology with 1,000 qubits. Simultaneously, it aims to secure a faster technological edge through the development of specialized neutral-atom quantum computers4) . Through these efforts, Korea will secure the foundational technology for implementing large-scale quantum systems and prioritize support for initial fault-tolerant technologies that minimize errors in hardware calculations, ultimately achieving world-class reliability. Challenging research and development will be supported for various quantum computer approaches, such as ion trapping5), photonics6) , semiconductor spin7), solid-state defects8) , etc., and these efforts take into account the trend in technological development and drive systematic research. Furthermore, Korea is promoting the development of hybrid computing, connecting classical and quantum computers, to efficiently build computing resources. This initiative aims to accelerate the utilization of quantum computing in the near future.
+
+### Acquire quantum software technology for leadership in the quantum computing-enabled market.
+
+Korea is pursuing the development of essential quantum computer operation software (including interfaces, controllers, and more) that efficiently operates quantum computer systems in conjunction with quantum computing hardware platforms. Quantum algorithms, including quantum optimization and quantum AI, essential for the utilization of quantum computers, will be developed and verified across various industries such as finance and healthcare.
+< (Left) Superconducting-based Quantum Computer, (Right) Superconducting Qubit Device Package (KRISS) >
+
+## Implementing World's First Ultra-Secure and Reliable Quantum Communication Technology
+
+### By 2030s, develop 100 km-class quantum network technology and initiate inter-city demonstrations.
+
+For the commercialization of secure and reliable quantum communication, technology enabling the long-distance transmission of quantum signals is essential. Korea will acquire core quantum network technologies, including quantum memory9) , quantum repeaters10) , and quantum satellite communication technology, which have significant implications for industry and security, and demonstrate an inter-city quantum entanglement-based quantum network with a distance of more than 100 km. Furthermore, focusing on quantum network technology as a communication tool, the government will also demonstrate the interconnectivity of various quantum devices, such as quantum computers and quantum sensors, in the medium to long term, paving the way for the era of the quantum Internet.
+
+### Promote nationwide-scale wired quantum cryptography communication verification and dissemination through public-private collaboration.
+
+Korea, in the early stages of commercializing wired quantum cryptography communication, will invest efforts to enhance performance, transmission speed, and distance, achieving nationwide-scale wired quantum cryptography communication without the need for repeaters, covering distances of over 500 km. Korea is pursuing mission-oriented research and development that can be applied to high-security areas such as defense and healthcare and collaborates with both the public and private sectors, investing in practical demonstrations. To expand the network scalability and scope of application for quantum cryptography communication, Korea supports research and development projects centered around academic, research, and industry collaborations. This effort aims to secure core technologies for mobile and satellite-based long-distance wireless quantum cryptography communication.
+< (Left) QKD Equipment (CO¬WEBER, KT), (Right) Single Photon Detector for Quantum Communication (IDQ) >
+
+## Developing Ultra-Precise Quantum Sensors driving World's Top-Class Defense and Advanced Industry
+
+### Secure independent advanced defense and space exploration capabilities with GPS-independent navigation and satellite-equipped atomic clocks.
+
+Korea aims to secure world's top-class quantum sensor technology, focusing on GPS-independent navigation technology applicable in national defense and public sectors, along with the Korean Positioning System (KPS) 11) .
+Korea will develop quantum science-based GPS-independent navigation technology that can be used in situations where GPS signals are not available, such as underwater, tunnels, or in the presence of jamming or interference that restricts the operation of various weapon systems. In addition, the development of ultra-precise atomic clocks to be mounted on the Korean Positioning System (KPS), an independent satellite navigation system, will contribute to providing ultra-precise regional navigation in and around the Korean Peninsula.
+
+### Strengthen the competitiveness in advanced future industries through the development of quantum sensors for batteries, semiconductors, and medical use.
+
+The ultra-precise detection capabilities of quantum sensors can be applied to defect detection in the production processes of batteries, semiconductors, and other industries, which can lead to increased productivity. Quantum sensor technology for biotechnology, such as virus detection and biomolecule analysis, holds the potential to pave the way for new treatment methods. Korea will support research and development of quantum sensors with a focus on market utilization based on real industrial demand. In sectors where technology maturity or industrial utility is relatively low, basic and core research is promoted to secure original technologies for quantum sensors.
+< (Left) Quantum Gravimeter, (Right) Quantum Imaging Sensor >
+
+## Continuous Support for Various Quantum Fundamental Research
+
+### Support various fundamental research in quantum science and technology to nurture innovative technologies.
+
+Korea encourages the exploration of emerging quantum science and technology approaches, in addition to proven applications like quantum computing, quantum communication, and quantum sensor, to ensure the broad development of domestic quantum science and technology. Basic scientific research in such quantum fields as quantum information theory, quantum materials research, and quantum control, will be continuously supported by organizations such as basic science institutes and universities to facilitate the discovery of new possibilities and technological advancements.
+< Original Technologies for Quantum Frequency Conversion (POSTECH, Nanophotonics, 2022) >
+03
+
+# 03 Advancing Infrastructures for Quantum Research and Industry
+
+Quantum devices that go into quantum applications such as quantum computers, quantum communication, and quantum sensors are manufactured through processes similar to semiconductor device processing. However, due to the extreme micro-scale nature of quantum phenomena, they require world-class (often called as “Quantum Grade”) precision in device processing, materials, parts, and equipment. So far, Korea has been relying heavily on overseas sources for many of these devices, and the supply chain issues observed in the semiconductor industry may potentially reoccur in the quantum industry in the future.
+However, Korea possesses excellent capabilities in semiconductor device processing, and the equipment industry that has developed as a downstream sector of the semiconductor industry has the potential to grow into the quantum parts and equipment industry, including areas like low-temperature and high-vacuum chambers. Additionally, the accumulated expertise and industrial base from large-scale scientific projects such as space exploration, nuclear fusion, and heavy ion accelerators can play a role in facilitating the growth of the quantum materials, parts, and equipment industry.
+Due to the relatively small size of the quantum industry market and the difficulty in predicting the timing of its activation, there are challenges in terms of inadequate technology and infrastructure directly applicable to quantum science and technology. Companies are also hesitant to invest in this area. To enable researchers to conduct creative and challenging research in quantum science and technology, research infrastructure should be provided. Moreover, collaboration between the government and the private sectors is essential to build a technological foundation that leverages Korea's strengths and enables us to become a leader in the global quantum foundry and materials, parts, and equipment markets in the medium to long term.
+
+## Enhancing Quantum Device Processing Infrastructure and Industrialization
+
+### Expand researcher-led open quantum fab infrastructure and promote the industrialization of quantum foundries.
+
+Until companies with semiconductor device processing capabilities fully enter the quantum field, the Korean government will expand its efforts to establish and operate public fabs. Building on public nano fabs and university-operated fabs, platform-specialized open quantum fabs will be expanded to provide an environment where researchers can create and experiment with challenging quantum devices. In the medium to long term, Korea will further expand public quantum foundries to provide high-quality quantum devices for research and industrial applications on promising platforms.
+Quantum fabs will function as support hubs that not only secure packaging and measurement equipment technologies but also enable various development, experimentation, and industrial support. The government will also support the transition and influx of semiconductor device processing workforce into quantum device processing, establishing a key foothold for nurturing a specialized quantum industry workforce. To leverage the capabilities of Korean semiconductor companies, a public-private collaboration model will be established for the operation of quantum fabs, and in the medium to long term, private-led quantum foundries will be proliferated, positioning Korea as a future global leader in quantum foundries.
+< Quantum Fabs (KRISS, ETRI) >
+
+## Acquiring the Manufacturing Technologies of Quantum Materials and Parts
+
+### Secure quantum materials and parts manufacturing technologies to support the advancement of quantum science and technology and foster its industrial growth.
+
+As major countries tighten control over key materials, parts, and equipment for quantum science and technology, Korea aims to establish a technological foundation in these areas to drive innovation in quantum science and technology, and further plans to leverage its strengths in the semiconductor and equipment industries to create value-added sector. Specifically, Korea will provide information and incentives for major quantum-related items in each sector, such as ultra-low-temperature electronic components, low-temperature high-vacuum equipment, qubit control support parts, quantum signal measurement devices, and optical crystal dielectric materials. This will make it easier for domestic semiconductor and electronic equipment/parts companies to enter the quantum supply market. For items of high importance and urgency, the government will provide support for technology development while also giving domestic SMEs opportunities to participate in the procurement of various quantum science and technology-related infrastructure, enhancing their competitiveness.
+04
+
+# 04 Laying the Groundwork for a Quantum Economy
+
+Quantum science and technology are expected to be a disruptive innovation, but it may take considerable time for full commercialization. Therefore, in order to sustain the momentum of development until full commercialization, a spiral innovation approach where technology and industry progress in parallel is essential. Countries worldwide are strategically investing in and supporting the quantum industry, as they recognize its diverse utility in terms of economy, security, and industry. In the United States, not only major IT companies like Google and IBM but also nearly 100 quantum startups* have emerged to actively participating across the entire industrial ecosystem. In contrast, Korea’s quantum industry ecosystem and startup investments are at an initial stage. Therefore, for the early establishment of the quantum industry ecosystem and the enhancement of international competitiveness, the Korean government will play a role in providing support and facilitating the process.
+
+## Supporting the Exploration of Quantum Science and Technology Applications
+
+### Support the entry into the quantum industry through quantum advantage exploration and empirical research.
+
+Taking into account the uncertainty of the scale of the socio-economic value that can be obtained through the application of quantum science and technology, the Korean government supports quantum advantage exploration research that can confirm potential usefulness in industry, defense, and the public sector. Collaborative development and empirical research between the public and private sectors will support the creation of business models for companies. Quantum computer cloud services are provided to support quantum computer algorithms and software depending on the specific application goals.
+< (Left) Samsung Galaxy A Quantum smartphone with QRNG chip (Samsung Electronics/SKT), (Right) QKD equipment applied to KOREN network (Woorinet) >
+< (Left) Synchronous Counter Generator (SDT), (Right) Single Photon Detector (Wooriro) >
+
+## Fostering Quantum Startups and Unicorn Companies Led by Advanced Technologies
+
+### Support the growth of quantum companies through startup incubation projects and policy-based financial support.
+
+Korea is actively involved in identifying promising startups in new industrial sectors based on quantum science and technology through the Outstanding Startup 1000+ Project and other technology-based venture support programs. Through these initiatives, the government promotes scale-up efforts by providing support such as R&D and technology commercialization funding, policy funds, guarantees, and export support. The government also encourages business-led quantum research and development and commercialization by supporting investment capital through guarantees for R&D funding or policy funds. Over the next five years, a 1.5 trillion KRW innovative growth fund will be invested to support the creation and growth of SMEs and startups in 15 innovative growth sectors, including quantum.
+
+## Establishing Quantum Cluster and Enhancing Institutional Foundations
+
+### Create quantum cluster to concentrate capabilities and generate synergy.
+
+For the advancement and commercialization of quantum science and technology, it is crucial to consolidate the expertise of a wide range of professionals from industry, academia, and research, from fundamental research to commercialization. The Korean government is actively promoting the establishment of intensive quantum development zones where research and development, workforce development, startup growth, and more can take place through the integration of government-funded research institutes, leading universities, companies, and a global quantum workforce network.
+
+### Establish institutional foundations early for the industrialization of quantum science and technology.
+
+Korea is facilitating industry participation in the emerging field of quantum science and technology and creating institutional foundations to boost public-private joint projects. Companies will benefit from eased mandatory matching ratios when participating in government R&D programs related to quantum fields. They will also receive exclusive usage rights for patents resulting from quantum R&D investments. Furthermore, the government is providing proactive and timely support for certification, evaluation technology, measurement technology, and standardization to enable the activation of the quantum industry. These measures will be legalized to ensure a stable investment environment.
+05
+
+# 05 Application to National Defense and Security
+
+Quantum science and technology, as a disruptive innovation technology surpassing the classical limits of existing technologies, is being prioritized by countries around the world, particularly as a top technology for national security. Especially, it is predicted that the next-generation quantum weapon systems, surpassing the limitations of traditional classical defense technologies, will determine superiority on the battlefield. Attention is being drawn to the national security implications, such as the neutralization of existing encryption systems and prevention of eavesdropping and hacking. Moreover, for defense technologies that require a high level of sophistication, the need for securing Korea’s independent technological capabilities is even greater and more urgent. On the other hand, the development of advanced quantum computing technology can pose serious security threats such as leakage of critical information, inability to verify identities, and the collapse of data trust. Leading countries such as the United States and the European Union have already conducted technology competitions for standardizing post-quantum cryptography (PQC) and have published transition scenarios. Therefore, it is imperative for Korea to systematically adapt to the transition to post-quantum cryptographic systems.
+
+## Nurturing a Strong Military based on Quantum Science and Technology
+
+### Strategically invest in quantum science and technology in the defense sector and lead the future battlefield through technological development.
+
+The Korean government, through the Defense Science and Technology Innovation Basic Plan, designated quantum science and technology as a defense strategic technology and expands investment in quantum science and technology sectors to prepare for existing threats and future battlefields. In particular, through military-private cooperation in quantum science and technology, advanced civilian technologies that are advancing ahead will be adopted. Creating a challenging research and development environment and fostering the workforce will enable Korea to take the lead in the future battlefield through quantum science and technology.
+
+## Establishing a Quantum Security Ecosystem for National Security Technology Leadership
+
+### Expand the security compliance verification system for quantum cryptography communication equipment to support the creation of the quantum security market.
+
+The Korean government has expanded the security compliance verification system, which was previously applied to conventional information protection and network equipment, to include quantum cryptography communication equipment for the first time in the world. This allows for swift adoption by the government ministries and public institutions. To ensure that this system leads to the actual deployment and proliferation of quantum cryptography systems including quantum communication encryption equipment, quantum key management equipment, quantum key distribution equipment, the government is developing detailed guidelines and providing support for testing and verification. Starting with the adoption by the government and public institutions, the accumulated references will lay the groundwork for the early establishment of the quantum security market in Korea and the global expansion of Korean quantum communication companies.
+
+### In response to the development of quantum science and technology, the government will establish a national-level master plan for post-quantum cryptography transition and initiate a phased transition.
+
+To prepare for the threat of the collapse of current encryption systems due to the development of high-performance quantum computers, the government will establish a national-level master plan for post-quantum cryptography transition by the end of the year. This plan will outline the procedures, timing, priorities, and phased goals for transitioning to post-quantum cryptography systems.
+Furthermore, the government will enhance Korea's technological competitiveness in the field of post-quantum cryptography through talent development and research promotion during the process of securing the Korean post-quantum cryptography algorithm (KpqC) through competitions and other means. Additionally, the government will establish a testbed environment where private companies can test the performance and safety of post-quantum cryptography embedded in products they have developed, further supporting practical implementation.
+Furthermore, guidelines for transitioning encryption systems will be developed, including the identification of targets for encryption system transitions in various ICT industry sectors such as finance, manufacturing, and telecommunications, as well as procedures for the adoption of post-quantum cryptography. These guidelines will serve as the basis for implementing a phased, nationwide encryption system transition process, prioritizing government, public institutions, and key private infrastructure.
+< (Left) Quantum Cryptography Communication Design Verification Software (QSim Plus), (Right) Transmission Equipment with Post-Quantum Cryptography (PQC) Technology (LG Uplus) >
+06
+
+# 06 Becoming a Global Quantum Leader
+
+Recently, the industrial potential of quantum science and technology has become more visible, and leading countries are competitively increasing their investments in research and development of quantum science and technology. At the same time, they are strengthening international cooperation with "like-minded" government and industry partners. Leading countries in quantum science and technology, such as the United States, the United Kingdom, France, Germany, and Japan, have opened a webpage called "Entanglement Exchange" to share their investment and research status and introduce opportunities for workforce exchange. Korea has also joined this initiative. Furthermore, countries are making ongoing efforts to form national groups and expand ecosystems through cooperation from the early stages of developing quantum industry supply chains. With major countries worldwide recognizing the importance of global supply chain issues related to quantum science and technology from a security perspective and acknowledging the seriousness of workforce shortages, the importance of strategic international cooperation and coordination is increasingly emphasized.
+
+## Strengthening International Cooperation through Strategic Technology Alliances
+
+### Strengthen strategic alliances between countries.
+
+The Korean government is pursuing the strengthening of international cooperation with governments and industry partners of major quantum countries worldwide, including the United States and the EU, to enhance national competitiveness in quantum science and technology and create synergies between countries. In particular, the government is developing comprehensive strategies for investing in and researching quantum science and technology, which is relatively early-stage technology on a global scale. This includes enhancing cooperation and coordination at the international level, including technology and workforce exchanges. Korea actively participates in bilateral and multilateral discussions and international forums to enhance strategic and diplomatic cooperation with leading quantum countries in the field of quantum science and technology.
+
+### Actively participate in workforce exchange and research collaboration to enhance the competitiveness of quantum science and technology and create synergies.
+
+To improve quantum science and technology competitiveness and create synergy, Korea actively participates in workforce exchanges and research collaborations. To support this, the government plans to invest 210 billion KRW in international cooperation in the quantum field by 2035. Efforts will be made to create an institutional and environmental framework for international cooperation in quantum science and technology across all research areas. Workforce exchange and practical joint research will be expanded worldwide to enhance the foundation of quantum science and technology workforce development. Korea will actively engage in exchanges with international research groups to lower the barriers to international cooperation and achieve qualitative improvements in research outcomes.
+
+## Establishing a Robust Technology Supply Chain and Protecting Technology and Industry for National Security
+
+### Secure key core technologies to address global supply chain issues.
+
+Quantum application products are an integration of system technologies, consisting of numerous core technologies of materials, parts, equipment, and application software. The Korean government prioritizes and supports domestic technologies that can be recognized as globally leading technologies in core areas of quantum science and technology, and provides support to establish the core capabilities and systems capable of responding to global supply chain issues in the quantum industry, based on the secured key core technologies. We will monitor international trends in discussions related to international export control regimes to respond appropriately to their impact on domestic research and industry and build a strategic international cooperation system.
+
+### Facilitate industry collaboration to become part of the global supply chain.
+
+Korea will enhance mutual cooperation with countries around the world as the quantum industry takes its initial steps and actively encourages the participation of domestic industries. Efforts will be made to ensure that the Korean industry can participate in international cooperation and take a leadership role in quantum science and technology through various strategic projects. Support to develop business models will be provided to establish Korea in a strategic position at the moment of forming a global supply chain.
+< (Left) President Yoon in dialogue with quantum experts during a visit to ETH Zurich (Jan. 19, 2023), (Right) Joint Statement of the Korea-US on Cooperation in Quantum Information Science and Technology (April 25, 2023) >
+< (Left) Korea-US Quantum Roundtable (May 17, 2023), (Right) Quantum Korea 2023 (June 26-29, 2023) >
+07
+
+# 07 Establish a Sustainable Support System
+
+Quantum science and technology is a game-changing technology that has a profound impact on industry, national security, international diplomacy, and various sectors of society. While quantum research in Korea has historically been focused on fundamental research in the early stages, there is now an increasing recognition of the need for and urgency of securing quantum technology as a national strategic asset. As dominant technologies in the quantum field have not yet been firmly established, there are opportunities for technological advancements. To position Korea as a leading global hub for quantum technology and industry, it is crucial to establish a comprehensive support system and foster long-term collaboration between government and private sectors.
+
+## Enactment of Quantum Acts to Lead the Second Quantum Revolution
+
+### Comprehensively develop quantum science and technology through the enactment of a quantum science and technology development and industry promotion act.
+
+Following the United States, Korea is the second country that enacts a Quantum Act, known as the quantum science and technology development and industry promotion act. This act encompasses strategies for fostering quantum science and technology, including research and industry development, technology advancement, promotion of commercialization, workforce development, establishment of research hubs and clusters, and international cooperation. Once enacted, this act will provide a framework for outlining the direction of support for quantum science and technology in Korea, roles and responsibilities among the government ministries, and implementation plans. Further, systems for monitoring and assessing the outcomes of these efforts and providing feedback will be established.
+
+## Strengthening National Quantum Governance
+
+### Enhance policy coordination functions for quantum science and technology across ministries.
+
+The Korean government operates the Quantum Technology Special Committee as a comprehensive planning tower for quantum science and technology and plans to expand and strengthen the joint government-private committee to enhance policy coordination functions across ministries in the future. This committee will deliberate and coordinate key policies and development strategies in the quantum field, including investment, workforce, specialized infrastructure, and industrial support, and discuss collaboration and role-sharing among various stakeholders. Furthermore, the government will strengthen its policies for the utilization and diffusion of quantum science and technology in all sectors of industry, public services, and national defense to prepare for the transition to the quantum industry era by building a solid institutional foundation.
+Efforts to support strategic assistance will be reinforced through the introduction of the national quantum PM system and the designation of the National Center for Quantum Technology & Strategy, enhancing the expertise of the quantum science and technology administration system.
+- * Currently, the National Quantum Technology Special Committee (Chairman: Vice Minister for Science, Technology and Innovation, Ministry of Science and ICT) is composed of a total of 21 members, including private sector experts from industry, academia, research institutes, and representatives from six government ministries, under the National Science and Technology Advisory Council.
+
+### Cultivate research institutions in the field of quantum science and technology to ensure long-term and stable technological accumulation and secure an excellent workforce.
+
+Korea is promoting the cultivation of research institutions in the field of quantum science and technology to secure independent quantum science and technology capabilities and to acquire the necessary technology at the international level. The government will foster open research hubs that connect various research entities, such as universities, government-funded research institutes, and companies. This hub will serve as the foundation for conducting systematic and fast-paced research and development in challenging and high-impact quantum science and technology fields, backed by support for workforce, research facilities, and institutional infrastructure.
+
+### Activate private organizations, such as quantum societies and councils, to enhance public-private cooperation.
+
+Korea will activate the ecosystem of private-led research and industry through quantum science and technology-related societies, associations, and councils. Networking among diverse stakeholders, such as businesses, universities, and research institutes will be promoted to facilitate information exchange, workforce exchange, collaborative research, and more.
+
+## Expanding Strategic Investment in the Fields of Quantum Science and Technology
+
+### Establish a foundation for strategic investment in quantum science and technology and invest a total of 3 trillion KRW by 2035 through public-private collaboration.
+
+In 2019, Korea began with an initial investment of 10.6 billion KRW in the field of quantum science and technology, which was previously focused on fundamental research. By 2023, this investment had expanded to over 96.8 billion KRW, more than nine times the initial amount. To enhance the strategic nature of these investments, the Korean government introduced the "National Strategy for Quantum Technology Research and Development" in 2021, followed by the "Quantum Science and Technology Roadmap" in the subsequent year. Through these initiatives, an analysis was conducted on technology maturity, technology levels, and the industrial and security implications. This analysis resulted in the formulation of technology roadmaps for 15 specific areas within quantum computing, quantum communication, and quantum sensors, along with 41 materials, parts, and equipment technologies to support these roadmaps.
+The quantum field is characterized by the absence of a dominant technology that definitively shapes the market at the time of future commercialization. Various candidate technologies are in competition, and rapid technological advancements are taking place in this field. Reflecting this situation, the Korean government plans to periodically redesign the roadmap to maintain the strategic nature of investments. Recently, there has been a significant increase in global interest in private-sector development and utilization of quantum science and technology. In Korea, companies are actively working to secure quantum workforce, increase investments, and promote startups. In this atmosphere, the Korean government and the private sectors are jointly preparing for the development of quantum science and technology and the transition to a quantum economy by investing over 3 trillion KRW in the quantum science and technology field by 2035.
+
+### Promote mission-oriented flagship project.
+
+The focus has shifted from small-scale research centered on elementary technologies to large-scale integrated research and development projects in accordance with the roadmap, involving both the public and private sectors. Efforts are being made to assign clear national missions, such as creating new markets with domestication and cloud services for quantum computer systems, verification and commercialization of quantum Internet, and four quantum sensors that break the limits of classical sensors. These efforts also involve driving mission-oriented research and development that brings together industry, academia, and research institutions as the focal point, with the aim of leading a quantum jump in Korea's quantum science and technology.
+Korea's National Quantum Strategy

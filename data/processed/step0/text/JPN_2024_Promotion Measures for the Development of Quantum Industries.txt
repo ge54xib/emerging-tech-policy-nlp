@@ -1,0 +1,498 @@
+Promotion Measures for the Creation and Development of the Quantum Industry
+April 9, 2024
+Quantum Technology Innovation Council
+
+# I. Introduction
+
+- ✓ We are approaching the 100th anniversary of 1925, the year quantum mechanics is said to have been born.Japan has long held strengths in fundamental quantum theory. In its 2016 Fifth Science and Technology Basic Plan, the government positioned quantum technology as a "foundational technology possessing strengths that form the core of new value creation," and formulated the "Quantum Technology Innovation Strategy" in 2020.
+- ✓ Meanwhile, overseas, the wave of industrialization for broad quantum information technologies arrived early. Industry-academia-government consortia were launched in the United States in 2018 and in Europe in 2021, showing significant expansion of investment from industry.Against this backdrop, Japan also launched the "Quantum Technology-based New Industry Creation Council (Q-STA R )"1(<>)on September 1, 2021. The government subsequently formulated the "Quantum Future Society Vision" in April 2022 and the "Quantum Future Industry Creation Strategy" in April 2023, advancing initiatives toward their realization with concerted efforts from industry, academia, and government.
+- ✓ Nevertheless, progress in quantum technology—a cutting-edge field—remains remarkable worldwide, with integration across diverse sectors advancing.Therefore, considering the changes in the environment surrounding Japan since the formulation of these government strategies, it is expected that strategic efforts will be made, including not only the industrialization of quantum technology itself but also strengthening countermeasures to enhance the productivity of industries driven by quantum technology and to create and develop new industries originating in Japan (hereafter referred to as quantum industries).
+
+# II. Positioning of This Policy
+
+This policy compiles measures identified by the Quantum Technology Innovation Council as necessary to promptly strengthen, concretize, or supplement existing strategies. It complements the three existing quantum technology strategies 2(<>)to ensure Japan's quantum technology can compete globally, addressing current challenges and outlining required actions.
+
+# III. Current Status of Quantum Technology
+
+## (1) Strategic Promotion of Quantum Technology in Various Countries
+
+### (Formulation of Quantum Technology Strategies by Countries and International Organizations)
+
+- ✓ As mentioned earlier, Japan formulated its Strategy for Creating a Quantum Future Industry in April 2023. That same year, other countries successively formulated national strategies on quantum technology (the United States, the United Kingdom, Australia, Canada, South Korea, Denmark, Germany, and Finland; see endnotes).See end of document), and in December, South Korea enacted a law on fostering quantum science and technology and quantum-related industries. This indicates that countries are positioning quantum technology as a priority area and intensifying nationwide efforts in R&D and human resource development. China is expected to announce a plan for industries including quantum technology in 2024.
+- ✓ Furthermore, the number of quantum technology programs included in the U.S. National Defense Authorization Act for Fiscal Year 2024 has increased compared to previous years (December), and NATO's quantum strategy was also formulated (November), indicating that the application of quantum technology to security has already begun.
+
+### (Progress in International Collaboration)
+
+- ✓ Following the May 2023 Japan-U.S. summit, where both governments shared the importance of cooperation in quantum fields, Japan and the U.S. incorporated strengthened cooperation to promote industrial use of quantum computers into the joint statement of the 2nd Japan-U.S. Commerce and Industry Partnership (JUCIP) Ministerial Meeting. This was followed by a director-level visit (May)to concretize it,and agreement at the second ministerial meeting of the U.S.-Japan Economic Policy Consultative Committee (Economic "2+2") to accelerate U.S.-Japan cooperation in quantum fields (November).
+- ✓ Furthermore, efforts to deepen international cooperation are advancing. These include holding quantum computing-related workshops with the EU based on the Japan-EU Digital Partnership (May, December), concluding a Memorandum of Cooperation (MOC) with the Canadian government on industrial technology fields including quantum (September)and expressing the intention to promote , cooperation in advanced science and technology fields, including quantum technology, at the summit discussion with the South Korean government (November).
+- ✓
+In response to these developments, activity is intensifying among institutions to explore new international collaborations. In May 2023, an agreement in the quantum field was signed between the University of Tokyo, the University of Chicago, IBM, and Google. In June, an alliance was launched between Tohoku University and the University of Chicago. In November, the National Institute of Advanced Industrial Science and Technology (AIST) revised its research cooperation memorandum of understanding (MOU) with NIST (U.S.) 3 (<>)and with NRC (Canada)4(<>)in the quantum field. In December, Keio University, the University of Tokyo, the University of Chicago, Yonsei University, and Seoul National University
+Major Initiatives Related to IBM's Quantum Education Activities In January 2 0 2 4 , efforts to establish new international cooperation are progressing, including the revision of the MOU covering quantum fields between AIST and KRISS
+(Korea) 5(<>)in January 2024, and the signing of cooperation documents on quantum fields among universities in Japan, the US, and Korea.
+- ✓ Through these intergovernmental and inter-institutional international collaborations, Japan must proactively advance activities to capture the global market. This involves: - Promoting user participation for societal implementation in competitive areas where Japan possesses strengths for practical application, while maintaining an overview of foreign policy, development, and industrialization trends. - Conducting strategic joint research with universities, research institutions, and companies in willing countries to incorporate the latest technologies in collaborative areas requiring international and domestic corporate cooperation.
+
+## (2) Intensifying International Competition for New Industries Driven by Quantum
+
+### Technology
+
+- ✓ By gaining early recognition in the global market for their quantum-related businesses and quantum startups/ventures, companies can accelerate the deployment of services/products and lead international standardization efforts.
+- ✓ Consequently, organizations aiming to create quantum-related industries are being established in various countries. Global collaboration and deployment are advancing, including the formation of basic agreements between these organizations, with an eye toward exploring use cases and building future supply chains.
+- ✓ Particularly, with an eye toward quantum cryptography, future quantum internet, and the realization of quantum computers, both fundamental and applied research are being vigorously advanced in parallel to further enhance these technologies. Movements to build testbeds for evaluating and verifying quantum technologies and demonstrating use cases, as well as constructing quantum-HPC hybrid computing platforms, are intensifying.
+- ✓ Japan's industry is also actively pursuing global market opportunities. The General Incorporated Association for Creating New Industries through Quantum Technology (Q-STAR) is vigorously promoting activities. Concurrently, there is a growing trend of active participation in service demonstrations and testbeds overseas, as well as the establishment of overseas bases by startups and venture companies.
+- ✓ However, these international collaborative efforts remain limited. If Japan misses this opportunity for global cooperation now, it risks isolation from the so-called "world-leading club members."
+
+## (3) Significant Technological Advances in the Quantum Field
+
+### (Quantum Computers)
+
+- ✓ Quantum computers, while still limited in application, are evolving from the development stage to the utilization stage. Considering the typical trajectory from advanced technology development to practical application, the full-scale industrialization of quantum computers is expected within the next 10 years.
+(November 17, 2023 (November 18 Japan time))
+Regarding quantum computer hardware, competition is intensifying in areas such as superconducting, ion trap, optical, silicon, and atomic sy
+- ✓ Regarding quantum computer hardware, competition is intensifying across superconducting, ion trap, optical, silicon, and atomic approaches. Concurrently, R&D advances toward scaling up, enhancing quality, and improving architecture are progressing. Notably, driven by fundamental research outcomes, discussions are rapidly shifting from previous debates centered on physical qubit counts to those focused on achieving practical logical qubits.
+- ✓
+In 2023 , overseas companies, backed by their long-cultivated advanced development resources, simultaneously unveiled a superconducting system achieving 1,000 qubits and a 100-qubit-class system with reduced error rates.
+- Conductive methods achieved 1,000 qubits while overseas companies simultaneously unveiled 100-qubit-class devices with reduced error rates. Additionally, overseas academia and startups collaborated to enable the use of ion trap and atomic methods in cloud environments, and announced the realization of the largest logical qubits ever.
+- ✓ Furthermore, roadmaps indicating the potential for quantum algorithmic computations exceeding 100 steps using over 100 error-corrected logical qubits within the next few years have been announced. These developments represent significant acceleration in practical efforts and elemental technology development towards fault-tolerant universal quantum computers.
+- ✓ In Japan, starting with the public unveiling of the first domestically developed quantum computer, "Eri," at the Quantum Computation Center (RIKEN, National Institute for Basic Biology) in March 2023, domestic companies and the Quantum Software Research Center (Osaka University) have also developed and unveiled domestic machines utilizing RIKEN's technology.
+- ✓ Alongside rapid hardware scaling, the need for hybrid computing environments combining quantum computers with classical computers, including HPC, is growing from the perspective of creating quantum software use cases. The establishment of these practical computing environments is advancing rapidly both domestically and internationally, based on advanced information science and applied mathematics.
+- ✓ Research on software that holds the potential to accelerate the realization of fault tolerance is also advancing. Furthermore, efforts to create use cases closer to industrialization, utilizing various hardware and software, are progressing across diverse fields.
+- ✓
+The Global Research Center for Quantum-AI Convergence Technology Business Development (AIST) serves as a global industry-academia hub 6(<>)for the practical application and industrialization of quantum technologies, centered on quantum computers. It aims to establish advanced convergent computing technologies through the complementary use of quantum and classical computing technologies, and to develop practical use cases in diverse fields such as bio, materials, energy, and transportation.
+- to pioneer the creation of practical applications in close collaboration with industry.
+- ✓ Furthermore, AIST is focusing on technological development for scaling up and advancing quantum computers, expanding development toward scaling and integration of quantum devices—including qubits and cryogenic control circuits—and enhancing prototype facilities to support domestic and international vendors.
+- ✓ Furthermore, AIST is advancing the development of testbeds in specialized environments, such as cryogenic conditions, to industrialize the quantum computer supply chain.
+
+### (Quantum Security / Quantum Networks)
+
+- ✓ Concerns have been raised that the widespread public-key cryptography algorithms currently used on the internet (such as RSA cryptography and elliptic curve cryptography) could be compromised by the realization of quantum computers. Consequently, there is a demand for cryptographic technologies that remain secure in the quantum computing era.The National Institute of Standards and Technology (NIST; USA) is advancing international standardization efforts for post-quantum cryptography (PQC), with the first international standards expected to be finalized in 2025.
+- ✓ Quantum cryptography is an encryption system that can reliably detect eavesdropping due to the physical properties of quantum mechanics. Its adoption is anticipated in fields handling sensitive information, particularly among government and financial users.
+- ✓ Japanese companies possess world-leading technology in quantum key distribution (QKD) devices, which utilize quantum properties for cryptographic key delivery, excelling in aspects such as key generation speed and transmission distance. Commercialization has been achieved. However, other nations are also actively pursuing research and development related to quantum cryptography. They are constructing test beds combining ground-based and satellite systems and conducting proof-of-concept experiments aimed at commercialization, intensifying international competition.Whether Japan can continue to be a world leader in quantum cryptography over the next few years remains to be seen.
+- ✓ Regarding quantum relay technology, envisioned for use in quantum cryptography and quantum internet, international development competition is intensifying. This includes demonstrations of quantum entanglement relay and long-distance entanglement delivery using quantum memory. Quantum relay technology is essential for advancing quantum technology, as it can connect quantum computers. Therefore, Japan must elevate its quantum relay technology to the world's top level.
+- ✓ The Quantum Security Center (National Institute of Information and Communications Technology,hereinafter "NICT") plans to thoroughly utilize the quantum cryptography testbed, whose expansion and enhancement will be completed in March 2024, in collaboration with government and financial sector users. This will advance efforts to clarify challenges for social implementation and promote adoption by early adopters.
+
+# (Quantum Measurement/Sensing and Quantum Materials)
+
+- ✓ Regarding quantum measurement and sensing, solid-state quantum sensors, for example, offer advantages such as high-sensitivity measurement of multiple physical quantities like magnetic fields and temperature in room-temperature environments and within living organisms. Consequently, participation is expanding not only among universities and research institutions but also among companies such as automobile manufacturers.
+- ✓ Furthermore, Japan's pioneering work in quantum life sciences is attracting attention from overseas research institutions. Applications in life sciences and clinical medicine, such as future brain magnetic measurement, are anticipated based on the quantum mechanical understanding of life phenomena achieved through biological nano-quantum sensors.
+- ✓ While this research is currently at the basic research stage and falls within the collaborative domain, it has the potential to evolve into a competitive field with countries like the United States and Germany.
+
+## (Trends in Related Fields)
+
+- ✓
+Alongside these advances in quantum technologies, the rise of generative AI, the miniaturization of semiconductor manufacturing processes, and the expansion of systems beyond terrestrial to include
+- satellite systems and the acceleration of digital transformation.
+- ✓ While various domestic and international projects and institutions are currently advancing human resource development, a global shortage of quantum talent is anticipated given the projected future industrial growth. Therefore, Japan must promote the cultivation of researchers and engineers in quantum technology.
+- ✓ Furthermore, the need is growing not only for quantum computers but also for next-generation component development and the establishment of a global supply chain to industrialize quantum technology as a whole.
+
+# IV. New Perspectives for Creating and Developing the Quantum Industry
+
+During the so-called "dawn period" of quantum technology, industrialization progressed primarily through fundamental and applied research driven by researchers' creative ideas. Now, as the utilization of quantum technology begins, the key to further development lies not only in the parallel advancement of fundamental and applied research but also in international collaboration with like-minded nations from a global perspective.
+Therefore, when considering and promoting measures for the creation and development of the quantum industry, based on the "Three Perspectives for Advancing Practical Application and Industrialization" outlined in the Quantum Future Industry Creation Strategy Three Perspectives 7(<>)for Advancing Practical Application and Industrialization" outlined in the Quantum Future Industry Creation Strategy. To further strengthen initiatives related to global collaboration and enhancement, a new perspective, "Globalization," is established and added. Going forward, efforts will be based on these four perspectives.
+■ Globalization: "Enhancing Global Visibility through Strategic Collaboration with Like-Minded Nations and Japan's Original Value Creation"
+A gainst the backdrop of rapid advancements in technological trends and industrialization, nations are increasingly aiming to capture the global quantum technology market. For Japan to compete in this global market, it is crucial to strategically collaborate with like-minded nations. First, we must prioritize the overseas expansion of competitive products and services through concerted public-private efforts. Following this, we will advance branding efforts to establish Japan as the global leader in quantum technology ("When it comes to quantum, think Japan"), and subsequently pursue the continuous securing of market share and the construction of an ecosystem.
+Furthermore, the practical application of quantum technology faces challenges that cannot necessarily be addressed by extending current technologies, such as scaling quantum computers beyond 1,000 qubits. Solving these challenges requires breakthroughs based on fundamental principles.Therefore, precisely in these high-barrier fields, it is vital to return to fundamentals (Back to the Basics). Beyond ongoing efforts to build R&D and testbed environments aimed at practical application and industrialization, we must unite industry, academia, and government to develop next-generation technologies and cultivate the talent to create them, thereby enhancing global visibility (Visibility).
+
+# V. Key challenges and response directions based on new perspectives
+
+## (1) Strengthening Expansion into Global Markets
+
+### (Challenges)
+
+- ✓ While global collaboration, such as hosting international conferences, is steadily progressing through the utilization of MOUs between Q-STAR and overseas industry associations, and between AIST and overseas research institutions, there are voices stating that Japan still lacks the necessary local information and networks required for the overseas expansion of services utilizing quantum technology.
+- ✓ Furthermore, opinions exist that overseas expansion by private companies alone carries high risk precisely because the quantum technology market is emerging. Additionally, use cases explaining the advantages of quantum technology from a cost-effectiveness perspective remain insufficient to expand investment from both domestic and international sources.
+- ✓ Additionally, it has been pointed out that the scale of domestic venture capital (VC) firms capable of evaluating deep tech like quantum technology and making long-term investments remains insufficient. Furthermore, opportunities for quantum startups/ventures to establish themselves and fully expand into domestic and international markets—essential for forming a quantum ecosystem—are also deemed inadequate.
+
+### (Response Direction)
+
+- ✓ The government will take the lead in creating and securing opportunities for global expansion by leveraging frameworks for intergovernmental collaboration, promoting smooth communication with overseas stakeholders including industry, universities, and research institutions. These efforts will enhance the security of global supply chains centered on like-minded nations, enabling Japan to secure a strategically indispensable position.
+- ✓ Strengthen the development of testbeds designed with diverse domestic and international users in mind to enrich opportunities for quantum technology utilization and build a portfolio of use cases sought by companies and VCs.
+- ✓ We will promote the construction of a quantum ecosystem by providing information on overseas markets to quantum startups/venture companies, further facilitating opportunities for them to connect with VCs and domestic companies possessing overseas networks, supporting business development utilizing national research institute facilities and equipment, and promoting the use of quantum technology, primarily by national and public institutions as early adopters.
+
+## (2) Strongly Promoting Japan's Globally Recognized Technology Development
+
+### (Challenge)
+
+- ✓ Due in part to the impact of COVID-19, Japan's participation in international conferences and number of international joint research projects have been relatively low in recent years, risking reduced visibility within the global quantum community, particularly in Europe and the US.
+- ✓ When advancing international collaboration with like-minded nations, it is crucial to accurately assess overseas trends while pursuing win-win relationships. Furthermore, since technology can eventually be caught up with through overwhelming scale, Japan must continuously secure internationally significant quantum technologies domestically to maintain its advantage.
+- ✓ Quantum technology is closely linked to economic security. Even equipment currently available from overseas may become inaccessible to Japan as technology advances and industrialization progresses.
+
+### (Response Direction)
+
+- ✓ The government will take the lead in creating and securing opportunities for global expansion by leveraging frameworks for intergovernmental collaboration, promoting smooth communication with overseas stakeholders including industry, universities, and research institutions.
+- ✓ Academia should continuously promote fundamental and foundational research with a medium-to-longterm perspective to avoid being consumed solely by technological competition focused on catching up with global research trends. Furthermore, it should strategically leverage these outcomes to secure intellectual property rights while steadily advancing international standardization activities.
+- ✓ Flexibly utilize advanced devices and peripheral equipment, such as commercially leading overseas quantum computers ( ), to create use cases and accumulate know-how. For technologies critical to the global supply chain, Japan will independently advance research and development (R&D) and promote domestic production ( ) without excessive reliance on other countries ( ).
+
+## (3) Cultivating Quantum Talent in Industry and Academia
+
+### (Challenge)
+
+- ✓ As markets for quantum technology utilization emerge globally, there is a recognized shortage of global talent, particularly those capable of deploying quantum-enabled services and building future supply chains. Developing such talent takes time, necessitating immediate action.
+- ✓ For Japan to maintain its presence within the world's top research communities over the medium to long term, it is also necessary to enhance visibility. This can be achieved by enabling researchers to gain experience within these top global research communities at an early stage, thereby securing opportunities for future participation in international conferences and similar forums.
+
+# (Direction of Response)
+
+- ✓ Universities, research institutions, and industry must collaborate to enrich opportunities for young people to encounter and learn about quantum technology, from elementary and junior high school through technical colleges and universities.
+- ✓ Expand opportunities for doctoral students and young researchers to gain early exposure to the world's top research communities through increased overseas assignments and by creating an environment that attracts international talent. Additionally, expand contributions to top research community activities, such as having Japanese researchers serve as chairs at prominent international conferences.
+
+# VI. Specific Initiatives to Strengthen
+
+Under the newly added "Globalization" perspective, we will continue to vigorously advance initiatives related to "Quantum Computers," "Quantum Security and Networks," "Quantum Measurement and Sensing/Quantum Materials," and "Innovation Infrastructure" as outlined in the Quantum Future Industry Creation Strategy. Furthermore, based on "V. Challenges and Response Directions Considering New Perspectives," initiatives requiring strengthened response are summarized as follows.
+
+## (1) Initiatives to Strengthen Expansion into Global Markets
+
+### <Understanding and Deploying Overseas Research and Technology Trends>
+
+- ✓ Based on overseas research and technology trends, academia and industry will actively exchange information on research/technology trends and industrial needs to identify Japan's competitive advantages and define areas for cooperation and competition. Concurrently, platform technologies universally required regardless of future trends will be identified.
+- ✓ Given that beneficial foreign developments (specifically legal systems, regulations, government strategies on quantum technology, budgets, and R&D/commercialization trends) are subject to frequent updates, the government will lead timely information dissemination by coordinating with existing information provision functions.
+- ✓ Furthermore, Japan will actively utilize frameworks established in recent years with like-minded nations, such as multilateral dialogues on quantum technology, MOCs, MOUs, the Japan-US-Korea Science and Technology Innovation Cooperation Framework, and the Japan-EU Digital Partnership, while also advancing cooperation with ASEAN.
+
+### <Fostering and Securing Domestic Technology>
+
+- ✓ By strengthening fundamental research that underpins next-generation quantum technologies, Japan will create world-class technologies that attract global attention, enhancing its presence within the international research community.
+- ✓ Furthermore, it is crucial to strategically advance the development of technologies related to key materials and devices essential for the practical application of quantum technologies, such as quantum computers, which are currently possessed by Japanese companies and research institutions. This will expand Japan's initiative within the global supply chain and enable Japan to control strategic points when quantum computers and other technologies become practical.
+- ✓ To this end, we will promote broad participation from industry by clarifying the technical specifications and establishing technology roadmaps necessary for large-scale production and industrialization. We will also develop and provide environments for suppliers and vendors to conduct development and prototyping of large-scale quantum devices and special evaluation environments such as cryogenic environments.
+- ✓
+Furthermore, through active control of quantum systems such as nuclear spins, we will advance quantum computing, quantum security networks, quantum measurement/sensing, and quantum materials.
+Given the expected progress and broadening reach of technological development across various fields such as lasers, w e w i l l f u n d a m e n t a l l y s t r e n g t h e n t h e r e s e a r c h i n f r a s t r u c t u r e a t universities a n d r e s e a r c h i n s t i t u t i o n s . This involves collaborating with research communities across a wide range of disciplines—nuclear physics, optics/lasers, information science, mathematics, and others—to explore the fundamental principles of quantum science and technology from their very roots (Fundamental Quantum Science Initiative).
+
+## (2) Initiatives to Promote Japan's Technological Development
+
+○ Quantum Computers (Software and Hardware)
+
+### <Establishing User-Friendly Test Beds>
+
+- ✓ Since few companies have experience using actual quantum computers, it is necessary to accelerate the development of testbeds from a user perspective and ensure their stable maintenance and management.
+- ✓ Therefore, at RIKEN, using a domestically developed actual machine (a superconducting quantum computer) as a test bed, we will develop and advance foundational technologies from software to hardware, as well as system software for quantum-classical hybrid computing environments. We will also conduct fundamental research and development involving industry and academia, including next-generation technologies, to further promote its utilization.
+- ✓ Furthermore, AIST will advance the construction of a hybrid quantum-classical computing environment testbed (including quantum-inspired technologies) aimed at creating industrial use cases. This will involve introducing large-scale GPU computers and quantum computers, utilizing these actual machines, quantum simulators, and various cloud services (both domestic and international). AIST will also establish an accessible framework for use, including by overseas institutions, thereby strengthening its hub function in international collaboration.
+- ✓ In doing so, rather than having each company or user build a distributed computing environment for each use case, we will maximize the use of the established testbed and hub functions. While developing user manuals and accumulating know-how, we will aim for the early creation of use cases suitable for industrialization across various fields.
+
+### <Initiatives with an Eye Toward Building a Global Supply Chain>
+
+- ✓ AIST will increase opportunities for initial verification of technological advantages and business viability through quantum technology, with an eye toward building a global supply chain.
+- ✓ To this end, based on the latest trends in quantum computer development, we will focus on scaling up and integrating components essential for quantum computer industrialization—such as quantum chips and cryogenic control circuits—while anticipating collaboration with quantum computer vendors across various architectures. To achieve this, AIST will establish evaluation testbeds for next-generation materials and electronic devices, including prototype equipment and cryogenic environments, while enhancing existing facilities.
+- ✓
+Through these initiatives, we will incorporate new technologies and equipment based on advancements in quantum technology among domestic and international quantum computer vendors and component manufacturers.
+We will foster an environment that supports corporate activities such as supplier development and international standardization efforts.
+
+### ＜Identifying Killer Use Cases＞
+
+- ✓ To advance the utilization of quantum computers, it is crucial to demonstrate to corporate executives and investors use cases where quantum computers play a decisive role—such as challenges difficult to address with current classical computing power or those with high societal value.
+✓ Therefore, we will capture the characteristics of the new computational capabilities achievable with quantum computers, continue exploring use cases, and identify priority use cases where quantum computers play a decisive role (so-called
+- "killer use cases") that quantum computers can decisively address, and explore connecting this to the development of killer applications. In doing so, it is important to accumulate know-how while using the highest-performance computational environments possible, enabling rapid adaptation when practical quantum computers are developed.
+- ✓ S pecific examples include drug discovery molecular screening, RNA sequencing analysis, functional material discovery, high-efficiency catalyst development, quantum natural language processing, quantum AI, and earthquake/disaster prevention.In this way, through collaboration between quantum technology and a wide range of other fields and technologies—including bio, materials, information, nature/environment, manufacturing, finance, logistics/transportation/networks, and more—it is vital to continue striving to create use cases, including solutions to societal challenges, and to advance the initiatives necessary for this.
+
+### <Addressing the Shift to Edge Computing>
+
+- ✓ With the advent of the IoT era, the volume of data circulating globally is exploding. Projections indicate it will reach approximately 180 times the 2010 level (about 180 zettabytes) by 2025. Conventional computers are nearing their limits in handling this data processing, particularly regarding the advancement of semiconductor microfabrication technology and the resulting increase in power consumption.
+- ✓ Against this backdrop of an anticipated shift towards data-centric edge computing, there is a growing need for the development of software capable of performing more effective and efficient computations using quantum computers, as well as middleware that allows users to leverage this capability seamlessly without conscious effort.
+✓ Therefore, Osaka University will continue to systematically conduct research and development spanning software, middleware, and hardware. This includes building a cloud environment for integrated control of quantum and classical computers, developing general-purpose quantum middleware to realize platforms where usage is defined by quantum software, and conducting fundamental and applied research in quantum AI.
+.
+
+### ＜Participation in International Standardization Activities＞
+
+- ✓ The establishment of the Joint Technical Committee 3 (JTC3) on quantum technologies by the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC) reflects the accelerating global momentum toward international standardization of quantum technologies. Japan must secure a position to influence the direction of international standardization and proactively propose to the committee technologies, definitions/concepts, benchmarks, use cases, and other areas where Japan leads.
+- ✓ Therefore, in collaboration with relevant organizations and institutions such as Q-STAR and AIST, we will establish a domestic deliberative body centered on industry, pursue efforts to secure positions within JTC3 and other bodies, and dispatch experts to participate in standardization activities.
+
+### ＜Social Implementation and Knowledge Accumulation through Annealing-Type Quantum Computers and Quantum-Inspired Technologies＞
+
+- ✓ From the perspective of industrializing quantum technology, accelerating industrialization through immediately applicable technologies like quantum-inspired approaches is crucial. This allows for the early identification of challenges not only from a technical standpoint but also regarding business viability and market demand potential, paving the way for the development and full-scale utilization of gate-based quantum computers. It also helps clarify the path to industrialization.
+- ✓ Therefore, for applications to combinatorial optimization problems using annealing and quantum-inspired technologies, we will support the identification of challenges based on real-world usage involving domestic and international users, industrialization, and expansion into overseas markets through public-private collaboration.
+
+### <Flexible Review of National Project Goals and Portfolio>
+
+- ✓ While commercialization has progressed for some quantum computing architectures, such as superconducting systems, the winning approach for realizing fault-tolerant universal quantum computers remains unclear at this stage.
+- ✓ Against this backdrop, Japan has strategically advanced core technology development, primarily through national projects, encompassing various approaches such as superconducting, ion trap, optical, silicon, and atomic systems, while maintaining an overview of current and future technological approaches. However, several years to five years have already passed since the initiation of these projects.
+✓ Therefore, at evaluation points such as stage gates, we will flexibly reassess the achievement goals and portfolio for each approach, considering the research progress of each project and global development trends.
+○ Quantum Security Networks
+
+### <Strengthening Efforts Toward Social Implementation>
+
+- ✓ Amid intensifying international competition in quantum computer development, introducing cryptographic technologies that cannot be decrypted even by quantum computers has become an urgent priority for ensuring cybersecurity.
+- ✓ F or quantum cryptographic communication technologies expected for early practical application, we will focus on achieving further cost reduction (e.g., wavelength multiplexing technology integrating key and data transmission, extending transmission distances , and establishing QKD technologies using generic components), miniaturization,and satellite-deployable QKD devices. Furthermore, in collaboration with telecommunications and cloud service providers, agile-based demonstration experiments reflecting R&D outcomes will be conducted to advance discussions on concrete service visions and business models. This aims to achieve the societal implementation of quantum cryptographic communications by fiscal year 2030.
+- ✓ Furthermore, for the quantum cryptography testbed whose expanded development will be completed in March 2024, we will thoroughly utilize it in collaboration with government and financial users, clarify challenges for societal implementation, and promote its use among early adopters.
+
+### <Development of Quantum Internet Elemental Technologies>
+
+- ✓ Regarding quantum relays, essential for realizing quantum internet, research and development on quantum memory relay technologies using various materials such as diamond, rare-earth ions, and ion traps is being conducted, primarily by universities and research institutions. To elevate Japan's quantum relay technologies to the world's top level, we will steadily advance research and development on fundamental technologies related to quantum internet.
+
+### <Promotion of International Standardization>
+
+- ✓ Japan has actively promoted international standardization activities, such as those within the International Telecommunication Union (ITU), which establishes de jure standards for quantum cryptographic communications. However, as mentioned earlier, international standardization activities within ISO/IEC are accelerating, necessitating close monitoring of activities across various standardization bodies.
+- ✓ Furthermore, regarding quantum cryptography, QKD devices based on the BB84 protocol using single photons are widely adopted. To enable longer distances, international standardization activities are actively underway for technologies such as Twin- -Field QKD (TF-QKD), which detects photons at intermediate points along the fiber, and CV-QKD, which detects using light phase or intensity.Japan will also promote research and development of these technologies while advancing international standardization activities.
+
+### <Realization of an International Certification System for QKD Devices>
+
+- ✓
+To enhance the reliability of QKD devices, stakeholders will gather
+Through forum activities and other means, discussions are being advanced among stakeholders including user companies, vendors, research institutions, and certification bodies. Work is progressing toward establishing the evaluation criteria and methods necessary for certifying QKD devices.
+○ Quantum Measurement/Sensing and Quantum Materials
+
+### <Strengthening Collaboration with Related User Companies in Quantum Measurement and Sensing>
+
+- ✓ To achieve early practical application of quantum measurement and sensing technologies, it is effective to design and construct test beds that consider not only the technical feasibility of quantum technologies but also the real-world environments of peripheral equipment using classical technologies.
+- ✓ For the constructed testbeds, it is important to provide stable access opportunities while also considering the necessary running costs.
+- ✓ Up to the proof-of-concept stage for quantum technology devices, development has been conducted through collaboration between manufacturers and academia. At the prototype manufacturing stage, it is necessary to advance societal implementation by involving user companies.
+- ✓ Therefore, key hubs such as the Quantum Technology Infrastructure Center (National Institute for Quantum Science and Technology; hereinafter referred to as "QST") and AIST will collaborate to establish a single point of contact for testbed usage. This will promote the creation of an environment where manufacturers, user companies, and academia can access the facilities over the medium to long term, from material selection to processing and evaluation.
+- ✓ Furthermore, to advance the practical application of diverse quantum measurement and sensing technologies, such as optical quantum technologies, we will establish a framework to accelerate initiatives connecting academia and industry, including the formation of consortia.
+- ✓ Furthermore, anticipating growing needs not only for industrialization but also from a national security perspective, we will explore accelerating the practical application of technologies where Japan currently holds strengths (e.g., diamond NV centers), searching for next-generation technology seeds such as quantum gyroscopes, and further strengthening collaboration between universities and research institutions.
+
+### <Promoting International Standardization of Quantum Measurement and Sensing Technologies>
+
+- ✓ We will promote the international standardization of technologies for the societal implementation of quantum sensors and similar devices. For technologies targeting medical applications in particular, we will explore utilizing research and development support from the Japan Agency for Medical Research and Development (AMED) and developing legal frameworks and guidelines to address challenges such as regulations, ethics, and societal acceptance.
+- ✓ Furthermore, biological energy conversion and magnetic response reactions are thought to skillfully utilize quantum effects to achieve ultra-fast and efficient energy transport and quantum compasses through extremely sensitive geomagnetic sensing. We will also pursue the exploration of new technologies that fuse such quantum technologies with the biofield.
+
+### <Strengthening R&D and Supply Infrastructure for Quantum Materials>
+
+- ✓ Quantum materials can exhibit outstanding functionality through the control of quantum states of electrons and spins. They are indispensable for developing various devices and components, such as quantum computers, quantum sensing, and quantum cryptography communications. Japanese companies currently hold significant market shares in some areas.
+- ✓ Furthermore, in the development of components for next-generation devices, there is also expectation for the establishment of stable manufacturing technologies for quantum materials and the construction of supply systems, alongside the exploration of semiconductor materials with novel physical properties that are difficult to achieve with silicon.
+- ✓ Therefore, we will advance the enhancement of quantum device performance and the strengthening of supply systems, including the improvement of quality and the establishment of large crystal fabrication technologies for quantum materials such as diamond, which is highly anticipated. Simultaneously, we will promote the development of quantum materials with novel properties, such as topological materials and two-dimensional materials.
+
+## (3) Initiatives for Human Resource Development
+
+- ✓ The demand for human resources is consistently increasing toward the creation of a quantum industry. Furthermore, since developing human resources takes time, this is an issue that requires urgent attention.
+- ✓ Therefore, we will support the development of world-class research talent and specialized personnel necessary for the industrialization of quantum technologies.
+
+### <Enhancing Opportunities for Overseas Assignments and Summer Schools>
+
+- ✓ To provide doctoral students and young researchers from industry and academia with opportunities for global training and experience, we will enhance overseas dispatch programs, invite overseas researchers, and expand support for student participation in international conferences and overseas summer schools. This will enhance visibility within the quantum community and foster international collaboration.
+- ✓ Furthermore, with support from national projects, the Quantum Technology Innovation Hub will host and sustainably operate a summer school accessible to all doctoral students and young researchers from industry and academia studying quantum technology, transcending the boundaries of specific fields such as quantum computing, quantum communication/networks, quantum measurement/sensing, and quantum materials.
+
+### <Strengthening the Quantum Talent Development System>
+
+- ✓ In the rapidly evolving quantum world, to attract promising talent from academia, we will first analyze and verify quantitative data such as the number of laboratories, faculty and students, and publications.
+- ✓
+Furthermore, in cultivating and securing talent to lead the future quantum industry, courses and majors focused on quantum technology within universities play a significant role. Internationally leading universities abroad are actively establishing programs dedicated to quantum technology. Additionally, attracting talent from other cutting-edge fields, such as AI, into the quantum domain is also a viable approach.
+.
+- ✓ Based on these considerations, we will focus on universities designated as Quantum Technology Innovation Hubs ( ) to transform graduate education. This includes establishing new courses and majors in quantum technology ( ) with an eye toward the future structure of society and industry, thereby fostering quantum talent.
+
+### <Promoting the "Fundamental Quantum Science Initiative">
+
+- ✓ To broadly apply quantum science and technology, it is necessary to deepen our understanding of unresolved fundamental principles, such as the origin of nuclear spin coherence—promising as a component for new quantum devices—and the behavior of quantum open systems considering correlations with the external environment. This enables active control of quantum systems, making a broad understanding of nuclear physics, optics/lasers, information science, mathematics, and other related sciences critically important.It is necessary to cultivate outstanding individuals capable of pursuing such academic fields within university departments and programs and generating exceptional research outcomes.
+- ✓ Therefore, w e w i l l f u n d a m e n t a l l y s t r e n g t h e n t h e r e s e a r c h i n f r a s t r u c t u r e a t u n i v e r s i t i e s a n d r e s e a r c h i n s t i t u t i o n s e x p l o r i n g the fundamental principles of quantum science and technology for the active control of quantum systems (Fundamental Quantum Science Initiative). This will attract outstanding young researchers from Japan and abroad and foster excellent talent capable of producing outstanding research results.
+
+### <Strengthening Initiatives for Young People from Elementary School Students to Junior College and
+
+### University Students>
+
+- ✓ With an eye toward creating a quantum industry and cultivating researchers and engineers, the Quantum Technology Innovation Hubs, in cooperation with Q-STAR and others, will explore standard curricula targeting technical college and university students, as well as opportunities for exchange between students and companies participating in different national projects.
+- ✓ Additionally, efforts will include developing educational programs to cultivate quantum data scientists capable of solving real-world problems using quantum computers, and exploring contests where participants compete with their own ideas and R&D outcomes for solving societal challenges using quantum technology.
+- ✓ Furthermore, industry will actively implement recruitment matching events for technical college and university students, while the Quantum Technology Innovation Hub will cooperate in these promotional activities through portal sites and various events.
+- ✓ Additionally, efforts will be enhanced to create environments where elementary, junior high, and high school students—the next generation—can become familiar with quantum concepts from an early stage. This includes building continuous education systems/programs to instill a quantum mindset and providing opportunities for learning and presenting outcomes using these resources.
+
+### <Strengthening Initiatives Connecting Industry and Academia, Domestically and Internationally>
+
+- ✓
+At present, the industrial value of the quantum field is not yet clearly defined, and investment from industry remains limited. On the other hand, the number of individuals within companies who are interested in quantum technology is increasing. By providing appropriate information and supporting networking for these individuals, quantum technology has the potential to become widely adopted in the future.
+By providing appropriate information and supporting networking opportunities for these individuals, quantum technology has the potential for widespread adoption in the future.
+- ✓ Therefore, in addition to continuing existing exchange platforms and symposiums organized by QSTAR and the Quantum Technology Innovation Hub, we will strengthen workshops, training programs, contests, and other initiatives designed with individual corporate researchers in mind. This will help uncover new quantum talent while also fostering new networks and creating use cases within companies.
+- ✓ Furthermore, as there is a shortage of personnel capable of overseeing the entire system integration of quantum technology, we will engage in human resource development not only in industry but also in academia. In doing so, we will consider utilizing personnel from the IT/digital field and developing a so-called "quantum skill standard" based on the IT Skill Standard of the Information-technology Promotion Agency, Japan (IPA). Concurrently, we will explore mechanisms to appropriately evaluate personnel responsible for system integration-related tasks.
+- ✓ Furthermore, to achieve the goal of 10 million domestic quantum technology users, we will provide information on the industrial impact of quantum technology to enhance understanding. Concurrently, we will cultivate entrepreneurs aspiring to start-ups/ventures and identify evangelists who can strengthen human networks with overseas partners.
+- ✓ Based on frameworks such as bilateral and multilateral agreements, promote personnel exchanges, recruitment, and retention with willing countries. Also, conduct personnel exchanges with an eye toward industrial collaboration with the Global South.
+
+## (4) Initiatives to Strengthen Innovation Infrastructure
+
+○ Creation and Scaling of Startups/Ventures and New Businesses
+
+### <Promoting Overseas Expansion and Global Business>
+
+- ✓ Startups/Venture Companies and New Businesses Aiming for Overseas Expansion and Global Business is beneficial as it leads to smoother fundraising and future customer acquisition in the international market environment, primarily centered on like-minded countries in Europe and the US.
+- ✓ Therefore, as mentioned earlier, Japan will provide timely information on quantum technology initiatives in various countries. This aims to support private companies' overseas expansion by disseminating information about Japan's quantum technology policies and strategies to the international community, thereby contributing to industry discussions on competitive and collaborative domains (open and closed domains).
+- ✓ Furthermore, through public-private collaboration, we will support: promoting participation in service demonstrations premised on overseas expansion; building global supply chains centered on like-minded nations; fostering collaboration and M&A with local companies and global players; marketing packages combining quantum technology with technologies and products where Japan already leads globally; and organizing exhibitions at events hosted by countries and local governments expected to attract significant international participation.
+- ✓
+Furthermore, when collaborating with overseas companies or entering overseas markets, utilizing research results conducted with national support
+must ensure appropriate management of research outcomes and intellectual property. This is necessary not only to comply with relevant laws and regulations, such as measures against technology leakage, but also from the perspective of returning benefits to the public and society.
+
+### <Support for Startups/Venture Companies Utilizing National Research Institutions>
+
+- ✓ Given the uncertainty surrounding future quantum technologies, it is extremely challenging for startups/ventures with limited capital to independently procure, maintain, and manage all the massive equipment required for developing and evaluating superconducting quantum computer hardware and components, such as dilution refrigerators.
+- ✓ Consequently, the number of startups/ventures developing hardware like quantum computers and quantum devices in Japan is significantly limited compared to software development. Conversely, overseas, it is not uncommon for startups/ventures to lead quantum computer development based on technologies developed in academia.
+- ✓ Therefore, to promote the establishment of quantum startups/ventures and new ventures, considering the current status of national research institutes 8 (<>), we will explore establishing systems enabling businesses to utilize facilities and equipment owned by national research institutes for product development, production, and service provision, as well as expanding the range of available facilities.
+- ✓ Furthermore, since the number of startups/ventures originating from national research institutes in Japan is even more limited than those originating from universities, we will also examine mechanisms to support the creation of startups/ventures utilizing national research institute research outcomes and technology transfer. This includes, for example, providing incentives to researchers at national research institutes who are not permitted to engage in paid side jobs, based on the current status of systems at each national research institute 9 (<>).
+
+### <Utilizing Quantum Technologies as an Early Adopter>
+
+- ✓ To create new markets through promising technologies and research outcomes from quantum startups/ventures, it is crucial for the government and other entities not only to provide funding but also to become the first buyers (early adopters) of these startups/ventures.
+- ✓ In Japan, commercialization of quantum computers and quantum cryptography is coming into view, making this a critical time to accelerate industrialization and ecosystem development efforts.
+- ✓ Therefore, when commercial quantum computers developed by domestic companies are released, public institutions and local governments will procure them promptly and encourage their adoption by user companies, thereby supporting the stimulation of initial demand and business expansion.
+- ✓ Regarding quantum cryptography communications, NICT will advance the clarification of challenges and establishment of use cases for societal implementation through the utilization of its testbed. It will also promote adoption consideration by government users, who are anticipated to be early adopters.
+○ Cooperation with Strategic Fields such as AI Strategy and Semiconductor Strategy
+
+### <Collaboration with AI Strategy, Semiconductor Strategy, etc.>
+
+- ✓ For Japan to maintain a solid position in the international community over the medium to long term, a comprehensive perspective encompassing not only quantum technology but also cutting-edge critical technologies such as AI, semiconductors, biotechnology, materials, and information and communications is essential.
+- ✓ Furthermore, in line with government policies such as the "Free and Open Indo-Pacific (FOIP)" initiative, it is important to explore how quantum technology can create value in addressing broader societal challenges.
+- ✓
+T herefore, we will examinehowquantum technology innovation measures cancreatevaluein addressing broader societal challenges, inlinewith government policies such as the "Free and Open Indo-Pacific (FOIP)" and by takinga comprehensive view ofcutting-edge critical technologies includingnot onlyquantum technology but also AI, semiconductors,biotechnology,materials,and information and communications.
+(June 2021, Integrated Innovation Strategy Promotion Council), "StrategyforStrengtheningMaterial Innovation Capabilities" (April 2021, Integrated Innovation Strategy Promotion Council),"Interim Report on the Direction of Information and Communications Technology Strategy for Beyond 5G - Aiming for a Resilient and Dynamic Society in the 2030s" (June 2022, Information and Communications Council), and others. This will advance the development and securing of technologies essential to Japan and foster new industries.
+○ Strengthening Collaboration and Systems for Quantum Technology Innovation Hubs
+
+### <Strengthening Collaboration Among Quantum Technology Innovation Hubs>
+
+- ✓ Eleven universities and research institutions have been designated as Quantum Technology Innovation Hubs. With RIKEN serving as the headquarters (core hub), each hub has played a role leveraging its respective strengths.
+- ✓ Going forward, we will strengthen the collaborative framework among hubs. This includes sharing common responsibilities such as industrial support, quantum talent development, international collaboration, and intellectual property management. These tasks will be divided among national research institutes and universities under the leadership of the headquarters.
+- ✓ Furthermore, unlike the management layers at each hub, some researchers and engineers on the ground have expressed that collaboration between hubs is not always sufficient. Therefore, we will promote researcher exchanges beyond the boundaries of national research institutes and universities. This includes, for example, holding joint workshops involving multiple quantum hubs and supporting research projects collaboratively undertaken between hubs.
+
+### <Strengthening Individual Centers>
+
+- ✓ In light of the rapid advancement of quantum technology, the formulation of national quantum strategies, international collaboration among interested nations, the utilization status of quantum technology, and changes in the economic security environment, we will strengthen the Quantum Technology Innovation Hubs. This is to provide robust support for industry-academia overseas expansion, international joint research, and the creation of world-class technologies that attract global attention.
+
+### "Global Hub for Quantum-AI Convergence Technology Business Development" (AIST)(Enhancement)
+
+- ✓ This hub will develop a hybrid computing environment combining a large-scale GPU computer (ABCIQ) with quantum computers (physical machines, quantum simulators,cloud service access, etc.) will be advanced. This includes establishing and enhancing a hybrid computing environment, developing and prototyping advanced quantum bit circuits aimed at realizing large-scale quantum computers, and creating an evaluation environment for peripheral devices such as control circuits, components, materials, and electronic devices operable in cryogenic environments. Efforts will also focus on building an accessible usage framework involving overseas institutions and the private sector.
+- ✓ In creating use cases, we will broadly utilize knowledge from other fields gained through internal collaboration with previously established material development hubs (Material and Process Innovation Platform) and bio hubs, as well as through collaboration with industry and other sectors.
+- ✓ Considering development trends in quantum computers using not only superconducting but also various other methods, we will develop components for next-generation quantum computers, advance technological development in system design and evaluation, establish supportive R&D environments, and lead supplier support and international standardization efforts.Furthermore, we will collaborate with suppliers and vendors from like-minded nations to build a global supply chain, which is increasingly critical for economic security. We will work towards realizing next-generation machines suitable for industrial use, promote integrated hardware and solution development efforts to enable domestic users to access developed products quickly and create valuable use cases, and aim for early societal implementation through the synergies of these efforts.
+- ✓ Regarding hub operations, we will establish an International Advisory Board comprising representatives and experts from overseas quantum-related industrial organizations to provide advice, recommendations, and support from an international and multifaceted perspective. This board will enable agile revision and updating of strategies to enhance our international presence.
+- ✓ To accelerate the establishment and construction of this globally unique R&D environment, we will expedite the recruitment of outstanding domestic and international research and business talent. We will also foster human resources through personnel exchanges and dispatches with leading overseas institutions, particularly for young talent.
+- ✓ Through these initiatives, we aim to build a global business ecosystem that solves societal challenges, creates new markets, and uses the profits generated to pioneer the next market.
+
+### "Quantum Computation Research Center" (RIKEN)(Enhanced)
+
+- ✓
+Leveraging Japan's domestically developed quantum computer hardware, we will advance the development of core technologies such as advanced device structures and quantum state control based on fundamental principles.
+quantum state control. This will drive further performance improvements and promote utilization. Additionally, it will accelerate the development of next-generation quantum computers exceeding 100 qubits and build quantum-classical hybrid computing environments in collaboration with HPC systems like "Fugaku."
+- ✓ Furthermore, aiming to develop highly scalable, cutting-edge quantum computers, it will advance fundamental research on connecting quantum systems based on multiple modalities, such as superconducting, optical, and cooled atomic systems.
+- ✓ As the headquarters representing the Quantum Technology Innovation Hub, we will establish a mechanism for continuous human resource development while bringing together the universities and national research institutes designated as hub members.
+
+### QuantumSecurityCenter(NICT)(Enhanced)
+
+- ✓ As the core institution for research and development on quantum cryptography communication technology, it will promote industry-academia-government collaborative R&D to accelerate the societal implementation of quantum cryptography communication and the early realization of quantum internet.
+- ✓ Specifically, for the quantum cryptography test bed, whose expanded development will be completed in March 2024, it will thoroughly utilize the facility in collaboration with government and financial users, clarify challenges for societal implementation, and promote its use among early adopters.
+- ✓ It will continue to advance international standardization activities at bodies such as the ITU and actively contribute to discussions on establishing an international certification system for QKD devices.
+- ✓ Furthermore, to foster quantum-native talent, we will enhance programs such as the "NQC (NICT Quantum Camp)"—which offers lectures by quantum ICT experts to junior college students, undergraduates, graduate students, and others with strong interest in quantum ICT—and the "Young Researchers Challenge Lab," where young researchers with proven track records in quantum fields can tackle cutting-edge research in quantum ICT.
+
+### Quantum Technology Infrastructure Hub / Quantum Life Science Hub (Quantum Research Institute)
+
+### (Enhancement)
+
+- ✓ To promote the utilization of quantum sensors in a wide range of fields, including energy control, medicine, and biotechnology, we will develop and supply high-quality quantum sensors using quantum beam technology, enhance the utilization environment for quantum sensor test beds, and advance research aimed at understanding and applying quantum principles to biological energy conversion and magnetic reception.
+- ✓ Furthermore, we will conduct new seed research contributing to Japan's economic security, such as developing quantum sensors usable in extreme environments like space and the ocean. We will also build secure research environments and systems to implement these initiatives and promote participation from universities and companies.
+
+# VII. Conclusion
+
+This strategy, compiled by the Quantum Technology Innovation Council, outlines the additional measures Japan must take to strengthen its position and ensure the creation and development of a quantum industry within the rapidly advancing and intensifying global competition in quantum technology.
+It focuses particularly on expanding international collaboration, supporting corporate overseas expansion, and further strengthening Japan's globally recognized technological development capabilities— essential for these goals—along with nurturing the human resources to support them.
+Regarding international collaboration, Japan will advance the cultivation and securing of its own technologies while utilizing various frameworks with like-minded nations. It is necessary to strengthen foundational research for next-generation quantum technologies and promote industry participation by clarifying technical specifications and establishing roadmaps essential for scaling up and industrializing components, materials, and devices critical for quantum technology practical application.
+Regarding initiatives to advance Japan's technological development, in the quantum computing field, efforts include: establishing user-friendly testbeds such as hybrid computing environments designed for creating industrial use cases; developing so-called "killer applications"; actively participating in international standardization activities; and supporting the identification of practical challenges, industrialization, and overseas market expansion for quantum-inspired technologies. Flexible revisions to national project goals and portfolios based on global development trends are also necessary. technologies, supporting industrialization and expansion into overseas markets, and flexibly reviewing national project goals and portfolios based on global development trends. In the quantum security and network field
+In the quantum security and networking field, it is necessary to conduct demonstration tests for the early societal implementation of quantum cryptographic communications, aiming for societal implementation by fiscal year 2030. Additionally, it is essential to promote research and development of quantum relay technologies, which are indispensable for realizing quantum internet and other applications, advance international standardization, and promote the compilation of evaluation criteria and methods required for establishing international certification systems for QKD devices.In the quantum measurement/sensing and materials field, efforts are needed to build testbeds simulating real-world environments, establish user access points, and improve the quality of materials like diamonds, while also advancing the development of novel quantum materials with unique properties.
+Regarding human resource development, it is necessary to advance broad-based training not only for university students but also for technical college students, working professionals, and others. This includes cultivating researchers, engineers, managers, evangelists, and personnel capable of overseeing the entire system integration required for the industrialization of quantum technology. This should be done in collaboration with relevant organizations such as quantum technology innovation hubs. Furthermore, accelerating personnel exchanges and recruitment with like-minded countries is essential.
+Regarding strengthening the innovation foundation, it is necessary to support the creation and scaling of startups/venture companies by promoting participation in service demonstrations premised on overseas expansion through public-private collaboration, and by building global supply chains centered on like-minded countries.
+Furthermore, it is essential to coordinate quantum technology innovation measures with strategies for other cutting-edge critical technologies—such as AI, semiconductors, biotechnology, materials, and information and communications—to advance the development and securing of technologies indispensable to Japan and foster new industries.
+The aboveextracts content related to global collaboration and deployment from the threeinitiatives (Collaboration, Accessibility, Incubation) outlinedin the "QuantumFuture IndustryCreationStrategy" for the practical application and industrialization ofquantum technology. Tofurtherstrengthen initiatives related to these,a new perspective, "Globalization," has been established and added.The addition of this perspective is expected to accelerate the creation and development of the quantum industry, not only achieving the 2030 goals outlined in the Quantum Future Society Vision but also securing Japan's initiative on the global stage.
+Reference 1
+Table: Strategies of Various Countries (Recent Major Ones) *Japan, in alphabetical order by official name, Common Name (Official Name)
+Country
+Formulation Period
+Overview, Characteristics
+Japan
+April 2023
+[Overview] A strategy outlining policies and implementation plans for the practical application and industrialization of quantum technology
+[Features]
+To achieve the goals set forth in the Quantum Future Society Vision (targeted situation by 2030: 10 million users of quantum technology in Japan, production value generated by quantum technology reaching 50 trillion yen, and creation of quantum unicorn venture companies pioneering future markets), this strategy outlines policies and action plans for the practical application and industrialization of quantum technology under the collaboration of industry, academia, and government.
+and create quantum unicorn venture companies that pioneer future markets) outlined in the Quantum Future Society Vision. It presents the policies to be pursued for the practical application and industrialization of quantum technology under industry-academia-government collaboration, along with specific initiatives to be prioritized and focused on in the near term.
+.
+United States (United States of America)
+November 2 0 2 3 and December
+[Overview]
+- ・
+The National Quantum Initiative Act (NQI), enacted in December 2018 to accelerate
+- U.S. leadership in quantum information science, was reauthorized in November 2023 (National Quantum Initiative Reauthorization Act).
+- ・ Furthermore, the annual report on projects and budgets mandated by the NQI
+("NATIONAL QUANTUM INITIATIVE SUPPLEMENT TO THE PRESIDENTʼS FY 2024 BUDGET")
+was issued in December 2023.
+【Features】
+For quantum-related budgets, t h e amount allocated i n f i s c a l y e a r 2019 w a s $449
+million.
+(approximately ¥67.4 billion), US$672 million (approximately ¥108.0 billion) in fiscal
+2020,
+), US$855 million (approx. ¥108.3 billion)in fiscal year 2021, $1.031 billion (approx. ¥154.7 billion)in fiscal year 2022, $932 mi l l io n (¥139.8 b i l l i o n )in fiscal year 2023, and $968 million (approx. ¥145.2 billion) in fiscal year 2024
+680 million USD (a p p r o x . 145.2 billion yen)(requested budget).
+United Kingdom (United Kingdom)
+March 2023 March, December
+[Overview] In March 2023, the National Quantum Strategy set a vision for the next decade, and in December, it announced five key missions outlining specific goals. [Features] (Four Goals)
+- ・ Make the UK a world-leading nation in quantum research and technology.
+- ・ Support business and attract investors and talent from around the world.
+- ・ Promote the adoption of quantum technologies.
+- ・Establish a regulatory framework that supports innovation and ethical use of quantum technologies.
+- (Five Key Missions)
+- ・ Invest £2.5 billion (approximately ¥475billion) in quantum research and development over 10 years s t a r t i n g i n 2024. ¥475 b i l l i o n ) over 10 years starting in 2024.
+- ・Increase investment in quantum technologies starting in 2023.
+- ・Strengthen talent development by implementing apprenticeship schemes and quantum training programs.
+- ・ Support foreign quantum-related companies in establishing operations in the UK.
+- ・Review future quantum technology regulatory needs through the Regulatory Horizons Council, which advises the government on regulatory reform. Australia
+Australia
+(Commonwealth of Australia)
+May 2023
+[Overview]
+Australia's first quantum strategy, with the vision that "by 2030, Australia is recognized as a leader in the global quantum industry, and quantum technology is an essential element for a prosperous, fair, and inclusive Australia."
+[Features] (Goal) By 2030, create an industry worth AUD 2.2 billion (approximately ¥213.4 billion) and create 8,700 new jobs by 2030, reaching an industry worth AUD 6 billion (approx.
+An industry worth ¥582 billion (approximately $4.5 billion) creating 19,400 jobs (Five Themes and Actions)
+- ・ Creating R&D, investment, and utilization for quantum technology prosperity
+- ・ Ensuring access to essential infrastructure and materials for quantum technology
+- ・ Developing a skilled and growing workforce proficient in quantum technologies
+- ・ Establishing standards and frameworks to support national interests
+- ・ Building a reliable, ethical, and inclusive quantum ecosystem
+Canada
+January 2023
+[Overview] Strengthen Canada's quantum advantage by establishing three pillars—research, talent, and commercialization—to achieve three missions: quantum computing and quantum software, quantum communications, and quantum sensing.
+Features
+(Three Missions)
+- • As a global leader, continuously develop and deploy quantum computing hardware and software for the benefit of Canadian industry, government, and citizens.
+- • Support national initiatives on quantum communication and post-quantum
+cryptography
+- • Secure Canada's privacy and cybersecurity through national initiatives on quantum communication and post-quantum cryptography
+.
+- • Enable the Government of Canada and key industries to become developers and early adopters of new quantum sensing technologies.
+(Three Pillars)
+- • Talent: Attract and develop the talent essential for advancing quantum technologies, both within Canada and internationally
+- ・Research: Support fundamental and applied research to enable new solutions and innovations
+- ・Commercialization: Linking research to scalable, commercial products and services that benefit Canada and the world
+(Budget)
+- ・Investing CAD 360 million (a p p r o x i m a t e l y ¥39.6 billion) over seven years starting in 2021 to establish Canada as a global leader in quantum technology
+yen) over seven years starting in 2021
+South Korea (Republic of Korea)
+June 2023
+[Overview]
+Korea's first "Korea Quantum Science and Technology Strategy"
+[Features]
+- ・ Aims to raise South Korea's quantum technology investment to at least 3 trillion won (approx. ¥33 billion) to elevate its quantum technology to approximately 85% of the level of the US and Europe.
+- ・ It also aims to increase the number of high-level talent (core human resources) leading quantum technology to 2,500 by 2035—a sevenfold increase from current levels—and expand the workforce engaged in quantum-related jobs to over 10,000 people.
+- ・ By 2035, it aims to achieve a 10% share of the global quantum-related industry market and cultivate approximately 1,200 companies that supply and utilize quantum technology.
+.
+Denmark (Kingdom of Denmark)
+June/September 2023 June, September
+[Overview] The nation's first quantum technology strategy. Comprises two parts: "World-Class Research and Innovation" and "Commercialization, Security, and International Cooperation."
+[Features] The total budget allocated for 2023–2027 is 1 billion Danish kroner (approximately 21.8 billion yen).
+Key areas include:
+- ・ Long-term, strategic investment in research and innovation
+- ・ International cooperation on research and innovation that benefits national interests
+- ・ Improving access to digital research infrastructure
+- ・ Commercialization of quantum technologies
+- ・ Security as a foundation for quantum technology development
+- ・ International promotion of quantum-related benefits
+Germany (Germany Federal
+Republic (Germany)
+April 2023
+[Overview] Federal Government's 2023–2026 Policy Framework for Quantum Technologies and objectives for quantum technology
+[Features] With three key priorities, the federal government has secured approximately €2.18 billion (about ¥348 billion) for quantum technology-related budgets by 2026. euros (a p p r o x i m a t e l y 348 b i l l i o n y e n ) for quantum technology-related budgets by 2026, and will provide approximately 850 million euros (ab out 136 billion yen) to research institutions and others.
+. (Three Priorities)
+- ・ Utilize quantum technology in industry, society, and national research institutions.
+- ・ The federal government will promote quantum technology development by setting specific goals.
+- • Build an ecosystem for utilizing and advancing quantum technologies.
+Finla nd
+(Finland) Finland Finland)
+February 2023
+[Overview]
+The status of research and technological innovation activities in Finland and the quantum technology sector Recommendations for Further Development of the Field [Characteristics] To realize the potential of quantum technology, the following activities are recommended
+- ・ Collaborative research and innovation funding programs
+- ・ Long-term programs and roadmaps for research and innovation infrastructure
+map
+- ・ Development of goals for Finland's quantum technology ecosystem
+- ・Expansion of educational offerings
+- ・ Support for domestic and international cooperation
+Note: Converted to Japanese yen at the exchange rate as of February 15, 2024 US Dollar : Approximately 150 yen, British Pound
+Approximately 97 yen,
+110 yen, Won Approximately 21.8 yen Euro
+: Approximately 190 yen Australian Dollar :
+Canadian dollar : Approximately
+: approx. 0.11 yen, Danish Krone:
+- : Approximately 160 yen

@@ -1,0 +1,840 @@
+National Quantum Strategy
+Building a thriving future with Australia’s quantum advantage
+industry.gov.au/quantum
+
+# Message from the minister
+
+Australia’s leadership in quantum technologies today is the result of sustained investment over decades. It’s a success story that speaks to patient public investment in basic research, the lure of our world‑leading educational institutions and uniquely Australian skills and know‑how. Now, with use of quantum technologies poised to grow globally by 33% over the next 5 years, and countries ramping up investment in domestic quantum capabilities, we cannot afford to lose our globally recognised edge.
+Thirty years ago, Australian universities were some of the few in the world to offer postgraduate qualifications in quantum physics. Today, graduates of those programs are leading projects around the world, in industry and academia, from IBM to Alphabet, from the University of Bristol to Stanford University in the United States. Australian talent is here and overseas, and has been behind a range of breakthroughs in quantum applications, including quantum random number generators for cyber security and sensors for mining.
+Quantum technologies are here, now. Throughout this strategy are examples of Australian‑made innovations that have already moved from new ideas in university labs to commercial products used by industries. Quantum sensors are being deployed to detect ore deposits buried deep underground. Quantum random number generators are making global banking more efficient and more secure. Quantum control infrastructure software is being put to work on public transport optimisation challenges. And quantum computing – which is poised to transform industries and unlock previously intractable challenges – is edging closer to reality.
+Quantum technologies will make a difference improving economic and national wellbeing. They have the potential to inform new drug discoveries, support emissions reduction, help us transition to a net zero economy and safeguard resilient cyber infrastructure. It’s no longer ‘if’, but ‘when’. Commercialising quantum technologies could create an (<https://www.csiro.au/en/work-with-us/services/consultancy-strategic-advice-services/csiro-futures/future-industries/quantum>)Australian quantum industry worth $2.2 billion and directly employing 8,700 people by 2030. This could reach (<https://www.csiro.au/en/work-with-us/services/consultancy-strategic-advice-services/csiro-futures/future-industries/quantum>)approximately $6 billion and 19,400 jobs by 2045. These technologies are expected to add billions of dollars of value to related industries in that timeframe.
+Australians are innovators. We have some excellent success stories, but we don’t back our successes nearly enough. We have many notable examples of great innovations ‑ including building one of the world’s first ever digital computers – but we’ve often fallen short translating early leadership into sustained commercial outcomes. We have all of the ingredients to sustain our existing leadership on quantum into the next decade. This National Quantum Strategy – the first quantum strategy for Australia – brings them together and sets the course for a growing, vibrant quantum industry and research ecosystem.
+The National Quantum Strategy recognises the importance of commercialisation opportunities, robust infrastructure, a skilled workforce, clear standards and (most importantly) community trust to the long‑term success of quantum in Australia. It has been drafted against a backdrop of accelerating geopolitical interest in quantum technologies, with the US, China, the UK and the European Union all scaling up investment in the last 2 years.
+This National Quantum Strategy has been eagerly awaited – not just by our local ecosystem, but by international partners. It will be a useful guide for investments in quantum technologies by private and public investors alike. It will support the Australian Government in developing closer ties with trusted partners to collaborate on investments in quantum infrastructure and quantum solutions to global problems.
+The Australian Government is revitalising manufacturing and investing in the skills, capabilities and strengths that sustain a resilient, innovative economy. Quantum technologies are critical to Australia’s national interests. We should all be proud of the outsized impact Australian quantum research and innovation has had on the global stage. And we must continue to grow our capabilities here.
+The Hon Ed Husic MP Minister for Industry and Science
+
+# Message from Australia’s Chief Scientist
+
+Australia has had its finger on the quantum pulse since Professors RQ Twiss and AG Little published the first paper on time‑correlated photons in 1959. Since then, and especially in the past 25 years, we’ve made significant research investment, resulting in an emerging Australian quantum industry that is destined to have a significant impact on all of our lives.
+The impact of the quantum revolution will be comparable to the digital revolution that brought us transistors and lasers, which are the basis of all our modern electronics, computers and communications.
+Quantum sensors are already enabling the detection of things that were previously hidden to us down to the tiniest scales, bringing new sensitivity in medical imaging and in detection of underground mineral deposits. Australia’s quantum industry will improve cyber security with advances in quantum encryption and communications. Quantum computers will enable calculation, modelling and data management in ways impossible for classical computers.
+Australia is well positioned to capitalise on the amazing research that is making its way out of the lab. Our entrepreneurial spirit is generating new start‑ups and attracting major companies. This is our chance to grow a thriving deep‑tech industry, built out of coordinated, long‑term government investment and a critical mass of world‑class Australian‑trained quantum specialists. We are in the top handful of countries embarking on a quantum ambition. But we have to act now, as there is intense global attention on the promise of quantum.
+In 2020, the Commonwealth Scientific and Industrial Research Organisation (CSIRO) worked with Australian quantum researchers to prepare a roadmap that articulated the opportunity. The National Quantum Strategy is the next step, with the aim of ensuring we realise the opportunity.
+This strategy will evolve and be updated as needed to reflect the rapid changes occurring across the Australian quantum industry, with the creation of new companies, new global investments and a maturing regional opportunity.
+What is clear is that success requires a concerted system‑wide focus, to ensure skills development and workforce inclusivity, access to infrastructure and the right regulation. This is a shared mission whose goal is to improve our lives, solve global environmental, medical and energy challenges, and understand more about our place in the cosmos as we chart humanity’s future.
+It was such an honour to lead the development of Australia’s National Quantum Strategy. With the support of a dedicated taskforce in the Department of Industry, Science and Resources, we have engaged with industry leaders, academics, investors and government officials. We visited many companies, start‑ups and labs across Australia and overseas, including in the United Kingdom, the United States, Japan and the Republic of Korea. There have been 9 roundtables, 6 town hall meetings and 2 public consultation papers. A National Quantum Advisory Committee was established and has provided excellent insights, feedback and advice. Engagement from the quantum community has been phenomenal and I thank all contributors.
+This process has strengthened my confidence that, with clear‑eyed determination, investment and a collaborative approach across government, research and industry, the transformative capabilities of quantum technologies are ours to realise.
+5 Dr Cathy Foley AO PSM
+
+# Executive summary
+
+Australia is on the cusp of a transformation driven by advances in technology. With the right policy, regulatory and economic framework, this transformation will:
+- • modernise our economy
+- • improve our society
+- • support national interests
+- • create high‑paying jobs for future generations.
+Quantum technologies are at the centre of this transformation, enabling potential new manufacturing techniques, drug treatments and advances in foundational science.
+
+## Vision
+
+### In 2030, Australia is recognised as a leader of the global quantum industry, and quantum technologies are integral to a prosperous, fair and inclusive Australia.
+
+## A strategy built on consultation
+
+The National Quantum Strategy is based on extensive consultation with the quantum sector and wider community over 2022. Consultation was led by Australia’s Chief Scientist, Dr Cathy Foley AO PSM, and included submissions, roundtables, working groups and town hall meetings. The level and quality of participation highlighted the sector’s potential and appetite for action.
+These consultations helped us identify the key efforts and actions needed to realise Australia’s quantum opportunity. We also drew on the guidance of our (<https://www.minister.industry.gov.au/ministers/husic/media-releases/national-quantum-advisory-committee>)National Quantum Advisory Committee and contributions from state and territory governments.
+
+## Opportunities and challenges
+
+The quantum industry has highlighted the opportunities and challenges that Australia faces to maximise the benefits of quantum technology.
+We have opportunities to:
+- • capitalise on our expertise
+- • build sovereign capability for future advancements
+- • benefit from economic growth and improvements in productivity
+- • position Australia as an international destination for talent and investment with a strong local ecosystem.
+But we also face challenges in:
+- • commercialising products
+- • attracting long‑term capital
+- • accessing infrastructure
+- • ensuring fit‑for‑purpose frameworks that support Australia’s national interest
+- • meeting the sector’s growing quantum skills needs.
+As well as economic opportunities, adopting quantum technologies may impact Australians’ safety, security and values. The strategy’s actions will capitalise on these opportunities and address the identified challenges.
+
+## Our themes
+
+The National Quantum Strategy has 5 central themes. Each theme has a set of actions over 7 years that will position Australia for success. The themes are focused on:
+- 1. creating thriving research and development, investment in and use of quantum technologies
+- 2. securing access to essential quantum infrastructure and materials
+- 3. building a skilled and growing quantum workforce
+- 4. ensuring our standards and frameworks support national interests
+- 5. building a trusted, ethical and inclusive quantum ecosystem
+The strategy outlines how the Australian Government will deliver on its vision. It also signals areas the government may consider in the future, including investment opportunities.
+Australia’s quantum ambition will not be realised by working alone – every part of the quantum ecosystem needs to work towards the same goal, including through investments. The government will drive the implementation of the strategy, but other partners will lead some actions and initiatives. We will draw on the strengths of industry, businesses, universities, states, territories and international partners to ensure Australia realises its quantum opportunity.
+
+### Strategy actions
+
+### Theme 1: Thriving research and development, investment in and use of quantum technologies
+
+The Australian Government will:
+- • invest in, connect and grow Australia’s quantum ecosystem so we continue to compete with the world’s best
+- • incentivise the growth of quantum technologies helping to address national challenges
+- • catalyse private and public investment in industry‑ready quantum technologies.
+
+### Action 1.1
+
+Design new programs to incentivise the continued growth of quantum use cases in sensing, communications, and computing. The goal of these programs should be to fast‑track projects using quantum and other advanced technologies to solve significant national challenges.
+
+### Action 1.2
+
+Support initiatives to drive ecosystem growth, support commercialisation and enhance domestic and international links with strategic partners. The government will seek out and support initiatives involving consortiums of universities, quantum companies and industry translating quantum research into commercial outcomes.
+
+### Action 1.3
+
+Grow a pipeline of quantum companies and technologies for potential future investment through the $15 billion National Reconstruction Fund, with a minimum of $1 billion earmarked for investment in critical technologies.
+
+### Theme 2: Securing access to essential quantum infrastructure and materials
+
+The Australian Government will:
+- • ensure that Australia’s quantum infrastructure supporting research and development meets the needs of Australia’s quantum ecosystem, now and into the future
+- • be bold and ambitious in supporting the growth of new quantum infrastructure, including building the world’s first error‑corrected quantum computer in Australia.
+
+### Action 2.1
+
+Conduct a national audit of quantum‑related infrastructure enabling quantum research. The audit will identify capability gaps and areas for dedicated investment, including access to quantum computing capabilities.
+
+### Action 2.2
+
+Actively monitor supply chain challenges and opportunities affecting Australia’s quantum industries and move to address these wherever possible.
+
+### Theme 3: A skilled and growing quantum workforce
+
+The Australian Government will:
+- • promote Australia as the world’s top destination for people studying, undertaking research in and working in quantum industries
+- • cement Australia’s status as a high‑value location for companies establishing their own quantum‑related capabilities.
+
+### Action 3.1
+
+Deliver the National Quantum Collaboration Initiative and quantum technology talent PhD scholarships, to lay the foundations for a nation‑wide model for academic collaboration.
+
+### Action 3.2
+
+Release a quantum workforce report, including modelling to identify workforce and educational needs for our quantum sector and adjacent industries. The report will include skills taxonomies for quantum professionals and other adjacent occupations.
+
+### Action 3.3
+
+Integrate quantum science into programs growing STEM awareness in schools, universities and VET, in collaboration with federal, state and territory education bodies. This will strengthen pathways and promote uptake into quantum and adjacent careers and will include initiatives to lift the participation of women, Aboriginal and Torres Strait Islander people and other underrepresented groups.
+
+### Action 3.4
+
+Explore measures to attract global quantum talent and position Australia as a top destination to build a thriving quantum career. This includes actively promoting Australia as a destination for professionals in quantum and adjacent industries, including through targeted incentives, skilled migration and talent attraction programs.
+
+### Theme 4: Standards and frameworks that support national interests
+
+The Australian Government will:
+- • be an active participant in global standards‑setting bodies to promote the development of standards that support a thriving, accessible and safe quantum ecosystem
+- • ensure Australia’s regulatory frameworks foster quantum‑related research, support investment in quantum companies and support exports while protecting Australia’s national interests.
+
+### Action 4.1
+
+Work across government to ensure that regulatory measures and frameworks are fit for purpose to maximise opportunities and manage risks while protecting Australia’s national interests.
+
+### Action 4.2
+
+Explore options to strengthen collaboration and opportunity for industry with our established partners through existing arrangements and potential partnership arrangements, including AUKUS, the Quad, and other regional and special bilateral agreements.
+Identify and consider opportunities to grow Australia’s regional leadership through collaborative programs of research, science diplomacy and provisioning access to infrastructure.
+
+### Theme 5: A trusted, ethical and inclusive quantum ecosystem
+
+- The Australian Government will:
+- • ensure that the growth of Australia’s quantum ecosystem supports economic prosperity while safeguarding national wellbeing
+- • champion responsible innovation and the introduction of new standards and regulatory mechanisms where national wellbeing is at risk.
+
+### Action 5.1
+
+Work with industry, academia and states and territories to develop principles to support the responsible and inclusive development and use of quantum technologies.
+
+### Action 5.2
+
+Ensure that Australia is actively represented in international quantum standards‑setting bodies. Continue to work with industry to boost participation in international quantum standards development.
+
+# National Quantum Strategy: at a glance
+
+## Vision for Australia’s quantum future
+
+In 2030, Australia is recognised as a leader of the global quantum industry, and quantum technologies are integral to a prosperous, fair and inclusive Australia
+
+### 5 Themes
+
+A skilled and growing quantum workforce
+Thriving research and development, investment in and use of quantum technologies
+Access secured to essential quantum infrastructure and materials
+Standards and frameworks that support national interests
+
+### A trusted, ethical and inclusive quantum ecosystem
+
+### Through the Strategy we will
+
+Invest in, connect and grow Australia’s quantum research and industry to compete with the world’s best
+Drive commercialisation through new programs to incentivise the continued growth of quantum use cases
+Create pipelines for investment in industry-ready quantum technologies through the National Reconstruction Fund
+Be bold and ambitious in supporting the growth of new quantum infrastructure, including quantum computing capabilities, to ensure that Australia’s infrastructure meets industry’s needs now and into the future
+Cement Australia’s status as the world’s top destination for quantum talent in research and industry
+Strengthen Australia’s international partnerships and influence, and grow opportunities for Australian quantum companies
+Champion responsible innovation and ensure the growth of Australia’s quantum industry supports economic prosperity, while safeguarding national interests
+
+# Quantum technologies
+
+Quantum science describes the behaviour of matter and light on the atomic and subatomic scale. Quantum behaviours – particularly quantisation, superposition and entanglement – can be used to build advanced technologies that would otherwise seem impossible.
+Quantum technologies are developing rapidly with researchers regularly identifying new applications. While some quantum technologies like computing are still emerging, others are already in everyday use. Australia has already led breakthroughs in areas such as:
+- • quantum theory
+- • quantum optics
+- • semiconductor and superconducting devices
+- • atomic physics
+- • precision timing and sensing
+- • cybersecurity.
+The National Quantum Strategy addresses the full spectrum of quantum technologies. It provides a pathway for growing applications that are close to being commercialised, such as quantum sensors. It will also set Australia up for success in longer‑term applications such as quantum computing.
+Different technologies will mature and be ready for commercial applications at different times over the next 10 years, and beyond. Some technologies will not have a simple or quick path from research to commercialisation.
+The strategy also recognises the importance of building foundational capabilities for quantum technologies, including software engineering, applications and algorithms. See the appendix for a description of quantum technologies.
+Now – 5 years 5 – 10 years 10 – 20 years 20+ years Quantum random number generators Quantum gravity sensors Quantum timing sensors Quantum magnetometers Quantum annealers Bespoke quantum simulators Quantum key distribution Post quantum cryptography Quantum networking More complex noisy intermediate-scale quantum computers Quantum inertial sensors Quantum electromagnetic sensors Fault tolerant programmable quantum computers Photon entanglement imaging Quantum internet Cryptographically relevant fully fault tolerant universal gate quantum computers Simple noisy intermediate -scale quantum computers Esmated horizon of quantum technologies Quantum sensing technology Quantum computing technology Quantum communications technology
+
+# Australia’s quantum opportunity
+
+Australia’s quantum opportunity is immense. Australia is recognised as a global quantum leader, with some of the best minds in quantum research and applied technology. The government is taking action to grow the tech sector – including quantum technologies – to improve our economy’s long‑term performance and the prosperity of all Australians.
+The technology sector is already Australia’s third‑largest industry, (<https://techcouncil.com.au/wp-content/uploads/2022/03/2022-Tech-Jobs-Opportunity-report.pdf>)employing 1 in 16 workers and contributing (<https://techcouncil.com.au/wp-content/uploads/2021/08/TCA-Tech-sectors-economic-contribution-full-res.pdf>)$167 billion to our economy every year, or 8.5% of GDP. The sector is growing rapidly and is forecast to contribute $244 billion a year by 2031.
+Quantum capabilities will amplify the growth of this sector and lead to entirely new kinds of technologies in the longer term. Australian quantum companies already attract significant venture capital investment compared to our international competitors, capturing a (<https://techcouncil.com.au/wp-content/uploads/2022/08/Turning-Australia-into-a-regional-tech-hub_Report-2022.pdf>)3.6% share of global venture capital for quantum from 2017 to 2021.
+Case study: Quantum supporting other economic sectors
+Quantum science can be applied to improve our understanding of industrial processes.
+An Australian start‑up, Jovian Tech, is building process instrumentation to measure the spin‑isomer ratio in hydrogen molecules. The thermophysical properties of molecular hydrogen depend critically on the spin state of the molecule.
+Chemical engineers can use information from Jovian Tech to optimise hydrogen production plant operations and lower costs in the hydrogen economy.
+The importance of quantum technologies extends beyond economics, jobs, and applications for business and industry. In time, quantum technologies will be an important national capability supporting our security and our way of life. Ensuring Australia has a sovereign quantum capability will let us keep pace with the latest advances and shape the evolving technology landscape in our national interest.
+Realising the potential of quantum technologies will have risks and challenges. The main challenges facing Australia’s quantum sector have been identified and are addressed through this strategy (see ‘Quantum opportunities and challenges’, below).
+Other challenges that need to be carefully managed include:
+- • economic headwinds
+- • a tightening global investment climate
+- • uncertainty over development timelines and which technologies will be successful.
+International competition will also create uncertainty and opportunities. Countries across the globe are investing billions into quantum technologies, and the Australian industry needs support to keep its leading position. Australia has already invested hundreds of millions of dollars in establishing deep technical skills. It is now time to build on and increase these efforts while building in resilience to global changes.
+Case study: Addressing transportation challenges
+In 2020 Transport for NSW approached (<https://q-ctrl.com>)Q‑CTRL with an interest in understanding how they – as an organisation with heavy computational challenges – could put quantum computing to work for them. Many problems in managing transport services are computationally challenging – from timetabling of intersecting modes of transport to meet known patterns of demand through to dynamically routing vehicles to meet changing traffic patterns. These problems quickly grow intractable, even for advanced computing tools, as the number of ‘interacting’ modes of transport, vehicles, connection points and stops grows.
+Q‑CTRL took on the challenge and has focused on getting Transport for NSW quantum ready via a combination of quantum professional services and quantum control infrastructure software development. Q‑CTRL worked with Transport for NSW to improve the performance of quantum algorithms relevant to transport optimisation problems and charted a path to quantum advantage.
+Q‑CTRL identified a (<https://youtu.be/chYBOL6ylJk>)new hardware‑efficient algorithmic implementation which enables modelling of transport networks on near‑term quantum computers using fewer computational resources than otherwise expected. The team built a (<https://docs.q-ctrl.com/boulder-opal/user-guides/how-to-simulate-multi-qubit-circuits-in-quantum-computing>)custom circuit simulator to simulate multiqubit algorithms subject to the real noise endemic to near‑term quantum computer hardware, and tested their prototype solutions on real cloud‑accessible machines. The results demonstrated that the target mobility‑as‑a‑service problem could really be efficiently solved by a quantum computer, even in the presence of imperfections.
+Having demonstrated a real quantum advantage in large‑scale network optimisation looks to be possible, Q‑CTRL is currently building a custom software package for Transport for NSW. This will deliver the ability to optimize the execution of quantum algorithms for mobility‑as‑a‑service problems to end users with expertise in transport analytics and data science.
+
+## Quantum opportunities and challenges
+
+### Opportunities
+
+### Challenges
+
+### Building on our expertise
+
+- • We can build on our existing strengths in quantum research, applied technology and promising start‑ups to grow a strong quantum industry across Australia.
+
+### Sovereign capability
+
+- • A strong quantum industry will provide Australia with the sovereign capability and expertise to drive future advancement.
+- • This includes access to, or control over, the skills, technology, intellectual property and infrastructure needed for future technological advancements.
+
+### Economic growth, productivity and jobs
+
+- • Quantum computing, communications and sensing could add $6.1 billion to Australia’s GDP by 2045.
+- • These technologies will help grow our tech sector and give an advantage to businesses and industries across the Australian economy.
+- • Quantum could create sustainable, inclusive and well‑paid jobs. By 2030, the Australian quantum sector could create around 8,700 jobs, rising to 19,400 by 2045. The growth of the sector would also support employment across the wider economy, with a total investment impact of over 35,000 jobs by 2045.
+
+### International destination
+
+- • Australia can become a destination for international talent and promote the key capabilities that will let local industries succeed. A thriving and trusted domestic ecosystem will be essential for retaining Australia’s talent.
+
+### Commercialisation
+
+- • Attracting early‑stage long‑term capital is becoming difficult in the current global investment climate.
+- • Investors are uncertain about development timelines and which technologies to support.
+- • Research and industry need stronger coordination and collaboration to identify the applications that will increase uptake and investment.
+
+### Infrastructure and supply chains
+
+- •
+Growth is constrained by limited access to advanced infrastructure such as:
+- – noisy intermediate‑scale quantum computers and prototyping facilities
+- – quantum materials and tools such as precision machining equipment.
+
+### National interest
+
+- • Countries across the globe are investing billions into quantum technologies and competing for quantum talent.
+- • Quantum technologies can impact national security, including cyber security.
+- • Australia could be locked out of cutting‑edge technology if it does not invest in its own capabilities, or develop capabilities needed by the world.
+- • Regulatory frameworks need to remain fit for purpose and responsive to technological developments so they can protect our national interest and ensure ongoing trust and confidence from the Australian public.
+
+### Skills, talent and business capability
+
+- • Growing our quantum sector depends on a skilled, diverse and inclusive workforce and an effective talent pipeline.
+- • Australian research institutes and quantum companies have to compete with other countries for the best and brightest minds.
+- • To harness these opportunities, businesses and their workers will need to be quantum‑ready and quantum literate.
+
+## Quantum technologies boosting the economy
+
+The global quantum computing market is estimated to grow at a compound rate of more than 30% a year over the next 5 years 31.9% over the next 5 years.
+In Australia, conservative estimates forecast revenue from quantum computing, communications and sensing could be worth $5.9 billion by 2045. Quantum technology development could contribute $6.1 billion to GDP by the same year. This includes $2.4 billion in indirect benefits due to productivity gains.
+The quantum technology industry could directly employ 19,400 people. Adopting quantum technology could create more than 35,000 jobs across the economy by 2045.
+
+## Economic contribution by 2045
+
+0 10,000 20,000 30,000 40,000 0 2,000 4,000 6,000 8,000 2022 2027 2032 2037 2042 Employees$ million Gross Value of Product Total contribution to Australian GDP Industry value added Direct employment Total contribution to Australian employment
+Source: The Centre for International Economics
+The size of Australia’s quantum opportunity depends on how quickly we can develop and adopt quantum technologies. If we can rapidly develop quantum technologies, and they are widely adopted by industry and business, these technologies could add as much as $9 billion to Australia’s economy and generate over 50,000 jobs by 2045.1
+Technology development projections
+0 2,000 4,000 6,000 8,000 10,000 0 10,000 20,000 30,000 40,000 50,000 60,000 2022 2027 2032 2037 2042 $ millionEmployees Total employment (low)total employment (central) total employment (high) Total contribution to GDP (low) Total contribution to GDP (central) Total contribution to GDP (high)
+Source: The Centre for International Economics
+A growing quantum sector will have significant direct benefits for the Australian economy. But quantum technologies will have an even greater economic impact on other sectors, providing an advantage to Australian industries. Quantum sensors are already transforming industries, including mining, where quantum sensors are used detect minerals.
+Quantum could have a greater impact on technology than the transition from vacuum tubes to semiconductors had on conventional computing.
+Case study: Using quantum sensors to find minerals
+LANDTEM is an Australian technology developed by CSIRO that uses quantum sensors to detect magnetic fields that are 100 millionth of the size of earth’s magnetic fields. This makes LANDTEM ideal for finding deep bodies of highly conducting ores, including nickel sulphide, copper and silver. It differentiates the target ore from other material, even when buried deep underground.
+LANDTEM improves mineral exploration outcomes. It has helped discover more than $10 billion of ore deposits around the world with $4 billion of these discoveries located in Australia.
+LANDTEM has been used by Glencore, Legend Mining, Mincor Resources, Western Areas, Aeris Resources and companies in Canada. Legend Mining, for example, has most recently (<https://www.listcorp.com/asx/leg/legend-mining-limited/news/new-prospective-areas-identified-by-regional-aircore-and-em-2764516.html>)announced (<https://www.listcorp.com/asx/leg/legend-mining-limited/news/new-prospective-areas-identified-by-regional-aircore-and-em-2764516.html>)detection of new prospective nickel copper deposits (<https://www.listcorp.com/asx/leg/legend-mining-limited/news/new-prospective-areas-identified-by-regional-aircore-and-em-2764516.html>)in September 2022.
+Clients have seen LANDTEM reduce their operational costs of exploration (<https://www.australianmining.com.au/features/quantum-technology-provides-solace-for-explorers/>)by up to 30%.
+Case study: Improved efficiency in global banking
+A major global bank, with an extensive virtual machine deployment hosting a range of banking services, was experiencing delays and the potential for duplicate keys used by the cryptographic processes for securing data and communication. Working with (<https://www.quintessencelabs.com/>)Quintessence Labs, a quantum random number generation (QRNG) solution was explored to ensure the timely delivery of high‑quality randomness consumed by the cryptographic processes running in the virtual machines.
+The QRNG network appliances were deployed in all of the bank’s data centres around the world, delivering entropy as a service. Previously, during busy periods, login and cryptographically intensive operations had response delays of several tens of seconds. After the QRNG solution, response times improved by up to 100 times. QRNG lowered the virtual machine instances of duplicate keys from 2.5% to none.
+The solution gave the bank clear visibility of demand for randomness across the whole organisation.
+17 Quantum computing can improve productivity and lower costs across the economy, from financial modelling to advanced manufacturing and materials. Credit: CSIRO
+
+# A national and international approach
+
+Australia already has strong quantum capabilities across all states and territories. State and territory governments recognise the benefits of quantum technologies and are working to grow research, grow businesses and attract international investment. A national approach will ensure these efforts are aligned and complementary.
+Technologies Sensing Computing – hardware and software Communications and networks Academic Programs Tertiary education programs Academic Centres Quantum Theory Strategies and Funding Government Strategies Investment programs Prospective programs Materials and Manufacturing Diamond technologies Photonics and optics Ions Superconductivity Atomic manufacturing Nanofabrication and prototyping Software and algorithms Silicon Other quantum materials Tasmania Australian Capital Territory Victoria New South Wales Queensland South Australia Western Australia Northern Territory
+
+## International opportunities
+
+Growing a thriving domestic quantum ecosystem requires active international collaboration.
+Australia’s close partnerships with major economies and strong relationships in our region provide a solid platform to grow our quantum industry. The government will seek international opportunities that:
+- • align with our international obligations
+- • use critical technologies to ensure a safe, secure and prosperous Australia, Indo‑Pacific region and world.
+This will include working with existing partners, and identifying new ones, to:
+- • boost opportunities for quantum businesses
+- • establish norms and standards
+- • build research partnerships
+- • strengthen supply chains
+- • explore quantum solutions to global problems.
+Strengthening Australia’s international role will:
+- • accelerate the development of quantum technologies
+- • attract international talent
+- • ensure we remain an influential voice in the international quantum community.
+We will ensure Australia remains a country that other nations want to work with and invest in. We will pursue international opportunities that align with our national interest and protect our national security.
+Australia’s quantum leadership in our region will open new opportunities for collaboration and diplomacy, including with:
+- • the Association of Southeast Asian Nations (ASEAN)
+- • other Indo‑Pacific nations, including our Pacific neighbours
+- • the United Kingdom
+- • the European Union
+- • countries in North America.
+Our international work will align with our values and national interests, capitalise on quantum’s economic opportunity and improve wellbeing.
+19
+
+### Case study: Leveraging existing partnerships
+
+Australia and the US have signed a joint statement of cooperation on quantum technologies.
+This will enhance both countries’ quantum industries by improving market access and knowledge sharing. We are also exploring similar partnerships with other nations.
+
+### Quad
+
+The Quad – Australia, India, Japan and the United States – works to uphold a stable, peaceful and prosperous Indo‑Pacific region. The Quad’s positive, practical agenda benefits the region by using its combined strengths and capabilities to respond to the region’s key challenges.
+The Quad is harnessing critical and emerging technologies to enhance the prosperity and security of the region. This work is organised into 4 areas:
+- • technology standards
+- • 5G deployment and diversification
+- • technology supply chains
+- • horizon scanning.
+The Quad will continue to strengthen its horizon scanning cooperation with a future focus on quantum technologies, and through convening the Quad Technology Business and Investment Forum for networking with industry partners to expand capital for critical and emerging technologies.
+
+### AUKUS
+
+The Australia, United Kingdom and United States enhanced trilateral partnership (AUKUS) has 2 related lines of effort – nuclear‑powered submarines and advanced capabilities. The partnership is committed to developing joint advanced military capabilities to promote security and stability in the Indo‑Pacific region.
+The AUKUS Quantum Arrangement (AQuA) is a core component of this work. AQuA will work to accelerate investments to deliver generation‑after‑next quantum military capabilities. There will be an initial focus on quantum technologies for positioning, navigation and timing. It is intended that the AQuA work will integrate emerging quantum technologies in trials and experimentation over the next 3 years.
+While AUKUS’s primary focus is on enhancing defence capabilities, going forward there will potentially be opportunities for Australia’s broader quantum ecosystem to contribute to and support Defence’s research efforts occurring through AUKUS.
+
+### Case study: Collaborating for commercial quantum computers
+
+The(<https://www.uts.edu.au/research/centre-quantum-software-and-information/news/quantum-benchmarking-accelerate-quantum-development>) University of Technology Sydney’s Centre for Quantum Software and Information (QSI) is participating in the US Defense Advanced Research Projects Agency’s (DARPA) (<https://www.darpa.mil/program/quantum-benchmarking>)quantum benchmarking program. The program quantitatively assesses the performance of quantum computing algorithms and applications at scale. These multi‑million dollar projects will be creating new tools and techniques for these assessments and involves global companies including HRL Laboratories, Boeing and General Motors, and quantum technology companies including Zapata Computing, Rigetti Computing, and IonQ.
+The quantum benchmarking program is estimating the long‑term utility of quantum computers by creating benchmarks that quantitatively measure progress towards transformational computational challenges. The program will also estimate the hardware resources needed to achieve different levels of benchmark performance.
+Quantum algorithms are currently benchmarked manually by a few experts, which typically takes several months per application. This practice can be sped up significantly by using software to model error correction, represent modern algorithmic techniques, and compile into low‑level instruction sets. QSI researchers are developing the Bench‑Q software suite for this purpose with the University of Southern California, University of Texas at Dallas, Aalto University in Finland, and Zapata Computing.
+The quantum benchmarking program is using this software to estimate and optimise the cost of quantum algorithms in the processor platforms of Rigetti Computing and IonQ.
+Quantum computing can bring molecular modelling to a new level of accuracy and simulating reactions could yield next generation batteries and pharmaceuticals. Credit: CSIRO
+
+# Themes of the National Quantum Strategy
+
+The National Quantum Strategy has 5 themes to help realise the Australian Government’s ambition. Each theme has a set of actions that will be completed over the next 7 years.
+Together these actions address the opportunities and challenges facing Australia’s quantum industry. They also provide the signals to attract investment from individuals, industry, academia and government.
+The themes focus on the initial actions the government can take to create the conditions for a thriving quantum industry. But to sustain the quantum industry long‑term, these actions require coordinated and collaborative efforts with states, territories, businesses and researchers, as well as close engagement with the community.
+
+## Theme 1: Thriving research and development, investment in and use of quantum technologies
+
+The Australian Government will:
+- • invest in, connect and grow Australia’s quantum ecosystem so we continue to compete with the world’s best
+- • incentivise the growth of quantum technologies helping to address national challenges
+- • catalyse private and public investment in industry‑ready quantum technologies.
+
+### Immediate actions
+
+### Action 1.1
+
+Design new programs to incentivise the continued growth of quantum use cases in sensing, communications, and computing. The goal of these programs should be to fast‑track projects using quantum and other advanced technologies to solve significant national challenges.
+
+### Action 1.2
+
+Support initiatives to drive ecosystem growth, support commercialisation and enhance domestic and international links with strategic partners. The government will seek out and support initiatives involving consortiums of universities, quantum companies and industry translating quantum research into commercial outcomes.
+
+### Action 1.3
+
+Grow a pipeline of quantum companies and technologies for potential future investment through the $15 billion National Reconstruction Fund, with a minimum of $1 billion earmarked for investment in critical technologies.
+22
+
+### What we’ve heard
+
+Many of Australia’s quantum technology solutions are already commercially available or almost ready to be commercialised. We have many ongoing opportunities to capitalise on, including expertise and ideas built from years of investment in the research sector. This is backed by a government focused on long‑term benefits.
+Our entrepreneurs and researchers are investing their time and talent into the next wave of quantum technologies and applications. As quantum research and technologies mature, the commercial and industrial opportunities are becoming more prominent. There are already tangible, scalable applications across a range of industries, with more emerging. For example:
+- •
+(<https://physicsworld.com/a/sensing-gravity-the-quantum-way/>)Quantum sensors are being used to (<https://www.nssn.org.au/news/2020/8/18/underground-leak-detection-in-the-century-of-quantum-technology>)detect underground water leaks without digging, which could be used (<https://www.nssn.org.au/news/2020/8/18/underground-leak-detection-in-the-century-of-quantum-technology>)to lower costs and proactively monitor for leaks.
+- • Quantum sensors are improving the (<https://ui.adsabs.harvard.edu/abs/2017AGUFMNS33C..12T/abstract>)speed and accuracy of measurements in civil engineering.
+- • Quantum computing can be used to optimise (<https://www.insidequantumtechnology.com/news-archive/inside-quantum-technologys-inside-scoop-quantum-and-the-supply-chain/>)supply chains and (<https://www.transport.nsw.gov.au/data-and-research/quantum-technology#Quantum_Expert_Advisory_Panel>)public transport, reducing waste and emissions.
+- • Quantum computing is increasing the energy density of batteries, supporting the transition to renewable energy.
+The sector faces challenges, including:
+- • attracting more early‑stage long‑term capital
+- • connecting ideas and solutions to businesses and investors.
+But by demonstrating how quantum technologies can improve commercial outcomes and address key challenges, quantum researchers and businesses can demonstrate their strengths and attract investment. This includes demonstrating market‑ready products and solutions, as well as long‑term applications for key industries and national capabilities. By building stronger connections between academia, business and industry, and translating research into industrial and commercial applications, we will deliver on Australia’s quantum potential.
+Australia’s small domestic market and smaller pool of venture and non‑dilutive capital means quantum companies need to access overseas markets and investment. This is a challenge for the Australian quantum sector, whose growth will depend on stronger international connections and lower barriers to doing business overseas.
+The quantum sector could also access existing programs to accelerate research and grow. One of these programs is the (<https://www.education.gov.au/university-research-commercialisation-package/resources/university-research-commercialisation-action-plan>)University Research Commercialisation Action Plan, a $2.2 billion investment to strengthen university innovation and industry collaboration. It includes:
+- •
+(<https://www.education.gov.au/university-research-commercialisation-package/australias-economic-accelerator>)Australia’s Economic Accelerator, a new $1.6 billion grant program to fund translation and commercialisation in national priority areas
+- • the (<https://www.education.gov.au/trailblazer-universities-program>)Trailblazer Universities Program, which will provide $362.5 million from 2021–2022 to 2025–2026. It will help 6 selected universities boost prioritised research and development and drive commercialisation outcomes with industry partners
+- • the (<https://www.education.gov.au/university-research-commercialisation-package/national-industry-phd-program>)National Industry PhD Program, which includes $296 million to establish a suite of industry PhD and research fellowship schemes
+- • the (<https://www.education.gov.au/hercip>)Higher Education Research Commercialisation Intellectual Property Framework, which gives universities standardised terms, clauses and agreements for collaborating on IP licensing, options and assignment. This will increase collaboration by universities and help Australian industries use research outputs
+- • additional investment in the CSIRO ON program, which helps accelerate the impact of science research into market and has supported more than 3000 people from 52 Australian research organisations to turn their science into real‑world solutions
+- • additional investment in Main Sequence Ventures, which was created by CSIRO in 2017 and has already invested in several Australian quantum start‑ups.
+Other existing funding programs are:
+- • The Australian Research Council’s (<https://www.arc.gov.au/funding-research/funding-schemes/linkage-program/arc-centres-excellence>)Centres of Excellence and (<https://www.arc.gov.au/funding-research>)National Competitive Grants Program (NCGP), including its Discovery and Linkage programs and industry fellowships.
+- •
+(<https://business.gov.au/grants-and-programs/cooperative-research-centres-projects-crcp-grants>)Cooperative Research Centres, which provide long‑term and short‑term project funding for industry‑led research collaborations.
+
+### Action impacts
+
+These immediate actions address the challenges and opportunities identified in this strategy by:
+- • helping academia, industry and the community work together to solve challenges by using quantum capabilities
+- • growing Australia’s quantum ecosystem by improving coordination and collaboration between research and industry. This will identify the uses that will increase quantum uptake and investment
+- • increasing investment by building on local expertise and sovereign capability to grow the economy, increase productivity and create jobs.
+National Reconstruction Fund
+The Australian Government is establishing the $15 billion (<https://www.industry.gov.au/news/national-reconstruction-fund-diversifying-and-transforming-australias-industry-and-economy>)National Reconstruction Fund (NRF) to support, diversify and transform Australia’s industry. This will secure our future prosperity and drive sustainable economic growth.
+The NRF will target projects and investments that help Australia capture new, high‑value market opportunities. This will help our businesses grow and succeed in the economy of tomorrow. The NRF will provide finance (including loans, guarantees and equity) to drive investments that add value and develop capability in 7 priority areas. The NRF will partner with industry to unlock private sector investment to create sustainable industries and secure, well‑paid jobs.
+The NRF will be an independent financier that operates commercially to deliver a positive rate of return. It will be governed by a board who will make independent investment decisions guided by an investment mandate.
+One of the NRF’s priority areas is enabling capabilities. It includes $1 billion of finance to grow advanced manufacturing and support businesses to innovate and move up the technological ladder.
+A further $1 billion will be used to grow critical technologies. This will support home‑grown innovation and build industry capability in areas like artificial intelligence, quantum computing, robotics and software development. The NRF will commence operation in 2023.
+Case study: Quantum supporting medical testing
+Quantum scientists at the University of Melbourne, in collaboration with the Florey Institute of Neuroscience and Mental Health, are developing FeBI (ferritin bound iron) diagnostic technology using a patented quantum sensing technology to detect iron loading within serum ferritin.
+This new technology contrasts with current tests which are confounded by inflammation due to their reliance on the ferritin protein levels rather than iron. A working prototype has been demonstrated to be functional on laboratory ferritin samples and the team is currently applying for funding and investment for clinical validation and commercial development.
+
+### Case study: Exploring quantum possibilities with edge devices
+
+Autonomous vehicles, robotics, and smartphones are just 3 examples of edge computing devices that have become mainstream technologies. However, edge technology does not yet have the computational ability necessary to handle complex algorithms, limiting the application of mainstream edge computing devices for heavy‑duty computing.
+Quantum computing could change that. As part of the Quantum Pioneers Program, the (<https://pawsey.org.au/>)Pawsey (<https://pawsey.org.au/>)Supercomputing Research Centre partnered with (<https://quantumbrilliance.com/>)Quantum Brilliance to enable industry and research teams to explore the possibilities of edge quantum computing. One example of this is accelerating speech transcription at the edge.
+Quantum Brilliance worked with an industry partner (<https://trellisdata.com/>)Trellis to develop the Quantum Decoder – a hybrid quantum – classical application that seeks to improve speech transcription algorithms. The Quantum Decoder will replace the ‘beam search’ decoder algorithms that are deployed in many everyday applications like vehicles and smartphones. Classical decoder algorithms truncate input data to provide results quickly, but some input information is lost, reducing accuracy.
+The Quantum Decoder promises to be both fast and accurate. It uses a quantum computer to decode the input signal in a reasonable timeframe with no loss of information. This provides better accuracy at the same computational speed as similar‑sized classical systems. The Quantum Decoder could be generalised to any signal processing problem, not just speech transcription. This means it has the potential to impact many industries, autonomous vehicles, robotics, smartphones, satellite image processing and manufacturing optimisation.
+Autonomous vehicles and robotics are examples of edge computing devices. Credit: Quantum Brilliance
+The recently announced ARC Centre of Excellence in Quantum Biotechnology will help Australia stay at the forefront of developing quantum technologies to transform our understanding of life. Credit: Getty Images
+Case study: Value chain for domestic supply and manufacturing
+(<https://sqc.com.au/>)Silicon Quantum Computing (SQC) has worked with Australian industry to help build an end‑to‑end quantum value chain.
+To feed the manufacturing underway, SQC secures raw materials from a local provider Silex Systems. With the support of the Department of Industry, Science and Resources’ CRC program, Silex expanded its operations to include the production of isotopically pure silicon at its facilities in Lucas Heights, NSW.
+Down‑stream of the hardware, SQC procures services from quantum software company Aqacia, which helps develop machine learning tools focused on accelerating quantum computing chip development and insights. While SQC is one of their local ‘anchors’, the digital nature of the company means that Aqacia is able to provide services to, and earn revenue from, all over the world.
+At the other end of the local value chain, SQC has had a long‑standing relationship with the Commonwealth Bank and Telstra, its co‑development partners who recognised early the transformational nature of quantum computing to their business. As the technology continues to mature, these essential partnerships have informed the company of the valuable use cases and accelerated the development of the full quantum computing stack in SQC to meet these requirements.
+Silicon Quantum Computing laboratory at UNSW Sydney. Credit: Silicon Quantum Computing
+
+## Theme 2: Securing access to essential quantum infrastructure and materials
+
+The Australian Government will:
+- • ensure that Australia’s quantum infrastructure supporting research and development meets the needs of Australia’s quantum ecosystem, now and into the future
+- • be bold and ambitious in supporting the growth of new quantum infrastructure, including building the world’s first error‑corrected quantum computer in Australia.
+
+### Immediate actions
+
+### Action 2.1
+
+Conduct a national audit of quantum‑related infrastructure enabling quantum research. The audit will identify capability gaps and areas for dedicated investment, including access to quantum computing capabilities.
+
+### Action 2.2
+
+Actively monitor supply chain challenges and opportunities affecting Australia’s quantum industries and move to address these wherever possible.
+
+### What we’ve heard
+
+Australian researchers, start‑ups and quantum businesses need advanced infrastructure, materials and tools to build a thriving quantum ecosystem across research, development and manufacturing.
+Infrastructure and material needs differ across the quantum sector. For example:
+- • accessing existing quantum computing capabilities could help develop use cases for quantum technologies
+- • growing and effectively using existing manufacturing facilities will help translate research into applications
+- • access to flexible fabrication plants may help quantum researchers and start‑ups access cheaper components and grow.
+Reliable access to resilient and trusted domestic and international supply chains is also essential for a successful Australian quantum sector. Quantum technologies use mass‑produced components, such as semiconductors, that are in high demand across the world. They also need bespoke components that are available from single sources or specialist manufacturers.
+The Australian quantum industry relies on complex global supply chains for key materials and components. These complex global supply chains are vulnerable to disruption, resulting in unpredictable availability and costs. Australia could analyse future supply chain needs and identify areas where it can become a world leader, helping grow ongoing supply in the future.
+
+### Action impacts
+
+These immediate actions address the challenges and opportunities identified in this strategy by:
+- • improving access to advanced infrastructure, materials and tools. This will drive growth and ensure Australia’s quantum ecosystem’s needs are met now and in the future
+- • providing more shared quantum infrastructure for research, development and domestic manufacturing
+- • growing a strong local quantum industry with sovereign capability and expertise to drive economic growth, productivity and jobs
+- • capitalising on our world‑class infrastructure to make Australia an attractive destination for international talent.
+Case study: Access to infrastructure enables quantum start‑ups
+(<https://www.aqcircuits.com/>)Analog Quantum Circuits (AQC) is an Australian quantum start‑up focused on superconducting quantum hardware. AQC is based on research in superconducting microwave devices, which was supported by the Australian Research Council through Future Fellowships and the (<https://equs.org/>)ARC Centre of Excellence in Engineered (<https://equs.org/>)Quantum Systems (EQUS).
+AQC’s establishment faced 2 major challenges commonly experienced by other start‑ups seeking to commercialise university research. AQC experienced difficulties in securing access to university‑held intellectual property that underpins their research and development. They also experienced challenges accessing the necessary facilities for fabrication, process control and cryogenic measurement to undertake development of advanced hardware.
+Gaps in the research and development pipeline create challenges for AQC and other start‑ups seeking to become operational. For example, there are currently no openly accessible industry cryogenic measurement facilities in Australia available for use by quantum technology companies. Where advanced facilities do exist, access can be costly and have long lead times. While universities host some equipment that is industry accessible, this does not cover the full range of requirements for a vibrant quantum technology industry.
+A cryogenic dilution refrigerator in the Superconducting Quantum Devices laboratory, at the University of Queensland. Credit: Arkady Feodrov, University of Queensland
+
+### Research infrastructure
+
+The Australian Government has invested in a range of research infrastructure, some of which could be used to improve access for quantum researchers and businesses.
+The (<https://www.education.gov.au/ncris>)National Collaborative Research Infrastructure Strategy (NCRIS) is maintaining Australia’s position as a global research leader by ensuring researchers can access cutting‑edge infrastructure. Continuing to invest in NCRIS, guided by the 2021 National Research Infrastructure Roadmap, will ensure this infrastructure evolves to meet the needs of quantum researchers.
+Current NCRIS projects that could improve access for quantum researchers include the following:
+- •
+(<https://www.anff.org.au/>)Australian National Fabrication Facility, which provides open access micro‑ and nanofabrication for Australian researchers in 8 nodes across Queensland, NSW, Victoria, South Australia and Western Australia. Each node has expertise in a specific area, such as advanced materials, bionanotechnology applications, or nanoelectronics and photonics. This can help researchers develop new products and improve current production methods.
+- •
+(<https://www.arin.org.au/program/63bbb488f0b0a911525c5b6c3683b02c>)Heavy Ion Accelerators, which provides ion implantation and ion beam analysis services to national and international researchers. This includes researchers working closely with industry in quantum computing, photovoltaics, nano‑photonics and microelectronics.
+- •
+(<https://micro.org.au/>)Microscopy Australia, which provides infrastructure that has helped investigate nanowires made from a new material called indium arsenide.
+- • The (<https://pawsey.org.au/>)Pawsey Supercomputing Research Centre and (<https://nci.org.au/>)National Computational Infrastructure Australia supercomputer, which have provided modelling to support nano‑level research.
+- •
+The (<https://pawsey.org.au/>)Pawsey Supercomputing Research Centre, which recently installed a (<https://www.datacenterdynamics.com/en/news/pawsey-supercomputing-centre-installs-room-temperature-diamond-based-quantum-computer/>)room‑temperature (<https://www.datacenterdynamics.com/en/news/pawsey-supercomputing-centre-installs-room-temperature-diamond-based-quantum-computer/>)diamond‑based quantum accelerator that will be used to demonstrate and test hybrid models of quantum and classical computing.
+30
+Testing the performance of a nitrogen-vacancy diamond-based vector magnetometer at the University of Melbourne Quantum Magnetometer Test and Measurement Facility. Credit: Chris Lew, University of Melbourne
+Case study: Transitioning from the lab to future applications
+(<https://www.phasorinnovation.com/>)Phasor Innovation is an Australian quantum business specialising in:
+- • radio frequency and microwave engineering
+- • electromagnetics
+- • system integration
+- • quantum technologies.
+Phasor Innovation is collaborating with the University of Melbourne and RMIT University on researching and developing the next generation of diamond‑based quantum sensors. There are a range of new and emerging applications for this technology in many areas including the defence, mining, space and medical sectors.
+The collaborative university and industry team successfully competed in the inaugural (<https://researchcentre.army.gov.au/library/land-power-forum/army-quantum-technology-challenge-2021>)Army Quantum (<https://researchcentre.army.gov.au/library/land-power-forum/army-quantum-technology-challenge-2021>)Technology Challenge in 2021 and are currently working together on a subsequent project to design, construct, test and evaluate a quantum diamond‑based vector magnetometer that will provide improved surveillance and detection of subterranean targets. The team has also received funding from Defence to further develop the technology for precision magnetic navigation in GNSSdenied environments.
+
+## Theme 3: A skilled and growing quantum workforce
+
+The Australian Government will:
+- • promote Australia as the world’s top destination for people studying, undertaking research in and working in quantum industries
+- • cement Australia’s status as a high‑value location for companies establishing their own quantum‑related capabilities.
+
+### Immediate actions
+
+### Action 3.1
+
+Deliver the (<https://www.industry.gov.au/news/46-million-grants-boost-quantum-education-and-collaboration>)National Quantum Collaboration Initiative and quantum technology talent PhD scholarships, to lay the foundations for a nation‑wide model for academic collaboration.
+
+### Action 3.2
+
+Release a quantum workforce report, including modelling to identify workforce and educational needs for our quantum sector and adjacent industries. The report will include skills taxonomies for quantum professionals and other adjacent occupations.
+
+### Action 3.3
+
+Integrate quantum science into programs growing STEM awareness in schools, universities and VET, in collaboration with federal, state and territory education bodies. This will strengthen pathways and promote uptake into quantum and adjacent careers and will include initiatives to lift the participation of women, Aboriginal and Torres Strait Islander people and other underrepresented groups.
+
+### Action 3.4
+
+Explore measures to attract global quantum talent and position Australia as a top destination to build a thriving quantum career. This includes actively promoting Australia as a destination for professionals in quantum and adjacent industries, including through targeted incentives, skilled migration and talent attraction programs.
+
+### What we’ve heard
+
+A strong and vibrant Australian quantum sector requires a skilled, diverse and growing workforce. The types of skills required will reach beyond physics into many different fields, including:
+- • machining
+- • electrical engineering
+- • software development and quantum algorithm research
+- • teaching
+- • science communication
+- • management
+- • cross‑sectoral applications.
+Meeting our current and future quantum skills needs requires a pipeline of talent from schools, through universities and vocational training and into industry. We need to develop and promote quantum career paths that make current workers and school students aware of the diverse and engaging opportunities in the industry.
+We can capitalise on Australia’s established strengths to grow a local quantum ecosystem. Australia’s research excellence in universities and industry (<https://www.chiefscientist.gov.au/sites/default/files/2022-09/Quantum%20Information%20Science%20and%20Technology.PDF>)has established us as an international quantum leader. These researchers will be the cornerstone of our future quantum industry.
+We have (<https://www.oecd.org/sti/Center%20of%20Excellence%20-%20Australia.pdf>)a long history of collaborating on research into social and economic priorities through (<https://www.arc.gov.au/funding-research/funding-schemes/linkage-program/arc-centres-excellence>)Centres of (<https://www.arc.gov.au/funding-research/funding-schemes/linkage-program/arc-centres-excellence>)Excellence. Our research strengths are in part due to decades of government funding in fundamental and applied quantum science.
+Our quantum sector can significantly contribute to Australia’s future prosperity. The sector is forecast to generate over 16,000 jobs by 2040, and this number will grow with additional investment.
+The Australian Government has a target of 1.2 million technology jobs by 2030, which will support the quantum industry’s requirements. But we need more than quantum experts – we need quantum literate businesses and workers across sectors, including manufacturing and engineering. We also need businesses that can identify and use new quantum applications.
+Building a quantum talent pipeline is a long‑term effort. We first need to assess our current, emerging and future quantum skills needs and consider how we can meet our short‑, medium‑ and long‑term skills gaps. In the short‑to medium‑term, we need to increase quantum literacy in schools and highlight quantum career opportunities to secondary students and other workers.
+We also need to lift diversity and inclusion in the industry. This will:
+- • bring new ideas and insights
+- • reduce bias in the system
+- • ensure we’re reflecting the views of Australia’s diverse society
+- • be essential to reaching the government’s technology jobs target.
+In the long term, we must inspire more children to choose STEM and quantum education and careers. Bringing quantum into the classroom and engaging children at an early age will encourage a new generation of students to pursue quantum and related careers.
+Australian research institutes and quantum companies must compete with other countries for the best and brightest minds. Creating a thriving and trusted domestic ecosystem is essential for retaining Australia’s talent. We need to promote Australia as a destination for international talent and promote the key capabilities that will let local industries succeed.
+
+### Action impacts
+
+These immediate actions address the challenges and opportunities identified in this strategy, by:
+- • promoting Australia as the world’s top destination for talent. This will address skills shortages that are a barrier to growth
+- • building a skilled, diverse and growing talent pipeline to support well‑paying jobs, job growth and prosperity in quantum and related industries
+- • strengthening Australian’s sovereign capability
+- • cementing Australia’s status as a desirable location for quantum companies by capitalising on our local talent and research excellence.
+Jobs and Skills Summit
+At the (<https://www.pm.gov.au/media/outcomes-jobs-and-skills-summit>)2022 Jobs and Skills Summit, the Australian Government committed to implementing a Digital and Tech Skills Compact. The compact will see the government work with industry, training and education providers, unions and others on practical measures meet Australia’s digital and tech skills shortage.
+A focus of the compact is developing an ‘earn while you learn’ scheme or ‘digital apprenticeship’. This will bring workforce entrants into tech‑related roles and improve the diversity of the tech workforce.
+Case study: Inspiring students
+As part of the (<https://education.nsw.gov.au/teaching-and-learning/curriculum/stem/stem-2022-on-demand>)STEM 2022 on demand series, Sydney Quantum Academy (SQA) and the NSW Department of Education created a video showing teachers how to light a path to a quantum career for their students. The (<https://education.nsw.gov.au/teaching-and-learning/curriculum/stem/stem-curriculum-resources/sydney-quantum-academy>)video explains that the era of quantum computing is fast approaching and covers some of the potential applications for emerging quantum technology.
+By clearly explaining our quantum future and the sector’s growing need for diverse skills, the video can help teachers inspire a new generation of students. The video is part of a wider campaign and activities SQA runs in partnership with several organisations including a summer school, open days and a careers fair.
+Case study: Building a quantum career
+The past 7 years have seen a flurry of challenges for 22 year‑old (<https://sydneyquantum.org/news/venturing-into-the-quantum-world/>)Ritika (<https://sydneyquantum.org/news/venturing-into-the-quantum-world/>)Bazzad. Despite this, she’s overcome obstacles – including a global pandemic – and is now deep into a PhD on quantum materials.
+Her first obstacle was integrating into a new country halfway through a school year. When she arrived in Australia from her native India in 2014 and, due to the different start dates for academic years, she had to repeat Year 10.
+After graduating high school, her father suggested Ritika consider science, leading to an applied physics degree at the University of Technology Sydney (UTS). Then she heard about (<https://sydneyquantum.org/>)Sydney Quantum Academy (SQA), a partnership between 4 universities – Macquarie University, University of Sydney, UNSW and UTS – backed by the NSW Government. SQA provides scholarships, career development and a thriving local community of young researchers.
+She qualified for a PhD Experience Scholarship, with access to career development and entry to the SQA PhD Experience program. This program allows students to pick up technical expertise, leadership and other transferable skills by taking part in the same seminars, workshops and coursework as those on scholarships with a stipend. And they get to experience the cutting edge of quantum science and technology from both a theory as well as a practical perspective.
+Ritika’s research – in the Quantum Materials and Photonics Team at UTS – is focused on nanomaterials, artificial structures just billionths of a metre in size. At that scale, matter displays quantum effects that can be manipulated.
+She is experimenting with hexagonal boron nitride (or hBN) crystals so they can better emit single photons (or particles of light). If it can be perfected, it could lead to semiconductor chips just one atom thick, opening the door to advanced 2D quantum state engineering.
+Ritika Bazzad, Sydney Quantum Academy PhD scholarship recipient at UTS. Credit: Sydney Quantum Academy
+
+## Theme 4: Standards and frameworks that support national interests
+
+The Australian government will:
+- • be an active participant in global standards‑setting bodies to promote the development of standards that support a thriving, accessible and safe quantum ecosystem
+- • ensure Australia’s regulatory frameworks foster quantum‑related research, support investment in quantum companies and support exports while protecting Australia’s national interests.
+
+### Immediate actions
+
+### Action 4.1
+
+Work across government to ensure that regulatory measures and frameworks are fit for purpose to maximise opportunities and manage risks while protecting Australia’s national interests.
+
+### Action 4.2
+
+Explore options to strengthen collaboration and opportunity for industry with our established partners through existing arrangements and potential partnership arrangements, including AUKUS, the Quad, and other regional and special bilateral agreements.
+Identify and consider opportunities to grow Australia’s regional leadership through collaborative programs of research, science diplomacy and provisioning access to infrastructure.
+
+### What we’ve heard
+
+Quantum technologies could give Australia enormous commercial and sovereign capability advantages. We must protect Australia’s national interests while taking full advantage of the opportunities for Australia’s quantum researchers and industry.
+We need to ensure responsible use of quantum technologies. Appropriate controls of these technologies will help protect our research, capabilities and investments.
+Australia’s regulatory environment:
+- • provides strong protections
+- • ensures fair competition
+- • supports national interests
+- • promotes integrity in the market.
+This effective regulatory environment gives certainty to businesses, investors and international partners looking to work with Australia. It also ensures our approach to technologies aligns with our values.
+These regulatory frameworks need to remain fit for purpose and responsive to technological developments. This will ensure trust and confidence for investors and support Australia’s national interests.
+Developing and using quantum technologies could have significant implications for our national security. These technologies could impact some of our most important national security functions including:
+- • defence
+- • intelligence
+- • encryption
+- • sensing and detection
+- • computer processing
+- • communications.
+To increase our resilience, we will need to monitor the development of quantum technologies and their potential impacts on public safety and cyber security. We must address national security challenges and capitalise on opportunities for our exports, capabilities, researchers and companies. Australian academia and industry can contribute to our defence and national security by discovering and building new quantum capabilities. To fully realise those opportunities, we need strong and trusted Australian quantum companies.
+Our stakeholders told us that navigating the regulatory environment can be a challenge for advanced and emerging technology industries, including quantum. For example, the necessary focus on mitigating risks and protecting our knowledge and capabilities can inhibit growth and commercial opportunities. Australian technology companies don’t have a large domestic market, which makes access to international markets critical for their survival and growth.
+
+### Actions impact
+
+These immediate actions address the challenges and opportunities identified in this strategy, by:
+- • supporting a thriving, accessible and safe quantum ecosystem by considering regulatory frameworks, red tape and other barriers to exports and overseas investment
+- • supporting investment and exports while protecting Australia’s national security by strengthening collaboration with trusted international partners
+- • capitalising on Australia’s economic and strategic opportunities in quantum technologies.
+Case study: Quantum clocks and sensors supporting our defence force
+Building on their strong relationship with the Institute for Photonics and Advanced Sensing (IPAS) at the University of Adelaide, (<https://quantxlabs.com/>)QuantX Labs is developing groundbreaking quantum sensors and clocks.
+These critical capabilities will:
+- • enhance Australia’s security through better undersea and underground surveillance as well as opening the door to next‑generation over‑the‑horizon radar technologies
+- • support deployments of the Australian Defence Forces through enhanced navigation and surveillance capabilities
+- • allow civilian and defence operations in regions in which satellite navigation systems are unavailable
+- • provide support for critical civilian and defence infrastructure.
+The sapphire crystal at the heart of one of the world’s most precise clocks. Credit: QuantX Labs
+
+### Case study: Army Quantum Technology Challenge
+
+The Army Quantum Technology Challenge (AQTC) is an annual technology challenge and the flagship initiative of Army’s Quantum Technology Roadmap.
+The AQTC is designed to leverage Australia’s national strategic strength in quantum technology to rapidly identify the most disruptive and advantageous applications of quantum technologies for the land domain, while also stimulating the growth of the sovereign quantum industry that will deliver those capabilities to the Army.
+Each year, the AQTC challenges teams to demonstrate solutions to one of three challenge themes, which span quantum sensing, computing and communications. The themes are derived from:
+- • current Army problems
+- • Army hypotheses about transformative effects that quantum technologies may have on land warfare
+- • input from the quantum technology community.
+Past themes have included:
+- • subterranean imaging and locating electromagnetic emitters using quantum sensors
+- • optimising last‑mile resupply logistics and enhancing image processing using quantum computers
+- • the disruption of satellite‑mediated quantum communications and the implementation of post‑quantum cryptography to harden the Army’s communications against attack from quantum computers.
+To participate, teams propose a solution concept and undergo a selection process. Selected teams then receive seed funding to develop their solution over approximately 5 months before demonstrating it at the AQTC Demonstration Day. Since quantum technologies are diverse in technology readiness, demonstrations range from simulations to deployable prototypes.
+Demonstration Day is a major event that is held in conjunction with the Chief of Army Symposium and the Army Robotics Expo. It provides the teams with the opportunity to interact with the full spectrum of junior soldiers to senior Defence leaders, and for those members to gain a tangible understanding of quantum technologies and their defence implications. At Demonstration Day, the teams are assessed by an evaluation panel drawn from across the services and groups and Army’s strategic partners.
+The top‑ranked teams are offered the opportunity to further develop their solution under significant Army Quantum Technology Exploit Projects. Being awarded an Exploit Project contract is the principal incentive for the teams. The projects are designed to bridge the gap from technology demonstrator to a field‑deployable prototype that is ready for adoption by a land capability program.
+Since commencing in 2021, the AQTC has achieved significant outcomes, including:
+- • the identification of the profound and near‑term advantages offered by quantum sensors in subterranean imaging
+- • the innovation of countermeasures to these sensors by Army soldiers
+- • the Army’s strategic partners identifying immediate opportunities to pursue with Australian industry.
+Chief of the Army, Lieutenant General Simon Stuart, AO, DSC, views trade displays at the Army Quantum Technology Challenge. Credit: Australian Army
+I 3 'e Quantum computing can improve fertiliser production and enable more accurate modelling and forecasting to help our agriculture sector manage climate change and weather events. Credit: Getty Images
+
+## Theme 5: A trusted, ethical and inclusive quantum ecosystem
+
+The Australian Government will:
+- • ensure that the growth of Australia’s quantum ecosystem supports economic prosperity while safeguarding national wellbeing
+- • champion responsible innovation and the introduction of new standards and regulatory mechanisms where national wellbeing is at risk.
+
+### Immediate actions
+
+### Action 5.1
+
+Work with industry, academia and states and territories to develop principles to support the responsible and inclusive development and use of quantum technologies.
+
+### Action 5.2
+
+Ensure that Australia is actively represented in international quantum standards‑setting bodies. Continue to work with industry to boost participation in international quantum standards development.
+
+### What we’ve heard
+
+Quantum technologies present nearly endless opportunities. But these opportunities must serve the interests of Australian society and contribute to our national wellbeing. The public is increasingly aware of the ethical and social implications of new technologies, and we should not assume they will enthusiastically embrace quantum technologies.
+By building principles for responsible development and use, quantum researchers and developers can develop technologies that align to Australian values and expectations and protect human rights. By adopting this approach, Australia can cement itself as a responsible technology developer and attract international companies and investors.
+Standards for quantum technologies will give Australians confidence these technologies are being developed and deployed in a way that is trusted, secure and to their benefit. Technology standards and trusted measurement will help grow the sector by creating a competitive supplier market. This will give industry confidence to adopt new technologies and ensure global interoperability.
+Standards will provide consistency and opportunities to Australian companies looking to develop or use this technology. With industry leading the way, Australia can have an active role in the global bodies that develop technology standards. This will help ensure that standards for quantum technologies support the growth of a vibrant and competitive marketplace by fostering interoperability, innovation, transparency and security.
+The government will continue prioritising Australia’s representation in international quantum standards‑setting bodies and developing principles for responsible and inclusive development and use. This work is consistent with our international obligations and the principles of Australia’s international cyber and critical technology engagement. We will also ensure that developing and adopting these standards doesn’t unnecessarily inhibit research, development and commercialisation of quantum technologies.
+To maximise the opportunities of quantum, we must push for greater inclusion and diversity. This includes increasing the participation of women, Aboriginal and Torres Strait Islander peoples and other underrepresented groups. The quantum community must engage with rural and regional Australia and connect with families, teachers and children. That way, the whole of Australia can understand and benefit from quantum technologies.
+The quantum industry will also play an important role in improving diversity and inclusion. This includes reducing the gender pay gap and supporting women’s participation, particularly in senior positions.
+
+### Action impacts
+
+These immediate actions address the challenges and opportunities identified in this strategy, by:
+- • ensuring the growth of Australia’s quantum ecosystem aligns with and protects Australian values, human rights and national wellbeing
+- • championing responsible innovation by designing frameworks for the responsible development and use of quantum technologies
+- • actively engaging with international standards development forums to represent Australia’s interests
+- • positioning Australia as a destination for talent and capital investment.
+
+### Case study: Contributing to global quantum governance
+
+Growing Australia’s place in and contribution to the international quantum ecosystem has been enabled through our participation in the development of (<https://www.weforum.org/reports/quantum-computing-governance-principles>)world‑first (<https://www.weforum.org/reports/quantum-computing-governance-principles>)governance guidelines for (<https://www.weforum.org/reports/quantum-computing-governance-principles>)quantum computing.
+In 2021, the World Economic Forum established a multi‑stakeholder network centred on the acceleration of responsible quantum computing. This took place as the ethical, legal and social implications of quantum computing were just beginning to be discussed globally. But there was wide recognition there were no established governance guidelines available that would guide the development and use of the technology for broader social good.
+Over the course of a year, the forum coordinated a comprehensive multi‑stage co‑design process involving:
+- • quantum science and technology experts
+- • business leaders
+- • social scientists
+- • policymakers
+- • authorities on emerging technology ethics and law drawn from around the world.
+Australian expertise was broadly represented and participants in the development of these guidelines came from CSIRO, the Sydney Quantum Academy, the Australian National University, the University of Western Australia, The University of Queensland, Monash University and Quintessence Labs.
+The Australian participants worked alongside other key quantum experts and stakeholders across research and development, government and industry sectors across the globe to tackle early‑stage questions about how to not only assess and manage the opportunities of quantum, but also the potential risks so that they might be mitigated.
+The process set the course for looking at the long‑term futures that we most wanted to create with quantum computing and created a set of actionable principles that can be debated, refined and used to collaboratively shape how the technology will be used.
+
+# Strategic approach
+
+The National Quantum Strategy is integral to the Australian Government’s agenda to build a stronger economy and create sustainable, well‑paid jobs.
+The strategy is also part of the government’s framework for critical technologies. Critical technology priorities are diverse, with different skills, research, infrastructure and commercialisation challenges and opportunities. They have benefits and uses across the economy. Investing in and supporting capabilities such as quantum is essential to boosting productivity and fostering a resilient, innovative economy.
+The strategy reflects the role of government in leading investment and policies that help businesses harness emerging technologies. This includes:
+- • creating the environment for businesses to harness emerging technologies
+- • creating regulations that build trust, increase confidence and support growth
+- • providing national leadership and policy coordination
+- • investing and using financial incentives where appropriate, including by adopting these technologies early.
+The government’s investments in the quantum sector must maximise the benefit to industry and minimise market distortions. Investments should:
+- • have the potential to significantly impact Australia’s quantum sector or the broader economy
+- • align with government priorities and Australia’s economic, social and national interests
+- • counter market failures, address financing impediments and support the commercialisation of the sector, including with infrastructure that will help the industry scale
+- •
+make use of contributions from other sources, such as:
+- – international industry and investors
+- – academia or research organisations
+- – quantum industry
+- – quantum technology end users
+- – state and territory governments
+- – international governments
+- – existing programs such as grant programs and specialist investment vehicles.
+43
+
+## Working together to deliver
+
+To achieve this vision, we need a truly national effort from Australia’s entire quantum ecosystem. This includes:
+- • all states and territories
+- • the education sector
+- • the technology and manufacturing industry
+- • businesses and investors
+- • the broader Australian community.
+The Australian Government and research sector have led the way. The government has been investing in quantum for (<https://www.chiefscientist.gov.au/sites/default/files/2022-09/Quantum%20Information%20Science%20and%20Technology.PDF>)over 20 years, helping build a strong foundation in quantum information, science and technology. We can build on this foundation by coordinating our efforts and investing further to grow Australia’s skilled workforce, businesses, infrastructure, partnerships and capabilities.
+The Department of Industry, Science and Resources leads the development and implementation of the strategy. We will work with partners across government, including the:
+- • Department of Education
+- • Department of Foreign Affairs and Trade, including Austrade
+- • Department of Home Affairs
+- • Department of Defence
+- • Department of Employment and Workplace Relations
+- • Treasury.
+44
+Working across our quantum community Australian Government Quantum industry In 2030, Australia is a recognised leader in the global quantum industry with quantum technologies integral to a fair, inclusive and prosperous Australia State & territory governments International industry & investors AcademiaInternational governments Broader Australian community Quantum technology end users
+46 Quantum computing and simulation can unlock new advanced materials to deliver cleaner and more efficient energy generation and storage. Credit: Getty Images
+
+# Measuring our success
+
+To ensure we deliver on the ambition of this strategy, we will regularly review the sector’s progress. Starting in 2023, we will run periodic benchmarking reviews. These reviews will track Australia’s performance using quantitative and qualitative indicators of achievement.
+Indicator of success
+What will we measure?
+Related actions
+Australia is realising the transformational impacts of quantum technologies across finance, healthcare, agriculture, environment, energy, defence, transport, resources, space and other sectors
+- • Uptake of quantum across the Australian economy (from market research)
+- • Wider industry economic benefits from applying quantum technologies
+1.1, 1.2, 1.3, 3.4, 4.2
+Australia has a strong quantum technology industry
+- • Number of companies
+- • Number of start‑ups
+- • Valuation of Australian quantum companies
+- • Investment leveraged by industry
+1.1, 1.2, 1.3, 3.1, 3.2, 3.3, 3.4, 4.1
+Australia remains a leader in quantum research and has established strong pathways to commercialise and industrialise that knowledge
+- • International rankings in research publications and impact for quantum
+- • Number of patents and trademarks of Australian quantum technologies
+- • Australian quantum research and development expenditure
+- • Licensing and sale of intellectual property by Australian quantum companies
+1.1, 1.2, 1.3, 2.1, 3.1, 3.2, 3.3, 3.4, 4.1, 4.2,
+Australia has high quantum literacy, leading businesses to identify and generate broad use cases and attracting talent into career paths at early stages.
+• Public awareness of quantum (from market research)
+1.1, 1.2, 3.1, 3.2, 3.3, 3.4, 5.1
+The quantum industry is supported by:
+- • mature talent pipelines through the secondary, VET and tertiary sectors
+- • adjacent industries
+- • overseas, where Australia is a destination of choice for talent.
+- • Number of employees in Australian quantum companies
+- • Job vacancy rate for Australian quantum companies
+- • Number of applications and visas granted for eligible skilled migration candidates
+- • STEM education enrolment and performance metrics
+3.1, 3.2, 3.3, 3.4, 5.1
+Australian quantum researchers and businesses can access the infrastructure, manufacturing and materials to advance and grow their field
+• Perceptions of barriers to growth (from market research)
+2.1, 2.2, 4.2
+Indicator of success
+What will we measure?
+Related actions
+Australia is recognised as an international leader in quantum technologies and has deep relationships with key partners, enabling the transfer of knowledge, capital and business
+- • Number of international agreements
+- • Number of international collaborative research projects
+- • Value of quantum technology
+exports
+- • Value of Australian contribution to global value chains for quantum technology
+- • Business–research collaboration
+4.2, 5.2
+Australia’s approach to quantum technologies supports national interests, is inclusive and aligns to Australian values
+• Perceptions of barriers to growth (from market research)
+4.1, 4.2, 5.1, 5.2
+We will set appropriate targets for these measurements as part of the first benchmarking review in 2023.
+The Australian Government will track progress against key economic indicators of sector growth as the sector grows towards $5.9 billion in industry revenue, $6.1 billion contributed to GDP, 19,400 direct jobs and over 35,000 jobs across the Australian economy by 2045.
+Quantum optimisation could improve logistics, helping more efficiently moving people and goods by choosing the best routes to avoid congestion, resulting in lower emissions and cost. Credit: Getty Images
+
+# Appendix: Categories of quantum technologies
+
+Quantum technologies and materials will be used across sectors and shape many areas of our economy. They can bring significant economic, productivity, social and environmental benefits.
+There are 3 main categories of quantum technologies: sensing, computers and communications.
+
+## Quantum sensing
+
+Quantum sensing allows us to detect and map objects through barriers, in unique ways and at distances with extreme precision. Applications for quantum sensors include enhanced imaging, passive navigation, precise timing and remote sensing.
+This may help us to:
+- • map and understand the brain, the heart and other organs, as well as transform the way we detect and diagnose disease
+- • detect mineral deposits deeper underground without needing to dig
+- • find leaks and other issues in underground pipes and cables
+- • navigate with greater accuracy. More accurate position, navigation and timing systems are important for emerging technologies such as self‑driving cars and military capabilities.
+
+## Quantum computers
+
+Quantum computers use quantum mechanics to perform complex calculations using less steps than an ordinary computer.
+Quantum computers work by creating a superposition of lots of different possible solutions to a problem, encoded in qubits. They then manipulate that superposition so that wrong solutions cancel out and right ones are strengthened.
+By harnessing these capabilities, quantum computers could:
+- • optimise logistics to deliver our parcels faster and more accurately
+- • improve the efficiency of our public transport networks
+- • model probabilities of extreme weather events and complex health challenges like pandemics
+- • model optimal responses to emergencies like fires and floods
+- • simulate complex molecules that could be used in advanced materials (such as the best structure and material composition for aeroplanes) and clean technologies like batteries
+- • model chemical and drug reactions, which can drastically speed up medical research for new medicines and vaccines
+- • improve earth observation from space to more precisely observe parameters for disaster resilience and climate change.
+
+## Quantum communications
+
+Quantum communications may enable faster and more secure communications networks. Applications include:
+- • transferring information between quantum computers
+- • Sharing cryptographic keys between distant people in a way that makes them impossible for anyone else to copy.
+Through quantum communications we can:
+- • drive the next generation of cyber security and secure communications
+- • create high‑speed networks, including a future quantum internet, that will deliver a host of new applications
+- • enable distributed quantum computing, increasing computing power.
+Post‑quantum cryptography (also called quantum‑resistant cryptography) is a cryptographic system that is secure against both quantum and classical computers. It can interoperate with existing communications protocols and networks.
+industry.gov.au /quantum

@@ -1,0 +1,566 @@
+Publications of the Ministry of Economic Affairs and Employment Enterprises • 2025:18
+Finland’s Quantum Technology Strategy 2025–2035
+A new engine of growth and builder for a sustainable future
+
+# FOREWORD
+
+Finland has become known for its capacity for innovation and strong expertise in technology. We have many examples from history where we have identified a new trend early and open-mindedly jumped into new development.
+Now we have another opportunity to be among the world’s leading forces in a new technological revolution: quantum technology. Quantum technology offers a promise to make the impossible possible. Quantum technology promises an unprecedented leap in computing power, telecommunication security and sensor ability to measure physical quantities.
+These technological capabilities can be used in developing solutions to many global challenges. For example, material design (e.g., new battery materials), pharmaceutical development, climate change modelling and environmental monitoring may be areas where progress will be made. Quantum technology can also strengthen Finland’s national security in several ways in both cyber security and defence.
+The preparation of Finland’s quantum technology strategy has been a great pleasure and honour for the entire working group. We have done this work because we believe that Finland should play a leading role in the development and use of quantum technology. At the same time, we want to ensure that quantum technology is developed and used responsibly and ethically. I would like to extend warm thanks to all those involved in our work for their excellent and enthusiastic work.
+Quantum technology is one of Finland’s future industries. We have every opportunity to be global leaders in this area. In a certain sense, we are at a turning point right now: we have achieved a very strong position in the early stages of development, but now we must increase our investment if we want to continue to benefit from this technology. We believe that now is the time to set ambitious targets also for the future and continue to make strong investments in the research, development, competence, commercialisation and use of quantum technology. This way, we can create new sustainable growth for Finland and the world as a whole.
+Antti Vasara, Chairman of the working group Managing director, VTT Technical Research Centre of Finland Ltd April 2025
+
+# 1 Background
+
+In the Government programme, quantum computing has been recognised as one of the key technologies, the efficient utilisation of which creates new business and supports the competitiveness of businesses. The Government is committed to securing the preconditions for the extensive utilisation and development of quantum computing. The current Government has decided to invest in the development of quantum computers and, for example, in the development of semiconductor technologies through Kvanttinova.
+To support the Government programme’s objective, the Ministry of Economic Affairs and Employment appointed a working group for the period 1 May 2024– 14 March 2025 to prepare a proposal for a quantum technology strategy. The aim is to create a significant new industry in Finland, and that Finland will succeed in international competition for investments, companies and experts and will play a significant role in international research, development and innovation (RDI) cooperation. The strategy proposal presents a vision and objectives for developing the competence, business and competitiveness of the Finnish quantum ecosystem as well as measures and guidelines for supporting the pioneering nature of the Finnish quantum ecosystem and utilising quantum technologies in the renewal of industries.
+The working group was chaired by Antti Vasara, managing director of VTT Technical Research Centre of Finland, and Maija Lönnqvist, director at the Ministry of Economic Affairs and Employment (MEAE) served as the vice char. Members of the working group: chief specialist Kaisa Kopra, MTC1; senior ministerial adviser Laura Taajamaa, MEC2; senior specialist Kalle Piirainen, MD3; chief specialist Hanna-Miina Sihvonen, MI4; senior specialist Henri Loukusa, MFA5; deputy cyber security director Stefan Lee (until 31 December 2024)/cyber security director
+Rauli Paananen (1 January–14 March 2025), Office of the State Cyber Security Director; head of quantum computing campaign Outi Keski-Äijö, Business Finland; chief science specialist Anna Kalliomäki (until 31 December 2024)/director Jussi Vauhkonen (1 January–14 March 2025), Research Council of Finland; director of the Finnish Quantum Flagship Peter Liljeroth, Aalto University; development manager Mikael Johansson, CSC – Finnish IT Centre for Science Ltd; research manager Pekka Pursula, VTT; head of external relations Elsi-Mari Borrelli, Algorithmiq Oy; government relations manager Milja Kalliosaari, IQM Oy; chief science officer Janne Lehtinen, SemiQon Technologies Oy and director Ville Peltola, Technology Industries of Finland. The secretariat of the working group was chief specialist Teija Palko, MEAE; senior adviser Martti Myllylä, MEAE; manager relations, microelectronics and quantum, Jenny Hasu, VTT, and senior academic coordinator Minna Günes of Aalto University, invited by the working group.
+The situation picture, vision, objectives and measures of the strategy have been prepared in four sub-groups: competence, enablers, ecosystem growth, geopolitics and security. Persons outside the working group have also participated in the sub-groups.
+Stakeholders’ views on the preparation of the strategy have been requested at different stages of the preparation process. The experiences and views of end users were collected at an event held on 27 September 2024. Stakeholders’ views on the preliminary visions, objectives and measures of the subgroups were requested at an event held on 31 October 2024. The draft strategy was circulated for comments between 6 February and 21 February 2024. A total of more than 30 comments were received.
+
+# 2 Foreword
+
+Quantum technologies use quantum phenomena observed in nanoscale or at extremely low temperatures and the ability to control them. Quantum technologies offer a significant leap in our ability to understand and use the concepts that underpin the universe. Quantum technologies are expected to enable major developments in areas such as data processing, measurement and communication, and thus can have significant impacts on different industries and society at large. As a result, the EU, the USA and several other countries have identified quantum technologies as critical technologies for economic security.
+Globally, significant resources are invested in quantum technologies. The majority of technologically advanced states and large global companies are developing solutions based on quantum technologies, which shows strong confidence in the potential impact of the sector in the near future. Especially in small but innovative countries such as Finland, where synergies between cutting-edge research and a strong industrial base can contribute to national development and global leadership in new cutting-edge technologies, quantum technologies and their exploitation can bring significant growth and competitiveness.
+Quantum phenomena and properties enable new capabilities in three technology areas:
+Quantum computing: Quantum computing is a field of information sciences that uses the ability to control and manage quantum mechanical phenomena. Quantum computers use different technologies, such as superconductivity, photonics, semiconductors, ion traps or neutral atoms. The development of quantum computing requires not only new technology but also a completely new software architecture. In quantum computers, information is processed using quantum bits, qubits, whose actual state is the sum of certain probabilities, not just 1 or 0. Therefore, the processing of information in quantum computers relying on different technological platforms requires a non-binary (i.e. non-classical) machine language suitable for the technology architecture in question.
+Quantum computing is expected to enable up to thousands of times higher and specialised computing power compared to today’s supercomputers, and can lead to breakthroughs in various sectors, such as logistics, the energy and chemical industry, finance and aviation. Molecular and material modelling and various optimisation problems are particularly suitable for quantum computers. In machine learning, quantum computing enhances the processing of large training materials. Quantum simulation can speed up the development of new materials and medicines by enhancing the identification of potential starting molecules. Quantum computing can help develop solutions to major societal challenges, such as health care, energy production and climate change research.
+However, the quantum advantage, i.e., the higher power of quantum computing in relation to the power of classical computing, has not yet been demonstrated in any application area. In order to realise the full potential of quantum computing as a revolutionary technology, the key challenge – scalable error correction – must be solved. Quantum computers are still in the development phase and their sensitivity to environmental disturbances causes errors in the computing, which requires effective solutions to ensure reliable operation. However, technology has made significant progress, and the first concrete quantum advantage is expected to materialise in the next few years. This is made possible by error mitigation algorithms that reduce the impact of quantum system errors with traditional high-performance computing. This hybrid approach opens the way to the first practical applications of quantum computing and provides an opportunity to solve problems that are superior to traditional calculation methods.
+The commercial applications of quantum computing will quickly follow demonstrated quantum advantage. It is expected that the first special commercial applications will emerge over the next five years in application areas where quantum advantage can first be demonstrated. Commercial applicability will expand to new applications as hardware and software technology develops. Quantum computing applications are expected to multiply with the development of a fault-tolerant quantum computer over a period of around 10 years.
+Quantum sensing and metrology: Sensors based on quantum technologies are predicted to enable accuracy orders of magnitude higher than current technologies for measuring physical quantities, such as weak magnetic and electrical fields, temperature, pressure and chemical composition. These features can be used for monitoring, imaging, navigation and identification purposes. The application areas range from traditional manufacturing industries, aerospace and defence industries, microelectronics and semiconductor industries to environmental monitoring. Known quantum measurement applications include atomic clocks, magnetometers,
+gravimeters, interferometers, thermometers, chemical sensors and various medical imaging devices. With microelectronics-based technologies, quantum sensing can be used, for example, in chip design and quality assurance of production processes.
+Quantum communication: Quantum communication uses the laws of quantum physics to enable highly secure data transfer. Quantum key distribution (QKD) enables, for example, the detection of eavesdropping attempts on a communication channel, which safeguards financial transactions, military communications and the protection of personal data. Quantum communication also lays the foundation for a worlwide quantum computer or a distributed communication network of quantum sensors, the quantum Internet. This is intertwined with quantum computing and quantum sensing – applications in these areas become even more efficient through a distributed quantum network. The quantum internet enables, for example, parallel quantum computing to solve even more extensive computational problems than individual quantum computers. Connecting quantum sensors together via the quantum internet can open up revolutionary applications for the accuracy measurements of a large, distributed quantum sensor network.
+As an investment object, quantum computing (quantum computers, algorithms, software) is the largest field worldwide. In 2023, more than 90% of the $1.4 billion start-up investments in the sector amounted to quantum computing6. The business potential is also estimated to be the greatest in quantum computing. In 2035, the quantum technology market is estimated to be $40–$90 billion, of which quantum computing will account for 70–80 per cent. Within the quantum computing value chain, most of the investments focus on hardware development and more than one fifth on software and services. As technology matures, the share of software and services will increase.
+The greatest financial benefit comes from the increase in turnover and cost savings generated by quantum computing applications. In 2035, the potential economic benefits of quantum computing in the chemical industry, life sciences, financing and logistics are estimated to be 20–30 times greater than the turnover of quantum computing.
+Quantum sensing and metrology technologies are at a more mature technological stage, and they have already been commercially used in medical imaging, GPS, as well as advanced positioning systems and defence applications.
+By investing extensively in quantum technology – including computing, sensing and telecommunication – and RDI activities that use it in fields where Finland has existing strong expertise based on basic research, we can support the renewal and success of Finnish industry and service business in international competition.
+
+# 3 Finland in a snapshot – A pioneer in the field and a desired cooperation partner
+
+## 3.1 The quantum technology sector in Finland is significant considering the size of the country
+
+In proportion to the size of the country, a strong research and innovation community for quantum science and technology has emerged in Finland. Finland is one of the few countries in the world capable of producing entire quantum computers. Our supply chains are strong. Our cryogenics industry has become a global leader. Finland plays an important role in quantum technologies based on superconductivity, photonics and semiconductors as well as in the algorithm development of quantum computing. In addition, we have an important role to play in European cooperation, and our competence has been acknowledged by international cooperation bodies. For example, we were the first in Europe to create a hybrid computing environment that combines a quantum computer and a supercomputer. Finland is a trusted cooperation partner for both European and non-European countries that share Finland’s key values and for whom quantum technology is a critical sector. The current ecosystem and status have been achieved with relatively modest investments. As the importance of the sector grows globally, both in the area of security and the economy, it is good to build on these.
+Research activities of more than 50 years have laid the foundation for strong expertise and cooperation between basic research, applied research and industry, which also results in start-ups. Finland has a strong research tradition in cold physics, superconducting technologies, semiconductor technology and photonics, and the development of quantum materials, hardware and algorithms, which are important for quantum technology7. Significant expertise also exists in chip design, micro- and nanoelectromechanical systems (MEMS/NEMS) and sensor technologies, optoelectronics, and the manufacture of advanced semiconductor materials8 .
+Figure 1. Finland’s quantum technology ecosystem. Source: VTT Technical Research Centre of Finland
+Quantum Technology Ecosystem in Finland RTOs • Applied research Universities • Education • Basic research Companies • • BusinessQ OtaNano incl. Micronova, Low Temperature Laboratory and Nanomicroscopy Center Kvanttinova Quantum computers Supercomputers Infrastructures QKD development platform NaQCI.fi FiQCI FinnLight Nanoscience Center FINNVERA Tesi Private investors Innovation fundingResearch funding • R&D&I services Products and services
+The high level of academic research is reflected in Finland’s success in EU programmes and strong participation in European quantum coordination. National competitive funding based on high scientific quality has also been significantly targeted at the sector. In 2023, the annual volume of research related to the quantum technology sector in universities and research institutes was estimated to be €52 million (excluding investments in research infrastructure), less than half of which were competitive funding (Appendix 1).
+In addition to the National Centre of Excellence of quantum technology9, the most important centres of expertise in the field include the Finnish Quantum Flagship10, photonics11 and AI12 flagships, which have operated since 2024, and which also partly support the quantum sector in research and development. The education system currently produces experts for industry and higher education institutions, for example, through degree programmes in physics, mathematics, information technology and electrical engineering. In 2022, 550 experts worked in the field at universities and VTT. Cooperation between universities and business cooperation linked to education have been activated since 2024, especially as a result of the national doctoral programme in quantum technology pilot13. In 2021, the sector already launched a national cooperation interface (InstituteQ14), which aims to strengthen the coordination and advocacy of the sector, through which the aforementioned flagship, doctoral pilot and the quantum community’s view of development measures supporting growth in the sector – the national quantum agenda15 –have been prepared.
+The government has invested in the research of quantum science and technology and the long-term development of research infrastructure since the mid-1990s, especially with the Research Council of Finland’s Centre of Excellence and infrastructure funding. Appendix 1 describes the government’s investments in the quantum technology sector. In recent years, the government has allocated significant additional funding especially for quantum computers, high-performance computing and piloting and development environments for quantum technologies. Finland’s first five-qubit quantum computer went into operation in 2022, and
+a 20-qubit machine in 2023. In March 2025, VTT launched a 50-qubit quantum computer for use by researchers and businesses. The five-qubit Helmi-quantum computer as well as VTT Q50 have been connected to the common European LUMI supercomputer operated by CSC.16 The procurement of the machines has been carried out through an innovation partnership with a Finnish company manufacturing quantum computers, IQM. A goal in the development of a 300-qubit quantum computer is to select a supplier in early 2025. Aalto University is procuring a separate 20-qubit quantum computer with public funding. These quantum computers of VTT and Aalto University operate as part of Finland’s Quantum Computing (FiQCI) infrastructure17. Finland is Europe’s leading country in the research and development of superconducting quantum computers and components in both research institutes and the business sector.
+Finland also has several other high-level shared infrastructures that provide an excellent framework for research and development activities in the sector, strengthening Finland’s position as a promoter of innovations, for example: OtaNano18, which includes Micronova cleanrooms, a cold laboratory and a nanomicroscopy centre, as well as the research infrastructures of the University of Jyväskylä’s Nanoscience Centre19 and the FinnLight infrastructure focusing on photonics20. New semiconductor pilot lines are being planned for the piloting and development centre, Kvanttinova21, with the co-financing of the EU, the state, VTT Technical Research Centre of Finland, the City of Espoo and the semiconductor industry.
+Enabling technologies, such as cryogenic measurement systems, cryocoolers, semiconductor cryoelectronics and lasers, as well as superconducting quantum computers and quantum computer equipment, currently dominate the quantum technology value chain in Finland. Three quarters of the investments have focused on hardware development. Algorithm development plays a particularly important role in the commercialisation of quantum technologies, as efficient algorithms enable the early use of equipment in applications and thus increase the value added. Demonstrating quantum advantage, which will be expected in the next few years, will transfer the value chain more strongly to the software sector. It is
+estimated that in 2030, the share of hardware investments will fall below half of all investments.22 Before demonstrating the benefits of quantum computing in applications, the field is dominated by publicly funded research and development activities.
+Finnish quantum computing software companies are pioneers in developing efficient quantum algorithms, for example in molecular modelling and simulation of physical phenomena. These companies are at the global forefront and lay the foundation for the competitive advantage of quantum computing as the hardware develops. The quantum software field is extensive and has synergies with traditional software expertise, including artificial intelligence development and high-performance computing. In algorithmic and software development, the need for capital is smaller than in hardware development, which should be recognised as an opportunity for a less capital-intensive country. Since 2023, Business Finland’s quantum computing campaign has activated researchers and companies to develop quantum computing algorithms, software and applications.
+EuroHPC’s decision to locate the next-generation supercomputer (LUMI-AI) and the AI Factory in Kajaani, at CSC’s data centre, strengthens Finland’s position in the development of hybrid computing. LUMI AI Factory will include an efficient quantum computing platform, making it the world’s leading computing infrastructure combining high-performance computing, artificial intelligence and quantum computing. European high-performance computing cooperation also procures quantum computers based on different technologies. So far, a decision has been made to purchase eight quantum computers and two quantum simulators. Half of the operating time of these quantum computers is publicly available to European researchers. CSC and VTT are involved in the EuroHPC LUMI-Q project, which procures a quantum computer to be located in the Czech Republic. Through European cooperation, Finnish users will have access to a wide range of different quantum computers.
+Quantum sensors and measurement technologies stand out in Finland as a historically strong competence area. The development areas of the near future of ultrasensitive sensors, in which Finland has special research and technological strengths, include magnetometers, microwave-frequency single-photon detectors and counters, and low temperature-instruments and radiation meters. In the longer term, significant areas of expertise also include new ultrasensitive force and gravitational meters, superconducting magnetometers for microwave and
+optical frequencies, dark matter detectors and phase transition detectors. The application areas of quantum measurement range from medical imaging to defence technologies (e.g., stealth and identification technologies) and from biosensors to quantum computing (e.g., single-photon counters).
+As shown in Table 1, the size of the Finnish quantum business ecosystem is significant in relation to the size of the country.
+Table 1. Size of the quantum technology business ecosystem in some peer countries. Sources: Crunchbase, Pitchbook, O. Ezratty, McKinsey State of Quantum Technology Report 2024.
+Country
+Companies (qty)
+Emp­loyees
+Start­up financ­ing
+1
+($M)
+Patents granted, excluding foreign companies
+Patent appli­cations, excluding foreign companies
+Patents granted and applied for, with foreign companies
+Finland
+11
+500
+240
+23
+22
+72
+Sweden
+5
+500+2
+<10
+16
+18
+48
+Denmark
+5
+400
+24
+21
+14
+35
+Germany
+32
+1,000+
+360
+145
+103
+331
+The Nether­lands
+14
+600+
+85
+45
+24
+91
+Finland is in a good position – the first users of quantum technology are in both the quantum hardware and quantum software sectors. By investing extensively in quantum technology – including computing, sensing and communication – we can create significant new business in Finland. By investing in RDI activities aimed at using quantum technology in fields where Finland has existing strong expertise, we can support the renewal and success of Finnish business life in international competition.
+
+## 3.2 In international competition, a small country has its own difficulties
+
+As the international significance of the sector increases, investments will also increase. The US National Quantum Initiative Act of 2018 launched the recent development, which others have attempted to follow from their own starting points.23 The aim is a quantum information policy (QIS) that combines the use of resources and is coordinated by the presidential administration and covers the entire federal administration. The EU has also become more active and individual Member States, led by Germany and France, are investing significantly. For a small country, creating a critical mass is not as easy as for a large one. Keeping up with development requires a national commitment and the ability to achieve “more with less”. Weaknesses should be identified and turned into strengths.
+Although investments have been made in the quantum sector for decades, targeted national quantum funding has been limited in Finland, and there have been no long-term funding programmes allocated to the sector before the quantum flagship funded by the Research Council of Finland. Research funding is significantly lower than in the peer countries Sweden and the Netherlands24 , for example, and the funding is divided into separate projects. A significant part of public funding in the field has come from freely available calls for funding applications aimed at renewing research, increasing competence and promoting young researchers’ careers. In addition to this bottom-up funding, long-term and ambitious RDI activities in quantum technology should be supported, the knowledge base arising from basic research should be expanded, the wide-ranging use of technology should be promoted and the deployment of technology in end user companies should be promoted.
+In Finland, public funding has largely focused on the resource-intensive development of hardware and the funding of infrastructures that enable RDI activities. So far, public investments in the algorithm and software development of quantum computing have been small. The scarcity and short-term nature of public and private funding slow down the growth of quantum companies and the development of innovations. Before demonstrating the benefits of quantum computing in applications, the demand for quantum computers and software will rely mainly on publicly funded research actors.
+For the growth of companies, it is critical to find sufficiently long-term investors willing to support the scaling of their business also beyond the slow development stage of the market until the demand for industrial actors starts to grow. From the perspective of industrial renewal and productivity growth, it is essential to activate industrial end users in the development of quantum applications and computing and to act as early users. Few sufficiently large companies in Finland have the resources and risk-taking capacity to invest in development whose profits are uncertain and generated over a long period of time.
+Quantum technology competence in companies and society should be raised to a higher level so that companies will be able to utilise the opportunities offered by quantum technologies as the technology matures. There is little awareness of new research, innovations and their potential. There are few specialised degree programmes, and their focus is on the need for educated workforce at universities. Content that supports the development of the sector and enhances competence is rarely available in vocational upper secondary and higher education. The number of orientation trainings targeted at companies is low. National cooperation and coordination in education and research in the field is insufficient. Software and application teaching in quantum computing is thin, and its offering is mainly focused on basic courses. The broad range of competence (physics, mathematics, chemistry, materials science, data science, artificial intelligence, software technology and computing, semiconductor technologies, system integration, etc.) and the cross-cutting nature of different levels of education are critical factors for a small nation. The availability of experts is also a bottleneck, as is the permanence of experts.
+As a small country, Finland cannot compete with state aid. The most promising companies may be sold to foreign ownership if domestic financing is not sufficient to support their growth. There is also a risk that, without sufficiently rapid demonstrations of the commercial benefits of quantum technology, interest and investment may diminish. Resources should be focused on activities that promote the achievement of quantum advantage as quickly as possible and the utilisation of commercial opportunities after this pre-development phase.
+The use of quantum technology contrary to Finland’s interests involves significant geopolitical and security risks. Strategic interest is related to the fact that efficient quantum computing can make it possible to crack widely used encryption solutions based on public key methods, which are used from Internet protocols to banking services and for communication between organisations and individuals. However, it is possible to mitigate the risk by deploying quantum-secure encryption methods (see chapter 3.3).
+Finland has lagged behind its peer countries in the productisation and commercialisation of encryption technologies. In order to catch up with its peer countries, Finland has the prerequisites to improve the availability of product certifications and the operating conditions of business life by clarifying legislation. Finland will build a national encryption technology laboratory and expand the education programme for encryption technologies and other competence development.25
+Geopolitical and security risks can currently be managed, within certain limits, by means of export control and monitoring of corporate acquisitions. The formation of geopolitical blocs will make it increasingly difficult to create international rules that are binding on everyone in the future. The fragmentation of the regulatory environment may make it more difficult for companies to operate, and a consistent approach, both within the EU and among like-minded countries, for example, in terms of export controls, is in the interest of industry actors.
+
+## 3.3 Finland must identify and utilise its opportunities
+
+The people of Finland have historically demonstrated their ability to identify and use the opportunities offered by new technologies. In the 2020s, quantum technologies offer such a promising opportunity. Although we cannot anticipate everything, it is clear that as the harnessing of quantum-level phenomena progresses, new, extensive application areas open up. The applications of quantum computing, communication and sensor technologies are already within sight, but they will hardly remain the only ones.
+Finland’s key competitive advantage is a well-functioning national ecosystem in which cooperation between higher education institutions, industry, decision-makers and funders works. There is enthusiasm for development among actors in the sector. Even scarcer resources can be used to achieve results in a goal-oriented and sufficiently coordinated manner. The guiding principle of the strategy is to build new competences on the strengths achieved while not forgetting new growth and development opportunities. A European leadership position in the manufacture of quantum computers based on superconducting technology is a good starting point for moving forward in response to technological developments. In addition to increasing and commercialising hardware expertise, the aim is to create a development environment that supports algorithm and software
+development. This will strengthen the growth of globally competitive expertise and business in Finland and aim to enable Finnish companies to use quantum computing as global pioneers.
+Resources are needed for the research and development of quantum technologies and their applications, and it is worth investing in them now. In the Research and Innovation Council’s process of identifying the strategic choices, attention should be paid to the potential of the sector. The long-term commitment of public and private financiers to growth may make it possible to build an internationally competitive quantum technology cluster in Finland. The state is committed to increasing R&D funding over the long term, which also provides an opportunity to allocate R&D funding to the long-term growth of selected areas of expertise.
+Public authorities may also carefully invest in innovation funding that supports commercialisation in a situation where market shares are being shared. By investing and enabling access to a high-quality domestic and international RDI environment, the state can make it possible for small companies to operate and start business without expensive investments. Such well-functioning ecosystems of open innovation are rare in the world. In Finland, such infrastructures include Micronova’s cleanrooms for hardware and component development and quantum computers for algorithm development.
+The global success of companies requires large investments. As the sector develops and solutions become more scalable, business success requires success in international competition for capital. Public risk finance providers can promote the availability of long-term growth funding by sharing the risk with private actors.
+The quantum technology sector has a constant shortage of the best experts. It is they who are attracted by well-functioning, open ecosystems. In addition to PhDs, there is also a need for master’s-degree graduates, university/university of applied sciences engineers, micromechanics and electronics experts, mechanical engineering professionals, technical experts, technical salespersons, account managers and business managers alike. Quantum technology knowledge and competence already at the graduation stage should be a goal.
+The channels for continuous learning and continuing education are available and usable in Finland. It is possible to bring new teaching methods and contents to lower levels of education, as subject teachers generally have a high level of competence. The structures of higher education should be examined accordingly. Finland has the opportunity to use the agility of a small country in many areas, for example by rapidly retraining experts in the quantum sector, and to make
+education an international competitive advantage. A consistent approach to research security is also an interest and prerequisite for international cooperation in academic research and building reliable value networks.
+Finland is already producing high-quality components with international demand. The functionality of a quantum computer requires qubit error correction, which can be implemented through both hardware and algorithm development. In component development, qubit manufacturing materials are a key research and development area. Finland is in a leading position in cryogenics, but maintaining the position still requires research and development. Finland can also become a key player in photonics-based solutions. Finland has good opportunities to take a significant role in quantum computing, quantum-secure communications and applications using quantum measurement technologies. NATO allies can open up a market channel for defence solutions. In the defence sector, the market is growing and is opening up to new operators offering dual-use products.
+Finland has key expertise in the software sector and thus also the opportunity to be strongly involved in different areas of development – computing applications, middleware that supports application development and operation, and support software that improves the quality of computing (e.g., error correction). Applications and support software can be highly commercialised. The success of quantum computing depends on how efficiently software can use quantum hardware and enable efficient hybrid computing that combines quantum computing, high-performance computing and artificial intelligence. Strengthening cooperation between quantum computing experts and artificial intelligence researchers can speed up the development of Finnish quantum algorithm and software companies. Access to globally top-level international computing infrastructures is essential for the growth of the sector.
+Although most of the attention is currently focused on quantum computing, Finland also has strong expertise in communication, sensing and metrology technologies. For example, Finland has a supply chain for magnetic field sensors used in medical brain imaging. It is likely that new commercial opportunities will emerge in these sectors.
+The introduction of quantum-secure encryption technologies and the protection of critical data as a pioneer in the EU countries will increase Finland’s reliability as a partner. Quantum-secure communications infrastructure enables the establishment of IT solutions that require it in Finland and the processing of sensitive data in them as well as the product development and export of hardware, software and
+service solutions. Finland’s Cyber Security Strategy 2024–203526 defines objectives and strategic development measures to respond to the security threats posed by the development of quantum computing. In November 2024, Finland, together with 17 other EU Member States, published a joint statement on its commitment to implementing quantum-secure encryption (PQC) methods combined with current encryption methods, also preparing for “harvest now, decrypt later” attacks in which encrypted information is collected awaiting the development of quantum machines capable of decrypting it. The statement recommends launching preparations immediately by analysing threats and protected sites, preparing a roadmap and planning resources for the transition.27
+The growing demand for sustainable encryption products for quantum computing is also a business opportunity, which calls for investments in research, development and innovation, as well as active participation in the standardisation in the sector. The US institute for standardisation and technology (NIST) has published the first standards for quantum-safe cryptography in 2024, and developments in this field are expected to be rapid.
+Those involved in the development of standards are best placed to succeed in commercial competition, which is why the active participation of Finnish actors in EU and international standardisation work and regulation is important. The goal should be to create maximally equal opportunities for different actors in influencing both at the EU level and more broadly among like-minded countries. It is important to promote the participation of Finnish actors in international cooperation. Small and medium-sized enterprises may not have the resources to participate in international standardisation work and proactive influencing, but with the help of a national coordinating body, they can also make their views more easily visible.
+
+# 4 Vision 2035 and objectives – Competitively growing, competent and reliable Quantum Finland
+
+According to the vision, the quantum technology sector will play an important role in Finnish business life in 2035. The sector is growing faster than the global market, and Finland is a competitive and internationally reliable operator. In several sectors, the use of quantum technologies has provided a competitive advantage and improved productivity. Figure 3 summarises the strategy’s vision, financial objectives and the most important factors for achieving the objectives (measures described in chapter 5).
+Vision goals have been calculated indicatively using following principles: Net sales grow 5% faster than estimated global market growth (25%/year). The ratio of turnover to jobs has been assumed to remain fairly the same as in 2023. The value of investments in 2023 is an average of investments in 2021–2023 and the value in 2035 is based on Tesi’s estimates. Source: Business Finland, Tesi, Finnish Quantum Agenda (2023).
+Figure 2. Finland’s quantum technology strategy briefly.
+
+## 2023
+
+### Finland’s Quantum Technology Strategy
+
+## 2035
+
+€130 M turnover in quantum sector €50 M private investments 460 jobs in industry
+
+### Vision 2035 and goals
+
+### Competitive advantages
+
+### Strong research tradition
+
+A research tradition of over 50 years in low-temperature physics, superconductivity and photonics lays a solid foundation for the development and innovation of quantum technology.
+
+### Well-functioning national ecosystem
+
+Effective cooperation between research organisations, industry and financiers enables the efficient utilisation of expertise.
+
+### Quantum technology and cryogenics
+
+Finland has a leading role in superconducting technology and cryogenics and a significant and growing role in photonics and semiconductors.
+Quantum technologies are used extensively in business life and society Competitively growing, skilled and reliable Quantum Finland The quantum software sector is thriving Hardware and component manufacturers are market leaders World-class research supports the growth of the quantum sector A reliable partner in international cooperation
+
+### Software development and algorithms
+
+Finnish quantum software companies are global pioneers.
+
+### Equipment and component manufacturing
+
+Finland produces high-quality components with international demand. Finland is one of the few countries capable of producing entire quantum computers.
+€3 B turnover in quantum sector €400 M private investments 10,000 jobs in industry
+
+### Success factors
+
+### Competitive RDI environment
+
+Quantum computer of 1,000 logical qubits
+World-class HPC+QC+AI computing environment RDI infrastructure for hardware and software development
+
+### Strengthening competence
+
+Versatile study paths for training quantum experts
+
+### Long-term quantum RDI programme
+
+Long-term funding for research on quantum technologies and the development and deployment of their applications.
+
+### Support for global business growth
+
+Risk financing for start-ups and growth-ups in the scaling phase
+Attracting high value added investments.
+
+### International cooperation and influencing
+
+Finnish actors are integrated into international markets and networks.
+
+### National coordination and cooperation
+
+Resources for coordination and monitoring the situational picture
+The target state for which the strategy aims by 2035 is described in more detail below:
+Finland has a growing and globally competitive quantum industry
+❺
+- Companies selling quantum computers, sensors and communication devices and their components are a critical part of the global value chain and market leaders in their own business sectors.
+❺
+- Finland has the world’s leading quantum software sector, which supports the creation of solutions in companies that use quantum computing.
+Quantum technologies are used extensively and effectively in business life and society
+❺
+- The development of software and utilisation expertise in quantum computing has begun at an early stage before the launch of error-corrected quantum computers. As a result, quantum advantage in selected applications have already been achieved early, and industrial and service business utilising quantum technology has rapidly emerged in Finland, which is significant for the national economy. Companies in different fields operating in Finland use quantum technology as global pioneers in their business. This has created completely new solutions that improve productivity and create competitiveness.
+❺
+- The possibilities of quantum technologies are extensively used to safeguard national security and preparedness and to strengthen the defence industry base. Access to quantum infrastructure and computing strengthens the effectiveness of different sectors, such as enabling the timeliness and reliability of critical security and situational awareness services, for example in extreme weather situations.
+World-class research supports the growth of the quantum sector
+❺
+- High-quality basic research provides a basis for world-leading research in quantum science and technology. Multidisciplinary cooperation projects and researcher training are commonplace.
+❺
+- Finnish quantum competence is internationally recognised, valued and strongly visible in business life and society as a whole.
+Finland is a reliable partner in international cooperation
+❺
+- Finland and the Finnish quantum sector ecosystem are reliable partners in international quantum technology cooperation of their choice and actively determine responsible development in the sector.
+❺
+- The location of quantum technology activities in Finland is attractive due to a predictable and safe operating environment. To ensure research security, Finland has effective cooperation between different administrative branches and actors.
+Strong competence in quantum technologies
+❺
+- Formal training, retraining and continuing education in the quantum sector form a coherent and comprehensive entity in which learning progresses logically between different levels of education. Companies participate in increasing the pool of quantum experts in cooperation with higher education institutions and research institutes.
+❺
+- Finland attracts international talent thanks to a world-class quantum ecosystem.
+Internationally attractive RDI environment
+❺
+- Finland is known for its quantum field expertise, infrastructure and well-functioning funding environment as the best RDI environment for new quantum technology companies. Several international companies have been established in Finland, and the government is strongly committed to supporting the creation and growth of quantum technology companies.
+❺
+- As a result of Finnish quantum computer development, Finland has one of the world’s leading quantum computers with a thousand logical qubits (about 50,000–1,000,000 physical qubits).
+❺
+- The Finnish hardware and software infrastructure for quantum computing, linked to the infrastructure for high-performance computing and artificial intelligence computing, is the absolute cutting edge in the world. In addition, Finland has a contractual cooperation network with the infrastructure and quantum computing service providers of selected partner countries, for which Finland offers the most advanced solutions in Europe, for example for superconducting and silicon-based quantum computers.
+❺
+- Several key European infrastructures for device and system development have been located in Finland, such as measurement technology services, production lines for pilot production of quantum chips and high value added production units for microelectronics technologies that support quantum technologies.
+❺
+- The long-term funding model ensures that RDI environments are up-to-date and competitive.
+❺
+- The placement of domestic quantum computing infrastructure and software solutions in environments that take security threats into account and ensuring the reliability of operators during the development and system life cycles provide Finnish solutions with a competitive advantage.
+EU and international influence
+❺
+- A consistent approach developed among like-minded countries to manage risks related to technology security and technology leakage, including export control, is in the interest of industry actors. Finland participates in the debate on quantum technology in key international forums and, protecting its national interests, has influenced EU and international level decisions in an effective and determined manner.
+❺
+- Finnish actors actively participate in the formation of EU and international standards in quantum technology to create as wide a market as possible for Finnish products. The work of Finnish actors is guided by the national standardisation strategy, in which quantum technology has been identified as a key technology area.
+Risk management
+❺
+- As a pioneering country, Finland has moved on to quantum-secure encryption solutions and is prepared for the security challenges posed by quantum technologies in different sectors of society. The infrastructure essential for the critical functions of society has been protected and made quantum-safe.
+❺
+- Thanks to credible risk management and cooperation, Finland is seen as a reliable partner in RDI cooperation. Different economic security methods are used appropriately in risk management. Quantum technology export controls have been carried out as similarly as possible among EU and like-minded countries. Strong national measures have been taken to improve the research security.
+❺
+- In the national security strategy, quantum technology is identified as a transition technology that both improves national security and threatens it.
+❺
+- At the national level, different authorities have shared a situation picture of the risks and opportunities of technology in order to promote effective and enabling quantum technology policy in a determined manner. There is a continuous dialogue between public and private sector actors, which can be used to share information and better prepare for changes in the geopolitical situation.
+
+# 5 Proposed measures to achieve the 2025–2030 targets
+
+The implementation of the vision described above requires cooperation between research and education organisations, companies, industry, advocacy organisations, funders and legislators. Public measures should encourage ambitious RDI activities and the introduction of new technologies.
+The ultimate goal of the strategy is the commercial and scientific success of the Finnish quantum technology ecosystem and, consequently, a broad societal impact. The market is global and the goal must be global competitiveness. Ultimately, companies in the sector are responsible for success. During the period considered, the market situation will develop and new emerging markets will be shared. Only a globally competitive operator will succeed. In this pre-commercial phase, public sector activities play a greater role than usual in enabling the development, deployment and application of technologies.
+The aim is broad-based competence development. Access to labour is a key challenge for the sector. Governments and companies are competing internationally for the best experts, of which there is always a shortage in the case of new critical technologies.
+Here are eight sets of measures that we propose to launch in 2025 and 2026. We propose milestones for the measures to be monitored in the coming years so that we can see that we are on the right track to achieve the 2035 vision. In the coming years, other measures will be needed in addition to those proposed, but these must be decided later on the basis of the results achieved and an understanding of the changed market situation.
+Some of the measures require additional resources compared to the current resources of administrative branches and the central government spending limits. Any additional funding needs will be decided as part of the procedures concerning the general government fiscal plan and the budget.
+
+## 5.1 Quantum Competence Centre
+
+Launch a networked Quantum Competence Centre to enable the national coordination of activities related to the learning of quantum technology, i.e., maximally efficient and harmonised coordination of teaching and training produced by different actors, joint planning and development, as well as guidance and advice, communication, monitoring and communication. The different stages and levels of study paths are taken into account in the coordination: basic education, upper secondary education, vocational education and training, and higher education institutions. The goal of versatile and pedagogically consistent study paths is to produce enough experts for the quantum sector. In addition, the centre will support the development of continuing education modules for teachers, public actors and companies at different levels of education at the national level. The Quantum Competence Centre will promote international quantum training/ exchange programmes and the broadening of quantum competence in society.
+Table 2. Quantum Competence Centre
+Measure
+2027 milestone
+2030 milestone
+Strengthening quantum technology competence in basic, degree and postgraduate education in different competence areas (physics, mathematics, chemical engineering, materials sciences, ICT, semiconductor technology, electronics, micromechanics and nanomechanics, process technology, etc.) and in teacher education.
+Responsible parties: higher education institutions
+Other actors: InstituteQ (coordinator)
+Quantum technology and supporting training offering by higher education institutions, producing added value, is visible and the study paths have been defined. Graduates from higher education institutions make use of the teaching offered by different universities.
+New contents have been launched in universities of applied sciences. The work to define competence needs has begun in cooperation with vocational institutions.
+The STEM contents of teacher education and vocational teacher education offer up­to­date and updating pedagogical material for quantum technology teaching.
+Course modules in higher education institutes can be used to form uniform qualifications focusing on quantum technology competence.
+The teaching of quantum technology has expanded to all key Finnish universities of applied sciences, and it is also included as a topic in the qualification requirements of several vocational qualifications.
+Measure
+2027 milestone
+2030 milestone
+A 5-year master-doctoral path leading to either a two­year master’s degree or a five­year doctoral dissertation.
+Responsible parties: higher education institutions
+The master­doctoral path has been launched and at least 100 students study on it. The programme benefits from the practices formed in the doctoral education pilot.
+The first doctoral graduates (at least 30% of the admission) will graduate from the master­doctoral path. The programme has an annual application process with a total of 120 starting places at universities.
+Continuing education modules, including an open university, as part of study paths for retraining the national and international workforce in the quantum sector.
+Broadening quantum competence in society
+through measures aimed at raising the general level of competence.
+Responsible parties: higher education institutions, InstituteQ
+Continuing education focusing on quantum technology is under way. Several continuing education modules for companies and STEM teachers are available through higher education institutions (e.g., FiTech network university) and commercial actors.
+Contents and materials that support the general competence of the quantum sector are available in the national languages, and they are produced systematically as part of the development of education in the field.
+In­service training for companies and public actors in the quantum sector is available on a continuous basis, and it is used annually by at least 350 companies or public actors. The education has enabled the training of 3,500 experts, and 80% of them have found employment in the quantum sector. Companies actively anticipate their competence needs and cooperate with higher education institutions.
+Quantum competence is part of STEM education at all levels of education.
+International researcher exchange, cooperation and traineeship programmes
+to attract international experts to the quantum sector in Finland. Increase visibility, making efficient use of existing means and channels. Strengthen the common marketing of the ecosystem.
+Responsible parties: higher education institutions
+The quantum technology mobility programme model has been created in cooperation with higher education institutions and companies, however taking into account the marginal conditions set by geopolitics.
+Pilot and expert brokering are marketed internationally.
+An international mobility programme and talent exchange operate efficiently, and at least 1,200 international talents have thus found employment in the field in Finland and 200 abroad.
+
+## 5.2 World-class computing infrastructure enables efficient use of quantum computing and software development
+
+Ensure access for companies, researchers and students to world-leading quantum machines based on different technologies and enable the development of hybrid computing that combines high-performance computing (HPC), artificial intelligence (AI) and quantum computing (QC). Competitive research and development infrastructure is not only necessary for the development of the sector, but also a competitive advantage. Reasonable computing time for the most efficient quantum computers attracts the best experts and software development companies in the field to Finland.
+Finland commits to developing a 1,000 error-corrected logical-qubit (approximately 50,000–1,000,000 physical qubits according to technology) computer in the technology roadmap by 2035. Making full use of the investments made in hardware development also requires support for the use of the equipment. The national quantum computing infrastructure will be promoted by means of a funding model that encourages its deployment, taking into account both further development and production use. International cooperation and possible procurement ensure access to quantum computers based on technologies that have not been placed in Finland. This supports the growth of both quantum computers and algorithm and software business in the value chain and ensures and supports the availability of the best quantum computers for companies operating in Finland.
+Achieving a quantum computer of 1,000 error-corrected qubits will be possible due to the significant development of qubit manufacturing processes and error mitigation and correction algorithms. This requires investments in the research and development of both hardware and software. This kind of computing infrastructure places Finland at the forefront of quantum computing development and enables solutions beyond the reach of classical computing alone. This enables computational modelling with unprecedented accuracy and reliability in fields such as new pharmaceuticals, chemical processes, and materials, e.g., solar cells and batteries.
+To maintain a competitive computing infrastructure, we need an operating model that enables Finnish software researchers and companies to participate cost-effectively in the continuous development of the HPC+AI+QC software stack within the framework of the national quantum computing infrastructure. The aim is to create the world’s best development environment for both commercial and open source implementations, support software and applications that utilise quantum computing. Commercial software must also be continuously invested in.
+Table 3. Computing infrastructure
+Measure
+2027 milestone
+2030 milestone
+Finland commits to continuing its investments towards a quantum computer of 1,000 logical error-corrected qubits and its support software.
+Responsible parties: Ministry of Economic Affairs and Employment
+Other actors: VTT, Aalto University, CSC, FiQCI
+Effective error mitigation algorithms demonstrate the potential for quantum advantage in the first application areas.
+A quantum computer of approximately 300­400 physical qubits (2­qubit operation errors less than 0.03%) is operational.
+Effective error­correcting and error mitigation algorithms allow quantum advantage to be demonstrated across multiple application areas.
+The world’s leading software packages enable the efficient use of quantum computers in a wide range of application areas.
+A quantum computer of dozens of logical, or thousands of physical, error­corrected qubits, is operational.
+Measure
+2027 milestone
+2030 milestone
+Set up the world’s most attractive
+HPC+AI+QC
+hybrid computing and modelling environment, which is easy to use and affordable for higher education institutions, research institutes and companies and enables confidential use of company data.
+Specify a continuous process for developing an up-to-date hybrid computing environment and purchasing software and allocate the resources necessary.
+The software stack is continuously developed by Finnish quantum software researchers and companies.
+Responsible actors:
+MEAE, CSC, VTT, MEC,
+FiQCI
+A mechanism is in place to allocate quantum machine time, and a funding model that supports this, to higher education institutions, research institutes and companies. There is a centralised solution for sharing large resources.
+In a high­performance hybrid computing environment for artificial intelligence, high­performance computing and quantum computing, quantum computers based on different technology solutions as well as world­leading software that supports the whole are connected to the Finnish high­performance computing infrastructure. Procurements done to update the required world­class software for the available quantum machines.
+Finland has a global top 5 HPC+AI+QC infrastructure in terms of computing power that supports industrial renewal and global competitiveness and attracts investments to Finland.
+Finnish quantum ecosystem actors have cost­effective access to all significant quantum computers based on different technologies connected to the national AI and HPC infrastructure.
+Finnish actors actively use quotas for the use of international quantum computing infrastructures, such as EuroHPC quantum machines.
+The computing and modelling environment has enabled the creation and commercialisation of new Finnish algorithm and software solutions extensively in the entire quantum computing software portfolio.
+The hybrid computing environment has 300 annual business users.
+An incentive and support package for deployment that guides new actors to use quantum computing.
+Responsible actors:
+MEAE, MF, VTT, CSC,
+Business Finland, FiQCI
+Determined the suitability of the R&D tax deductions in use and under preparation as an incentive for the introduction of quantum and high­performance computing.
+An extensive user support programme is in place that lowers the threshold for the deployment of quantum computing and guides the efficient use of technology.
+The impact of the measures has been assessed and any need for change has been taken into account and implemented.
+
+## 5.3 Competitive infrastructure to support the development of quantum hardware and components
+
+Provide long-term funding for shared research and technology infrastructures that enable research on, development of, piloting of, testing of, characterisation of and manufacturing of key quantum technologies (including quantum encryption and communication) components and quantum sensors. Through cooperation, secure a clear framework for intellectual property rights, which will support the extensive use and commercialisation of the developed technologies. The possibility for companies to use the infrastructure in the RDI and pilot production phases supports the growth of new start-ups without huge investments in their own infrastructure. Infrastructure is a factor that attracts new quantum technology companies to Finland.
+Finland’s commitment to developing a quantum computer of 1,000 logical qubits supports the development of the Finnish quantum hardware and component industry. The aim is to develop and manufacture a significant part of a 1,000-logical-qubit quantum computer in Finland.
+Table 4. Infrastructure supporting the RDI activities of quantum hardware and components
+Measure
+2027 milestone
+2030 milestone
+Updating the shared RDI infrastructure for quantum devices and strengthening international competitiveness,
+using, for example, national research infrastructure funding and EURA­MET, the EU Chips Act and Quantum Act funding.
+Responsible actors: MEAE, VTT, higher education institutions
+The long­term plan for maintaining and developing the current infrastructure28 has been confirmed in cooperation with universities and research institutes.
+The superconducting and silicon­based chip pilot lines using the EU Chips Act will start operating in Finland.
+Established national characterisation and a testing platform or network for easy access to shared infrastructure. The platform is linked to key European measurement and testing networks (e.g., EURA­MET).
+Infrastructures are up to date thanks to long­term funding.
+The utilisation rate of national infrastructures has increased by 20% from the situation and > 30% of growth in 2024 from companies.
+Companies have grown so that infrastructures also receive significant business funding in addition to public funding.
+Measure
+2027 milestone
+2030 milestone
+An incentive and support package for deployment that encourages new companies to develop quantum devices
+Responsible actors: MEAE, Business Finland
+The use of infrastructures is supported by support for R&D
+Access to infrastructures has enabled ambitious product development, such as QPU technology and new quantum devices, and has created new companies
+
+## 5.4 Deploying quantum-secure encryption methods
+
+Ensure that the infrastructure, data connections and data resources essential for the critical functions of society are protected and made sustainable by means of the deployment of post-quantum cryptography (PQC) methods and, where applicable, solutions based on quantum key distribution (QKD) technologies, that the infrastructure – telecommunications connections and data resources – essential to society’s critical functions have been protected and made resistant to the threat posed by quantum computing, both on the public and private sectors. Quantum-secure telecommunications infrastructure enables the establishment of IT solutions that require it in Finland and the processing of sensitive data in them as well as the product development and export of hardware, software and service solutions.
+Finland actively participates in the preparation of international standards and implements the standards quickly as part of national guidelines and regulations, such as cryptographic strength requirements for classified information. Test laboratories, the development of testing methods and a sufficient number of testers support the construction of the testing infrastructure so that the authorities have the opportunity to ensure the quantum resilience of the encryption products used for encrypting the data to be protected. As a country of reliable telecommunications infrastructure and through the development of encryption technologies and secure quantum communication, Finland can certify and commercialise its solutions, and Finnish companies are successful in the encryption product market.
+At the same time with the development of quantum technology in Finland, encryption technology capabilities must also be strengthened more extensively than in cyber security companies only, in different industries and in other
+organisations using encryption solutions. In addition to Finland’s strategic objective of being self-sufficient and prepared for a quantum threat in the early 2030s, strengthening trade and exports in the sector will also play a key role.
+This requires the further development of domestic quantum-proof encryption and authentication solutions and the strengthening of encryption technology competence in the areas of production, research, computing, reverse engineering and organisation. In order to enable economically viable and competitive operations, national regulation will be developed, authority-led evaluations will be speeded up, a national encryption technology laboratory will be established, including the necessary assessment and approval authority and security authority capabilities.
+Table 5. Deploying quantum­secure encryption methods
+Measure
+2027 milestone
+2030 milestone
+Deploying quantum secure encryption and digital signature (PQC) solutions
+Responsible actors: MTC,
+MF, MD, MEAE,
+Traficom, Valtori,
+DF, NESA
+Other actors: inventory and risk management measures by administrative branch, higher education institutions
+The protection of critical infrastructures, such as data resources and public and commercial data connections, and making quantum computing sustainable have been launched.
+Organisations critical to the functioning of society have identified the most sensitive information and information systems critical to quantum security and updated risk management plans for quantum threats. Based on the inventory, a Finnish road map for the use of quantum­secure encryption has been drawn up.
+Instructions for organisations and a situation picture of encryption products found to be quantum secure are actively maintained by the National Cyber Security Centre.
+Incentive and/or support options to support the quantum security transition in the private sector have been explored.
+Finland’s critical data resources and telecommunications connections are protected to make them quantum­computing proof.
+The quantum infrastructure built in Finland is used to ensure security, for example, in testing or reverse engineering encryption solutions in accordance with the needs of both the authorities and critical actors in society.
+Finland’s ability to assess encryption products has been built in accordance with the cyber security strategy. In addition to the authorities responsible for cyber security, competence in the assessment of encryption products has been expanded to assessment bodies and information security companies so that the private sector communications infrastructure also meets the requirements.
+Measure
+2027 milestone
+2030 milestone
+Research and development of products and services based on quantum key distribution
+(QKD)
+Responsible parties: MEAE,
+MTC
+Other actors: VTT, Traficom, CSC
+The part applicable to the authorities’ networks
+Responsible actors: MD, MI,
+MF
+Other actors: Erillisverkot
+The quantum industry RDI programme supports (see measure 5.5) research on QKD solutions and strengthens high­quality research in the field in Finland.
+The national development and experimentation environment of the EuroQCI programme enables the development of new­generation QKD products and services for quantum­safe communication and contributes to supporting the transition to quantum­safe telecommunications.
+Finnish researchers and companies actively participate in international cooperation on the quantum internet, such as the Quantum Internet Alliance (QIA).
+Training on QKD opportunities and importance has begun.
+Data connections using quantum key distribution have been introduced in limited use cases. In addition to these, research related to QKD solutions and cooperation with international actors as well as the promotion of standardisation that ensures safety will be continued.
+Finland has created an ecosystem combining quantum technologies and ICT expertise and international business in the field of secure quantum communication through the development and innovation work of quantum key distribution.
+The QKD infrastructure protected against the threat of quantum computing supports the development of the quantum internet.
+
+## 5.5 Long-term quantum RDI programme
+
+Prepare a broad-based RDI programme for quantum technology or a long-term proactive package of measures to allocate funding to the development of quantum technologies and their applications on a world-class scale in Finland in a predictable and long-term manner.
+Through its measures, Business Finland encourages research organisations and companies to engage in long-term RDI cooperation nationally and internationally, as well as companies to engage in long-term RDI activities and grow international business that utilises its results. The RDI funding of the programme also strengthens the scientific competence base of the quantum technology sector and supports participation in EU and international projects.
+Based on a peer review, the Research Council of Finland allocates research funding to high-quality scientific research, thus supporting the strengthening of the competence base and the development of research environments that are internationally attractive. In particular, the Academy’s competitive funding creates preconditions for broadening and strengthening the research pilots in quantum science and technology.
+Business Finland and the Research Council of Finland work together to promote the use of expertise and results obtained from projects and on-going flagships in companies and society, with the aim of strengthening the extensive economic, social and societal impact stemming from research in a sustainable manner.
+The RDI programme networks and encourages technology developers and researchers to collaborate with end users. The quantum technologies RDI programme serves as a strong signal to international actors to invest in their research and development activities in Finland. Foreign companies are encouraged to conduct research and manufacture high added value in Finland with Invest-in services, skilled workforce and well-functioning research and development infrastructure. Business Finland, the Ministry of Economic Affairs and Employment and the Ministry for Foreign Affairs promote exports through their services, strengthen the recognition of Finnish expertise and Finland as a competent and reliable partner.
+Table 6. Long­term quantum RDI programme
+Measure
+2027 milestone
+2030 milestone
+An RDI programme that enables the development of a scientific competence base, extensive application of quantum technology and increasing the maturity of technology, including the dimension of international cooperation.
+Responsible actors: MEAE, Business Finland
+A long­term RDI programme for quantum technology is under way. Its long­term funding mechanism enables multi­annual funding for several major projects in key application sectors that take research towards significant commercial applications.
+Many applications have been successfully commercialised to industrial markets.
+Business Finland funding for joint research between research organisations and companies, which supports the long­term growth of the quantum sector ecosystem.
+Applying funding criteria to the development needs of technology with a long development cycle, also in sectors where there are still few companies developing applications.
+Responsible actors: MEAE, Business Finland
+At least 5 new public– private co­financed projects are about to start.
+The ecosystem related to business cooperation has expanded to new verticals and creates new applications.
+Finnish quantum companies offer pioneering solutions in the international market.
+Cooperation between Business Finland and the Research Council of Finland in promoting the utilisation of expertise and research results.
+Responsible actors: Business Finland, Research Council of Finland
+The Finnish Quantum Flagship funded by the Research Council of Finland and Business Finland’s proactive measures targeting quantum technology have launched joint measures.
+Cooperation has been established, and the first results have been obtained on the effectiveness of cooperation.
+Actions to increase the number of end-user companies. The quantum ecosystem, together with Business Finland and the InstituteQ, creates a framework for increasing quantum awareness for end­user companies.
+Responsible actors: MEAE, Business Finland
+15 end­user companies have invested in the research and deployment of quantum technology.
+50 end­user companies have invested in the research and deployment of quantum technology.
+Private investments in the R&D of quantum technologies are at least twice as high as in public funding.
+Invest-in activities that support growth
+Responsible actors: MEAE, Business Finland
+Thanks to the invest­in measures, 5 new international actors have established themselves in Finland, have invested a total of €20 million and created 60 new jobs.
+Thanks to the invest­in measures, 15 new international actors have established themselves in Finland, have invested a total of €100 million and created 300 new jobs.
+Of the investments, 3 are investments by a significant international company.
+The Ministry for Foreign Affairs promotes the export of Finland’s quantum ecosystem and raises awareness of expertise in the field in a goal­oriented and targeted manner in cooperation with Business Finland’s RDI programme and other Team Finland actors.
+Responsible actors: MFA, MEAE, Business Finland, Team Finland network.
+The Finnish quantum ecosystem is known globally – in the Nordic countries, the EU and all key partner countries outside the EU.
+Exports by Finnish quantum companies have increased significantly to focus countries.
+
+## 5.6 Financing and support for global business growth
+
+Success in global competition requires success in international financing. Competitively sought-after capital ends up where there are the highest expected returns. In quantum technology, companies aiming at global markets need longterm risk financing to support growth. In the global market, it must also be ensured that companies have sufficient expertise and means to protect and utilise their intellectual property rights.
+The aim of the state-owned venture capital company Tesi is to create new growth sectors in Finland in the future, one of the most significant of which is quantum technology. In the future, Tesi will have the opportunity to invest even larger amounts in the most promising internationally competitive industrial and high-tech companies, either directly or indirectly through funds. The aim is to enable the development of capital-intensive deep technology companies and the further growth of the scaling phase in domestic anchor ownership. Tesi acts as a minority investor and it also aims to channel private and EU funding to Finnish companies and develop the Finnish fund field to a larger size so that Finnish management companies can scale deep technology companies to a larger scale in the future.
+Finnvera finances the business and technology of quantum technology companies starting from investments and pilot deliveries, sharing the risk with market-based providers of financing. Finnvera has the capacity to promote the realisation of financing solutions by guaranteeing up to 80% of the financing of commercial debt providers and, if necessary, also through direct loans if risk sharing is realised in some other way, unless the required total financing for viable companies is otherwise not arranged.
+Investment grants or tax reliefs encourage domestic and foreign companies to make high-value added industrial investments.
+Table 7. Financing and support for global business growth
+Measure
+2027 milestone
+2030 milestone
+Tesi funding for the start and scaling phase of quantum technology
+Responsible actors: MEAE, Tesi
+€400 million of collected private funding (cumulatively) for quantum start­ups and growth­ups operating in Finland
+€1.6 billion of collected private funding (cumulatively) for quantum start­ups and growth­ups operating in Finland
+Cumulatively 50 new start­ups in the sector will be created.
+Attracting business investments to high value added industrial investments, for example through tax relief.
+Responsible parties: MEAE
+The suitability of alternative investment incentives for the acquisition of quantum technology hardware and facilities has been examined.
+The investment incentive is in use and its effectiveness has been assessed on the basis of initial experiences.
+
+## 5.7 International cooperation and EU and international influence
+
+Influencing EU-level and international regulation related to quantum technology, standardisation and the operating conditions of the sector in a way that supports the growth and development of the Finnish quantum ecosystem. The aim of the influence is for Finnish actors to integrate into international markets and develop mutually beneficial cooperation relationships between actors in like-minded countries. The Team Finland Knowledge network, Finnish embassies around the world and close cooperation with the business sector can be utilised in exerting influence. Efforts will be made to make full use of the funding opportunities of EU programmes.
+Due to limited resources, cooperation will be intensified especially with like-minded countries who share Finland’s key values and interests. In addition to the EU Member States and the Nordic countries, cooperation within quantum technology also promotes bilateral partnerships with the United States, Canada, Japan, South Korea, Australia and the United Kingdom in general. As a rule, the competitiveness of Finnish quantum technology actors will be strengthened and maintained in all partnerships.
+Table 8. International cooperation and EU and international influence.
+Measure
+2027 milestone
+2030 milestone
+Finland actively participates in EU and international cooperation that shapes the quantum sector, such as export control, research security, standardisation, supply chain security and RDI funding, highlighting Finland’s capabilities and shaping cooperation based on national interests.
+The coordination of national and EU objectives and actions will be promoted with determination.
+Coordination is long­term, ensuring that there is sufficient national match funding for EU actions
+Responsible actors:
+MEAE, MFA, MEC,
+MTC, Business Finland, Research Council of Finland, Traficom
+The amount of EU funding directed to Finland in terms of quantum technology has increased significantly compared to the previous program period.
+Funding for quantum chip lines supporting the implementation of the EU Quantum Chips Plan will be successfully brought home. Finnish actors play a strong role in the implementation of the Quantum Plan.
+In connection with the export control advisory board, the public­private dialogue has been deepened in matters related to export control.
+Research security is comprehensively taken into account in RDI funding.
+With regard to the manufacture of components and supply chains required for quantum technology, it can be ensured that they have been produced in continents and companies where national security can be taken into account.
+EU programmes support the development of quantum technology in a manner that benefits Finland.
+Export control at the EU level has a uniform approach to quantum technology.
+The perspective of research security is taken into account and implemented across administrative boundaries and in RDI activities.
+Finnish actors are represented in the European quantum technology supply chain.
+Finnish quantum technology can meet the needs of the market as production volume increases.
+Finland selects its partners, taking into account research, commercial and foreign and security policy interests.
+Responsible party MEAE,
+MFA, MEC
+National match funding will be allocated to selected EU and international cooperation.
+Research and commercial cooperation with selected partner countries has deepened significantly.
+Measure
+2027 milestone
+2030 milestone
+Finland actively influences the development of international standards. The national body coordinating standardisation work in the quantum technology sector also supports SMEs’ opportunities to participate in international standardisation work.
+Responsible actors: MEAE, MTC, VTT, Traficom, standardisation organisations, companies
+The national standardisation strategy takes quantum technology and other early­stage technologies and their special features into account.
+Finland participates actively in the development of standardisation related to quantum technology as part of cooperation groups of official organisations and by supporting open standardisation work.
+Finland has played a key role in the formation of standards in the sector.
+
+## 5.8 National coordination, foresight, monitoring and advocacy
+
+Organise and resource national coordination, monitoring and advocacy as networked activities. Through coordination, implement a national centre of excellence, establish a common situation picture of the sector, promote joint messages and objectives systematically, and efficiently implement key events in the sector. Coordination also enables effective access to national and international expert and cooperation networks in the academic, administrative and business sectors. Coordination resources are allocated directly to the budgets of public actors.
+Table 9. National coordination
+Measure
+2027 milestone
+2030 milestone
+Extension and resourcing of the National Quantum Institute to all universities and research institutes operating in the field.
+Responsible actors: MEAE, InstituteQ, higher education institutions
+The activities have expanded to cover 75% of national universities and research institutes carrying out research and teaching in the field.
+Advocacy and enabling activities cover a wide range of research, education, infrastructures and the innovation ecosystem as well as the implementation of international cooperation, especially within the framework of the European quantum declaration.
+The activities covers all national universities and research institutes carrying out research and teaching in the field.
+Monitoring of industry actors, technological development and funding nationally and internationally
+Foresight of technological and market developments
+Responsible party MEAE,
+MEC, MFA
+Other actors: Business Finland, VTT, Research Council of Finland, CSC, InstituteQ
+A jointly approved process and metrics are in place for monitoring and reporting the national quantum ecosystem (research organisations, companies), labour force, education and investments, through which key operations in the sector are systematically monitored.
+The monitoring of public funding in the international quantum sector is ongoing and information is actively shared with actors in the national ecosystem.
+Based on the focus areas of research, technology foresight and the needs assessment of companies, a national foresight model (“quantum weather”) has been created that utilises foresight and monitoring data and is used in targeting the measures of the strategy.
+National quantum coordination produces an up­to­date situation picture to support actors in the sector and public decision­making.
+The national quantum industry review produces targeted and up­to­date data on competition and customer segments for companies at least twice a year.
+Measure
+2027 milestone
+2030 milestone
+Maintaining a common situation picture of the public administration on geopolitical and security aspects of quantum technology.
+Responsible actors: MEAE,
+MFA, MD, MI, MTC, MEC
+Other actors: Business Finland, Research Council of Finland, VTT, Traficom
+There is a network in which information is shared both within public administration and in dialogue between the public and private sectors.
+Finnish actors can prepare for changes in the geopolitical situation and there are channels through which support for the organisation of operations and decision­making is available.
+Promotion campaigns in the sector, marketing of expertise and opportunities nationally and internationally.
+Responsible parties: InstituteQ
+Other actors: MEC, Business Finland, Technology Industries of Finland, Team Finland network
+Each year, one national (Finnish/ Swedish) and one international awareness campaign targeted at companies, another at young adults and students, the third for UAS and general upper secondary school teachers.
+Visibility and participation in campaigns of other critical technologies, for example by utilising forums of Technology Industries of Finland.
+Finland is an attractive country for quantum experts. Recognition campaigns have increased the number of participants in international cooperation programmes. New companies have settled/ emerged in Finland.
+
+# Appendices
+
+## Annex 1. Public investments in the quantum technology sector in Finland
+
+It is not altogether straightforward to prepare a comprehensive assessment of public investments in the quantum technology sector, and thus the amount must be assessed. Some key public sector investments are described below.
+In 2023, the annual volume of research related to the quantum technology sector in universities and research institutes was estimated to be €52 million (the figure does not include investments in infrastructure). Slightly over 20% of this amounted to competitive research funding from the Research Council of Finland, 17% to competitive EU funding, and 8% to RDI funding granted by Business Finland.
+Figure 3. Volume of quantum research in Finland in 2022 and 2023
+0,0 5,0 10,0 15,0 20,0 25,0 2022 2023 AaltoUniversity VTT UniversityofJyväskylä UniversityofHelsinki UniversityofTampere UniversityofOulu Universityof EasternFinland CSC UniversityofTurku M€
+During 2020–2024, the Research Council of Finland has granted a total of approximately €56 million to research and research environments on quantum topics. Business Finland has funded quantum RDI activities by a total of €28 million in 2020–2024. Of this, €11.2 million has been allocated to the R&D activities of quantum computing algorithms, software and applications through a quantum computing campaign in 2023–2024. In recent years, the state has allocated significant additional resources to quantum computers in particular:
+- − €20.7 million for 2020–2024 for VTT to procure and develop a 50-qubit quantum computer (intermediate targets 5- and 20-qubit machines)
+- − €70 million for 2024–2027 for VTT to scale quantum computers to 300 qubits
+- − €3 million for 2022–2025 for Aalto University to purchase a 20-qubit quantum computer.
+- − €17.5 million for 2025-2032 for a quantum computing environment in connection with the Lumi AI Factory, operated by CSC (total cost €40 million)
+The government has allocated €79 million to the Kvanttinova pilot and development centre for the procurement and deployment of shared devices for the period 2024–2027, and funding for this has also been granted under the EU Chips Act.

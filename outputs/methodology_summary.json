@@ -1,0 +1,122 @@
+{
+  "title": "Methodology Summary",
+  "generated_utc": "2026-04-06T16:33:05.071431+00:00",
+  "inputs": {
+    "step1_ner": "/workspace/emerging-tech-policy-nlp/data/processed/step1/entities_ner.jsonl",
+    "step2_labels": "/workspace/emerging-tech-policy-nlp/data/processed/step2/manual_classification_labels.json",
+    "step3_cooccurrence": "/workspace/emerging-tech-policy-nlp/data/processed/step3/cooccurrence.jsonl"
+  },
+  "step1_ner": {
+    "rows": 6208,
+    "label_counts": {
+      "ORG": 6031,
+      "PER": 177
+    },
+    "documents": 22,
+    "avg_mentions_per_doc": 282.1818181818182,
+    "avg_entities_per_doc": 122
+  },
+  "step2_labels": {
+    "rows": 2684,
+    "status_counts": {
+      "entity": 2144,
+      "not_specific": 273,
+      "not_actor": 199,
+      "ner_error": 41,
+      "historical_individual": 23,
+      "unclear": 3,
+      "non_entity_phrase": 1
+    },
+    "level_5_helix_counts": {
+      "government": 972,
+      "<empty>": 546,
+      "academia": 528,
+      "intermediary": 341,
+      "industry": 239,
+      "civil_society": 58
+    }
+  },
+  "step3_cooccurrence": {
+    "rows": 13456,
+    "country_counts": {
+      "SVN": 4548,
+      "USA": 2066,
+      "IRL": 1575,
+      "GER": 1109,
+      "FIN": 872,
+      "NLD": 669,
+      "ITA": 540,
+      "GBR": 481,
+      "CZE": 426,
+      "ESP": 256,
+      "DNK": 203,
+      "CAN": 192,
+      "AUS": 173,
+      "JPN": 166,
+      "FRA": 148,
+      "KOR": 32
+    },
+    "top_helix_pairs": [
+      {
+        "pair": "government–government",
+        "count": 5789
+      },
+      {
+        "pair": "academia–government",
+        "count": 2050
+      },
+      {
+        "pair": "academia–academia",
+        "count": 1593
+      },
+      {
+        "pair": "government–intermediary",
+        "count": 1365
+      },
+      {
+        "pair": "academia–intermediary",
+        "count": 507
+      },
+      {
+        "pair": "industry–industry",
+        "count": 451
+      },
+      {
+        "pair": "academia–industry",
+        "count": 437
+      },
+      {
+        "pair": "intermediary–intermediary",
+        "count": 357
+      },
+      {
+        "pair": "government–industry",
+        "count": 332
+      },
+      {
+        "pair": "civil_society–government",
+        "count": 203
+      },
+      {
+        "pair": "industry–intermediary",
+        "count": 145
+      },
+      {
+        "pair": "civil_society–intermediary",
+        "count": 108
+      },
+      {
+        "pair": "civil_society–civil_society",
+        "count": 53
+      },
+      {
+        "pair": "academia–civil_society",
+        "count": 48
+      },
+      {
+        "pair": "civil_society–industry",
+        "count": 18
+      }
+    ]
+  }
+}

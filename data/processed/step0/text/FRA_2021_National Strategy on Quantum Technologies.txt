@@ -1,0 +1,332 @@
+National Strategy on Quantum Technologies SACLAY January 21, 2021
+
+# Editorial
+
+Emmanuel Macron President of the French Republic
+Quantum technologies project us into the France of 2030, the France we are building through France Relance and investments in the future: a world where computers will be incredibly powerful and sensors will be extremely sensitive, a world where we will be able to quickly identify the cure for a pathogen, simulate molecules, decrypt messages that are currently indecipherable, and communicate in a completely secure manner.
+A new technological revolution is on the horizon, and France will play its full part in it. To aim high, we must look far ahead. While responsiveness is important in managing a health crisis, a country's underlying strengths are built over years, if not decades. This long period of scientific work, this anticipation required for discovery and experimentation, is at the heart of our policy of investment in research and technological development.
+Today, France has everything it needs to open the doors to quantum innovation. The excellence of our scientific tradition, of course. The quality of our training programs. Talented men and women. A vibrant scientific, entrepreneurial, and industrial ecosystem. Players who use their skills to build bridges that make them stronger. In fact, we are in a very good position in the race for these new technologies. And we are going to pick up the pace even further.
+France's quantum strategy will give a major boost to training, scientific research, and technological experimentation, while strengthening industrial value chains. With this plan, we intend to establish France's long-term position among the leading countries mastering quantum technologies. It is nothing less than a quest to achieve sovereignty in this technological field that will shape the future.
+This momentum comes with a responsibility, which we are fully aware of, to ensure that this quantum revolution benefits the common good, as it holds great promise for the future, for our health, our security, and our communications. France, a pioneer in research in this field, is thus giving itself every chance to seize the technological opportunity that is opening up to it.
+This strategy, representing a total commitment of €1.8 billion, will require a cumulative effort from the State of nearly €1 billion by 2025, and includes European and industrial funding.
+Beyond this powerful national dynamic, France will seek to bring other European countries, including Germany and the Netherlands, towards a common goal, with the ambition of making Europe the global center of gravity for quantum technologies.
+In the midst of this crisis, I firmly believe that we must act, think, and seek out new ideas as explorers, inventors, and pioneers, continuing the great European epic of scientific spirit.
+We have every reason to believe in this.
+Florence Parly Minister of the Armed Forces
+Bruno Le Maire Minister of the Economy, Finance, and Recovery
+Frédérique Vidal
+Minister of Higher Education, Research, and Innovation
+Cédric O
+Secretary of State for Digital Affairs
+In the context of global recovery, France can and must position itself at the forefront of the technologies that will shape the world of tomorrow. With the unprecedented shift they herald, quantum technologies represent both a threat and an opportunity.
+Although still challenging to implement, the first applications give us a glimpse of the immense capabilities of quantum computers, communication networks, and sensors, the mastery of which would confer a strategic advantage, often dreamed of in terms of "supremacy," but nevertheless very real for the states that would have them, and would constitute a source of asymmetry in all multilateral fields.
+This is the extraordinary scale of the sovereignty challenge we face, and one that France has chosen to tackle with its quantum strategy. Building on a legacy of excellence in research in this field, a favorable industrial ecosystem, and inspiring entrepreneurial spirit, this strategy provides the means and a shared long-term vision for the many players in this community to establish and maintain France's position among the leading quantum powers.
+It will be a captivating scientific and intellectual adventure, giving rise to a new discipline at the crossroads of physics, computer science, and mathematics, which will have to overcome numerous conceptual and technical barriers at the frontiers of our mastery of matter. It will also be a structuring technological and industrial journey, at the heart of the actions we will be taking over the next five years, with the ongoing goal of creating economic value, sustainably backed by a complete industrial sector, the talents we will train, and the new jobs that will result.
+We will do everything in our power to maintain this momentum, so that it contributes to creating a fruitful European dynamic and so that quantum technologies join the list of founding achievements of our shared history, when we are aligned at our best.
+
+# Quantum: a technological "Big Bang"
+
+The reduction in computing time by a factor of one billion, which quantum computers will bring about in 5 to 10 years, constitutes a major technological breakthrough. Industry will benefit from new simulation and optimization tools with significant societal impacts, particularly in the areas of health, the environment, and energy, thanks to the ability to dynamically simulate molecules and their actions, ushering in a new era in chemistry, or to accurately predict the spread of epidemics or optimize traffic systemically in real time. In addition, ultra-cooling techniques for atoms will enable us to exceed the accuracy of our atomic clocks, and quantum sensors will revolutionize our future battlefields, providing new satellite-free navigation capabilities and unprecedented detection capabilities.
+Quantum technologies represent significant challenges in terms of competitiveness and sovereignty, and we will face difficulties in the future if we do not eventually develop our own technological capabilities in this field or adapt our tools to these new realities. The power of quantum computers would, for example, enable those who are first to benefit from them and have the intention to do so to unilaterally break encryption keys that are currently unbreakable, particularly those based on the RSA encryption protocol, which is used, for example, for secure credit card payments. This is why it is crucial to protect ourselves from this type of threat with appropriate cryptographic measures and to test their robustness with our own quantum computing resources.
+In the medium term, quantum technologies and computers will give a definite strategic advantage to the economic players who embrace them. In view of the challenges of economic growth and sovereignty, and following the example of the world's major powers, such as the United States, China, the United Kingdom, and Germany, we are now implementing an ambitious national program: France has the means to seize the opportunity offered by quantum technologies and become a world leader in this field.
+Today, France has all the key assets it needs to establish itself as a major scientific and industrial competitor in quantum technologies, thanks in particular to its longstanding focus on research into various key technological building blocks, from components to applications, as well as its pioneering manufacturers and dynamic startup ecosystem.
+Building on these strengths, the quantum strategy should enable France to join the elite group of countries that have mastered quantum technologies. This highly systemic strategy aims to enrich and assert our capabilities in science and technology, but also in industrial value chains, human capital development, and anticipating the skills needs for these markets, by gradually doubling the pool of specialists by 2025 in order to guarantee and sustain our independence in this technological field that will shape the future.
+
+# Socio-economic impacts
+
+## Better healthcare
+
+At a time when supercomputers around the world are being mobilized to search for a suitable cure for the coronavirus, quantum computers could become one of the most powerful tools ever designed to combat health crises, enabling the rapid identification of a cure for a pathogen.
+Several quantum start-ups, including some in France, are already developing hybrid software solutions combining supercomputers and quantum computers to discover new therapies. With a quantum computer, we will be able to perform advanced simulations and thus design drugs not empirically, but deterministically. Quantum computers could also provide the analytical power needed to predict the spread of a pathogen before it turns into an epidemic.
+
+## Better nutrition
+
+The Haber-Bosch process for fixing nitrogen to produce ammonia-based fertilizers, commercialized in 1913 and still in use today, has greatly contributed to the eradication of famine in developed countries. However, because it involves extreme temperatures and pressures, this process remains very energy-intensive.
+For decades, chemists have been trying to improve the energy efficiency of this process. Thanks to their ability to effectively simulate physical and chemical interactions at the atomic level, quantum computers could help identify an effective bio-inspired catalyst for ammonia production under normal temperature and pressure conditions. Research on this topic has shown that it would take only one hour of computation on a quantum computer with a few hundred qubits to solve this problem. This could be achieved in the next few years.
+With 3% of global natural gas production used for the Haber-Bosch process, we spend €11 billion annually on natural gas and emit 7.6 billion tons of CO2 to create ammonia for fertilizer production. By helping to reduce the energy footprint of fertilizer production, quantum computing could offer substantial savings and reduce the environmental impact of the agri-food industry.
+
+## Better combating climate change and its effects
+
+Along with health and food, the fight against climate change is the area in which quantum computing offers the most hope for the next two decades. CO2 is naturally absorbed by oceans and vegetation. However, human CO2 production has exceeded the natural absorption rate for many decades. One way to reverse this trend is to capture CO2 and convert it into a more complex molecule.
+We know of a number of catalysts capable of capturing CO2, but most require rare metals or are difficult to produce and costly to deploy. However, observing biological CO2 assimilation processes, such as photosynthesis, supports the idea that catalysts may exist that can easily capture CO2 at low cost. Finding such a catalyst is a difficult task without the ability to simulate the molecular properties of the various candidates.
+Thanks to their ability to simulate molecular dynamics and search through vast combinatorial chemical spaces, quantum computers could help identify an economically viable process for efficiently recycling CO2 and producing useful by-products such as hydrogen or carbon monoxide.
+
+## Better anticipation of natural disasters
+
+Anticipating natural disasters is an area where quantum sensors embedded in satellites come into their own, particularly in the context of climate change in which we live.
+The development of cold atom accelerometers operating in low-orbit satellites will be able to measure variations in the gravitational field caused in particular by changes in the distribution of mass on the ground. This distribution of mass can have various causes linked to different types of natural disasters:
+- • The loading of groundwater tables, which are early warning signs of flooding or drought;
+- • The development of biomass, with the seasonal cycle, whose variability can signal structural changes in ecosystems;
+- • Movements of material in the subsoil, which can create stresses that are released during earthquakes.
+The information collected by these sensors could be invaluable in anticipating and better managing environmental crises. Beyond the sensors, the processing of the information collected by future sufficiently powerful quantum computers will make it possible to characterize the warning signs of natural disasters.
+
+## Better mobility
+
+During rush hour, many drivers simultaneously request the shortest possible routes, but current navigation services process these requests individually. They do not take into account the number of similar requests, including in areas where other drivers plan to share the same route segments. With similar departure times, an individual GPS app that gives everyone the same route to their destination will inevitably create congestion rather than ease traffic flow.
+What if we could develop a more comprehensive routing system—one that could take into account all the different route requests from drivers and optimize route suggestions to minimize the number of vehicles sharing the same roads?
+This could save everyone time. However, the number of factors involved—thousands of vehicles, millions of possible routes and destinations—means that even supercomputers do not have enough computing power to find the optimal solution in a timely manner and optimize traffic on a large scale.
+With their ability to efficiently solve what is essentially a classic "traveling salesman" problem, quantum computers could provide drivers with balanced routes, resulting in smoother traffic flow, more efficient journeys, and even reduced pollution.
+
+## Better production
+
+Chemistry is still largely an empirical discipline. Although "theoretical chemistry" seeks to describe the mechanisms of self-assembly and other phenomena involved in interactions, chemists still favor heuristic rules to make predictions about the behavior of a molecule, a set of molecules, or a material.
+In contrast, a quantum computer would be able to accurately calculate the behavior of even the largest molecules. Quantum computers could hold the key to the predictive power that "classical" methods of theoretical chemistry lack. In other words, quantum computers could transform chemistry from an art based on empirical rules to a science based on prediction through numerical simulation, ushering in a new era for the discipline.
+
+## Better protection against threats to communications security
+
+Cryptography is used to ensure the confidentiality and integrity of communications in the face of threats of eavesdropping or malicious modification of traffic. The asymmetric mechanisms used today, such as RSA, will be threatened by the possibility of a sufficiently powerful quantum computer.
+Faced with this threat, it is necessary to implement new methods of securing communications. This is the field of post-quantum cryptography research. Replacing current mechanisms with new ones that are resistant to quantum computers allows the current communications infrastructure to remain unchanged.
+As for symmetric encryption mechanisms, used to secure highly sensitive information, there is currently no evidence to suggest that they would be seriously threatened by quantum computers.
+
+## Better preparing for tomorrow's conflicts
+
+In modern conflict, where technological superiority remains a major, if not decisive, asset, the defense sector systematically exploits the opportunities offered by all innovations, including those originating in the civilian world.
+The implementation by foreign powers of equipment and weapons systems incorporating quantum technologies will give them a strategic advantage. However, this increase in power means that we must adapt our defense capabilities, or risk falling behind. Even if the implementation of quantum solutions in our defense system were not sought after, the full investment of foreign states in this sector would require a response. Post-quantum cryptography illustrates this mechanism very well.
+In addition, sensors, cryptography, computing, and communications must be constantly monitored in order to anticipate, detect, and embrace any developments that could be a game changer for military operations.
+Certain applications, particularly in the field of quantum sensors and computers, offer interesting prospects for defense:
+- • Quantum inertial navigation, particularly using cold atoms, makes it possible to position oneself in space without the services of Global Navigation Satellite Systems (GNSS). These technologies could reach operational maturity within 5 to 10 years.
+- • In the context of electronic warfare, greater precision in time/frequency measurement gives the armed forces a strategic advantage in terms of electromagnetic interception and robust communications.
+
+# France's strengths in the race for the universal quantum computer
+
+France has distinctive advantages that could make it one of the first nations to achieve the feat of developing a universal quantum computer: the excellence of its fundamental research in physics and computer science (CNRS, INRIA, CEA, ONERA), as well as the strength of its technological and industrial research (Atos, STMicro, AirLiquide, Orano, and the startup ecosystem), particularly in the fields of microelectronics, supercomputers, and enabling technologies.
+In this case, France is the birthplace of several major breakthroughs that have led to the current advances made by the world's leading technology companies. Furthermore, microelectronics technologies are one of the few options currently identified as capable of enabling the transition to quantum computing. Although the scientific, conceptual, and technological hurdles remain considerable, French industry and research teams are among the best placed in the world to overcome them.
+The superconducting qubits used by Google and IBM and the cold atom qubits are the result of work by Daniel Estève and Michel Devoret at the CEA in Saclay, as well as Claude Cohen-Tannoudji and Jean Dalibard at the ENS Paris / Collège de France.
+
+## France in the international competition
+
+France's ambition is to be among the first nations to develop a large-scale universal quantum computer, ensuring its technological sovereignty and contributing to Europe's strategic autonomy. France is one of the few countries capable of meeting this challenge on such a scale. However, it will probably not be alone and will have to contend with countries that have large communities (e.g., China and the United States) or also have a strong national plan (Germany, the Netherlands, and the United Kingdom).
+With this strategy, France aims to take the lead in the emergence of companies that could become global leaders in quantum technologies, while strengthening the champions already involved in the field (Atos, Thales, Orange, STMicro, Air Liquide, Orano, etc.) to create a competitive industry in key areas of quantum technology applications, with direct benefits in health, energy, climate, agri-food, pharmaceuticals, deterrence, and intelligence.
+
+# Quantum strategy: 5 years to establish France in the global elite
+
+The quantum strategy will benefit from the exceptional investments that the government has decided to make in sectors and technologies of the future, during and after the recovery, notably by mobilizing the 4th Future Investment Program (PIA4). Announced by the government in early January, these initial national strategies address priority innovation needs or market failures: the state is thus mobilizing €12.5 billion over five years through the PIA to finance these investments, part of which is part of the #FranceRelance plan. Digital technology will play a central role: quantum, cybersecurity, artificial intelligence, 5G, etc.
+https://www.gouvernement.fr/strategies-d-acceleration-pour-l-innovation
+To learn more about the government's acceleration strategies:
+The strategy should enable France to be among the first countries to master key quantum technologies: quantum accelerators and simulators, specialized software for quantum computing, quantum sensors, quantum communications, post-quantum cryptography, enabling technologies, etc. In the field of computing, the central theme of the strategy, France will become the first country to have a complete prototype of a first-generation general-purpose quantum computer by 2023. It will also be able to assert itself as the first nation to have a complete industrial Si 28 production chain for the production of qubits on silicon.
+The time needed for these technologies to mature, the software layers to be developed, and the training of talent require bringing together all stakeholders and efforts toward the ambition of building a complete industrial sector: the aim is to establish a lasting position as a leader in the field, with the goal of creating 16,000 direct jobs by 2030 and ultimately accounting for between 1% and 2% of French exports.
+Highly systemic, the quantum strategy aims to enrich and assert our capabilities in science and technology, but also in industrial value chains, human capital development, and anticipating the skills needs for these markets, by gradually doubling the pool of specialists by 2025 in order to guarantee and perpetuate our sovereignty over these critical technologies.
+It is structured around the following seven pillars, including six technological pillars and one cross-cutting pillar.
+
+## Key objectives
+
+- • Mastering quantum technologies that offer a decisive strategic advantage, including quantum accelerators, simulators, and computers, specialized software for quantum computing, sensors, and communication systems.
+- •
+In the field of computing, the central theme of the strategy is to
+- o becoming the first country to have a complete prototype of a first-generation general-purpose quantum computer by 2023;
+- o to be a world leader in the race to develop a scalable universal quantum computer, by anticipating today the risks inherent in the low level of maturity and complexity of the technologies currently being explored.
+- • Mastering critical industrial sectors in the field of quantum technologies, including enabling technologies
+- • Establish itself as one of the world leaders in cryogenics and lasers for quantum technologies.
+- • Be the first nation to have a complete industrial Si 28 production chain, particularly for the production of qubits.
+- • Develop skills and human capital, strengthen technological infrastructure, create an environment conducive to the intensification of entrepreneurship and technology transfer, and promote attractiveness to international players and the world's best talent.
+
+## Key figures
+
+- • Cumulative government funding of approximately €1 billion over four years, for a total public-private commitment of €1.8 billion.
+- • Creation of 16,000 direct jobs by 2030, supporting an activity that will eventually account for between 1% and 2% of French exports.
+- • Training of 5,000 new talents in quantum technologies, technicians, engineers, and doctors.
+- • Training through research for nearly 1,700 young researchers, with a doubling of the number of theses per year: 200 new theses and 200 post-docs per year by 2025.
+- • Support for entrepreneurship to the tune of €120 million, in the form of matching funds dedicated to start-ups, whether in series A, B, or C.
+- • Support for research through a Priority Research Program and Equipment (PEPR) with €150 million in funding.
+- • Support for industrial deployment and innovation totaling €350 million.
+
+## Summary of funding
+
+### Breakdown by technological focus
+
+Technological areas of the national strategy
+Total 2021– 2025 [€ million]
+NISQ
+LSQ
+Quantum sensors
+Quantum communication s
+Post-quantum cryptography
+Enabling technologies
+352
+432
+258
+325
+156
+292
+1815
+
+### Breakdown by type of support
+
+Total 2021–2025 [€ million]
+1815
+Research (CNRS, CEA, INRIA, ONERA, CNES organizations; EU programs, infrastructure)
+725
+Training (PhDs, engineers, masters, technicians)
+61
+Technological maturation
+17
+Disruptive innovation (quantum computer)
+114
+Support for industrial deployment (pilot lines and cryogenics)
+224
+Public procurement policy (computing, defense)
+72
+Entrepreneurship (investment funds, incubators)
+43
+Economic Intelligence (standardization, IP)
+9
+
+### Breakdown by source of funding
+
+Total 2021–2025 [€ million]
+1815
+PIA 4
+59
+Grants to research organizations
+274
+Other national contributions
+164
+European funding
+238
+Private sector
+545
+
+## 1. Develop and promote the use of NISQ simulators and accelerators [€352 million]
+
+### Challenges
+
+In recent years, commercially viable "NISQ" (Noisy Intermediate Scale Quantum) simulators and computers have become a reality, pending the arrival of "LSQ" (Large Scale Quantum) quantum computers capable of scaling up. These machines are already being used as tools for learning quantum computing. Highly integrated ecosystems are already forming around machines which, although they do not offer any proven quantum advantage, enable us to anticipate breakthroughs while bringing together and retaining an ecosystem of developers around hardware-dependent development tools.
+
+### Area of action
+
+With the support of GENCI (Grand Equipement National de Calcul Intensif), responsible for equipping national high-performance computing centers, and the CEA, designer and operator of the TGCC (Très Grand Centre de Calcul), France's main public computing center, France will host the world's first hybrid quantum computer infrastructure, integrating quantum accelerators into a conventional supercomputer system in terms of both software and hardware. The establishment of this world-class infrastructure, integrating various emulators and quantum computers based on different technological principles, will provide a powerful lever for action, making it possible to:
+- • Minimize the risk of dependence on a single technological option;
+- • Develop the software ecosystem, applications, and uses;
+- • Develop France's legitimacy and influence internationally.
+At the appropriate time, the industrialization of quantum accelerators will be supported in particular by the deployment of pilot lines to refine industrial processes in an environment representative of production, while reducing risks and the cycle time for transfer to industry.
+
+## 2. Developing the LSQ Scalable Quantum Computer [€432 million]
+
+### Challenges
+
+The development of quantum computers capable of scaling up, or "LSQ" (Large Scale Quantum), aims to enable calculations and modeling of a complexity several orders of magnitude greater than what can be handled by traditional supercomputers, even when accelerated with NISQ qubits. Starting with a few hundred/thousand fault-tolerant qubits (logical qubits), the use of these machines will significantly accelerate innovation and the market launch of products from industrial sectors that rely on long validation phases. France is considered one of the few countries capable of meeting this challenge, thanks to its excellent track record in upstream and technological research and its microelectronics industry. It is also the challenge that involves the most uncertainty in terms of timing and risk, given the low level of maturity and complexity of the technologies currently being explored.
+
+### Area of action
+
+With regard to technological components, the actions will aim to explore, de-risk, and hybridize different design and manufacturing solutions for robust qubits and high-performance logic gates compatible with the microelectronics industry, then select the most promising candidates for scaling up, including silicon spin qubits, silicon transmons, silicon/germanium, cat qubits, topological qubits, photonic qubits, flying qubits, etc.
+The development of these different hardware architecture approaches must be carried out in the spirit of a continuum between NISQ and LSQ, while emphasizing the hybridization of technological platforms compatible with industrialization in terms of scaling and manufacturing quality. These avenues will be pursued simultaneously, enriching each other, within a comprehensive multidisciplinary approach.
+In terms of system architecture, innovation support will aim to develop a computing microarchitecture and control electronics that can monitor and correct errors in various qubit technologies as they scale up.
+In terms of algorithms, the action will aim to develop algorithms that are robust to noise and can take full advantage of a scaled-up quantum computer to tackle the most complex problems: protein folding, CO2 sequestration, production of bio-inspired catalysts, etc.
+
+## 3. Developing quantum sensor technologies and applications [€258 million]
+
+### Challenges
+
+Quantum sensors are among the quantum technologies historically supported by the government through its backing of upstream research, the most mature of which open up promising applications in various fields: navigation, geological prospecting, Earth observation, interception, detection, seismography, magnetometry, materials science, etc. However, the complexity of their implementation and the extreme environments often required for their operation currently limit their market potential to very specific sectors, which compromises their long-term industrial viability. It is necessary to support the maturation of these technologies towards applications and markets, while promoting their integration into systems that could benefit from them, in order to develop a civilian market that will ensure economic viability.
+
+### Area of action
+
+In the field of cold atom sensors, actions will aim to consolidate France's position in these technologies and develop the next generation of inertial sensors, magnetic sensors, and atomic clocks. For the most mature technologies (Rydberg atoms, superconductors, diamond impurities, etc.), the aim will be to support the integration of basic building blocks into their system environment, in particular by improving their characteristics in terms of embeddability, while meeting the objectives of sovereignty and reappropriation of sensor value chains.
+In order to maximize the "market surface area" and strengthen the long-term economic viability of these technologies, a wave of "Challenges" will be launched in 2022 with the aim of identifying new civilian markets to take over from the defense market: nano-MRI, industrial control in hostile environments, field analysis, molecular analysis for chemistry and biology, study of materials under high pressure for energy storage, etc.
+
+## 4. Developing the Post-Quantum Cryptography offering [€156 million]
+
+### Challenges
+
+In the "era of quantum computers," which are capable of decrypting data protected by current public key algorithms, possibly retroactively, security agencies recommend ensuring the confidentiality and integrity of government information systems and communications starting today. While there is now consensus on the need to develop and use post-quantum algorithms, i.e., algorithms that are resistant to quantum cryptanalysis, these algorithms have yet to be defined. There are several families of post-quantum cryptography algorithms, and various mathematical problems and variants are used to build the security of these schemes. However, for most of them, there is still no international consensus on the level of confidence that can be placed in their security.
+
+### Area of action
+
+In order to organize the gradual migration to post-quantum cryptography and to control hardware implementations that guarantee performance and security, the quantum strategy will focus on work in the areas of algorithmic development, hardware implementation, and experimental validation.
+The transition to post-quantum algorithms will not happen overnight. A transitional period will be necessary, during which post-quantum algorithms will coexist with current mechanisms in order to ensure that post-quantum algorithms do not introduce any regressions compared to the existing ones. As the algorithms being considered for standardization consume more resources than their conventional counterparts, action will be taken to explore the possibilities of implementing these new algorithms in specialized hardware devices with limited resources. Finally, certain quantum sensors will be explored in relation to this field of application, as they could offer new capabilities for cryptanalysis and characterization of physical attacks on cybersecurity equipment in the relatively short term.
+
+## 5. Developing quantum communications systems [€325 million]
+
+### Challenges
+
+By enabling the distribution of entangled states, quantum communications can have several promising applications that are inaccessible with current technologies: long-distance interferometry, time reference for atomic clock synchronization, quantum computer networking, quantum key distribution, etc. The networking of quantum sensors for very long-distance interferometry and ultra-precise time distribution will be of interest, for example, to scientists, financiers, energy suppliers, etc. Remote access to quantum computers and shared computing between several quantum computers makes it possible to combine several processors in order to increase their capacity exponentially, as well as to locate these machines in computing centers far from users.
+Europe, and France in particular, have been pioneers in these technologies. By supporting research and innovation in this field, France will maintain its scientific leadership, particularly in terms of increasing its autonomy with regard to quantum devices that are not yet mastered in Europe.
+
+### Area of action
+
+The practical use of quantum communications will depend on the ability to develop quantum photonic components that can be integrated into existing communications infrastructures without requiring specific deployments, which will be a major focus for activities in this field. In addition, it will lead to the testing and evaluation of the deployment of quantum photonic components in existing fiber optic communication network prototypes, with a focus on the three key aspects of throughput, link distance, and security criteria. Using two experimental fiber optic communication networks, one in the Nice region and the other in the Paris region, the new components and communication protocols will be tested and optimized under real-world conditions. In addition, France will continue to participate in the European work carried out within EuroQCI.
+In terms of algorithms, the action will aim to develop new communication protocols for distributed quantum computing, blind quantum computing, long-distance interferometry protocols for Earth and space observation, and atomic clock distribution, as well as to imagine future applications for quantum communications.
+However, due to their relative youth, quantum communications have not been intensively evaluated in terms of cybersecurity, unlike conventional communications. In this regard, while quantum communications are theoretically invulnerable to attacks based on the laws of physics, practical implementations introduce vulnerabilities that could potentially be exploited by an attacker. In order to strengthen the resilience of quantum communications devices to physical attacks, action will be taken to identify and correct vulnerabilities in quantum communications systems.
+
+## 6. Developing a competitive range of enabling technologies [€292 million]
+
+### Challenges
+
+Cryogenics, lasers, and low-noise electronics are strategic enabling technologies for quantum technologies as well as other fields (nuclear fusion, astronomy, etc.), which requires supporting and developing our autonomy in the short term by creating a competitive French offering and securing national supplies. Promoting French industrial players' mastery of these technologies in the very short term opens up interesting export opportunities, in addition to quantum technologies, in large scientific instruments, medical devices, and space electronics, in an international context marked by polarization around a limited number of players. In the long term, mastery of these technologies could enable French industrial players to become leading suppliers in several sectors.
+
+### Area of action
+
+The need to gradually increase the number of qubits per quantum processor exacerbates the constraint of operating in an extreme cryogenic environment, which does not lie in reaching sub-Kelvin temperatures but in the power required to cool large volumes comprising the qubits, wiring, and electronics placed in the intermediate stages. Actions will focus on finding an optimal balance between the temperature tolerance of qubits and the performance of industrial cryogenic technologies, which is a prerequisite for considering the transition to large-scale quantum computers.
+In addition, the development of new lasers for cooling and manipulating atoms will receive support aimed at improving the reliability, efficiency, power, spectral agility, and stability of existing lasers, as well as developing new lasers capable of manipulating a new class of atoms with quantum properties that show promise for computing and sensors.
+Finally, to promote the embeddability and environmental resilience of components at the system level, actions will address issues of interest such as miniaturization and hardening, in order to make devices compatible with operating conditions. In addition, work will also be expected on the specific processes for maintaining operational condition that these specific technologies may require.
+
+## 7. Structuring the ecosystem transversally
+
+### Challenges
+
+In order to support scientific and technical work and convert it into a lasting competitive advantage, it is essential to develop skills and human capital through initial and continuing training and the strengthening of technological infrastructures, and to create an environment conducive to the intensification of entrepreneurship and technology transfer, promoting attractiveness to international players and the world's best talent.
+
+### Areas of action
+
+### Developing skills and human capital
+
+The strategy should enable the creation of 16,000 direct and indirect jobs by 2030. This ramp-up will be supported by various levels of training, combining initial and continuing education, technical training, engineering, and research-based training. Industrial development teams in quantum hardware and software will be able to draw on experts whose initial training will focus on quantum technologies. These experts will be able to supervise employees trained through an ambitious continuing education program. Initial quantum training will be reinforced in engineering schools and master's programs through interdisciplinary programs combining quantum physics, quantum algorithms, and engineering. Finally, training modules in quantum technologies will be introduced at the DUT (university technical diploma) level in order to train a sufficient number of technicians capable of participating in the industrial development of quantum technologies and their enabling technologies.
+
+### Strengthening technological infrastructure
+
+Manufacturing platforms: the quality of material processing methods is essential to achieving the highest levels of performance. Without this, strategic sectors would be dependent on services provided by foreign infrastructure. Actions will therefore aim to provide the means to reach the highest international standards, particularly for the development of functional nanomaterials.
+Quantum metrology platform: metrology plays an essential role in the industrialization of emerging technologies through reliable performance measurement. It enables the validation of technologies whose performance exceeds that of existing technologies, and thus their adoption by industry and the market. To maintain its competitiveness in this field, ensure its ability to support the emergence of its own quantum industrial sectors, and provide its industry with traceability to the International System of Units, France will establish a quantum metrology platform that will bring together the expertise and measurement facilities of the National Metrology Network.
+
+### Strengthening entrepreneurship and technology transfer
+
+On the entrepreneurial front, quantum technologies, like other "risky" fields, face the difficulty of accessing quality venture capital from generalist funds. As part of the strategy, two funds involving management companies with strong quantum expertise will complement the work of the first fund dedicated to this field in France (Quantonation) and may be supported by the State in the form of funds of funds. Finally, the French Tech Souveraineté fund will complete the system by providing the necessary support to protect the capital of strategic companies.
+In terms of technology transfer, the strategy will support hub-type initiatives aimed at strengthening the network of relationships between industrial players, startups, and academia, in order to support entrepreneurial projects and build bridges with the international community.
+
+## Opportunities for international cooperation
+
+Through leverage, government action will mobilize more than €200 million from Europe, part of which will come from joint co-financing by the Commission, supplemented by national funding. A consortium is already in the works, co-financed by the EuroHPC joint undertaking, bringing together France, Germany, Italy, Spain, Ireland, and Austria, to develop the first prototype of a hybrid computer incorporating a quantum accelerator of at least 100 qubits by 2023, at the Très Grand Centre de Calcul site in Bruyères-Le-Chatel. This hardware and software platform will be the first step towards a 'European quantum hub', which will support the work of scientific and industrial user communities with a view to developing use cases that fully exploit these new computing capabilities.
+This momentum will be carried forward by a NISQ Grand Challenge, a public-private program that could lead to an expansion of the collaborative dynamic with Germany. The aim of this Grand Challenge is to create the conditions for using this hybrid platform as a common "sandbox" infrastructure for quantum technologies, both hardware and software, in particular to conduct performance benchmarking based on the nature of the integrated quantum accelerator (cold atoms, superconducting junctions, etc.), with the aim of exploring the range of capabilities offered by hybrid machines in terms of applications. Ultimately, it will seek to:
+- • make the most of existing quantum accelerators by integrating them into the broader context of high-performance computing and developing hybrid quantum-classical algorithmic solutions;
+- • disseminate the use of quantum computing in priority sectors by developing software solutions and hardware-agnostic development environments based on programming languages and libraries dedicated to different application sectors.
+It should also be noted that the topic of quantum computing is gaining momentum as part of the European Commission's efforts in the field of high-performance computing, notably through the EuroHPC Joint Undertaking. The topic of quantum communications will be taken up at European level by the EuroQCI consortium, which is currently being set up under the auspices of the Commission.
+In addition, France will be a driving force in intensifying the long-standing joint research dynamics with the major quantum technology nations in Europe (the Netherlands, England, etc.), exploring all opportunities for collaboration with the ambition of repositioning the global center of gravity for quantum technologies towards Europe.
+
+# Implementation
+
+Implementation will require cumulative government funding of approximately €1 billion over four years. This government action will be supplemented by European funding and co-financing from industry, whose involvement will be crucial to the success of this strategy, in order to strengthen their R&D activities, conquer new markets, or relocate activities to France.
+In support of entrepreneurship, institutional investors and trust funds will mobilize to support the emerging innovation ecosystem in the field and to bring forth new national industrial champions.
+
+## Together, this will result in a total public-private commitment of €1.8 billion.
+
+This commitment is commensurate with the challenges and ambition to establish France as a longterm leader in the field, with the goal of creating 16,000 direct jobs by 2030 in an industry that will eventually account for between 1% and 2% of French exports.
+Skills development requires initial and continuing training, with nearly 5,000 new talents trained in quantum technologies by 2025, including researchers, engineers, and technicians, with new university courses opening at the start of the next academic year.
+The creation of an environment conducive to the intensification of entrepreneurship and technology transfer will help develop our intellectual and industrial heritage, while cultivating our influence with international players in the field in order to attract investment and the best global talent. In particular, support for the emergence and growth of start-ups will be provided through the mobilization of equity capital, with the ambition of reaching a total public-private amount of €310 million.
+A major effort will be devoted to research, notably through a Priority Research Program and Equipment (PEPR) with a total budget of €150 million, focusing on four key themes
+: robust solid-state qubits, cold atoms, quantum algorithms, and the frontiers of computability and security.
+Maturation, innovation, and technology transfer will receive unprecedented support through a variety of measures such as the Great Innovation Challenges, technology maturation programs, and industrial deployment support programs, with a total budget of €350 million and an expected multiplier effect from industrial investment.
+
+## Finally, the strategy will be implemented by an interministerial coordinator, who will oversee its implementation under the responsibility of the Interministerial Council for Innovation, with a constant focus on maximizing industrial impact, employment, and the creation of sustainable economic value.
+
+# Highlights in the national quantum ecosystem over the last six months
+
+- • June 2020: Qubit Pharmaceuticals, a French research spin-off start-up (CNAM, CNRS, Sorbonne, University of Texas at Austin, Washington University), has just completed a pre-seed round of funding with the help of Quantonation. This startup is revolutionizing the field of advanced simulation software for drug development by taking quantum effects into account in molecular dynamics. Currently operated and refined on supercomputers, the software solutions will be ready to bring about radical breakthroughs once they run on the first quantum computers.
+- • July 2020: The start-up Quandela, which develops single-photon sources with highly anticipated properties for optical quantum computers and communication networks, has completed its seed funding round at €1.5 million, led by Quantonation and followed by French Tech Seed from Bpifrance.
+- • Summer 2020: (<https://www.globenewswire.com/Tracker?data=riRYvYwMxmSIXm3UghTCnw5SixgyYtO7orHw7CsOjBl6p7a61-M-inTAbt7GYryh>)Atos upgraded its commercial quantum simulator QLM with new hardware architecture, becoming QLM E(nhanced), the world's most powerful quantum simulator offering up to 12 times more computing power than its predecessor. Atos QLM E offers new simulation opportunities for future NISQ quantum computers, which are expected to be commercially available in the coming years.
+- • September 2020: Startup Quandela launches Prometheus, its new generation of indistinguishable photon generators for use in quantum computing and cryptography.
+- • September 2020: Air Liquide acquired French SME Cryoconcept, which specializes in dilution refrigeration, a technology that enables very low temperatures to be achieved. This move marks Air Liquide's commitment to the field of extreme cryogenics, close to absolute zero, which is a crucial enabling technology for quantum technologies.
+- • October 2020: Thales is developing atomic chip sensors with the aim of eventually creating a complete inertial measurement unit (combining accelerometers, a clock, and a three-axis gyroscope) based on miniature cold atoms and substantially more powerful than current technologies. One of the key features has been demonstrated, enabling the manipulation of atomic clouds on chips using radio frequency currents.
+- • November 2020: Atos announces a partnership with Pasqal to develop a quantum accelerator based on neutral atom technology, intended for use in high-performance computing systems. This technology would enhance the computing capabilities of current computers and enable the development of hybrid quantum-HPC systems that could be used in the short term.
+- • December 2020: The European HPCQS consortium, built around the Franco-German GENCI/Jülich Research Center, has been selected by EuroHPC to build the first European computer integrating a quantum accelerator of at least 100 qubits in 2023. This consortium brings together major French research organizations (CNRS, CEA, INRIA), as well as Atos and the start-up Pasqal, which will deliver the supercomputer and the quantum accelerator to be integrated into it, respectively. Work will begin in the first half of 2021.
+- • December 2020: Thales develops a superconducting quantum antenna based on the use of SQUID (Superconductor Quantum Interference Device) networks capable of detecting a wide spectrum of frequencies. Radio frequency signal detection has been demonstrated up to 100 MHz with a 1 cm quantum antenna, whereas a conventional antenna is 1.5 m in size.
+- • December 2020: Atos unveiled the "Q Score," the first universal metric that makes it possible to objectively measure the performance of quantum computers and "quantum supremacy."
+- • December 2020: CEA Leti samples its electron spin qubits, which improve qubit control.
+- • December 2020: Pasqal and Antoine Browaeys' team at IOGS publish several papers with a quantum simulation record of 196 qubits based on cold atoms.
+
+# Upcoming calls for projects /1stsemester 2021
+
+- • Priority Research Program and Equipment (PEPR), to support the research efforts of the scientific community, with €150 million allocated to four themes: robust solid-state qubits, cold atoms, quantum algorithms, and the frontiers of computability and security (first quarter of 2021);
+- • Major challenge involving the development of first-generation quantum accelerators (NISQ), or "imperfect" quantum computers, in preparation for an innovation initiative in 2022 on the development of scalable quantum computers (LSQ), or "perfect" quantum computers (by the end of the first half of 2021 at the latest);
+- • Industrial Development Program relating to enabling technologies, such as Si28, cryogenics, and lasers; this program supports collaborative public-private research and development activities at intermediate technological maturity (TRL3-6), close to market but with technological risks that cannot be borne by private players alone (from the first quarter of 2021);
+- • Technology Maturation Program, to encourage collaborative public-private research and development activities at intermediate maturity with medium-term market prospects, concerning sensor integration, protocols and error correction, as well as post-quantum algorithms (by the end of the first half of 2021 at the latest).
+https://www.entreprises.gouv.fr/fr/numerique/politique-numerique/strategie-nationale-pour-tech- nologies-quantiques
+- 🡺 For more information and to follow the publication of calls for projects and programs:

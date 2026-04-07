@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+data/raw/
+data/processed/step0/json/
+data/processed/step0/structured/checkpoints/

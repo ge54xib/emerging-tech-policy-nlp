@@ -1,0 +1,1886 @@
+Strategy for the Development of Quantum Technologies in Slovenia until 2035
+
+# LIST OF ABBREVIATIONS
+
+ARIS
+Public Agency for Science, Research and Innovation of the Republic of Slovenia CAMTP Center for Applied
+Mathematics and Theoretical Physics, University of Maribor
+CEF
+Connecting Europe Facility
+CRP
+Targeted Research Program
+COST
+European CO-operation in Science and Technology
+DS
+working group
+EDA
+European Defense Agency
+EDF
+European Defense Fund
+EIB
+European Investment Bank
+EIC
+European Innovation Council
+EIT
+European Institute of Innovation and Technology
+EC
+European Commission
+ERA-NET
+European Research Area Network
+ERC
+European Research Council ESA European Space Agency EU
+European Union
+EUDIS
+scheme under the EDF (European Defense Innovation Scheme)
+EuroHPC JU
+European High Performance Computing Joint Undertaking
+EuroQCI
+European Quantum Communication Infrastructure
+GZS
+Chamber of Commerce and Industry of Slovenia)
+HEDI
+Accelerator within the EDA (Hub for European Defense Innovation)
+IJS
+Jožef Stefan Institute
+IPCEI
+Important Projects of Common European Interest
+IPE
+instrument for connecting Europe
+JR
+public call
+JRO
+Public research organization
+JRZ
+Public research institute
+JŠRIPS
+Public Scholarship, Development, Disability and Maintenance Fund of Slovenia KIC
+Knowledge and Innovation Communities KPV Office of the Prime Minister of the Republic
+of Slovenia
+MSCA
+Marie
+Skłodowska-Curie Actions
+MDP
+Ministry of Digital Transformation of the Republic of Slovenia
+MGTŠ
+Ministry of Economy, Tourism and Sport of the Republic of Slovenia
+MNZ
+Ministry of the Interior of the Republic of Slovenia MO Ministry of
+Defense of the Republic of Slovenia
+MSP
+small and medium-sized enterprises
+MVZI
+Ministry of Higher Education, Science and Innovation of the Republic of Slovenia
+MFA
+Ministry of Foreign and European Affairs of the Republic of Slovenia
+NATO
+North Atlantic Treaty Organization
+NATO STO
+NATO Science and Technology Organization NCT National Contact Point
+NOO
+Recovery and Resilience Plan
+PESCO
+EU Permanent Structured Cooperation (PESCO)
+QKD
+Quantum Key Distribution
+QuIC
+European Quantum Industry Consortium
+QuantERA
+ERA-NET network for QT (ERA-NET Cofund and Quantum Technologies)
+QT
+Quantum Technologies
+QUTES
+Slovenian Quantum Science and Technology Community
+ReZrIS30 of Slovenia
+Resolution on the Scientific Research and Innovation Strategy of Slovenia 2030 SI Republic
+SPIRIT
+Public Agency of the Republic of Slovenia for the Promotion of Investment, Entrepreneurship and Internationalisation
+SPS
+Slovenian Enterprise Fund
+SRIA
+Strategic Research and Industry Agenda
+SRIP
+Strategic Development and Innovation Partnership
+STEP
+Strategic Technologies for Europe Platform
+TRL
+Technology Readiness Level
+UL
+University of Ljubljana
+UL FE
+Faculty of Electrical Engineering, University of Ljubljana
+UL FMF
+Faculty of Mathematics and Physics, University of Ljubljana
+UL FRI
+Faculty of Computer and Information Science, University of Ljubljana
+UMFERI
+Faculty of Electrical Engineering, Computer Science and Informatics, University of Maribor
+UM FNM
+Faculty of Natural Sciences and Mathematics, University of Maribor UNG
+University of Nova Gorica
+URSIL
+Intellectual Property Office of the Republic of Slovenia URSIV Government Office of the Republic of Slovenia for Information Security
+UVTP
+Office of the Government of the Republic of Slovenia for the Protection of Classified Information
+The strategy for the development of quantum technologies in Slovenia until 2035 was adopted at the 175th regular session of the Government of the Republic of Slovenia on October 16, 2025.
+
+# 1. INTRODUCTION
+
+Over the past decade, quantum research and technologies have become one of the most dynamic and important scientific fields, developed by all technologically advanced economies and countries around the world. QT is a game changer in data processing, communications, sensor technology, and metrology, offering scientific, economic, and strategic opportunities. Its impact extends to many areas, including secure communications, defense, artificial intelligence, finance, cybersecurity, logistics, and more.
+The SRIA for QT until 2030, prepared in February 2024 by the Quantum Flagship, divides QT into four pillars:
+- • QUANTUM COMPUTING
+- • QUANTUM SIMULATION
+- • QUANTUM COMMUNICATION QUANTUM
+- • SENSORS AND METROLOGY
+QT intertwines various scientific disciplines and industrial activities, such as physics, optics, electrical engineering, computer science, applied mathematics, and cryptography, so it is necessary to ensure the coordinated operation of all relevant areas. To this end, it is essential to promote interdisciplinary cooperation and networking between academic institutions, research centers, and industry, thereby ensuring a faster transition of research achievements into practical solutions and economic use.
+With the Strategy for the Development of Quantum Technologies in Slovenia until 2035 (hereinafter: the Strategy), we want to realize the vision of Slovenia becoming one of the leading players in niche areas of QT, strengthening its capabilities in the field of research, development and innovation, infrastructure, and knowledge transfer, and actively shape the future of QT, which will contribute to greater technological sovereignty and global recognition of the country, strengthen the scientific and economic competitiveness of the country and the EU as a whole, and thus also ensure national security.
+The strategy focuses on aligning Slovenia's development priorities with EU objectives, which will enable effective integration into international initiatives and partnerships to strengthen domestic and common European competitiveness. In this way, we will support the development of the national and common European ecosystem and take advantage of the opportunities offered by the quantum revolution in the coming decade.
+
+# 2. ANALYSIS OF THE SITUATION AT EU AND NATO LEVEL AND AT NATIONAL LEVEL
+
+## 2.1 EU level
+
+For several years, the EU has been actively supporting the development of QT as one of the key strategic areas for maintaining technological sovereignty and promoting innovation. In 2018, with the support of Member States, the EC launched the Quantum Flagship initiative under the Horizon 2020 program, which is now continuing under the EU's Horizon Europe framework program for research and innovation. The initiative is represented by representatives of research and education organizations and technology companies with the aim of ensuring the comprehensive and strategic development of QT in the EU.
+In order to maintain the medium- and long-term security of national information and communication systems and data in the EU, smart energy networks, air traffic control, financial and health institutions, and other communication infrastructures, the EU is developing new and more secure forms of transmission of security-sensitive data. This challenge is being addressed by the EuroQCI initiative, in which 25 EU Member States, including Slovenia, are participating with their own projects.
+The EuroQCI initiative envisages the integration of an additional layer of security based on quantum physics into conventional communications infrastructure. The infrastructure will consist of a ground segment based on optical communications networks connecting strategic areas at national and cross-border level, and a space segment based on satellites, connecting national quantum communication networks across the EU and worldwide.
+SI joined the initiative in 2019, committing itself to the development of a pan-European interoperable infrastructure for the secure exchange of encryption keys. This commitment represents an important step towards integrating Slovenia into the broader European quantum ecosystem and strengthening its position in the development of quantum communication technologies. Slovenia's participation in EuroQCI is ensured by URSIV.
+One of the key common goals in the EU is the development of a quantum internet in Europe and the interconnection of quantum computers, simulators, and sensors for the secure distribution of information and quantum resources throughout the EU.
+The EU has also established mechanisms for financial incentives for European industry in the field of QT, which is an important factor in positioning the EU as a global leader in QT. A representative stakeholder in the European quantum industry is QuIC, whose mission is to accelerate the commercialization and industrialization of QT. Slovenian research and industry stakeholders are also involved in the initiative, which strengthens their influence in shaping European priorities and enables closer integration into European strategic development trends.
+Closely linked to the development of QT is high-performance computing, which is a key support in achieving research and industrial goals in this field. High-performance computing is one of the strategic priorities at both national and European level, which has led to the creation of EuroHPC JU. SI actively participates in key European research infrastructures in the field of supercomputing, including EuroHPC JU, PRACE, and EGI, which strengthens its ability to conduct cutting-edge research and development in quantum computing. SI's participation in EuroHPC JU is ensured by the Ministry of Education, Science and Sport.
+In 2023, SI joined the European Quantum Declaration, the so-called quantum pact, which represents a commitment to cooperate with other Member States and the EC in developing a cutting-edge QT ecosystem. The declaration highlights objectives such as coordinating research and development programs, promoting public and private investment, supporting businesses, strengthening the European supply chain, and developing a network of quantum competence centers. By signing the European Quantum Declaration, Slovenia has gained access to leading research groups and projects in the EU and to research infrastructure that is limited in Slovenia. This cooperation will enable the establishment of European infrastructure in Slovenia and the use of secure terrestrial and satellite communication systems. SI will also be involved in the standardization of industrial applications, the drafting of legislation, and access to European and global markets. The declaration was signed by the MDP and is being implemented under the auspices of the MVZI.
+In October 2023, the European Commission adopted a list of critical technology areas that are key to the EU's economic security. QT was ranked among the four most sensitive areas requiring immediate attention.
+At the beginning of 2024, the EC's flagship initiative for QT (Quantum Flagship) prepared an SRIA for QT until 2030, which is a common reference framework for guiding research, innovation, industrial development, and public funding of QT in the EU, while promoting cooperation between research institutions, industry, and decision-makers. Among the recommendations that are particularly important for Slovenia are better integration of Slovenian researchers and companies into European funding programs such as Horizon Europe and Digital Europe, strengthening Slovenian researchers' access to leading research centers, technologies, and development resources, educating a new generation of QT experts, and increasing participation in European consortia, partnerships, and projects, which can strengthen SI's role in the European quantum ecosystem.
+In 2024, the European Commission established a QT coordination group, which brings together representatives of EU Member States' national authorities with a mandate to develop a set of measures to implement the European Quantum Declaration in three key areas: research and talent, infrastructure, and industrialization. The measures have contributed to the development of the European quantum strategy and will also contribute to the implementation of the EU's Digital Decade policy program in the future. Slovenia is represented by the Ministry of Education, Science and Sport, which strives to highlight our country's advantages and assert its strategic interests in European and international initiatives. In preparing the measures, the Ministry of Foreign Affairs cooperated with experts in the field of QT.
+With the start of the EC's 2024–2029 term, QT has become a strategic priority for the Directorate-General for Communications Networks, Content and Technology. In January 2025, the EC presented a "competitiveness compass" to strengthen
+the competitiveness of the European economy, the EC presented a "competitiveness compass" aimed at reducing the innovation gap, promoting the transition to green energy, and increasing the EU's economic resilience and security. In the field of QT, the document announced the preparation of a European quantum strategy, which the EC prepared in July 2025 under the title Quantum Europe Strategy.
+To consolidate the EU's leading position in quantum research, the Quantum Europe Strategy proposes to integrate actions into a European Quantum Research and Innovation Program covering all three phases of research and innovation: fundamental research, the construction of pilot quantum installations in all three areas where quantum principles can be applied, and the application of QT in industry. The EC will ensure a unified approach to quantum, including coordination of the entire value chain, from research and businesses to users, through a Quantum Act, which it plans to propose in 2026 in line with the future multiannual financial plan. To implement this approach in all three phases, it will propose a European partnership (joint undertaking) model in the Quantum Act. and in the meantime, it will use the existing European partnership EuroHPC JU to start activities immediately, which the EC intends to regulate by amending its regulation by the end of 2025. In addressing the challenge of building a comprehensive EU quantum ecosystem, the strategy summarises the key components of the European "valley of death" faced by start-ups in the EU: lack of capital in later stages of growth, absence of early adopters, and fragmentation of public procurement and regulatory frameworks. It proposes action in all three areas, from pilot lines for quantum chips to stronger use of public procurement of innovation, encouraging public institutions to act as early adopters, and developing financial instruments in cooperation with the EIC, EIB, and InvestEU program. In the area of talent and skills, the document notes a shortage of suitably qualified people, such as quantum software engineers, which could jeopardize the transfer of QT into practice. It proposes the establishment of a quantum skills academy in 2026, mobility programs, and apprenticeships.
+QT is also increasingly recognized as a strategic component of European security and defense policy, particularly with regard to secure communications, precision sensing, quantum navigation, and strengthening the resilience of critical infrastructure. As part of their PESCO commitments, EU countries already pledged in 2017 to allocate 2% of their defense budgets to research, development, and innovation.
+The EDA is preparing an action plan for quantum technologies in the field of defense for 2025, which combines a description of the current situation and proposed activities.
+The EC and EDA are already implementing pilot projects on the use of quantum sensors and quantum cryptography in defense systems, and several projects in the broader field of QT are in preparation. Several technologically capable groups within the EDA are involved in QT development and research, with representatives from the Ministry of Defense, Slovenian industry, and research institutions already participating. Slovenian stakeholders are already participating in projects, including the SQORPION (EDF) consortium, which is working on spin quantum optics for robust and accurate inertial navigation.
+The dual use of quantum technologies is strategically important. Quantum solutions developed in the civil sector are directly applied in the fields of security, defense, and crisis response. Within the framework of
+initiatives such as the EDF and the EU Secure Connectivity Program, is already issuing calls for dual-use technologies, which also include quantum sensors, quantum navigation, and quantum-secure communication.
+Slovenia's active involvement in such initiatives is an important opportunity to consolidate its strategic sovereignty, strengthen its technological autonomy, and gain access to dedicated European funds for the development of quantum solutions with a high level of technological maturity (TRL 5–9).
+
+## 2.2 NATO level
+
+QT is one of the technological areas that NATO allies have prioritized due to its implications for defense and security. The goal of NATO's first quantum strategy, approved by NATO foreign ministers on November 28, 2023, is to ensure that the alliance is "quantum ready." The strategy highlights QT for sensing, imaging, positioning, navigation, timing, and secure data exchange. Some of these technologies are already in use in the private sector and have become the subject of strategic competition. NATO's quantum strategy encourages and guides NATO's cooperation with the research community and industry to develop a transatlantic QT ecosystem, while also preparing NATO to defend against the malicious use of QT. Based on the adopted strategy, a community of experts called the Transatlantic Quantum Community has also been established.
+The field of QT is also addressed within the framework of the NATO Science and Technology Organisation and the NATO Science for Security and Peace programme, in which SI also participates with its representatives.
+Every year, NATO DIANA publishes a call for quantum solutions in various dual-use areas. The call, which is primarily aimed at startups working in the field of high technology, enables them to enter the military market with the support of the DIANA program.
+
+## 2.3 National level
+
+SI has a strong research foundation and a high level of activity in the field of QT, thanks to its long tradition of quantum physics and diverse research disciplines, ranging from superconducting technologies and quantum devices to quantum optics, quantum information theory, and quantum materials. In order to effectively exploit these opportunities, it is essential to establish an appropriate research and industrial infrastructure that will enable the development of new technologies and their effective integration into the economy and wider society. It is also necessary to ensure systematic education and training of personnel, as the future of QT depends heavily on highly skilled professionals who will be able to develop and apply advanced quantum solutions.
+National frameworks are crucial for the preparation of a national QT development strategy, as they ensure a coordinated and comprehensive approach to the formulation of long-term objectives and measures. SI has already recognized the importance of QT in its strategic documents. The integration of these documents allows QT development measures to be coordinated more broadly with the country's various objectives and strategic priorities, such as improving the competitiveness of the economy, promoting innovation, increasing investment in research and development, and increasing SI's involvement in the global technology community.
+ReZrIS30 is inextricably intertwined with the National Higher Education Program 2021–2030, both of which are aligned with the Slovenia 2030 Development Strategy. It is also linked to other strategic documents at the national level, such as the Slovenian Industrial Strategy 2021–2030, the Slovenian Smart Specialisation Strategy, the National Energy and Climate Plan, the National Environmental Protection Program 2030, Digital Slovenia, and the National Program for the Promotion of the Development and Use of Artificial Intelligence in Slovenia by 2025, Slovenia – a country of innovative start-ups.
+The expected development impact and outcome of ReZrIS30 is that by 2030, Slovenia will have developed into a successful knowledge- and innovation-based society by 2030 and rank among the leading innovators in the European Innovation Scoreboard, and that public investment in scientific research and innovation will amount to 1.25% of GDP by 2030, with public investment already reaching 1% of GDP by 2027, and total investment in scientific research, development, and innovation activities amounting to 3.5% of GDP by 2030, which will also include QT due to its strategic importance.
+ReZrIS30 is a key umbrella strategy in the field of scientific research and innovation activities. It emphasizes the focus of research and innovation also in areas that address key issues related to the digital transformation of the economy and society as a whole, supported by high-performance computing for data-intensive modeling and its application, with integration into development trends at the EU level. Based on the measures envisaged in ReZrIS30, activities are also being carried out that have an impact on the field of QT, especially those related to the career development of researchers, excellent and internationally competitive research infrastructure, strengthening cooperation between science and the economy, and knowledge transfer. These measures are defined in more detail in the action plans, in particular the plan for the implementation of activities, indicators, milestones for monitoring the implementation of ReZrIS30, and in the action plan for the implementation of objective 5: action plan for accelerated cooperation between science and the economy, knowledge transfer, and innovation.
+The alignment of national strategic documents with European objectives, such as those set out in the European policy program, enables SI to actively participate in European and global development networks. SI has therefore also included QT in the National Strategic Plan for the Digital Decade, which enables the coordinated implementation of measures for the development of supercomputers, quantum computers, and support for research activities that are key to the future of European digital infrastructure. This not only fulfills European objectives, but also ensures that SI does not lag behind in the development of key technologies that will be decisive for its technological progress and global competitiveness.
+The inclusion of QT in the Slovenian Industrial Strategy 2021–2030 and the Slovenian Smart Specialization Strategy further emphasizes the importance of this area for the future development of Slovenia. QT is not just one of many technological innovations, but is strategically very important for long-term sustainable growth, competitiveness, and innovation in various sectors of the economy.
+The field of quantum chips is also partially addressed in the Program for the Development of Chips and Semiconductor Technologies in Slovenia until 2030, which indicates the importance of this field for the broader technological infrastructure needed for the further development of high-tech industries in Slovenia.
+This document is logically linked to the 6th objective of the Slovenia 2030 Development Strategy for a competitive and socially responsible business and research sector by promoting the development of science and research in priority areas and by transferring research achievements for a highly competitive economy, a higher quality of life, and effective solutions to social challenges. The expected effect is an increase in the European Innovation Index indicator. Furthermore, it is directly linked to Sustainable Development Goal 9 – build resilient infrastructure, promote inclusive and sustainable industrialization, and foster innovation. Expected effects include an increase in the number of people employed in technology sectors, researchers in research and innovation activities, and patent applications to the European Patent Office.
+QT is also included in the Digital SI 2030 strategy, which emphasizes the need to leverage high-performance computing in research and development activities and invest in future technologies such as quantum computing and quantum communication among its horizontal objectives. The document defines specific objectives for the development of QT, such as the development of quantum computing, quantum communication systems, and technologies for quantum key distribution that are resistant to future technological challenges. In this way, Slovenia is preparing for a global role in the field of QT, particularly in the development and production of advanced semiconductor chips, which are key to progress in the field of quantum computers and communications.
+In addition to technological progress, the Digital SI 2030 strategy also focuses on international cooperation, which enables SI to be integrated into global research and development chains, thereby providing access to international sources of knowledge, experience, and financial resources. Participation in international projects and the integration of different areas, such as a comprehensive approach to the development of secure communications, are key factors in establishing SI in the field of advanced niche QT.
+All of the above-mentioned strategies and programs in Slovenia emphasize the importance of coordinated QT development within the broader priorities at the national, EU, and NATO levels. This ensures that QT is included in strategies that promote research and development in priority areas such as high-tech industries, sustainable development, and information system security. At the national level, coordinated frameworks ensure a stable and long-term orientation of the QT development strategy, thereby laying the foundations for a future in which QT will ensure technological progress and promote economic growth in niche segments, while also ensuring national security.
+SI must develop national guidelines and measures that will enable competitive integration into the European quantum ecosystem, in which the coordinated action of all stakeholders, from research institutions and industry to the government, will be crucial, with the clear goal of establishing SI as a leading country in niche areas of QT. The national strategy will strengthen efforts to effectively draw on European funds, attract investment, and strengthen SI's technological sovereignty.
+The security of communication and information systems, which protect defense data, critical infrastructure data, and classified information, is crucial for maintaining national technological sovereignty. In addition to the construction of quantum networks, the protection of communication and information systems against increasingly powerful quantum computers is a much more important and pressing issue. Accordingly, in parallel with the development of QT, protection against new threats must also be carefully planned.
+At the same time, the strategy must be flexible enough to adapt to the current security and defense situation at the European, NATO, and national levels, which includes taking into account the dual-use aspects of QT and responding in a timely manner to geopolitical and technological changes that may affect the development and use of these technologies.
+
+## 2.4 Analysis of critical mass and opportunities in the field of QT in Slovenia
+
+,
+,
+.
+In Slovenia, the critical mass in the field of QT consists mainly of research institutions, universities, and some companies operating in this field. Key stakeholders in the field of research and education are the Center of Excellence for Nanoscience and Nanotechnology – Nanocenter, IJS, Rudolfovo, the Novo Mesto Science and Technology Center, UL FE, UL FMF, UL FRI, UM CAMPT, UM FERI, UM FNM, and UNG.1(<>)Among the stakeholders from the business sectorsmall and medium-sized companies Beyond Semiconductor, CREAPLUS, Cosylab, Instrumentation Technologiesand start-ups AtomQL and TipPRI are active in the field of QT
+There are eight active research groups in the field of QT (IJS, UL FMF, UL FS, and UL FRI). Several research projects and CRP are also underway, funded by ARIS, including one in the field of defense. As the Ministry of Education, Science and Sport recognized Slovenia's scientific and technological capabilities in this field, it was included among the priority topics of the last call for research programs by the then Public Agency for Research Activities (now ARIS). Thus, since January 1, 2022, a five-year research program entitled Physics QT has been underway, led by Dr. Rok Žitko from the IJS in collaboration with the UL FMF. Slovenian researchers are participating in several COST actions in this field.
+Slovenian researchers have achieved remarkable success in acquiring and implementing ERC research projects, which is a source of great pride for Slovenia and places it among the European leaders in scientific excellence in the field of QT. Seven of the 33 Slovenian ERC projects are in the field of QT, namely two ERC projects for established researchers (Advanced Grant) under the auspices of the IJS and two ERC projects for established researchers (Advanced Grant) under the auspices of the UL FMF, two ERC projects for consolidating independent research paths (Consolidator Grant) under the auspices of the IJS, and one ERC project for starting independent research paths (Starting Grant) under the auspices of the IJS. Two ERC projects for established researchers (Advanced Grant), one under the auspices of the IJS and the other under the auspices of the UL FMF, have already been completed. Based on the completed ERC project, another ERC project was obtained and implemented under the auspices of the IJS to verify the innovative potential of research results (Proof of Concept).
+Slovenian researchers are also very successful in joint public transnational calls for proposals under the ERA-NET Cofund QuantERA II network. Since 2017, the Ministry of Education, Science and Sport has been participating in the initiative, allocating funds to co-finance Slovenian participation in approved multilateral transnational research projects. To date, five projects have been acquired, two of which were acquired under the auspices of the IJS (T-NiSQ and QuSIED, in which the IJS acts as coordinator). Two projects were acquired under the auspices of UL FMF (DQUANT and COMPUTE), and one was acquired by UL FE (uTP4Q).
+In the Digital Europe DIGITAL-2021-QCI-01 call for proposals, the UL FMF, as coordinator, in collaboration with partners IJS, Beyond Semiconductor, URSIV, and UVTP, successfully submitted a project to demonstrate the Slovenian quantum communication infrastructure (Slovenian Quantum Communication Infrastructure Demonstration – SiQUID), which is intended for the development and implementation of quantum key distribution between several government nodes in Slovenia and the establishment of a research test quantum network between research institutions.
+In the first Quantum Flagship call for proposals under Horizon Europe Cluster 4 HORIZON-CL4-2022-QUANTUM-02-SGA, UL FMF signed a framework partnership agreement for the Programmable Atomic Large-scale Quantum Simulation (English Programmable Atomic Large-scale Quantum Simulation 2 SGA1 – PASQuanS2) with the aim of developing a quantum simulator on a larger scale, and later also joined a three-and-a-half-year project that will develop an advanced quantum simulator. The project is coordinated by Germany.
+Slovenian stakeholders in the field of QT are linked in an informal association called QUTES, whose representatives also participate in the leading Quantum Flagship initiative. Some Slovenian companies in the field of QT are also included in a representative economic organization – GZS.
+
+# 3. KEY DEVELOPMENT OBJECTIVES
+
+Over the next decade, SI will strive to strengthen research capabilities, education and talent development, infrastructure establishment and QT industrialisation, which will enable the realisation of the vision of SI becoming a leading country in niche areas of QT.
+Excellent research is the foundation of progress in QT, so the objectives will be focused on ensuring the conditions for Slovenian researchers to carry out basic and applied projects at the national and international level, including providing support for talent development.
+High-tech infrastructure is key to doing awesome and groundbreaking research in this area, but we also need to make sure there are enough skilled experts in the support environment to lead future QT development in Slovenia and build our own infrastructure.
+We will also encourage the transfer of acquired knowledge to the economy and connect the research community with the economy (both small and medium-sized and large companies) to stimulate the expansion of the market for quantum solutions, strengthen economic competitiveness, and provide a supportive environment for the establishment and development of start-ups.
+In doing so, it is important to establish a quantum community that will include all key players, support the development of QT, and raise awareness of its possibilities both within the community and among the general public.
+An important part of QT development is enabling technologies, which are key to quantum technologies and industrial applications. Their development is a prerequisite for the transition from experimental prototypes to robust, reliable, and commercially viable quantum solutions.
+
+## The key development objectives are:
+
+- • Promoting progress in quantum science, development, research, and innovation.
+- • Establishing a connected quantum community in the form of an ecosystem that will include all key players in the knowledge triangle. This would encourage cooperation between different sectors to achieve excellence for Slovenian researchers at European and global level.
+- •
+Supporting the education of agile, innovative, and highly skilled individuals in the field of quantum science, engineering, and technology. This includes education, training, and development of experts who will be able to master the challenges of QT and contribute to achieving critical mass of knowledge and international competitiveness in this field.
+- • Strengthening infrastructure capacities and providing funds for investment in new, more powerful infrastructure are key to excellent and breakthrough research in this field. We will therefore strengthen infrastructure capacities and provide funds for investment in new, more powerful high-tech infrastructure.
+- • Accelerating the transition of QT from the research phase to industrial application by transferring knowledge to integrate quantum solutions into key economic sectors and stimulating innovation in the market.
+- • Promoting innovation, entrepreneurship, and economic competitiveness in the field of QT by establishing start-ups in both the domestic and international markets. Raising awareness and understanding of quantum technologies and their benefits, significance, and security challenges among key stakeholders such as researchers, the business community, public authorities, and the general public.
+
+# 4. KEY DEVELOPMENT AREAS
+
+The following chapter describes key development areas with measures that ensure or support the achievement of the above objectives. Due to the complexity and intertwining of QT with other areas, the measures are diverse and tailored to the specific needs of their development and application.
+A distinction is made between direct measures, which are precisely defined and have clearly defined financial implications, and horizontal financing instruments. The latter play an important supporting role in strengthening opportunities for the development of QT, primarily by providing financial resources, but their direct financial impact cannot be determined in advance. Horizontal instruments are broader in terms of content, type, and source of funding, but they can also contribute to the achievement of the objectives and expected results in the field of QT within the framework of this strategy, which is why they are presented with basic parameters.
+Direct measures therefore refer to specific funding mechanisms, programs, or projects with clearly defined funding sources, time frames, and expected results, indicators, and effects. Horizontal financing instruments include national and common European systemic incentives or strategic guidelines that influence the development of the area, but their financial impact cannot be determined in advance or depends on various factors (availability of funds in the annual budget, success of Slovenian applicants in calls for proposals, common European factors and current political guidelines, etc.). The status of the measures is also indicated. Measures in preparation are in the planning and design phase, while measures in implementation are already included in the operational processes of the competent authorities. This distinction allows for a better understanding of the different forms of QT support during the adoption and subsequent implementation of the strategy.
+To ensure effective implementation, coordination, and long-term monitoring of the strategy, additional human resources will be provided by creating two new positions at the Ministry of Foreign Affairs. The additional staff will provide substantive and administrative support for the implementation, monitoring, and review of the proposed measures, coordination of interministerial procedures, reporting, and cooperation with European and international partnerships. Due to the structural and long-term strengthening of the QT field, which is expected to deepen further after 2035 and be incorporated into other strategic segments (e.g., industrial policy, security, technological sovereignty), coordination will need to be ensured continuously and smoothly even after its expiry. After the expiry of this strategy, activities will continue within the framework of various domestic initiatives, European partnerships, the Quantum Europe strategy, the Quantum Act, and the next EU multiannual financial periods. It is therefore essential that SI ensures and maintains a permanent management and professional staff to achieve the development goals set and implement the measures outlined in this strategy, which will enable SI's continued involvement and position as a credible partner at European and global level. Institutional capacity is provided within the framework of the body that coordinates the working group for the preparation of the strategy proposal in accordance with Decision No. 02401-13/2024/4 of the Government of the Republic of Slovenia of January 9, 2025 (MVZI). The provision of institutional capacity for the implementation of tasks and coordination of the strategy is not a development measure and is not included among the direct measures, but the assessment of the financial implications is included in the financial plan annexed to this strategy.
+The strategy will be implemented in strict compliance with ethical principles and standards of integrity, thereby ensuring the consistency and transparency of the proposed measures and activities.
+
+## 4.1 Research, development, and innovation activities and knowledge transfer
+
+### 4.1.1 Specific objectives and expected results
+
+- • Providing support for the co-financing of basic and applied research and development projects and the Slovenian part of international research projects.
+- • Support for vertical and horizontal integration of stakeholders from the wider environment and establishment of a national ecosystem for Slovenian quantum research to break through to the top in Europe (networking and cooperation between representative stakeholders – QUTES, GZS, and others).
+- • Establishment and effective operation of support structures or key stakeholders for planning, monitoring, evaluating, and responding to changes in the field of QT development (interdepartmental working group, advisory group of experts and representative stakeholders).
+- • Strengthening cooperation in leading international initiatives and partnerships for joint quantum projects and knowledge sharing, and promoting and increasing co-financing for projects in the civil (QuantERA, Quantum Flagship, COST, and others) and defense (within the EDA) fields.
+- • Promoting new international research projects and infrastructure networks with possible partnerships involving private entities in investments in quantum research, development, and commercialization, including providing support to applicants in EU framework programs in relevant areas (Horizon Europe NCP network, Digital Europe Program NCP, IPE NCP, NATO DIANA NCP, NATO EDF (including EUDIS), EDA NCP, and HEDI NCP).
+- • Encouraging the establishment of quantum start-ups, promoting commercialisation (linking with the economy, presentation days, information) and obtaining financial resources (grants, bank loans, bank guarantees).
+- • Strengthening the competitiveness of domestic industry and partnerships between research organizations and technology companies, and knowledge transfer.
+- • Involvement of Slovenian experts from industry and research organizations in international groups in the field of defense (expert group for the implementation of the action plan in the field of quantum strategies in the field of defense, technology capability groups – CapTech, NATO STO, and others).
+
+### 4.1.2 Direct measures
+
+### 4.1.2.1 MEASURE 1: Co-financing of multilateral transnational research projects in partnership with ERA-NET QuantERA I and II (Horizon 2020)
+
+### Analysis of the situation and rationale for the proposed action:
+
+QuantERA is a leading European network of 41 public research funding organizations from 31 countries with a mission to support excellence in QT research and innovation. SI has recognized the scientific and technological potential of this field and joined the QuantERA network in 2017. The QuantERA network has received co-funding from the Horizon 2020 program twice, first in 2016 for the QuantERA I ERA-NET Cofund partnership and second in 2020 for the QuantERA II
+ERA-NET Cofund partnership.
+Key areas of development: research, development, and innovation activities, and knowledge transfer
+
+### Specific objectives – up to three:
+
+− providing co-financing for the Slovenian part of excellent multilateral transnational research projects in the field
+of QT (TRL 1-4);
+− strengtheningthe visibility of part research and excellence of Slovenian
+researchers in the field of QT;
+− strengthening scientific and technological added value by strengthening innovation opportunities in Slovenia
+(Objective 6 – Development Strategy of Slovenia).
+Status
+IN PREPARATION/IMPLEMENTATION
+Expected results after implementation of the measure
+- − Number of SI collaborations in the EU ERA-NET network for funding excellent research: 1
+- − Number of supported multilateral transnational research projects with Slovenian participation: 5
+Measure implementer
+Ministry of Higher Education, Science, and Innovation
+
+### Brief description of the measure
+
+Slovenia's participation in the QuantERA II initiative has direct benefits at the national level and is also a unique opportunity to raise the profile of research and the excellence of Slovenian researchers in the field of QT at the European level. SI provides funding for the project work of Slovenian researchers through domestic funding of breakthrough multilateral transnational research projects. Five research projects with Slovenian participation have so far been successfully acquired in joint public transnational calls under QuantERA II, demonstrating scientific and technological capabilities in the field of QT and confirming the success of Slovenian applicants. The measure also contributes to the development objective of communicating with the public and raising awareness among target audiences.
+
+### OVERVIEW OF FUNDED PROJECTS WITH SLOVENIAN PARTICIPATION:
+
+QuantERA II JTC 2021
+Project
+Acronym
+Member States rcija
+Slovenian beneficiary
+Total project value
+Value of MVZI funding
+Status
+an
+d period of implementation project
+Quantum computing in the near future from the perspective of dissipative
+DQUANT
+PT, DE, NO,
+PL, SI
+UL FMF
+1,547,570
+EUR
+131,449.68
+EUR
+COMPLETED
+1 April 2022 – September 30, 2025
+quantum chaos (English Dissipative Quantum Chaos Perspective on Near-Term Quantum Computing)
+Platform for quantum photonic circuits (English A versatile quantum photonic IC platform)
+uTP4Q
+DE, BE, DK, SI, CH
+UL FE
+802,369
+EUR
+149,397.61
+EUR
+COMPLETED
+May 1, 2022 – September 30, 2025
+Tensor Networks in Simulation of Quantum Matter (Quantum Metter)
+Quantum Matter)
+T-NiSQ
+IT, DE, AT, ES, SI
+IJS
+1,257,976
+EUR
+149,952
+EUR
+COMPLETED
+May 1, 2022 – April 30, 3025
+Quantum simulation with structured dissipation (English Quantum simulation with engineered dissipation)
+QuSIED
+SI, DE, AT, ES, FIN
+IJS
+(coordinator)
+959,943
+EUR
+149,925
+EUR
+COMPLETED
+1 April 2022 – March 31, 2025
+QuantERA II JTC 2023
+Non-commutative polynomial optimization for quantum networks (English NonCommutative Polynomial
+oPtimisation for qUanTum nEtworks)
+COMPU-TE
+FR, DE, ES, SI
+UL FMF
+984,952.6
+8 EUR
+296,941.18
+EUR
+ACTIVE
+1 August 2024 – July 31, 2027
+TOTAL QuantERA
+II
+5,552,810
+,68 EUR
+877,665.4 7
+Approximate financial funds for the implementation of the measure in the period 2025–2035
+EUR 877,665.47, integral sources.
+Expected effects
+By 2030/2035:
+- − Number of SI participations in the EU ERA-NET network for funding excellent research in the field of QT: 1
+- − Number of supported international projects with Slovenian participation: 5
+
+### 4.1.2.2 MEASURE 2: Co-financing of multilateral transnational research projects in partnership QuantERA III RIA + FSTP (Horizon Europe)
+
+### Analysis of the situation and reasons for the proposed measure:
+
+The vision of the QuanteERA network is for the partnership to continue its participation in the Horizon Europe program. Due to the lengthy process of launching a new partnership instrument, the so-called "CF partnership" under the Horizon Europe program, a bridging solution was adopted. On 23 April 2024, the European Commission (hereinafter EC) published a call for proposals for a research and innovation project with the possibility of financial support for third parties (Research and Innovation Action + Cascading grant with FSTP – Financial Support for Third Parties, hereinafter: RIA-FSTP): HORIZON-CL4-2024-DIGITAL-EMERGING-02-02 with the aim of supporting networks for research in the field of QT.
+MVZI
+Key areas of development: research, development, and innovation activities and knowledge transfer
+Specific objectives – up to three:
+- − providing co-financing for the Slovenian part of excellent multilateral transnational research projects in the field of QT (TRL 1-4);
+- − strengthening the visibility of the Slovenian part of research and the excellence of Slovenian researchers in the field of QT;
+- − strengthening scientific and technological added value by strengthening SI's innovation capabilities (objective 6 SI Development Strategy).
+Status
+IN PREPARATION/IMPLEMENTATION
+Expected results after implementation of the measure
+- − Number of SI participations in a special type of European partnership for financing excellent research: 1
+- − Number of supported multilateral transnational research projects with Slovenian participation: 3
+Responsible body
+Brief description of the measure
+The QuantERA network submitted a project entitled QuantERA III (hereinafter: QuantERA III initiative) to the call for proposals, which is a strategic continuation and upgrade of the partnerships implemented under the Horizon 2020 QuantERA I ERA-NET Cofund and QuantERA II ERA-NET programs. The QuantERA III initiative has formed a project consortium, which is legally equivalent to the previous ERA-NET partnerships and will operate in accordance with the provisions and rules for RIA-FSTP projects under the Horizon Europe program. Measure
+It also contributes to the development goal of communicating with the public and raising awareness among target audiences.
+The aim of the QuantERA III project is to strengthen the links between different stakeholders in the field of QT and to promote cooperation between groups of top scientists in the field of QT in Europe.
+Coordinator:
+National Science Centre (NCN), Poland NCN), Poland
+Role of MVZI
+Consortium partner
+Estimated project duration:
+2025–2030
+Estimated value of the project:
+EUR 45–50 million
+Planned activities of the QuantERA III project:
+- •
+Implementation of one (1) joint transnational public call with co-financing by consortium partners under the FSTP – expected in 2025.
+- • Implementation of an additional joint transnational public call without co-financing, expected in 2027.
+- • Ensure that the QuantERA network consolidates its position as an incubator new promising ideas in the field of QT.
+- • Expanding cooperation in the network outside the European continent;
+- • Implementation new ways cooperation with Quantum Flagship.
+- • Continuation of mapping public policies for the QT field.
+- • Networking with stakeholders from the business sector.
+- • QuantERA development plan after the RIA-FSTP bridging phase.
+Indicative financial funding for the implementation of the measure in the period 2025– 2035
+EUR 900,000.00, integral sources.
+Expected effects
+By 2030/2035:
+- − Number of SI collaborations in the European partnership for funding excellent research in the field of QT: 1
+- − Number of supported multilateral transnational research projects with Slovenian participation: 3
+
+### 4.1.2.3 MEASURE 3: Establishment of a competence center for QT
+
+### Analysis of the situation and reasons for the proposed measure:
+
+Acquiring a quantum computer is a necessary but not sufficient condition for its effective, versatile, successful, and economical use. To achieve this, an appropriate hub must also be established, for example in the form of a QT competence center. The competence center will enable coordination, capacity building, expert guidance, and long-term strategic monitoring of quantum computer development in Slovenia, as well as the establishment of a comprehensive ecosystem for QT.
+It also makes sense to link the operations, services, and functionalities of the AI competence center and the QT competence center, as only their coordination can enable the use of a hybrid computer system built for artificial intelligence, an optimized supercomputer (Vega 2), and a quantum computer. The MDP, which is responsible for the development of the information society and covers the field of artificial intelligence, is particularly interested in developing such a solution. The MDP and the MVZI are already cooperating constructively in the field of supercomputing and artificial intelligence development, and cooperation on
+in the field of quantum technologies represents a logical continuation of previous efforts.
+Key areas of development: Research, development, and innovation activities and knowledge transfer
+
+### Specific objectives – up to three
+
+- − At the national level, the QT Competence Center will act as a "national cluster," enabling the integration of key stakeholders in the field of quantum technologies, from research organizations and universities to companies, and strengthen QT development capacities: education and training of personnel, strengthening of infrastructure, community networking, strengthening of enabling technologies)
+- − Establishment of cooperation between the QT competence center and the artificial intelligence competence center, integration into a comprehensive ecosystem for the development of the information society at the next development level.
+- − Ensuring coordination and integration of the national consortium of stakeholders, strategic monitoring of development and guidance for the acquisition of a quantum computer (supplemented by measure 4.2.2.4 – acquisition of a quantum computer).
+Status
+IN PREPARATION
+Expected results after implementation of the measure
+Established competence center for QT
+Responsible body
+MVZI, provided that additional staffing capacity is secured (creation of two new jobs at
+MVZI).
+Participating bodies: MDP, MGTŠ, MO
+Brief description of the measure
+The QT Competence Center will be established as a national hub between research organizations, industry, and users, modeled on the SLING community.
+The planned tasks of the QT competence center are:
+- − strengthening human resources capacities in the field of quantum technology development;
+- − strengthening infrastructure capacities in the field of quantum technology development;
+- − connecting the Slovenian quantum community (research organizations, industry, and users) and strengthening and exchanging expertise and competencies;
+- − monitoring global developments in quantum computing (platforms, technologies, algorithms);
+- − development and establishment of a comprehensive environment (ecosystem) for quantum computing, which includes support for the development of a quantum computer based on domestic expertise and competencies;
+- − professional coordination, strategic guidance, and monitoring of the phased development of a quantum computer;
+- − implementation of calls for proposals and co-financing of research and innovation projects for the development of a quantum computer (e.g., verification of the design and demonstration of a quantum computer platform based on various promising technologies), including the preparation of expert bases;
+- − participating in European initiatives (Quantum Flagship, EuroHPC JU, QuantERA, QTCG, and others); promoting applications by Slovenian applicants for centralized European calls for proposals;
+- − promoting the transfer of research achievements into industrial applications (LAB2FAB), including attracting investment;
+- − purchasing quantum computing time on foreign quantum platforms for training and testing;
+- − Networking and cooperation with European QT centers and enabling access to quantum computers abroad for further development and training (e.g., CINECA).
+Indicative financial envelope for the implementation of the action in the period 2025–2035
+EUR 2,500,000 (MVZI, MDP, MGTŠ, MO – provision and planning of funds to be divided between the aforementioned bodies) in the period between 2027 and 2031.
+EUR 1,200,000 (MVZI – for research and innovation projects) in the period between
+2028 and 2030.
+Expected effects
+Establishment of a QT competence center by 2027.
+
+### 4.1.2.4 MEASURE 4: Important projects of common European interest – IPCEI in the field of quantum technologies
+
+Analysis of the situation and reason for the proposed measure:
+While quantum technologies are currently in the lower TRL development phase and are therefore not sufficiently used in applied solutions, by participating in important projects of common European interest, we encourage companies to accelerate the development and introduction of innovations through industrial research, experimental development, and first industrial application. This is also the purpose of IPCEI projects, through which we are developing application solutions that are not yet on the market (beyond-state-of-the-art) in cooperation with partner companies from EU member states. As one of the potential areas of development, a proposal for the development of an IPCEI project for
+the field of quantum technologies.
+Key area of development: Research, development, and innovation activities and knowledge transfer
+
+### Specific objectives – maximum 3:
+
+- − Providing co-financing for Slovenian partners – companies participating in IPCEI in the field of QT (TRL 6-9);
+- −
+Strengthening the visibility of Slovenian research and innovation by Slovenian companies in the field of QT;
+- -
+Strengthening technological added value by strengthening Slovenia's innovation potential (Objective 6
+- – Slovenia's Development Strategy).
+Status
+IN PREPARATION/IMPLEMENTATION
+Expected results after implementation of the measure
+- − Number of SI companies participating in IPCEI QT: 2-3 Number
+- − of supported transnational projects with Slovenian participation: 3
+projects
+w it h
+Measure implementer
+MGTŠ
+
+### Brief description of the measure
+
+Following the decision on the next generation of IPCEIs, which includes QT among the proposed areas, a basic document describing the value chain in the field of QT will be developed during the design phase of the project of common European interest. Slovenian companies are involved in individual areas of the value chain in terms of carrying out their activities, with the condition for participation in IPCEI being the acquisition of a direct partner at EU level. The measure will contribute to the objectives of increasing innovation potential
+and to achieving greater strategic autonomy at European level.
+The aim of this important project of common European interest is to reduce Europe's dependence on third markets and increase the EU's strategic autonomy and resilience.
+Coordinator:
+Not yet determined
+Role of MGTŠ
+Consortium partner
+Estimated project duration:
+2027-2030
+Estimated value of the project:
+Not yet known
+Planned activities of the QuantERA III project:
+- •
+Implementation of a public call for expressions of interest in participating in a potential IPCEI in the field of QT.
+- • Participation in matchmaking with European partners.
+- • Implementation of a national public call for proposals for financing associated partners
+Estimated financial funds for the implementation of the measure in the period 2025-2035
+EUR 2,000,000-4,000,000 ERDF integral resources.
+Expected effects
+By 2031:
+- − Number of SI companies participating in the potential IPCEI QT: 3
+- − Number of supported projects participating in the IPCEI project: 3
+
+### 4.1.2.5 MEASURE 5: CRP entitled Cryptographically Secure Random Number Generator
+
+Analysis of the situation and reason for the proposed measure:
+CRP is in the field of cryptography and relates to related fields (mathematics, physics, electrical engineering, and computer science) necessary for the development of cryptographic solutions for the protection of classified information in the systems of the Republic of Slovenia and thus for achieving a higher level of national security. The dependence of modern society on information technology, together with cyber threats, has increased the need to ensure
+a higher level of cyber security. One of the fundamental building blocks for ensuring the security of communication and information systems is cryptography. In this regard, a cryptographically secure random number generator is certainly one of the most important and security-sensitive parts of almost any cryptographic solution. One of the ways to develop a "true" random number generator has recently
+based on the laws of quantum physics or quantum phenomena.
+Key areas of development: Research, development, and innovation activities and knowledge transfer
+Specific objectives – up to three:
+- − analysis of the state of the art in cryptographically secure random number generators, taking into account potential security threats posed by the use of quantum computers;
+- − development of a cryptographically secure random number generator on different platforms.
+Status
+IN PREPARATION/BEING IMPLEMENTED
+Expected results after implementation of the measure
+- − Proposal of recommendations or requirements for a cryptographically secure random number generator that would be suitable for use in the field of classified information.
+- − Development of a "true" random number generator using QT.
+Measure implementers
+UVTP and ARIS
+Brief description of the measure
+From 2021 to 2025, the Office is active in the CRP2021 research project entitled Cryptographically Secure Random Number Generator (V1-2119), in which we are collaborating with researchers from the Jožef Stefan Institute.
+One of the project's objectives is to develop a cryptographically secure random number generator based on the laws of quantum physics or quantum phenomena. Another equally important objective is to prepare a written report on the state of the art in the field of secure random number generators, together with recommendations, taking into account the potential
+security risks due to the use of quantum computers and a timetable for the necessary measures.
+The indicative financial resources for the implementation of the measure in the period
+2025–2035
+The Office financed the project in 2021–2023 in cooperation with ARIS, with UVTP allocating EUR 379,522.00 in 2025, only the implementation of the project is planned, without financial obligations on the part of the Office.
+Expected effects
+By 2030:
+- − use of written recommendations for cryptographically secure random number generators for use in the field of classified information in security adequacy assessment procedures for cryptographic solutions;
+- − use of methodologies for verifying the correct operation of cryptographically secure random number generators in security adequacy assessment procedures for cryptographic solutions;
+- − Use of a quantum random number generator for testing purposes.
+By 2035:
+possible use of a quantum random number generator in the field of classified information protection in SI state systems.
+
+### 4.1.2.6 MEASURE 6: CRP entitled Quantum Security of Elliptic Curves
+
+### Analysis of the situation and reason for the proposed measure:
+
+The CRP proposal is in the field of cryptography and relates to related fields (mathematics, physics, electrical engineering, and computer science) necessary for the development of cryptographic solutions for the protection of classified information in the systems of the Republic of Slovenia and thus for achieving a higher level of national security. The dependence of modern society on information technology, together with cyber threats, has increased the need to ensure a higher level of cyber security. One of the fundamental building blocks of ensuring the security of communication and information systems is cryptography.
+The use of quantum computers could seriously compromise the security of cryptography, especially that based on the use of elliptic curves. However, the use of this type of cryptography in state communication and information systems, where classified information is protected, may differ significantly from its use for general purposes.
+purposes.
+Key area of development: Research, development, and innovation activities and knowledge transfer
+Specific objectives – up to three:
+- − Analysis of the security threat posed by the use of quantum computers depending on the choice of elliptic curve parameters;
+- − Determination of the level of cryptographic security depending on the choice or knowledge of elliptic curve parameters;
+- − Development of an algorithm for selecting cryptographically secure elliptic curve parameters, taking into account general cryptographic recommendations and potential security threats due to the use of quantum computers.
+Status
+IN PREPARATION/BEING IMPLEMENTED
+Expected results after implementation of the measure
+− Algorithm for selecting cryptographically secure parameters of elliptic curves, taking into account general cryptographic recommendations and potential security risks due to the use of quantum computers.
+Measure implementers
+UVTP and ARIS
+Brief description of the measure
+From 2027 to 2030, the Office plans to participate in the CRP entitled Quantum Security of Elliptic Curves. One of the project's objectives is to investigate the impact of quantum computers on the security of cryptography based on elliptic curves, depending on the choice and knowledge of parameters.
+The indicative financial resources for the implementation of the measure in the period
+2025–2035
+The Office plans to implement the project in the period 2027–2030, with planned funds for these three years amounting to EUR 200,000.00. The total value of the project (assuming that the project is 50% co-financed by ARIS) would thus be
+EUR 400,000.00.
+) would thus be EUR 400,000.00.
+Expected effects
+By 2030:
+- − use of an algorithm for selecting cryptographically secure elliptic curve parameters for testing purposes.
+By 2035:
+- − possible use of the algorithm for selecting cryptographically secure elliptic curve parameters in the field of classified information protection in the systems of the Republic of Slovenia.
+
+### 4.1.2.7 MEASURE 7: CRP entitled Analysis of the benefits and risks of QT in the field of security (KVANTEH)
+
+### Analysis of the situation and reasons for the proposed measure:
+
+QT covers the fields of quantum computing, quantum sensors, quantum metrology, and quantum communication, and represents a breakthrough in the ways we process and exchange data and perceive time and space. Due to their special mode of operation, quantum devices achieve capabilities and functionalities that far exceed the best classical technologies. Due to the possible dual use of these devices for both civilian and military purposes, the consequences of the use of quantum technologies will be significant, as they represent strategic advantages as well as new security challenges. The objectives of RRI are to analyze the impact of quantum technologies on security systems, national security, and defense mechanisms of the Republic of Slovenia, to review opportunities for Slovenian stakeholders to participate in quantum technology projects to strengthen the capabilities of the European Defense Agency (EDA), and to prepare and organize a workshop on quantum technologies with
+- a focus on their use for security purposes.
+Key area of development: Research, development, and innovation activities and knowledge transfer
+
+### Specific objectives – up to three
+
+- − Analysis of the overall impact of quantum technologies on security systems, national security, and defense mechanisms of the Republic of Slovenia, review of the use of quantum devices in the field of security, and preparation of forecasts on the future development of quantum technologies and their possible impact on security systems.
+- −
+Review of existing activities and documents in the field of defense at the international level (EU and NATO level), SI's involvement at the international level, and examination of possibilities for involvement.
+Preparation of a final report on the status, capabilities, and possible uses of quantum devices an emphasis on their use for security purposes.
+Status
+IN PREPARATION/IMPLEMENTATION
+Expected results after implementation of the measure
+- − The RRIA will support the long-term capabilities of the Slovenian Armed Forces and domestic companies and research institutions, thereby contributing to the strengthening of the country's defense technological and industrial capabilities. The document "Resolution on the General Long-Term Program for the Development and Equipment of the Slovenian Armed Forces until 2040" in Chapter 8. "Capabilities of the Slovenian Armed Forces," states that the development of capabilities will take into account modern technological trends and experience from current conflict areas and modern military operations. Modern systems will be introduced that will increase combat power and operational effectiveness while also ensuring greater survivability and a higher degree of logistical self-sufficiency for the forces. NATO's 2023 quantum strategy clearly states that QT is one of the technological areas that NATO allies have prioritized due to its implications for defense and security.
+- − Recommendations on the capabilities and potential applications of quantum devices with an emphasis on use for security purposes.
+Responsible parties
+MO and ARIS
+Brief description of the measure
+From 2024 to 2026, the Ministry of Defense will participate in the CRP KVANTEH with the IJS and analyze the current situation (benefits and risks of quantum technology in the field of defense) and documents and activities at the EU and alliance level, and propose concrete measures.
+Indicative financial for the implementation of the measure in the period 2025– 2035
+The project, worth EUR 120,000, will be financed in equal shares by ARIS and the Ministry of Defense for 18 months (starting in October 2024).
+Expected effects
+By 2030:
+- − Development at the national level to meet the needs at the allied level.
+By 2035:
+- − With a better understanding of the Slovenian environment, research institutions, and Slovenian industry, we will strategically draft documents at the EDA, participate in EDA and EDF projects, and become one of the leading countries in the field of
+QT.
+
+### 4.1.2.8 MEASURE 8: CRP entitled Quantum Sensors for Time and Space Detection (KVANTSENZ)
+
+Analysis of the situation and reason for the proposed measure:
+In line with NATO's quantum strategy on quantum sensors for time and space detection, we highlight four technologies in the field of time and space detection: inertial navigation, radio wave detectors and quantum radar, magnetometers, and atomic clocks. The project plans to review the situation in Slovenia and explore potential opportunities for Slovenian industry with the aim of ensuring the capabilities of the Slovenian Armed Forces.
+of the Slovenian Armed Forces.
+Key area of development: Research, development, and innovation activities and knowledge transfer
+Specific objectives – maximum of three
+- − Review of the state of the art and investigation of the potential applications of quantum sensors for inertial navigation, detection of radio waves and magnetic fields from the perspective of their use in the field of security and defense.
+- − Development and demonstration of a laboratory quantum device for radio wave detection and assessment of the possibilities for miniaturization of quantum devices, including radio frequency antennas, radars, and atomic clocks, for military purposes.
+- − Preparation of a capacity assessment for the development of quantum sensors in Slovenia and organization of workshops to enhance knowledge of defense applications of quantum technologies.
+Status
+IN PREPARATION/IN PROGRESS
+Expected results after implementation of the measure
+− The project will support the implementation of medium- and long-term defense system development goals with added value, primarily for the development of the Slovenian Armed Forces' capabilities in dealing with modern military threats and risks. Priority areas that are logically linked to the priority areas of NATO and the European Union's RRI will be taken into account. Development of demonstration laboratory device for detecting radio waves, operating on the principles of quantum mechanics
+(TRL 4).
+Implementing bodies
+MO and ARIS
+Brief description of the measure
+From 2024 to 2026, the Ministry of Defense will participate in the CRP KVANTSENZ, which will comprehensively analyze the field of quantum sensors for use in modern security and defense mechanisms, develop demonstration quantum devices for detecting radio waves, preparing reports and recommendations, and
+two workshops on the opportunities and dangers of this technology.
+The indicative financial resources for the implementation of the measure in the period
+2025–2035
+The project, worth €280,000, will be financed in equal parts by ARIS and the Ministry of Defense for 18 months (starting in October 2024).
+Expected effects
+By 2030:
+- − Completed analysis and development the aforementioned demonstrator.
+By 2035:
+- − Further activities on this area with the aim of ensuring security and defense capabilities.
+
+### 4.1.3 Horizontal financing instruments
+
+### 4.1.3.1 National level
+
+Name of instrument
+Description of instrument
+Status
+Duration
+Responsible body
+Support research program with the field of QT
+From January 1, 2022, under the auspices of the IJS in cooperation UL FMF, a dedicated five-year research
+"Physics QT." With the introduction of a mechanism stable funding mechanism for scientific research and innovation activities, in accordance with the Regulation on the financing of scientific research activities from
+the Budget of the Republic of Slovenia (Official Gazette of the Republic of Slovenia, No. 35/22, 144/22 and 79/23) in the program pillar funding also includes funding for research programs and young researchers participating in these programs. It is expected that the program will extended in the event of good results and sufficient budgetary funding, the program will be extended, covering the duration and implementation of this strategy.
+IMPLEMENTED
+2022–2027
+ARIS
+Support research projects with the field of QT
+In the field of QT, according to SICRIS records, 15 state and bilateral research projects ARIS. In this regard, we can highlight the success of UL FMF, which has together with colleagues from Trieste and Zagreb during a meeting G20 Digital Ministers in Trieste in August 2021, the first public demonstration of intergovernmental quantum communication between three countries: Italy, Slovenia and Croatia. Cooperation between the countries has already also taken place within the framework of the bilateral project Public Agency for Scientific Research and Innovation of the Republic of Slovenia with Croatia (2020– 2023). Between 2024 and 2027, under the auspices of the IJS , cooperation with the USA on hybrid quantum devices made of superconducting and strongly correlated materials. It is expected that QT research projects will be carried out throughout the
+the duration and implementation of this strategy.
+IMPLEMENTATION
+2025–2035
+ARIS
+Name of the instrument
+Description of the instrument
+Status
+Duration
+Responsible body
+Co-financing projects carried out by on the basis of JR Gravity
+JR Gravity is a measure intended to finance consortia of scientists carrying out innovative and influential research in their field. Its purpose is to encourage research consortia that can reach the absolute global top in the field of research or have already reached that level. Among The QT area is also included in the four target areas. (Co-)financed will be will be promising research projects that reach TRL ½-4/5 on the technology readiness level scale
+TRL ½-4/5, with a total value of co-financing in the call is EUR 12 million for period 2025–2027 or three million for
+each selected project. It should also be noted that the consortia make a significant contribute to to training talented researchers, while beneficiaries will be able to use up to EUR 1.125 million in funding for the purchase of research infrastructure. The expected start date for (co-)financing the implementation of Gravity projects and strategic projects is 1 July 2025. The selected projects will be ARIS
+is expected to (co-)finance until June 30, 2028.
+IMPLEMENTED
+2025–2028
+ARIS
+Co-financing projects in based on JR
+TRL 3–6
+JR for co-financing longer-term large research and innovation collaborative programs on the TRL 3–6 scale, which will be launched for the first time in 2023 published ARIS is intended promoting research, development, and innovation programs in consortia public research organizations and companies in the green transition and
+digitalization for the development of new or improved products, processes or services with the aim of identifying, developing and introducing breakthrough technologies and high-risk
+risk solutions in SI, upgrades basic research achievements and their transfer into a highly competitive economy, achieving profound technologies and thus a higher quality of life, effective solutions social
+challenges, cooperation the economy and research
+organizations with involving other stakeholders society (multilateral approach to promoting private investment in research and development and strengthening the social and environmental responsible research and entrepreneurial sector and increasing productivity and competitiveness of the economy on the global market. In 2025, ARIS published a new public call for proposals
+taking into account thematic priority tasks of the Smart Specialisation Strategy.
+IMPLEMENTED
+2023–2029
+ARIS
+Name of instrument
+Description of the instrument
+Status
+Duration
+Responsible
+Instruments for co-financing upgrades TRL 3–6 projects and instruments for the upgrading of
+projects Gravity for confirm concept (English proof of concept)
+Funding is envisaged for the upgrading of projects Gravity for assessing innovation opportunities for proof of concept and thereby increasing the value of excellent results research arising from the Gravity scheme. It envisages therefore therefore further further work through testing, experimentation, presentations, and confirming ideas; conducting the research necessary to eliminating shortcomings, identifying
+feasibility, technical issues and general guidance, clarification of intellectual property rights protection property or knowledge transfer strategies, integration
+partners. support for the upgrading of completed TRL 3–6 projects in the direction of co-financing activities of already completed projects to strengthen innovation activities and
+market transition (TRL 6–8).
+IN PREPARATION
+2027–2035
+ARIS
+Upgrade applications ARIS research in within the framework of
+EKP 2021–
+2027
+The instrument will be intended support applied research at TRL 3-6 level, which is crucial from the perspective of knowledge transfer and its commercialization, building on the successful
+completed application projects of the ARIS agency.
+IN PREPARATION
+2025–2029
+ARIS
+Support instruments European research Council – ERC
+In order to ensure that researchers who will apply with a Slovenian research organization as their host institution to be successful in ERC calls, ARIS offers two support instruments for applicants, namely ERC Focus – study visits to ERC project leaders ERC projects and ERC perspective – funding of the adapted ARIS project based on a well-evaluated ERC application that was not accepted for
+ERC funding. ARIS also offers two support instruments for project leaders project ERC
+(ERC
+potential – a small project to prepare for the launch ERC and ERC New Horizons project – project for continuation of research work after completion of the ERC project and maintaining the core of the established research groups). ARIS also finances the seal of excellence awarded in ERC calls for the assessment of innovation potential
+(Proof of Concept – ERC PoC).
+IMPLEMENTED
+2025–2035
+ARIS
+The measure for increase uses of QT in companies (experimental development)
+QT for currently includes in advanced digital technologies, according to their degree of practical applicability and in so-called deep technologies (for which there are still no , so it is important to pay special attention to the development and the first industrial application of these technologies for the fastest
+possible transfer of development and knowledge to the market. QT will be supported under the incentive measure
+IN PREPARATION
+2025–2035
+MGTŠ
+for the development and production of strategic technologies for
+Name of the instrument
+Description of the instrument
+Status
+Duration
+Responsible
+Europe (STEP). The aim of the measure will be to support companies and research organisations in implementing projects in the field of critical and emerging strategic technologies (digital, deep technologies, clean and biotechnologies) and their value chains. In the field of digital technologies, it will also be possible to submit projects in the field of quantum technologies. This is a broader measure for companies and research organisations within the framework of technologies envisaged by the STEP instrument in the field of digital and deep technologies. Among other technologies, development projects in the field of QT will also be eligible for support. The aim of the measure is to increase QT development in supported companies and accelerate the transfer of knowledge and innovation in the field of QT to companies. The expected results and effects will be projects implemented in the field of critical and emerging strategic technologies, among others
+digital technologies and deep-tech innovations.
+Established regional venture capital fund Vesna
+The purpose of establishing the CEETT platform, in which the EIF, SID Bank, and HBOR will participate, is to establish and contribute these funds to a regional venture capital fund. The fund will be used to finance research projects, technology development, and intellectual property with commercial value for the economy, specifically in their earliest stages, when they are still under the jurisdiction of research groups at universities and research institutes. This will enable their successful development and commercialization into end products and services for the economy with high added value and marketability. value.
+IN IMPLEMENTATION
+2023–2030
+SID BANK
+Incentives within the SRIP SI platform
+SRIPs are Slovenian development and innovation partnerships that connect the economy, research and educational institutions, and the support environment to strengthen the competitiveness of the Slovenian economy. SRIPs are part of Slovenia's Smart Specialization Strategy and support the development of key technologies and areas with great potential for industrial growth. They act as platforms for cooperation between industry and science, promoting research and innovation and are in assistance in
+obtaining European and national funds.
+IMPLEMENTED
+2023–2026
+MVZI
+JR EIC
+Accelerator for the period 2025–
+2029 (JR
+Accelerator)
+This is a measure being prepared within the framework of additional financing instruments at the international level. The purpose of the public call is to encourage investment in research, development, and innovation and to establish links and cooperation between companies and research institutions for the development of new or
+improved products, processes or services and
+IN PREPARATION
+2025–2029
+ARIS
+Name of instrument
+Description of instrument
+Status
+Duration
+Responsible
+Participation in international research projects of Slovenian applicants in Horizon Europe programs based on the seal of excellence received. Support will be provided to RRI projects selected for co-financing under the EIC Accelerator scheme of the Horizon Europe program from 2023 until the call for proposals, which have received a seal of excellence certificate, but due to the use of available
+funds were not selected for EC co-financing.
+Establishment of knowledge transfer offices at all JROs
+For the long-term stability of the knowledge and technology transfer system, it will be necessary to ensure further funding and stable operation of knowledge transfer offices, with offices also being established at other RTOs in Slovenia in the field of technological and non-technological innovation.
+IN PROGRESS
+2024–2030
+MVZI
+Strengthening the project offices of public research organizations
+In 2022, the Ministry of Education, Science and Sport published a call for proposals aimed at strengthening the support environment for project offices and public research organizations, which play an important role in activities related to applications for public tenders and the implementation of EU centralized programs, with an emphasis on Horizon Europe tenders and projects.
+Four consortia were successful in the JR with the projects 5xPRO (coordinator: Chemical Institute), KRPAN (coordinator: University of Ljubljana), ROAD3P (coordinator: Institute of Construction) and SKUPP (coordinator: Agricultural Institute of Slovenia). Together, the projects, which will be implemented between 2023 and 2026, will be co-financed by up to EUR 5,066,644.81 by the Ministry of Education, Science and Sport and the European Union –
+NextGenerationEU (NOO).
+IN IMPLEMENTATION
+2023–2026
+MVZI
+Establishment of the Vesna regional venture capital fund
+The purpose of establishing the CEETT platform, in which the EIF, SID Bank, and HBOR will participate, is to establish and contribute these funds to the regional venture capital fund. The fund will be used to finance research projects, technology development, and intellectual property with potential commercial value for the economy at the earliest stage, when they are still under the jurisdiction of research groups at universities and research institutes. This will enable their successful development and commercialization into end products and services for the economy with high added value and marketability.
+value.
+IN IMPLEMENTATION
+2023–2030
+SID BANK
+Name of instrument
+Description of instrument
+Status
+Duration
+Responsible
+Establishment of a national intellectual property point
+Establishment of a national contact point for IP to support the innovation process by providing key information and tools through the exchange of good practices, coordination of domestic activities, and networking.
+IN PREPARATION
+2026
+URSIL
+Promoting spin-off innovative companies
+The measure will be aimed at promoting the establishment of startups and spin-offs (spin-outs) of innovative companies from (public) research organizations for the commercial exploitation of researched knowledge or solutions based on knowledge transfer. spin-offs, spin-outs) from (public) research organizations for the commercial exploitation of researched knowledge or solutions based on the transfer of knowledge in the form of intellectual property, employees, and other forms. The aim is to encourage the establishment of new innovation-oriented companies for the transfer of knowledge from the scientific research sphere (part of the TRL scale) to market application (up to TRL 8 and 9). The measure is planned for the period from 2026. The first public call for proposals will allocate
+approximately EUR 2 million will be allocated to the measure.
+IN PREPARATION
+From 2026
+ARIS
+
+### 4.1.3.2 European level
+
+Name of instrument
+Description of instrument
+Status
+Duration
+Responsible body
+Opportunities for Slovenian applicants in the Horizon Europe program
+Horizon Europe is the European Union's framework program for research and innovation, which will run from 2021 to the end of 2027. The strategic planning process for Horizon Europe focuses primarily on scientific excellence, global challenges, and the pillar of European industrial competitiveness of companies. It also includes a part of the program for expanding participation and strengthening the European Research Area. The total value of financial resources for new activities exceeds EUR 95.5 billion.
+(50) Excellent science is the first pillar of Horizon Europe, which strengthens the EU's leading role in science and enables the development of high-quality knowledge and skills. Within this pillar, Slovenia is striving to increase the number of applications from Slovenian researchers and research organizations for all ERC and MSCA measures, including MSCA COFUND and measures for research infrastructures. As the first pillar is intended for all areas of science,
+IMPLEMENTED
+2021–2027
+NCP network in SI
+EU (
+coordinated by the Ministry of Education, Science and Sport)
+Name of instrument
+Description of instrument
+Status
+Duration
+Responsible
+is therefore also suitable for stakeholders in the field of quantum science and technology.
+- (II) Global challenges and competitiveness is the second pillar, which mainly supports research and innovation projects (RIA) and innovation projects (IA) that address societal challenges and industrial technologies in areas such as digital technologies, energy, mobility, food, and natural resources. The program has also established missions as coordinated efforts by the EC to bring together the necessary resources in the form of funding programs, policies and regulations, and other activities.
+For QT stakeholders, the measures of the Cluster 4 work program (for the digital field, which also includes QT, taking into account the Quantum Flagship strategic documents) and the space field, which includes QT for EU space infrastructures and space-based services (e.g., quantum communications between satellites, next-generation atomic clocks, and quantum sensors such as quantum gravimetry in space).
+- (III) Innovative Europe is the third pillar of the Horizon Europe program, which aims to promote innovation by establishing the EIC, which offers a single point of contact for high-potential innovators, which is also recommended for stakeholders in the field of QT.
+Measures to promote cooperation between institutions within the framework of EU programs for expanding cooperation and promoting excellence are also particularly suitable for stakeholders in the field of QT – WIDERA, including cooperation projects for establishing and strengthening centers of excellence (Twinning) and integration projects for strengthening research capacities (Teaming).
+SI should strive to strengthen the opportunities and empower Slovenian researchers to take advantage of the most appropriate measures within all three pillars of the Horizon Europe program, as well as to strengthen technological development by increasing TRL, to connect with industry, and to empower not
+only research opportunities and basic research,
+Name of the instrument
+Description of the instrument
+Status
+Duration
+Responsible
+intervene higher TRL with possibilities innovation, prototyping, and commercialization.
+With the support of the Horizon Europe National Contact Points, coordinated by the Ministry of Education, Science and Sport together with other expert bodies (experienced experts who provide active information, assistance, and support to Slovenian researchers), the necessary information, support, and assistance to applicants, encouraging them to submit more ambitious applications. Slovenian delegates in the relevant Horizon Europe program committees also represent Slovenian interests in the planning of the program and future calls for proposals, both
+the research sphere and in companies.
+European Research Council (ERC) calls
+Every year, the ERC selects and funds the most creative researchers, regardless of their nationality or age, to carry out their projects in Europe. It offers four long-term and financially generous research project schemes: the ERC Starting Grant, the ERC Consolidator Grant, the ERC Advanced Grant, and the ERC Synergy Grant (Synergy Grant). An additional scheme, the ERC Proof of Concept project, helps ERC research project leaders bridge the gap between pioneering research and the early stages of commercialization or application.
+The field of quantum sciences and QT is the most successful field for Slovenian ERC project leaders, as seven of the 33 ERC research projects obtained to date
+seven are in the field of QT.
+IMPLEMENTED
+2021–2027
+EU
+(network NKT in SI under the auspices of Horizon Europe, coordinated by the Ministry of Education, Science and Sport)
+European Innovation Council (EIC) calls for proposals – search engine
+(English EIC Pathfinder) and Transition EIC Transition)
+Among the areas and mechanisms within the Horizon Europe program, we highlight the EIC calls, which are designed to support the most disruptive innovations or innovation projects, to ensure appropriate forms of financing and support services for the effective transformation of these innovations into market products. It is focused on very risky projects that cannot obtain other forms of financing on the market and show great potential for success at the global level. Direct financing is provided by the EC, while information is provided by the Horizon Europe NCP network in coordination with the Ministry of Education, Science and Sport.
+IMPLEMENTATION
+2021–2027
+EU
+(network in SI under the auspices of Horizon Europe, coordinated by the Ministry of Education, Science and Sport)
+The largest clusters or subprograms in the work program are:
+a) EIC Pathfinder, which is intended to finance the early stages of development (TRL 1-4) of new "breakthrough" technologies and solutions with the potential to set new standards and create new markets. To submit a project application, a consortium of at least three partners from three different countries must be established, which may be knowledge institutions or economic entities. Co-financing in the amount of EUR 3 million in non-repayable funds is envisaged. b) EIC Transition, which is designed as an intermediate stage between EIC Pathfinder and EIC Accelerator. It is therefore aimed at projects that have shown great potential for transition into successful market products, for example in EIC Pathfinder. Support is intended for TRL 4–6 development stages, and applications can be submitted by individual applicants
+or small consortia (up to five members) can apply.
+Opportunities for Slovenian applicants in the Digital Europe program
+The Digital Europe program is an EU funding program focused on providing digital technologies to businesses, citizens, and public administrations. The program provides strategic funding for projects in five key areas of capacity: supercomputing, artificial intelligence, cybersecurity, advanced digital skills, and ensuring the widespread use of digital technologies in the economy and society. With a planned total budget of €7.5 billion (at current prices), it aims to accelerate economic recovery and shape the digital transformation of European society and the economy, particularly for small and medium-sized enterprises. The program also includes opportunities in the field of QT.
+IMPLEMENTATION
+2021–2027
+EU
+(NCP tasks for SI are carried out by the MDP)
+Opportunities for Slovenian applicants in calls for proposals from the European Chips JU
+An important instrument for financing development in the field of chips and semiconductors is the European Joint Undertaking for Chips (Chips JU), which will ensure the implementation of the Chips Act until the end of 2030 and the implementation of the objectives of the Chips for Europe initiative (Pillar 1 of the Chips Act). The work program of the Chips Joint Undertaking provides for the publication of several calls for proposals under the Chips for Europe initiative
+for Europe initiative. Other calls for proposals in the field of
+IMPLEMENTATION
+2021–2027
+EU
+(NCP tasks for SI are carried out by MDP)
+Name of instrument
+Description of instrument
+Status
+Duration
+Responsible
+Research and innovation for the design and production of electronic components and systems in Europe, which are not part of the Chips for Europe initiative. The program also includes opportunities in the field of QT.
+also includes opportunities in the field of QT.
+Calls for proposals by the European Innovation Council – EIC Accelerator
+It is focused on projects at TRL 5-8 development stage. Independent applications are expected from SMEs or, in exceptional cases, small mid-caps with up to 500 employees. Funding provides for non-repayable grants of up to EUR 2.5 million and equity investments of up to EUR 15 million from the EIC fund. The tasks of the NCP within Horizon Europe are carried out by SPIRIT.
+IMPLEMENTED
+2021–2027
+EU
+(NCP tasks for SI under the umbrella of the NCP network Horizon Europe are carried out by
+SPIRIT)
+European Innovation Council calls – EIC call for growth under the Strategic Technologies for Europe Platform (EIC STEP Scale up Call)
+EIC calls for growth under the Strategic Technologies for Europe Platform (EIC STEP Scale-Up) are a new initiative piloted in the EIC 2025 work program. It is specifically aimed at companies developing strategic technologies that are key to Europe's competitiveness and sovereignty, particularly in the digital, clean, efficient, and biotechnology sectors. The STEP Scale-Up call was created to meet the needs of fast-growing companies in deep-tech sectors, which often find it difficult to secure the substantial funding needed to scale up to industrial operations. The initiative is aligned with the EU's goal of increasing autonomy in key technology areas, reducing dependence on technologies outside the EU, and supporting technologies that contribute to Europe's green and digital transitions. The tasks of the NCP under the Horizon Europe NCP network are carried out by
+SPIRIT.
+IMPLEMENTED
+2021–2027
+EU
+(NCP tasks for SI under the NCP Horizon Europe implement s SPIRIT)
+Opportunities of the European Institute of Innovation and
+Technology (EIT)
+The EIT offers numerous opportunities for Slovenian companies and innovators, including access to funding, educational programs, networking, and support for the development and commercialization of innovations. Various EIT hubs operate in SI, supporting local actors. Cooperation with these hubs gives Slovenian companies access to European knowledge, funding, and support networks, which can significantly contribute to their development and international competitiveness. The tasks of the NCP within the framework of
+Horizon Europe are carried out by SPIRIT.
+IMPLEMENTED
+2021–2027
+EU
+(NCP tasks for SI under the NCP network Horizon Europe implement s
+SPIRIT)
+European Defense Fund calls for proposals
+The EDF has been established to develop the European defense technological and industrial base and will (co-)finance numerous projects by companies and research organizations established in the EU or
+in Norway, with a total value of eight billion euros.
+IMPLEMENTATION
+2021–2027
+EC
+(NCP tasks for SI are performed by
+MO)
+Name of instrument
+Description of instrument
+Status
+Duration
+Responsible
+EUR One third of the amount will be allocated to research and two thirds to development in the field of defense. Calls for proposals will be published on an annual basis, while their content will be aligned with the corresponding annual work program.
+The EDF (co-)finances research and development throughout the entire development cycle, i.e. from early basic research to the certification and optimization of defense products or technologies. Individual projects generally cover several activities within the expected development timeline, but not the entire development cycle. The share of initial funding varies depending on the activities envisaged for each call for proposals. Each year, an individual call for proposals is published for solutions in the field of QT.
+With the support of the NCP, the necessary information, support, and assistance are provided to applicants to encourage them to submit more ambitious applications. Similarly, Slovenian delegates in the relevant EDF program committees represent Slovenian interests in the research sphere and in business when planning the program and future calls for proposals. Experts are also involved as evaluators of applications submitted to the call for proposals, as necessary.
+Individual projects are additionally financed by the Ministry of Defense, and experts from the Slovenian Armed Forces and the Ministry of Defense also participate in the projects.
+The NKT also provides the necessary information, support, and assistance to applicants under the EUDIS European defense innovation scheme, which is funded by the EDF and whose activities are aimed primarily at start-ups and small
+companies entering the defense/military market.
+Participation in expert groups of the European Defense Agency
+Within the EDA, there are several expert groups in which, in addition to representatives from individual state bodies (from the Slovenian Armed Forces and the Ministry of Defense), representatives from Slovenian industry and research institutions may also participate. A large part of these groups operate at the level of research, development, and innovation, which also deal with the field of quantum technologies. In line with the need for greater SAF capabilities and the development of the defense industry, in addition to the national representative for development in EDA , and Slovenian
+experts in the field.
+IMPLEMENTED
+/
+EDA
+(tasks performed by NKT from
+MO)
+Participation in projects
+Within the framework of the EDA's technological capability groups (CapTech), projects are being carried out and prepared in the following areas
+QT, in in which can participate also
+IMPLEMENTED
+/
+EDA
+(tasks performed by
+Name of instrument
+Description of instrument
+Status
+Duration
+Responsible
+European Defense Agency
+representatives from Slovenian industry and research institutions. In line with the needs to increase the capacity of the Slovenian Armed Forces and develop the defense industry, the Ministry of Defense will, through the national representative for development in the EDA, enable the inclusion of other Slovenian representatives.
+representatives.
+NKT
+from the Ministry of Defense )
+
+### 4.1.3.3 Allied level (NATO)
+
+Name of instrument
+Description of instrument
+Status
+Duration
+Responsible
+Opportunities for Slovenian applicants in the NATO DIANA call for proposals
+Every year, the NATO Defence Innovation Accelerator for the North Atlantic (DIANA) publishes a set of defence and security challenges for which it seeks innovative high-tech discoveries. In the past, quantum technology has been one of the individual topics, but innovative solutions are also sought in other areas, for which companies with quantum technologies can also apply.
+With the support of the national contact point, applicants are provided with the necessary information, support, and assistance to enable them to submit more ambitious applications. Slovenian delegates in the relevant NATO Diana program committees also represent Slovenian interests in the research sphere and in business when planning the program and future calls for proposals. Experts are also involved as
+evaluators of applications received for the call.
+IMPLEMENTED
+From 2022
+NATO
+(tasks performed by the Ministry of Defense)
+Participation in NATO
+STO
+The NATO Science and Technology Organization (NATO STO) is the largest scientific organization in the world, with numerous Slovenian experts already involved. NATO recognizes quantum technology as one of the most groundbreaking technologies, which is why several groups are already working in this field.
+The NCT provides the necessary information, support, and assistance to experts in the field of QT, who it would be appropriate to involve them.
+IMPLEMENTED
+/
+NATO
+(tasks performed by the Ministry of Defense)
+
+## 4.2 Infrastructure
+
+### 4.2.1 Specific objectives and expected results
+
+- • Securing financial resources for the purchase, upgrade, and maintenance of infrastructure (supercomputers and quantum computing).
+- • Strengthening integration and cooperation with European centers for the construction of quantum computers through EuroHPC JU.
+- • Supporting public-private partnerships and complementary applications by research organizations to targeted European public tenders for the purchase or upgrade of infrastructure in accordance with the competences of state authorities.
+- • Establish SI as an appropriate partner in joint European efforts, for example in major initiatives in the field of quantum communications (EuroQCI) and quantum computing and simulations (EuroQCS).
+
+### 4.2.2 Direct measures
+
+### 4.2.2.1 ACTION 1: Co-financing Slovenian participation in projects under EuroHPC JU calls
+
+Analysis of the situation and rationale for the proposed measure:
+By participating in international consortia, Slovenia is expanding its supercomputing capabilities with a quantum computer. The European High Performance Computing Joint Undertaking (EuroHPC JU), established under Horizon Europe as an institutionalised partnership in 2020, is working to establish a supercomputing ecosystem in the EU and to develop quantum computers. Based on a call for proposals launched in 2022, the deployment of six
+quantum computers began in 2023 in Finland, France, Germany, Italy, Poland, and Spain.
+Key area of development: Infrastructure
+Specific objectives – up to three
+- − Co-financing of Slovenian participation in projects under EuroHPC JU calls for proposals.
+- − Support for cooperation with European centers for the construction of a quantum computer through EuroHPC JU.
+- − Strengthening access for Slovenian researchers to cutting-edge research infrastructure in the field of quantum computing.
+Status
+IN PREPARATION/IMPLEMENTATION
+Expected results after implementation of the measure
+Number of supported projects with Slovenian participation: at least 3
+Measure implementers
+MVZI and MDP
+Brief description of the measure
+SI has signed a cooperation agreement with the Italian data center CINECA, with which it also collaborated in setting up the Leonardo supercomputer. The cooperation continues with the establishment of a quantum computer. The established cooperation will enable SI to access the quantum computer and deepen and expand its knowledge at both the academic and industrial levels. In 2023, EuroHPC published a public call for the establishment of two European centers of excellence for QT – QEC. The QECs will promote the development of an ecosystem of quantum software tools, application libraries, and skilled personnel. The QECs should be technology-agnostic and focus on quantum applications for end users in science and industry. They should also be user-driven and commit to co-creation activities.
+The indicative financial envelope for the implementation of the action in the period 2025-2035
+EUR 1,000,000
+Expected effects
+By 2030:
+- − Active cooperation with at least one European QT center.
+By 2035:
+- − Cooperation with at least two European QT centers.
+Number of supported projects with Slovenian participation: at least 3
+
+### 4.2.2.2 ACTION 2: Establishment of a data center adapted for quantum computing
+
+Analysis of the situation and reasons for the proposed measure:
+As part of the digitization of science, the Ministry of Education, Science, and Sport has planned to establish two data centers. The data center in Maribor will be established with co-financing from the Recovery and Resilience Plan Fund. The data center in Maribor is the basic infrastructure for the development of supercomputing and will enable the establishment of the Vega 2 supercomputer, which will be co-financed by EuroHPC JU funds. In order to establish a suitable infrastructure environment in the Republic of Slovenia for the development of QT, it is necessary to establish a comparable
+data center in the area of public research organizations conducting research in the field of QT.
+Key area of development: Infrastructure
+Specific objectives – up to three:
+− Establishment of a data center that will also be adapted for QT.
+Status
+IN PREPARATION/IMPLEMENTATION
+Expected results after implementation of the measure
+Number of enabling infrastructure constructions completed: 1
+Responsible parties
+MVZI and MDP
+Brief description of the measure Construction of a data center adapted to quantum technologies in the area of public research organizations operating in the field of quantum science and research. The established data center will complement the data center in Maribor and will also enable the connection of a quantum computer to a supercomputer and provide the basic infrastructure conditions for the digitization of scientific research and innovation.
+The indicative financial resources for the implementation of the measure in the period 2025–2035
+Estimated cost of establishing the data center EUR 15,000,000
+Expected effects
+By 2035, a data center adapted for
+QT.
+
+### 4.2.2.3. MEASURE 3: EuroCC – support for the national competence center within EuroHPC in the field of quantum computing
+
+### Analysis of the situation and reason for the proposed measure:
+
+Public supercomputers in Slovenia participate in the Slovenian National Supercomputing Network (SLING) consortium. All public research organizations that need and use supercomputers, as well as interested companies, participate in SLING. In the future, we expect quantum
+computing complemented classical supercomputing.
+
+### Key area of development: Infrastructure
+
+### Specific objectives – up to three:
+
+− Enable the enhancement of competencies for the development of quantum computing.
+
+### Status IN PREPARATION/IMPLEMENTATION
+
+Expected results after implementation of the measure
+Number of EuroHPC projects supported to increase competencies for operating in the field of quantum computing: 10
+Measure implementers
+MVZI and MDP
+
+### Analysis of the situation and reason for the proposed measure:
+
+Quantum computers are a strategic opportunity for smaller countries to maintain and improve their position in the global economy, science, and national security. The reasons or areas of development that make acquiring our own quantum computer important for SI are technological development and progress, scientific development and ensuring the competitiveness of domestic science, economic development and success, simulations and optimizations at the national level, cyber security and defense, education and training of talent, and the establishment of an ecosystem for the development of the information society at the national level.
+It can be expected that the intertwining of high-performance and quantum computing, which is the most advanced foundation for the development and application of artificial intelligence, will be a major stimulus for the development of the information society. In Slovenia, procedures are underway to acquire a new supercomputer (Vega 2), optimized for artificial intelligence, and to establish an artificial intelligence factory. Procedures are also underway to establish a competence center for artificial intelligence. This means that a comprehensive ecosystem for the development of the information society at the next level of development is already being established, which should be supplemented with the characteristic computing capabilities of a quantum computer, which must be comprehensively supported by a competence center for quantum computing or another appropriate organization.
+SI has a wealth of experimental and technical knowledge, enabling technologies, advanced experimental infrastructure, and high-tech companies that are already developing key components of quantum platforms. These competencies enable a focus on the gradual development and construction of our own quantum computer, which would strengthen technological autonomy, connect the academic sphere and industry, and enable integration into European development chains.
+The quantum computer can be installed as a stand-alone facility, most likely within the framework of QT-active JRZs and/or universities, or as a hybrid facility in connection with the new planned Vega 2 supercomputer in Maribor. Even in the case of a separate installation, it is possible to connect the quantum computer and the new Vega 2 supercomputer with fast optical connections, and in the future
+perhaps even using quantum optical connections based on quantum entanglement or quantum
+teleportation. The theoretical and technological knowledge and experience gained in the SiQUID project could be used in the establishment of quantum optical connections. technological knowledge and experience gained in the SiQUID project could be used.
+
+### Key area of development: Infrastructure
+
+### Specific objectives – maximum of three
+
+- − Purchase or development of a quantum computer.
+- − Establishment of a national consortium of researchers, industry, and users for the purchase or development of a quantum computer.
+- − Phase transition from basic research to TRL 8–9 solution by directing the QT competence center for QT (complemented by measure 4.1.2.3. – establishment of a competence center for QT).
+Status
+IN PREPARATION
+Expected results after implementation of the measure
+SI acquires its own quantum computer.
+Measure implementer
+MVZI, provided that additional human resources are secured (creation of two new jobs at MVZI).
+Participating bodies: MDP, MGTŠ, MO
+
+### Brief description of the measure
+
+The quantum computer can be acquired by purchasing a commercially available quantum computer or by developing it in-house with the efforts of the Slovenian scientific and research community. The second option, if feasible, is more desirable, as it would use domestic financial resources within the country in a way that would not only enable but also greatly accelerate the development and strengthening of Slovenian knowledge in this field, which would lead to the development and empowerment of the Slovenian scientific research community and high-tech industry, with the higher education system also benefiting.
+In the case of a purchase, the optimal time to acquire a quantum computer depends on a number of factors, such as the desired basic technology of the quantum computer (superconducting qubits, ion traps, neutral atoms, photonics, etc.) and the maturity of the desired technology, the required computing power (number, quality, and connectivity of qubits, error correction, operating speed, etc.), the price, and the commercial availability of the selected type of quantum computer. In the case of building our own quantum computer based on the efforts of the Slovenian scientific research community and high-tech industry, several factors must coincide, such as sufficient mastery of the selected basic quantum computer technology at the theoretical and technological level, the ability of the Slovenian high-tech industry to manufacture key components of the supercomputer, and the commercial availability of the necessary components that cannot be produced economically at the national level.
+The acquisition of a quantum computer will take place through a gradual upgrade, enabling the phased development of our own solution in cooperation with the Slovenian scientific research community and industry. In the initial phase, comprehensive support for various technologies is planned, with an emphasis on strengthening research infrastructure, industrial capabilities, human resources development, and the integration of key stakeholders within a consortium at the national level, whose goal will be to verify the design and demonstrate the platform of the Slovenian quantum computer. Over time, development will shift to a focused approach with clearly defined technological milestones and higher technology readiness levels (TRL) for the establishment of a functioning national quantum platform and the operation and stewardship of its own quantum computer.
+The measure will be linked to the establishment of a QT competence center, which will act as a coordinating, development-oriented, and supervisory body in all phases. Its operation will be modeled on the SLING community, with the central goal of connecting researchers, industry, and users from the initial stages of development to the establishment of its own quantum computer. In addition to its own development, it will also monitor
+progress at the level of European activities, particularly within the framework of the EuroHPC JU initiative. Domestic
+applications for relevant European calls for proposals, either for the purchase of an entire quantum computer or individual components, or for co-financing the development of its own solution. As it is not yet possible to predict which platform will prove to be the most suitable for SI in the long term, it will be necessary to monitor the development of various quantum technologies. Therefore, the measure is also supplemented by the possibility of purchasing quantum computing time on external platforms through a competence center, which will enable the acquisition of user experience and the development of applied knowledge. To make this happen, it's super important that getting a quantum computer is done in a way that supports the research and innovation activities of the Slovenian quantum community to develop their own quantum computer, while ensuring cost-effectiveness and the best possible use of available European funds, primarily on the basis of relevant European calls for proposals, preferably under the auspices of EuroHPC JU in the case of the purchase of a quantum computer assembly or its components, or
+co-financing the development of its own quantum computer.
+The indicative financial resources for the implementation of the measure in the period 2025–2035
+In the period 2028–2035, a total of EUR 20,000,000 (MVZI, MDP, MGTŠ, MO – provision and planning of funds to be divided among the aforementioned ministries)
+Expected effects
+− Establishment and operation of its own quantum computer computer by 2035.
+Brief description of the measure
+Public supercomputers in Slovenia participate in the Slovenian National Supercomputing Network (SLING) consortium. All public research organizations that need and use supercomputers, as well as interested companies, participate in SLING. With further co-financing under EuroHPC JU, EuroCC was established in Slovenia – competence centers at the national level within EuroHPC, which continued in EuroCC2. In Slovenia, the operation of EuroCC is coordinated by ARNES. A call for EuroCC3 within the EuroHPC is planned for 2025, which will be a continuation of the previous ones. The activity also contributes to the development goals of research, development, and innovation activities. In the future, we expect national competence centers to also operate in the field of quantum computing.
+In the coming period, SI will focus on ensuring the accessibility of quantum computing infrastructure for users in the fields of science and economics.
+The indicative financial resources for the implementation of the measure in the period
+2025–2035
+In the period 2024–2027, a total of EUR 861,000.
+Expected effects
+Number of supported projects with enabling capacities for the development of quantum computing: 10 By 2035, Slovenia will strengthen its competences in the field of quantum computing, which will enable scientific research and innovation to compete at a global level. innovation to compete at the global level.
+
+### 4.2.2.4 ACTION 4: Acquisition of our own quantum computer through purchase or in-house development
+
+Analysis of the situation and reason for proposing the measure:
+While quantum technologies are currently in the lower TRL development phase and are therefore not sufficiently used in application solutions, by participating in important projects of common European interest, we are encouraging companies to accelerate the development and introduction of innovations through industrial research, experimental development, and first industrial application. This is also the purpose of IPCEI projects, through which we are developing application solutions that are not yet on the market (beyond-state-of-the-art) in cooperation with partner companies from EU Member States. As one of the potential
+areas of development, a proposal for the development of an IPCEI project for the field of quantum technologies.
+Key area of development: Research, development, and innovation activities and knowledge transfer
+
+### Specific objectives – maximum 3:
+
+- − Providing co-financing for Slovenian partners – companies participating in IPCEI in the field of QT (TRL 6-9);
+- −
+Strengthening the visibility of Slovenian research and innovation by Slovenian companies in the field of QT;
+- -
+Strengthening technological added value by strengthening Slovenia's innovation potential (Objective 6
+- – Slovenia's Development Strategy).
+Status
+IN PREPARATION/IMPLEMENTATION
+Expected results after implementation of the measure
+- − Number of SI companies participating in IPCEI QT: 2-3
+- −
+it h Number of supported projects with Slovenian transnational Projects w participation: 3
+Measure implementer
+MGTŠ
+
+### Brief description of the measure
+
+Following the decision on the next generation of IPCEIs, which includes QT among the proposed areas, a basic document describing the value chain in the field of QT will be developed during the design phase of the project of common European interest. Slovenian companies are involved in individual areas of the value chain in terms of carrying out their activities, with the condition for participation in IPCEI being the acquisition of a direct partner at EU level. The measure will contribute to the objectives of increasing innovation potential
+and to achieving greater strategic autonomy at European level.
+The aim of this important project of common European interest is to reduce Europe's dependence on third markets and increase the EU's strategic autonomy and resilience.
+Coordinator:
+Not yet determined
+Role of MGTŠ
+Consortium partner
+Estimated project duration:
+2027-2030
+Estimated value of the project:
+Not yet known
+Planned activities of the QuantERA III project:
+- •
+Implementation of a public call for expressions of interest in participating in a potential IPCEI in the field of QT.
+- • Participation in the matchmaking process with European partners.
+- • Implementation of a national public call for funding associated partners
+Estimated financial funding for the implementation of the measure in the period 2025-2035
+EUR 2,000,000-4,000,000 ERDF integral resources.
+Expected effects
+By 2031:
+- − Number of SI companies participating in the potential IPCEI QT: 3
+- − Number of supported projects participating in the IPCEI project: 3
+4.2.2.5. ACTION 5: NOO project within the SI-EuroQCI initiative: SiQUID (management and maintenance networks by 2035)
+Analysis of the situation and reasons for the proposed measure:
+Based on their application to the European EuroQCI initiative, URSIV and UVTP are participating in the Slovenian consortium for the implementation of the NOO SI-EuroQCI project to establish a national quantum communication infrastructure for the secure distribution of quantum keys. For the Digital Europe and CEF program call, a project consortium was formed in 2022 at the initiative of URSIV to submit a project proposal for the demonstration of the Slovenian quantum communication
+infrastructure SiQUID (Slovenian Quantum Communication Infrastructure Demonstration).
+Key area of development: Infrastructure
+Specific objectives – up to three
+- − Establishment of a test network and development of equipment for quantum communications;
+- − Establishment of a national quantum communication infrastructure for quantum key distribution (QKD), which will connect nodes at the Ministry of Defense, Ministry of the Interior/Police, Ministry of Foreign Affairs, Ministry of Public Administration, KPV, and UVTP/URSIV.
+- − the possibility of subsequent cross-border terrestrial connections with the networks of neighboring countries and the installation of a terrestrial optical station for communication with satellites.
+Status
+IN PREPARATION/IN PROGRESS
+Expected results after implementation of the measure
+− number of completed projects in the field of quantum communication infrastructure quantum communications: 1
+Measure implementer
+URSIV, with the participation of UVTP
+Brief description of the measure
+The aim of the SiQUID project is to establish a national quantum communication infrastructure for quantum key distribution (QKD) between several government nodes in Slovenia and a test quantum network between research institutions in Ljubljana for advanced quantum communication protocols. The project will coordinate efforts with public and industrial partners and train key personnel, young researchers, and engineers in the field of QT. In addition, project partners will test advanced quantum communication protocols, such as QKD, independent of measuring devices, and the propagation of entanglement over long distances to further enhance the secure implementation of QKD and lay the groundwork for a future full-fledged quantum communication network. The project is in close contact with quantum communication infrastructure initiatives in neighboring countries with the aim of facilitating the coordination of domestic efforts and enabling future cross-border connections and the implementation of the EuroQCI space segment. The project partners are UL FMF (coordinator), IJS, Beyond Semiconductor, UVTP, and URSIV. The total value of the SiQUID project, which will run from 2023 to 2026, is EUR 4.481 million. The project is co-financed by NOO (45%), Beyond Semiconductor (5%), and the EU Digital Europe program (50%). In the future, connections with projects in the field of quantum computing and supercomputing.
+The indicative financial resources for the implementation of the measure in the period 2025–2035
+EUR 200,000 for network management and maintenance (URSIV does not plan to allocate these funds in its budget)
+Expected effects
+- − Establishment of a test network and development of quantum communication equipment;
+- − Establishment of a national quantum communication infrastructure for quantum key distribution (QKD), connecting seven government agencies at six nodes;
+- − Coordination of efforts with public and industrial partners and training of key personnel, young researchers, and engineers in the field of QT.
+
+### 4.2.2.6 ACTION 6: Development of a Slovenian quantum chip
+
+### Analysis of the situation and reason for the proposed measure:
+
+Quantum chips are the basic building block of a new generation of quantum computers and quantum systems for specialized tasks with high added value, such as modeling complex molecules in pharmaceuticals, optimization of logistics and transport processes, design of new functional materials (e.g., for energy technologies), and accurate modeling of physical-chemical systems, which are extremely demanding or unsolvable for classical supercomputers. Quantum chips are a prerequisite for the accelerated further development of high-performance quantum computing operations and therefore represent a key critical component on which the further development of this field will be based.
+The development of a quantum chip with a high number of high-quality qubits (the development goal is a network of 100,000 qubits) is the next major milestone in the development of quantum computing. Therefore, the Slovenian quantum chip development project is in Slovenia's strategic interest, enabling technological progress, accelerating economic development, strengthening scientific and development excellence and competitiveness, improving cyber security, developing and educating highly skilled personnel, and establishing a comprehensive national ecosystem of quantum technologies as the foundation for a future technologically advanced digital society.
+Slovenia has the appropriate competencies, research and development infrastructure, and human resources potential for this breakthrough. Several research and development groups operating at universities and research institutions excel in the fields of quantum optics, photonics, control and steering of quantum systems, and micro- and nano-manufacturing. At the same time, Slovenia has built a strong foundation in education and practical training in quantum sciences and technologies in recent years, ensuring a steady supply of highly skilled professionals. In addition to academic institutions, there are already several companies operating in Slovenia in the field of quantum technology development, enabling the realization of quantum chips, quantum sensors, and other quantum systems. These include innovative young, start-up, and spin-off companies, as well as established high-tech companies, which collaborate on international projects and in European quantum technology supply chains. This provides a natural basis for further integration, growth, and development of the national quantum ecosystem.
+In this context, the development of the Slovenian quantum chip is a strategically important next step – from laboratory prototypes to industrially proven at TRL 7, which will serve as the basis for the further development of the Slovenian quantum computer and other commercially interesting quantum products.
+At the European level, several smaller countries (Denmark, Finland, Ireland, Estonia) have shown that the transition from research to industry is possible with clear, targeted measures that support the establishment of a complete innovation ecosystem, from academic groups to start-ups and spin-offs and industrial partners. This model has proven effective in accelerating commercialization and achieving
+higher TRL levels.
+Key area of development: Infrastructure Specific objectives – up to three
+- − Development of a working prototype of a Slovenian quantum chip with a high number of high-quality qubits and validation in a relevant environment with a TRL 7 level of technological maturity achieved in four years.
+- − Appropriate capitalization of the company with a suitably developed innovative solution that enables the concentration of available resources on the development of a Slovenian quantum chip, thereby creating a global technological advantage that is critical for the further development of quantum computing.
+- −
+Conditions for further industrialization of quantum chip production, initially for further
+research and development purposes, and with further development also for the production of quantum chips for wider use.
+Status
+IN PREPARATION
+Expected results after implementation of the measure
+Development of a Slovenian quantum chip to TRL 7. Enabling further commercialization and industrialization of the developed technology. A connected ecosystem of companies specializing in quantum technologies. Trained high-tech personnel with
+interdisciplinary knowledge.
+Measure implementer
+Examination of financing options in cooperation with MGTŠ, MO,
+MDP.
+
+### Brief description of the measure
+
+A spin-off company, in cooperation with its parent institution, the Jožef Stefan Institute, and other participating research institutions and companies, is accelerating the development of a Slovenian quantum chip with a high number of high-quality qubits (the development goal is a network of 100,000 qubits). This involves the use of complex high-tech knowledge in the fields of quantum optics, photonics, control and steering of quantum systems, and micro- and nanostructures, including already acquired patents and specialized techniques. The prototype of the patented technology is nearing completion, and this demonstration phase will be followed by the miniaturization of the chip into its final, compact form. The completion of a working prototype of the Slovenian quantum chip, which will be tested in a relevant environment, could represent a key global breakthrough in the field of quantum computing development.
+To this end, it is crucial that the development partnership be allowed to focus fully on the development of the quantum chip, taking into account its advantages, knowledge, competencies, and completed research and development work. With adequate financial support, a company with a suitably developed innovative solution and the integration of development partners will be able to immediately purchase the necessary technological equipment and hire an additional 30 highly skilled experts educated within scientific infrastructures and the academic sector, to accelerate development work and enable the timely completion of a working prototype, thereby creating a global technological advantage. This will enable not only the global positioning of the Slovenian ecosystem in the field of quantum computing, but also the industrialization of the quantum chip, the attraction of additional financial resources, and a critical role in the further development of quantum computing.
+Therefore, the Slovenian quantum chip development project is in Slovenia's strategic interest, enabling technological progress, accelerating economic development, strengthening scientific and development excellence and competitiveness, improving cyber security, developing and educating highly skilled personnel, and establishing a comprehensive national ecosystem of quantum technologies as the foundation for a future technologically advanced digital society.
+The measure does not only address the development of the device itself, but also a comprehensive approach to establishing national capabilities for the design, manufacture, and validation of quantum chips in collaboration with various industrial partners. The project will be carried out in phases, with the aim of achieving TRL 7 technological maturity in four years, which means a working prototype, tested in a relevant environment, which will serve as the basis for the further development of the Slovenian quantum computer. The measure is designed so that domestic competencies and development directions are given priority when selecting quantum chip technology.
+Development will take place within an independent company, which was established as a spin-off of the IJS, as the technology holder responsible for the technical direction of development, integration, and validation of prototypes within a broader development partnership that will bring together existing research and development groups, established and young high-tech companies. This approach ensures a clear transfer of responsibility from the research environment
+into the industrial environment and enables higher levels of technological maturity to be achieved.
+This will also establish a sustainable innovation ecosystem for quantum technologies, combining research competencies with the production and engineering capabilities of domestic industry. In the initial phase covered by this measure, the focus will be on the design and manufacture of a quantum chip with a high number of high-quality qubits, the development of technological subsystems and supporting technologies (control, photonics, detection, micro-structures, and nano-structures), and validation in a relevant environment with a technology readiness level (TRL) of 7 achieved in four years. In the next phases, following the achievement of the objectives of this measure, activities will focus on the integration of subsystems, validation of operation, and preparation of testing and certification standards, which will enable the transition to the commercial phase (TRL 8-9).
+The measure will forge more lasting links between academic research and industrial development, encourage the creation of new high-tech companies, and promote the transfer of knowledge to the economy. The result will be not only the Slovenian TRL7 quantum chip, but also the basis for Slovenia's long-term autonomy in the field of quantum technologies and further development towards marketable products and a Slovenian quantum computer.
+Indicative financial resources for the implementation of the measure in the period
+2025–2035
+Examine the possibility of financing with the cooperation of MGTŠ, MO, MDP.
+Expected effects
+- − Development of the first Slovenian quantum chip at TRL 7, enabling a global technological advantage and giving Slovenia strategic autonomy in the field of quantum technologies and integration into European supply and development chains.
+- − Establishment of a national quantum ecosystem that connects research/development institutions with high-tech industry, promotes knowledge transfer, the development of new technologies, and strengthens international cooperation.
+- − Increase in the number of highly skilled jobs and growth of the IP portfolio of Slovenian companies, contributing to increased technological competitiveness and economic resilience of the country.
+- − Creating a basis for the further development of the Slovenian quantum computer and for the transition from research achievements to commercially viable products and services in the field of quantum technologies.
+
+### 4.2.3 Horizontal financing instruments
+
+### 4.2.3.1 National level
+
+Name of instrument
+Description of instrument
+Status
+Duration
+Responsibl e
+Support for the purchase of research equipment (PAKET)
+The public call for co-financing the purchase of research equipment (PAKET), published annually by ARIS, is a key national support mechanism for strengthening research infrastructures. In the latest call for 2024 and 2025 alone, the value of co-financing was EUR 20 million, with the results showing that most applications are of low value, while
+some research organizations also submit
+IN PROGRESS
+2025–2035
+ARIS
+purchasing higher-value infrastructure worth approximately EUR 2 million. The results also show that three applications for co-financing the purchase of equipment for quantum science and QT were also approved in this call, with a total purchase value of EUR 475,000. With additional funding from other sources (stable funding, JR Gravitation, other sources, own funds, reimbursement of equipment depreciation costs), the measure is appropriate for achieving the objective of major infrastructure investments to support the implementation of research projects at the national
+and international level in the field of quantum physics.
+
+### 4.2.3.2 European level
+
+Name of the instrument
+Description of the instrument
+Status
+Duration
+Responsib le body
+Opportunities for Slovenian applicants in the Digital Europe program
+The Digital Europe Program is an EU funding program focused on providing digital technologies to businesses, citizens, and public administrations. The program provides strategic funding for projects in five key areas capacity and namely supercomputing, artificial intelligence, cybersecurity, advanced digital skills, and ensuring the widespread use of digital technologies in the economy and society. With a planned total budget of €7.5 billion (at current prices), it aims to accelerate economic recovery and shape the digital transformation of European society and the economy, especially for small and medium-sized enterprises. The program also includes opportunities in the field of
+QT.
+IMPLEMENTATION
+2021–2027
+EU (NCP tasks for
+SI
+implem ented by
+MDP)
+Opportunities for Slovenian applicants in calls for proposals by the European Joint Undertaking for Chips (Chips JU)
+An important instrument for financing development in the field of chips and semiconductors is the European Joint Undertaking for Chips (Chips JU), which will ensure the implementation of the Chips Act and the objectives of the Chips for Europe initiative (Pillar 1 of the Chips Act) until the end of 2030. The work program of the Joint Undertaking for Chips provides for the publication of several calls for proposals under the Chips for Europe initiative. Other calls for proposals in the field of research and innovation for the design and production of electronic components and systems in Europe have also been published, but these are not part of the Chips for Europe initiative. Opportunities in the field of QT are also included in the program.
+IMPLEMENTATION
+2021–2027
+EU (NKT tasks for
+SI
+are carried out by the
+MDP)
+Name of instrument
+Description of instrument
+Status
+Duration
+Responsib le body
+Opportunities for Slovenian applicants and companies under the Connecting Europe Facility
+The purpose of the Connecting Europe Facility (CEF) is to accelerate investment in trans-European networks in the transport, energy, and telecommunications sectors, which will facilitate cross-border connections, promote greater economic, social, and territorial cohesion, and contribute to greater competitiveness. energy, and telecommunications that will facilitate cross-border connections, promote greater economic, social, and territorial cohesion, and contribute to a more competitive and sustainable social market economy and the fight against climate change. The EU provides 50% of the direct funding, with the remaining 50% coming from the Member States. In Slovenia, the MDP is responsible for the IPE, which also includes EuroQCI calls for proposals.
+IMPLEMENTATION
+2021–2027
+EU (NCP tasks for
+SI
+are carried out by the
+MDP)
+Opportunities for Slovenian applicants under the EDF
+The EDF (co-)finances research and development throughout the entire development cycle, i.e. from early basic research to the certification and optimisation of defence products or technologies. Individual projects usually cover several activities in the expected development plan, but not the entire development cycle. The share of initial funding varies depending on the activities planned for each call for proposals. The fund encourages cooperation and the expansion of the defense industry network, which has a significant impact on its autonomy and supply chain flexibility. It also encourages research and development leading to joint procurement by participating countries. The program also includes opportunities in the the field of QT.
+IMPLEMENTATION
+2021–2027
+EU (NCP tasks for
+SI
+implem ented by the Ministry of Defens e)
+4.3 Staff development and t tal
+
+### 4.3.1 Specific objectives and expected results
+
+- • Supporting education for the development of quantum sciences and QT within university study programs and for the needs of the economy.
+- • Providing incentives to support postdoctoral researchers, doctoral students, and young researchers in the field of QT, including attracting talent from abroad
+
+### 4.3.2 Direct measures
+
+### 4.3.2.1 MEASURE 1: Co-financing of the MSCA COFUND 2023 SQUASH project
+
+Analysis of the situation and reasons for the proposed measure:
+Among the selected postdoctoral projects in the EC's MSCA COFUND 2023 public call, the Slovenian Quantum Science Hub (SQUASH) project, which will be coordinated by the Jožef Stefan Institute (IJS), stands out. The project received an exceptionally high rating of 99% of the evaluation points and was ranked third among postdoctoral projects. The SQUASH project will involve 40 postdoctoral researchers from abroad, who will receive scholarships to improve their research skills in four key multidisciplinary areas: quantum theory, quantum materials, quantum technology, and quantum computing and information. In partnership
+The project consortium includes 43 partners, including five companies from Slovenia.
+Key area of development: Research, development, and innovation activities and talent development
+Specific objectives – up to three:
+- − Support for foreign researchers to study QT in Slovenia.
+- − Strengthening human resources capacity in the field of QT in science
+- − Strengthening innovation opportunities through international cooperation
+Status
+IN PREPARATION/IMPLEMENTATION
+Expected results after implementation of the measure
+- − Number of supported MSCA Cofund projects: 1
+- − Number of researchers involved in the field of QT: 40
+- − Number of doctoral students involved in the field of QT: 5
+Measure implementers
+MVZI and ARIS
+Brief description of the measure
+The aim of the project is to develop highly skilled and innovative experts in the field of quantum research and technologies who will be ready for the challenges of the second quantum revolution. Through a variety of international and cross-sectoral placements and training programs, scholarship recipients will gain additional knowledge and skills, which will strengthen their career development opportunities. Future postdoctoral researchers will be employed at the IJS for three years, during which time they will undergo compulsory additional training abroad or in companies. They will also have a varied program of additional activities, where they will be trained in the fields of science communication, technology transfer, and other transferable skills. The project, which will last a total of five years, is designed to be interdisciplinary, cross-sectoral, and international, with a budget of €11.52 million, of which €5.73 million is provided by Horizon Europe (EU) and €5.79 million will be allocated by the Ministry of Education, Science and Sport, with ARIS as the implementing body. The measure also contributes to the development objective of
+of communicating with the public and raising awareness among target audiences.
+The indicative financial resources for the implementation of the measure in the period 2025–2035
+EUR 5,788,000.00
+Expected effects
+By 2030/2035
+- − Number of MSCA Cofund projects supported: 1
+- − Number of QT researchers involved: 40
+- − Number of doctoral students involved in the field of QT: 5
+
+### 4.3.2.2 MEASURE 2: Scholarships for foreign citizens to study physics – QT orientation (368th public call)
+
+Analysis of the situation and reasons for the proposed measure:
+SI strives to strengthen its capacity in the field of education and talent development and to attract foreign talent. Therefore, education in science, technology, engineering, and mathematics should be promoted at all levels of education, and students and teachers should be made aware of the opportunities and strategic importance of these fields. The main measure is to provide targeted
+funding for doctoral studies in QT and quantum computing.
+Key area of development: Research, development, and innovation activities and talent development
+Specific objectives – up to three:
+− Scholarships for foreign citizens studying for a doctorate at higher education institutions in Slovenia, study program: physics – QT specialization.
+Status
+IN PREPARATION/BEING IMPLEMENTED
+Expected results after implementation of the measure
+− Number of scholarships awarded to foreign citizens for doctoral studies in Slovenia for the study program Physics – QT orientation: 5
+Measure implementers
+MVZI and JŠRIPS
+Brief description of the measure
+The Public Scholarship, Development, Disability and Maintenance Fund SI is implementing a measure under the Ad Futura program to award scholarships to foreign citizens for doctoral studies in physics – QT orientation (368th public call). The subject of the public call is the awarding of up to five scholarships for foreign citizens to study doctoral studies at higher education institutions in Slovenia, namely for the study program Physics – QT orientation according to the Klasius-P-16 classification programs, field 0533 for the 2024/25 academic year. The value of the call, which was open until June 30, 2025, for the 2024/2025 academic year is
+EUR 240,000.00. The funds are provided under the MVZI budget item, and the measure is implemented by JŠRIPS.
+The indicative financial resources for the implementation of the measure in the period
+2025–2035
+EUR 240,000
+Expected effects
+By 2030: number of scholarships awarded to foreign citizens for doctoral studies in Slovenia for the study program Physics – QT orientation: 5.
+
+### 4.3.3 Horizontal financing instruments
+
+### 4.3.3.1 National level
+
+Name of instrument
+Description of instrument
+Status
+Duration
+Responsibl e body
+Current JR for co-financing research projects – Aleš Debeljak program
+The Aleš Debeljak Scheme – AD is intended to encourage Slovenian researchers abroad to return to the Republic of Slovenia. The conditions are specified in more detail in the current public
+call for co-financing of research projects, in which the scheme is included.
+IMPLEMENTATIO N
+2025–2035
+ARIS
+Micro-evidence as shorter education
+Micro-credentials in higher education are defined in the new Higher Education Act
+IN PREPARATION
+2025–2035
+MVZI
+Name of instrument
+Description of instrument
+Status
+Duration
+Responsible
+for inclusion in the field of quantum science and technology, and for the purposes of raising awareness among professionals and the wider public
+higher education, defined as a public document recording the learning outcomes achieved by an individual through short-term education and training, evaluated using the European Credit Transfer System (ECTS). Short-term education and training for the acquisition of micro-credentials are intended to acquire specific knowledge, skills, and competences that meet social, personal, and cultural needs or the needs of the labor market in the broadest sense. The vision for the development of micro-credentials in Slovenian higher education focuses on their integration into a dynamic concept of lifelong learning, where the acquisition and deepening of specific competences becomes a process tailored to individual needs and environmental challenges. They open up space for highly flexible and effective learning paths that enable individuals enables them to strengthen their professional and personal competences in a targeted manner. In this way, they respond to the key challenges of the modern educational environment, where the needs of the labor market and society are changing rapidly and where the rapid and effective acquisition of specific competences at higher education level is becoming increasingly important. For the effective introduction and adaptation to constant changes and innovative activities in the field of quantum science and technology, the new form of short higher education courses and training programs for the acquisition of micro-credentials, we can more quickly reach a wider population of learners, including both graduates and
+students.
+Development of multidisciplinary study activities, including in the field of quantum technologies
+Within the framework of study activities, it makes sense to encourage the development of multidisciplinary study activities aimed at strengthening quantum engineering professions and related disciplines. This will ensure the rapid development of key competencies needed to establish a quantum ecosystem at the national level and increase human resource capacity in this
+strategic area.
+IN PREPARATION
+2025–2035
+MVZI
+
+### 4.3.3.2 European level
+
+Name of instrument
+Description of instrument
+Status
+Duration
+Responsible body
+MSCA actions
+MSCA calls in the Horizon Europe program are aimed at the international integration (full-time employment) of young talents in particular into research careers and their research development in both the academic and nonacademic world. MSCA includes the following calls: postdoctoral fellowships, doctoral training networks, staff exchanges, COFUND, Researchers' Night. Under MSCA actions, additional schemes are also available to researchers
+under ARIS.
+IMPLEMENTED
+2021– 2027
+EU
+(network NCP in SI under the auspices of Horizon Europe coordinated by the Ministry of Education, Science and Sport)
+
+## 4.3 Communication with the public and raising awareness among target audiences
+
+### 4.4.1 Specific objectives and expected results
+
+- • Promotion of education for the development of quantum science and technology and the needs of the economy with micro-evidence.
+- • Supporting the organization of educational, promotional, and technological events by providing communication channels.
+- • Encouraging the long-term socio-economic benefits of supporting the development of QT in Slovenia.
+
+### 4.4.2 Direct measures
+
+### 4.4.2.1 MEASURE 1: World Year of QT and other awareness-raising activities
+
+Analysis of the situation and reasons for the proposed measure:
+In addition to its basic mission, science strengthens innovation and industrial capabilities, creates new jobs, and enables the development of society at large. In order to understand the broader field of financing scientific research and innovation work, its results and effects, it is essential to raise awareness, especially in the economy and among the general public.
+The United Nations General Assembly has declared 2025 the International Year of Quantum Science and Technology (IYQ2025). The proclamation of the International Year of Quantum Science and Technology is a recognition of the importance of quantum mechanics for
+understanding the world and the potential for developing innovative technologies that exploit unusual phenomena such as superposition of states and quantum entanglement. In 2025, numerous scientific societies, universities, and research institutions will organize a number of events to mark the centenary of the birth of modern quantum theory.
+Key area of development: Communication with the public and raising awareness among target audiences
+
+### Specific objectives – up to three:
+
+- − Support for the organization of educational, promotional, and technological events by providing communication channels.
+- − Organization of events as part of Science Month.
+Status
+IN PREPARATION/BEING IMPLEMENTED
+Expected results after implementation of the measure
+- − Awareness campaign: 1 (UNESCO)
+- − Events held: 1 (Science Month)
+Measure implementer
+MVZI (State Agency for UNESCO)
+
+### Brief description of the measure
+
+The United Nations field in Slovenia is covered by the State Agency for UNESCO MVZI. As every year, most events are expected to be concentrated in April, which is World Quantum Science Month or Quantum April. MVZI will also celebrate the International Year of
+Quantum Science and Technology as part of Science Month, during which it will co-organize and co-finance events and activities that are successful in the call for proposals under the auspices of Science Month 2025. and will provide communication support for information and awareness-raising through its channels throughout the year. These joint efforts will contribute to greater
+the importance of QT to the wider public.
+Indicative financial resources for the implementation of the measure in the period 2025–2035
+EUR 10,000 (for Science Month).
+Expected effects
+By 2030:
+- − Awareness campaign: 1 (UNESCO)
+- − Events held: 1 (Science Month) By 2035:
+- − Increased visibility of QT in the wider public
+
+### 4.4.2.2 ACTION 2: QuantERA III Final Strategic Conference
+
+Analysis of the situation and rationale for the proposed action:
+MVZI participates as a partner in the QuantERA III network, which will carry out activities between 2025 and 2030. The strategic activities of the partnership member states include actively raising awareness of the progress and results of co-financed projects, disseminating results and effects, international networking, and raising awareness of progress in the field of QT. To this end, a strategic closing conference of the QuantERA III partnership will be held at the end of the project. The conference will be attended by more than 200 researchers, representatives
+co-funded projects, representatives of the QuantERA network, domestic funders, and representatives of the EC.
+Key area of development: Communication with the public and raising awareness among target audiences
+Specific objectives – maximum of three
+- − Dissemination of the results and effects of international projects;
+- − raising awareness of the importance of QT and of technological and innovation opportunities;
+- − Strengthening the visibility of SI in the international environment and international networking.
+Status
+IN PREPARATION/IMPLEMENTATION
+Expected results after implementation of the measure
+Implementation of an international strategic conference in the field of QT: 1
+Responsible body
+MVZI
+Brief description of the measure
+The QuantERA III network closing conference is an excellent networking opportunity for Slovenian scientists from research organizations and interested companies in the field of QT to strengthen international connections and increase opportunities for successful international research consortia. It provides a space for disseminating the results and effects of co-financed international research projects and for raising awareness among target audiences about the possibilities of QT. Holding the conference in Slovenia will ensure greater recognition of Slovenia in the international environment and international networking, and will contribute to research, development, and
+innovation activities.
+The indicative financial resources for the implementation of the measure in the period
+2025–2035
+EUR 50,000, EU sources
+Expected effects
+By 2035:
+- − Holding of an international strategic conference in the field of QT: 1
+- − Events to strengthen SI's visibility in the international environment and international networking: 1
+- − Networking, knowledge transfer, establishment of new international research consortia: 1
+
+### 4.4.3 Horizontal financing instruments
+
+### 4.4.3.1 National level
+
+Name of instrument
+Description of instrument
+Status
+Duration
+Responsible body
+World Quantum Day
+April 14 is World Quantum Day. The initiative was launched by a global network of researchers as part of the World Quantum Day initiative initiative, and its purpose is to promote understanding of quantum science and QT among the general public. In Slovenia, activities to raise awareness and promote quantum science and QT are carried out by QUTES in cooperation with IJS and other stakeholders in the Slovenian quantum
+ecosystem.
+IN PROGRESS
+2025– 2035
+Slovenian quantum community
+Events within the framework of Science Month until 2035
+Science Month is a series of events organized by the Ministry of Education, Science and Sport every year in the autumn months. The events are intended to present, discuss, promote and celebrate Slovenian science and research. These events highlight the importance of research and its impact on society, while researchers and research organizations can showcase their findings and achievements. As part of this, we also strive to include special topics, such as QT, which have become crucial for
+future scientific and technological development.
+IN PREPARATION
+2025– 2035
+MVZI and the Slovenian quantum community
+This would increase the visibility of this field and encourage greater cooperation between research institutions, industry, educational institutions, and government bodies, which will contribute to greater recognition of QT and related opportunities, as well as strategic value for
+science, the economy, and society.
+
+# 5. CONSULTATION WITH STAKEHOLDERS
+
+At the proposal of the MVZI, the Government of the Republic of Slovenia established a working group for the preparation of the QT Development Strategy in SI by Decision No. 02401-13/2024/4 of January 9, 2025. Representatives of the Ministry of Education, Science and Sport, the Ministry of Labour, Family, Social Affairs and Equal Opportunities, the Ministry of the Environment and Spatial Planning, the Ministry of the Interior and the Ministry of Public Administration were appointed to the working group. The head of the working group held the first meeting
+January 28, 2025, where the working methodology, the form of the strategy, and the proposal for the formulation of measures were confirmed. In accordance with the minutes, all members of the working group were invited to submit proposals for measures by the deadline, with a description of the necessary financial resources to be provided by the competent authorities.
+The MVZI, acting as the coordinator for the preparation of the strategy, included all the measures submitted by the members of the working group by the deadline in the draft strategy and sent it for further coordination on February 26, 2025. At the next meeting on March 11, 2025, the working group discussed the measures and content of the strategy, addressed open issues, and proposed the necessary solutions. At the third meeting, held on June 16, 2025, as a joint meeting of both groups, the working group approved the draft strategy.
+Once the working group had approved the draft strategy, the Ministry of Education, Science and Sport, as coordinator, sent it to the QT advisory group, which had been established by Decision No. 012-21/2024-3360-8 of 11 March 2025 of the Minister of Education, Science and Sport. The advisory group, whose task is also to provide feedback on the preparation and subsequent implementation of the strategy, was composed of representatives from the research, academic, and business spheres involved in QT. The members of the advisory group were proposed by the Qutes association and the Chamber of Commerce and Industry of Slovenia (AtomQL, Beyond Semiconductor, CREAPLUS, Cosylab, IJS, Center of Excellence for Nanoscience and Nanotechnology – Nanocenter, Rudolfovo, UL FE, UL FMF, UL FRI, UM FERI, and TipPRI). At its meeting on May 20, 2025, the advisory group presented its views and proposals on the draft strategy. The MVZI forwarded these proposals to the working group and provided the advisory group with responses. The proposals that were appropriately included in the strategy were confirmed at the meeting of the advisory group on June 16, 2025, which took place as a joint meeting of both groups, thereby completing the public review of the strategy with representatives of the interested public.
+The draft strategy, which has been approved by the government working group for the preparation of the QT development strategy in Slovenia and the advisory group, will be prepared in accordance with Government Decision No. 02401-13/2024/4 of January 9, 2025, by September 30, 2025, at the latest, and then submitted to the Government of the Republic of Slovenia for approval.
+
+# 6. MONITORING AND REPORTING
+
+Members of the working group for the preparation of the QT development strategy in Slovenia will report once a year to the head of the working group, at the request of the Ministry of Education, Science and Sport, on the areas and measures within their competence, and the working group will prepare a comprehensive report on progress and measures implemented.
+Representatives of the Slovenian quantum community will be involved in the monitoring through a consultative working group, which will provide expert opinions, recommendations, and guidelines for the further development of the strategy. Among other things, the reports will be used as a basis for regular coordination with national guidelines and EU strategic documents with the aim of ensuring consistency and the best possible use of available resources.
+The strategy is scheduled to be revised in 2028, 2031, and 2035, at which point a decision will be made, depending on the circumstances and needs at the time, on the formation of a new working group to guide the further development and implementation of the strategy.
+
+# 7. CONCLUSION
+
+The adoption of the Strategy for the Development of Quantum Technologies in Slovenia until 2035 is an important step towards taking stock of the current situation and systematically strengthening Slovenia's scientific and technological excellence in the long term at the national, European, and NATO levels. The strategy will provide stable support to Slovenian researchers and increase the visibility and competitiveness of domestic research work in the wider European area. The formulation of clear strategic development areas and general and specific objectives with direct and indirect measures will contribute to the further expansion of research opportunities, the establishment of new research and industrial partnerships, the strengthening of the innovation ecosystem, and the integration of Slovenian institutions into international development initiatives and infrastructure in the field of QT. The key effects of the strategy will be reflected in the strengthening of research and development projects in the field of QT, the empowerment of talent in the field of QT, improved access to infrastructure, and support for the transition of research achievements into the innovation environment, thereby making SI an important part of the European quantum community. The development of high technology will contribute to Slovenia's strategic position in the international arena and to strengthening national security.
+In addition to the direct scientific and technological benefits for end users, the strategy will make a significant contribution to the digital transformation of Slovenia and the achievement of national and European development goals, including the commitments of the European QT Declaration, and will be coordinated with other European strategic documents. With this strategy, SI is laying the foundations for the sustainable development of QT and becoming an appropriate partner in joint European efforts, while promoting the expansion of cooperation, the exchange of knowledge, and the promotion of opportunities to utilize joint European financing instruments at the supranational level. This opens up an opportunity for SI to actively shape the future of QT and contribute to the realization of the European Union's vision as a global player in this field.
+
+# 8. ANNEXES
+
+## 8.1 Financial plan
+
+Development objectives and measures
+Value of the measure
+Unit
+Implementing body
+Research, development, and innovation activities and knowledge transfer
+Co-financing of multilateral transnational research projects in the ERA-NET partnership QuantERA I and II
+877,665.47
+EUR
+MVZI
+Co-financing of multilateral transnational research projects in the QuantERA III partnership RIA + FSTP
+900,000.00
+EUR
+MVZI
+Competence Center for QT
+2,500,000
+EUR
+MVZI, MDP, MGTŠ, MO
+Competence Center for QT: for research and innovation projects
+1,200,000
+EUR
+MVZI
+Important projects of common European interest – IPCEI in the field of quantum technologies
+2,000,000 4,000,000
+EUR
+MGTŠ
+CRP entitled Cryptographically secure random number generator
+379,522
+EUR
+UVTP and ARIS
+CRP entitled Quantum Security of Elliptic Curves
+400,000.00
+EUR
+UVTP and ARIS
+CRP entitled Analysis of QT benefits and risks in the field of safety (KVANTEH)
+120,000.00
+EUR
+MO and ARIS
+CRP entitled Quantum sensors for time and space detection (KVANTSENZ)
+280,000
+EUR
+MO and ARIS
+Infrastructure
+Co-financing of Slovenian participation in projects under EuroHPC JU calls for proposals
+1,000,000.00
+EUR
+MVZI and MDP
+EuroCC – support for the EuroHPC competence center in the field of quantum computing
+861,000
+EUR
+MVZI and MDP
+Acquisition of the first own quantum computer through purchase or own development.
+20,000,000
+EUR
+MVZI, MDP, MGTŠ, MO
+EuroHPC JU: Establishment of a data center adapted for quantum computing
+15,000,000.00
+EUR
+MVZI and MDP
+NOO project within the SI-EuroQCI initiative: SiQUID (network management and maintenance until 2035)
+200,000.00
+EUR
+URSIV
+Human resources and talent development
+Co-financing of the MSCA COFUND 2023 SQUASH project
+5,788,800
+EUR
+MVZI and ARIS
+Scholarships for foreign citizens pursuing doctoral studies in physics – QT orientation (368th public call)
+240,000
+EUR
+MVZI and
+JŠRIPS
+Communication with the public and raising awareness among target audiences
+World QT Year and other awareness-raising activities
+10,000
+EUR
+MVZI
+QuantERA III RIA-FSTP final strategic conference
+50,000
+EUR
+MVZI
+Support activities for strategy implementation
+Value of activity
+Unit
+Implementer
+Provision of additional human resources capacity for strategy implementation at the Ministry of Foreign Affairs
+Establishment of two new positions at the Ministry of Education, Science and Sport for the implementation of the strategy and related activities
+110,000.00
+EUR
+per year
+MVZI
+
+## 8.2 Summary of indicators/results
+
+OBJECTIVE
+Research, development, and innovation activities and knowledge transfer
+MEASURE
+Co-financing of multilateral transnational research projects in the ERA-NET partnership QuantERA I and II (Horizon 2020)
+INDICATOR
+Number of participations in the EU ERA-NET network for funding excellent research in the field of QT
+1
+INDICATOR
+Number of supported multilateral transnational research projects with Slovenian participation in the field of QT
+5
+MEASURE
+Co-financing of multilateral transnational research projects in partnership QuantERA III RIA + FSTP (EU Horizon)
+INDICATOR
+Number of SI participations in the European partnership for funding excellent research in the field of QT
+1
+INDICATOR
+Number of supported multilateral research projects with Slovenian participation in the field of QT
+3
+MEASURE
+Establishment of a competence center for QT
+INDICATOR
+Competence center for QT established
+1
+INDICATOR
+Number of research and innovation projects supported within the QT competence center
+2
+ACTION
+Important projects of common European interest – IPCEI in the field of quantum technologies
+INDICATOR
+Number of SI companies participating in a potential IPCEI QT
+3
+INDICATOR
+Number of supported projects participating in the IPCEI project
+3
+MEASURE
+CRP entitled Cryptographically secure random number generator
+INDICATOR
+Recommendations for the development of a cryptographically secure random number generator suitable for use in the field of classified information
+1
+INDICATOR
+Development of a "true" random number generator using QT
+2
+ACTION
+CRP entitled Quantum Security of Elliptic Curves
+INDICATOR
+Algorithm for selecting cryptographically secure parameters of elliptic curves
+1
+ACT
+CRP entitled Analysis of the benefits and risks of QT in the field of security (KVANTEH)
+INDICATOR
+Recommendations on the capabilities and potential uses of quantum devices, with an emphasis on their use for security purposes
+1
+ACTION
+CRP entitled Quantum sensors for time and space detection (KVANTSENZ)
+INDICATOR
+Production of a demonstration laboratory device for detecting radio waves that operates according to the principles of quantum mechanics (TRL 4)
+1
+OBJECT
+Infrastructure
+MEASURE
+Co-financing of Slovenian participation in projects under EuroHPC JU calls for proposals
+INDICATOR
+Number of supported projects with Slovenian participation
+3
+ACT
+EuroCC – support for the EuroHPC competence center in the field of quantum computing
+INDICATOR
+Number of EuroHPC projects supported with increased capacity to operate in the field of quantum computing
+10
+ACTION
+Acquisition of the first own quantum computer through purchase or own development
+INDICATOR
+Acquisition of own quantum computer
+1
+ACTION
+EuroHPC JU – establishment of a data center adapted for quantum computing
+INDICATOR
+Number of enabling infrastructure constructions completed
+1
+ACTION
+NOO project within the SI-EuroQCI initiative: SiQUID (network management and maintenance until 2035)
+INDICATOR
+Number of completed projects in the field of quantum communication infrastructure
+1
+ACTION
+Development of a Slovenian quantum chip
+INDICATOR
+Slovenian quantum chip developed to TRL 7 phase.
+1
+GOAL
+Development of human resources and talent
+ACTION
+Co-financing of the MSCA COFUND 2023 SQUASH project
+INDICATOR
+Number of supported MSCA Cofund projects
+1
+INDICATOR
+Number of researchers involved in the field of QT
+4
+INDICATOR
+Number of doctoral students involved in the field of QT
+5
+GOAL
+Scholarships for foreign citizens to study physics – QT orientation (368th public call)
+INDICATOR
+Number of scholarships awarded to foreign citizens for doctoral studies in Slovenia in the study program Physics – QT orientation
+5
+OBJECTIVE
+Communication with the public and raising awareness among target audiences
+ACT
+World Year of QT and other awareness-raising activities
+INDICATOR
+Awareness campaign
+1
+INDICATOR
+Awareness-raising events held
+1
+ACTION
+QuantERA III RIA-FSTP final strategic conference
+INDICATOR
+Organization of an international strategic conference in the field of QT
+1
+INDICATOR
+Events to strengthen SI's visibility in the international environment and international networking
+1
+INDICATOR
+Events for networking, knowledge transfer, and the establishment of new international research consortia
+1
+
+## 8.3 List of research and innovation projects in the field of QT with Slovenian stakeholders in the Horizon Europe program from the CORDIS platform (July 2025)3 (<>)
+
+Project name
+Acronym
+Contract Contract
+Project implementati on period
+Organization
+Name of instrument
+Net EU contribution for Slovenian participants4 (<>)
+Integration of models of different dimensions for the design of new generations of fuel cells for electrified mobility (Bridging Models at Different Scales To Design New Generation Fuel Cells for Electrified Mobility)
+BLESSED
+101072578
+February 1, 2023– 31
+UL
+(participant)
+MSCA
+121,089.60
+EUR
+Boundaries of quantum chaos (English: Boundaries of quantum chaos)
+Boundary
+101126364
+September 1, 2024– August 31, 2029
+IJS (host institution, beneficiary)
+UL
+(beneficiary)
+ERC
+2,000,000.00
+EUR
+Reaction robot with intimate photocatalytic and separation functions in a 3D network driven by artificial intelligence (English Reaction robot with intimate photocatalytic and separation functions in a 3-D network driven by artificial intelligence)
+CATART
+101046836
+September 1, 2022– 31 August 2026
+Chemical Institute (participant)
+EIC
+444,275
+EUR
+Project name
+Acronym
+Contract of contract
+Project implementati on period
+Organization
+Name of instrument
+4
+Net EU contribution for Slovenian participants
+Weakly driven quantum symmetries
+DrumS
+101077265
+1 October 2023– September 30, 2028
+IJS (host institution, beneficiary)
+ERC
+1,446,893.75
+EUR
+Implementation of activities described in the merger plan, within the Horizon Europe program through the joint
+program of the members EUROfusion consortium (English Implementation of activities described in the Roadmap to Fusion during Horizon Europe through a joint program of the members of the EUROfusion consortium)
+EUROfusion
+101052200
+1 January 2021– 31 December 2025
+IJS
+(participant)
+Cosylab d.d. (third party)
+Institute for Metal Materials and Technologies (third party)
+UL (third party)
+Euratom Research Program
+3,812,972.55
+EUR
+Far-Away-from-eQuilibrium Quantum Matter in 2D dimensions (Far-Away-from-eQuilibrium QANTUm Matter in
+2D)
+FAQ –
+QuantuM2D
+101200860
+1. 12. 2025– November 30, 2027
+UL
+(coordinator)
+MSCA
+198,557.52
+EUR
+Far-from-equilibrium attractors at ultra-relativistic energies relativistic energies (English Far-from- Equilibrium ATtractors at Ultra-Relativistic Energies)
+FEATURE
+101103006
+1. 10. 2023– 30
+UL
+(coordinator)
+MSCA
+171,399.36
+EUR
+GN5-2 – High-speed, cost-effective connectivity (GN5-2)
+GN5-2
+101194278
+1 January 2025– June 30, 2027
+Academic and Research Network SI (participant)
+Research infrastructures
+11,589
+EUR
+Hidden metastable mesoscopic states in quantum materials (English Hidden metastable mesoscopic
+HIMMS
+10114110
+1. 10. 2024– September 30, 2029
+IJS (host institution, beneficiary)
+Center of Excellence
+ERC
+2,422,253.00
+EUR
+states and quantum materials)
+nanoscience and nanotechnology – Nanocenter
+(beneficiary)
+A unified network supported by artificial intelligence for secure long-term network evolution beyond 5G (An Artificial Intelligent Aided Unified Network for Secure Beyond 5G Long Term Evolution)
+NANCY
+101096456
+1 January 2023– December 31, 2025
+IJS
+(participant)
+Joint Undertaking for Smart Networks and Services (English: The European Smart Networks and Services Joint Undertaking –
+SNS JU)
+306,375.00
+EUR
+A catalyst for European cloud services in the era of data spaces, high-performance and edge computing (A catalyst for EuropeaN ClOUd Services in the era of data spaces, high-performance and edge computing)
+NOUS
+101135927
+1 January 2024– December 31, 2026
+ARCTUR
+računalniški inženiring d.o.o. (participant)
+Cluster 4: Digital, Industry, and Space (Horizon Europe)
+323,500
+EUR
+Programmable Atomic Large-scale Quantum Simulation 2 – SGA1
+PASQuanS2.1
+101113690
+1 April 2023– September 30, 2026
+UL
+(participant)
+Cluster 4: Digital, Industry and Space (Horizon Europe)
+507,487.50
+EUR
+QuantERA III: Co-funded initiative in the field of quantum technologies (QUANTERA III
+RIA: COFUND IN QUANTUM TECHNOLOGIES)
+QUANTERA III
+101212998
+1 June 2025– May 31, 2030
+MVZI
+(participant)
+Cluster 4: Digital, Industry and Space (Horizon Europe)
+EUR EUR
+Project name
+Acronym
+Contract contract
+Project implementati on period
+Organization
+Name of instrument
+4
+Net EU contribution for Slovenian participants
+Quantum and Classical Ultrasoft Matter (QLUSTER)
+QLUSTER
+101072964
+January 1, 2023– December 31, 2026
+OJ
+(participant)
+MSCA
+242,179.20
+EUR
+Quantum ergodicity: stability and transition (English Quantum Ergodicity: Stability and Transitions)
+QUEST
+101096208
+1 April 2024– 31 March 2029
+UL (host institution, beneficiary)
+ERC
+1,944,625.00
+EUR
+Soft and biological quantum light sources
+SoftQuanta
+101170123
+1. 11. 2025– 31 October 2030
+IJS (host institution, beneficiary)
+Center of Excellence in Nanoscience and Nanotechnology – Nanocenter
+(beneficiary)
+ERC
+2,322,923.00
+EUR
+Scientific training program for advanced research and knowledge in light-matter engineering
+(SPARKLE)
+SPARKLE
+101169225
+1 January 2025– 31
+IJS
+(participant) UL (partner)
+MSCA
+242,179.20
+EUR
+Slovenian Quantum Science Hub –
+SQUASH (Slovenian Quantum Science Hub – SQUASH)
+SQUASH
+101177446
+March 1, 2025– February 28, 2030
+IJS
+(coordinator)
+Novartis d.o.o. (partner) TipPri d.o.o. (partner) Cosylab d.d. (partner)
+MSCA
+5,731,200
+EUR
+Beyond Semiconductor d.o.o.
+(partner)
+AtomQL d.o.o. (partner)

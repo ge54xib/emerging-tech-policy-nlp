@@ -1,0 +1,1192 @@
+ITALIAN STRATEGY FOR QUANTUM TECHNOLOGIES
+
+# PREFACE
+
+In a world of continual change and acute geopolitical challenges, quantum technologies represent a bridge between the past and the future of research. They open new venues for study and development—innovations poised to transform how we live and do business. We are writing one of the most exciting chapters of our history.
+The year 2025 has been proclaimed the International Year of Quantum Science and Technology, exactly a century after quantum mechanics was born. Since that breakthrough, the relevance of these technologies has grown exponentially. They are now viewed as essential to every nation’s social and economic progress, with applications stretching from health care and communications to energy and environmental sustainability.
+Italy enters this arena as a leading player. Quantum technologies already permeate basic and applied research, industrial ambitions and every level of education. They are a goal for our industry and for education at every level. Hence the decision to craft a dedicated National Quantum Technology Strategy. Italian industry and academia, powered by the talent of entrepreneurs, researchers and skilled workers, have already achieved a strong international standing. The National Recovery and Resilience Plan (NRRP) was an important milestone in forming a robust ecosystem that forges synergies among business, academia and local communities. Yet more is needed: we felt the need to harmonize all the initiatives already underway. For this, as well, recent years have seen an increase in public funding allocated to both basic and applied research in the field of quantum technologies.
+Italy possesses all assets to become an international leader, and our vision is long‑term. By setting out this Strategy we also answer our stakeholders and international partners, guiding public and private investment and capitalizing on the wealth of scientific expertise embedded in our Country. Above all, the Strategy equips the Italian Government to forge solid international partnerships and pursue optimal solutions to global economic, scientific, educational and security challenges.
+ff
+ffi
+This has been a collective eort. The working group united top‑tier scientific experts with ocials from the Ministries and Agencies involved in quantum technology. Industry was extensively consulted, the scientific community engaged, and a public consultation captured further insights—embedding a forward‑looking policy tool in every dimension of Italian life. Collaboration— between government, enterprise, academia, research and labour market— remains the watchword for maximizing quantum technology’s potential and drawing major investment to strengthen Italy’s global competitiveness. Collaboration has been the key word - between the Government, businesses, academic institutions, the research community and the labour market - to fully harness the potential of quantum technologies. It is precisely this spirit of collaboration that will underpin the implementation of the Strategy, with the clear understanding that a robust ecosystem will attract significant investments and strengthen Italy's position and competitiveness on the international stage.
+
+# Glossary
+
+Quantum circuit – Sequence of quantum gates forming a quantum algorithm to process a register of qubits.
+Adiabatic quantum computing – A quantum computing architecture based on a transition process from a high-overlap state to a final state that is the solution to the problem.
+Measurement-based quantum computing – A quantum computing architecture that starts from a many-qubit entangled state and proceeds by progressively measuring qubits until the final register measurement.
+Digital quantum computing – Quantum computing architecture based on the application of a quantum circuit to a qubit register.
+Decoherence – Loss of the quantum properties of a system due to interactions with the environment, which causes the qubit to behave like a classical bit.
+Entanglement – Phenomenon in which two or more qubits become correlated such that the state of one depends on the state of the other, regardless of the distance between them.
+Quantum errors – Errors due to decoherence or imperfections in quantum devices, requiring Quantum Error Correction (QEC).
+FQTC (Fault Tolerant Quantum Computing) – Uses quantum error correction (QEC) techniques to correct errors at a faster rate than they occur, enabling reliable large-scale operations.
+Quantum gate – Operation that manipulates the state of one or more qubits, similar to logic gates in classical computers.
+Quantum measurement – Process that collapses the superposition of a qubit into a defined state (0 or 1), destroying quantum information.
+NISQ (Noisy Intermediate-Scale Quantum) – Current generation of quantum computers, with a limited number of qubits and susceptible to errors.
+Quantum accuracy – Desired characteristic of a process or transformation performed on a quantum system, quantified by fluctuations in the measurable quantities of interest, or their estimation.
+Quantum Annealing – A quantum computing algorithm that employs an adiabatic quantum computer for optimization problems.
+Qubit – Basic unit of quantum information, analogous to the classical bit, but capable of being in multiple states simultaneously due to superposition.
+Quantum teleportation – Technique for transferring quantum information from one qubit to another by exploiting entanglement.
+Coherence time – Period in which a qubit maintains its quantum state before decoherence destroys it.
+Quantum advantage – Ability, on the part of a quantum computer, to perform a computation that would be impossible (or impractical) for a classical computer.
+Superposition – Property whereby a qubit can be in a combination of multiple states (0 and 1) at the same time until measured.
+
+# Acronyms list
+
+ACN
+National Cybersecurity Agency
+CdC
+Centers of Competence
+CEN
+European Committee for Standardization
+CENELEC
+European Committee for Electrotechnical Standardization
+CNR
+National Research Council
+CTE
+Houses of Emerging Technologies
+DTD
+Department of Digital Transformation
+EMN-Q
+European Metrology Network for Quantum Technologies
+EPR
+Public Research Institutions
+EuroHPC-JU
+European high-performance computing Joint undertaking
+EuroQCI
+European Infrastructure for Quantum Communications
+EuroQMTI
+European Quantum Metrology and Testing Initiative
+FGQT
+Focus Group on Quantum Technologies
+FQTC
+Fault Tolerant Quantum Computing
+HPC
+High Performance Computing
+HPC-QCS
+High Performance Computer and Quantum Simulator hybrid
+ICSC
+National Research Center in HPC, Big Data and Quantum Computing
+INFN
+National Institute of Nuclear Physics
+KPI
+Key Performance Indicators
+MAECI
+Ministry of Foreign Affairs and International Cooperation
+ML
+Machine Learning
+MIMIT
+Ministry of Enterprise and Made in Italy
+MUR
+Ministry of University and Research
+NISQ
+Noisy Intermediate Scale Quantum
+NQIA
+National Quantum Initiative Act
+NQSTI
+National Quantum Science and Technology Institute
+NSB
+National Standardization Bodies
+
+# Acronyms list
+
+NV
+Nitrogen-Vacancy
+NRRP
+National Recovery and Resilience Plan
+PIC
+Photonic Integrated Circuits
+PMI
+Small and Medium Enterprises
+PoC
+Proof of Concept
+PRIN
+Research Projects of Significant National Interest
+QEC
+Quantum Error Correction
+QKD
+Quantum Key Distribution
+QML
+Quantum Machine Learning
+QPU
+Quantum Processing Unit
+QT
+Quantum Technologies
+RTO
+Research and Technology Organization
+SDK
+Software Development Kit (Quantum Code Development Platforms)
+SDO
+Standards Development Organizations
+SI
+International System
+SRIA
+Strategic Research and Industry Agenda
+STEM
+Science, Technology, Engineering and Mathematics
+TRL
+Technology Readiness Level
+
+# 1. EXECUTIVE SUMMARY
+
+Quantum technologies (QT) constitute a strategic lever for competitiveness, technological sovereignty, and national security. This is why global competition in the field has greatly increased, attracting increasing attention and stimulating increased investment from both the public and private sectors.
+At the European level, since the launch of the European Quantum Technology Flagship in 2018, significant progress has been made in the field, with the promotion of initiatives such as the European Quantum Communications Infrastructure (EuroQCI) and the European High Performance Computing Joint Undertaking (EuroHPC-JU), leading up to the recent publication of the Communication “Competitiveness Compass for the EU”1(<>), which, in outlining the European Commission's agenda for strengthening competitiveness from a technology foresight perspective, identifies QTs as one of the areas of activity planned for the coming months. The aforementioned communication resulted in the publication of a European strategy on QTs at the beginning of July 20252 (<>), and eventually in the proposal for a Quantum Act by the end of 2025.EU and national programs will thus be aligned and investment in pan-European quantum computing, communication and sensing infrastructure supported.
+Given the growing importance of QTs and their relevance, the government is committed to elaborating, like other states and in line with the ambitious European goals, this national strategy, which can systematize existing and available resources to enhance the results that have emerged and continue to invest in the strengths identified, in order to capitalize on opportunities and strengthen Italy's role in the European and international context. The establishment of a national ecosystem (of both research and industry) in QTs also passes through cooperation and international relations, which must be conducted within the framework of the Country's fundamental foreign and security policy directions and alliances.
+The strategy was drafted by a Working Group composed of experts from the scientific community and representatives from the Ministry of University and Research (MUR), the Department for Digital Transformation (DTD) of the Presidency of the Council of Ministers, the National Cybersecurity Agency (ACN), the Ministry of Enterprises and Made in Italy (MIMIT), the Ministry of Defense, and the Ministry of Foreign Affairs and International Cooperation (MAECI) in order to duly represent the interests of different public and private stakeholders.
+The analysis of the Italian ecosystem revealed a dynamic and growing landscape. Italy has strong academic and industrial expertise, with research institutes and companies active in all pillars of QTs. From an industrial perspective, QTs related to communication and sensing have higher degrees of technological maturity (TRL), while the computation and simulation sector needs access to infrastructure.
+Public funding from MUR for quantum technologies amounts to €228.9 million for 2021-2027 (€198 million from the NRRP, €27 million from the National Research & Innovation Programme and €3.9 million from FISR). These resources have been channelled into competitive calls that have strengthened national research capacity; nevertheless, Italy’s public investment—though rising—remains modest compared with countries such
+as the United States, the United Kingdom, France and Germany.
+In recent years, MIMIT has launched initiatives across several quantum-technology domains, supporting feasibility studies, pilot lines and public– private partnerships, with the goal of nurturing start-ups and fostering convergence with established companies.Given the state of the art, in order to strengthen Italy's position, actions aimed at enhancing research and innovation, improving access to infrastructure and stimulating private investment have been identified. In addition to the funding of basic research, the creation of public-private collaborative networks is considered crucial to promote applied research and technology transfer, while the enhancement of national laboratories where companies and research institutions can work together will enable the development of new industrial solutions. In addition, the creation of advanced training programs and industrial doctorates will contribute to the growth of the skilled workforce, an essential aspect of the sector's expansion. Equally important is support for the internationalization of Italian QT operators and the international promotion of domestic ecosystems (attracting talent and foreign capital) through economic diplomacy.
+On the industrial applications front, Italy needs to foster the birth and growth of start-ups and incentivize investment in QTs, encouraging the mobilization of private capital, with interventions that grow, in particular, deep-tech venture volumes and the emergence of growth funds to curb the companies flight phenomenon. The standardization and certification of QTs is another key element, as it ensures the security and interoperability of developed solutions, strengthening the competitiveness of Italian companies globally.
+The implementation of these measures therefore requires the development of an effective governance structure to support innovation in QTs. The last part of the strategy therefore focuses on outlining some strategic suggestions for a governance model.
+Italy has the opportunity to position itself as a key player in the QT landscape. Yet this requires a clear strategic vision and an ongoing commitment to support research and innovation, international promotion, and security protection in critical technology sectors, particularly in those segments most vulnerable to illicit or unwanted transfer of strategically valuable skills and knowledge. The path outlined in this paper offers a roadmap to consolidate the Country's role in QTs and ensure a secure and competitive technological future. Investing in these technologies means not only seizing an opportunity for economic and industrial growth but also strengthening national security and contributing to global scientific progress.
+The coming years will be decisive: who will lead the industrial and scientific development of QTs will dominate the fields of secure communication, artificial intelligence, simulation of complex materials, and high-performance computing.
+With this Strategy, Italy aims to close the gap with more advanced countries, strengthen its autonomy in key sectors, and generate new industrial supply chains and skilled employment.The strategy is based on four priority axes:
+- ✓ Scientific and industrial development in the five pillars of QT (computation, simulation, communication, sensing, basic science);
+- ✓ Building an integrated national ecosystem capable of generating value along the entire chain: research, technology transfer, industry, training;
+- ✓ Internationalization and security: active positioning in EU programs and protection of critical technologies;
+- ✓
+Governance and measurability: concrete tools to coordinate, evaluate, and update strategic actions.
+Italy enjoys scientific excellence but suffers from fragmentation that weakens its competitive stance. This document outlines an operational pathway to:
+- ✓ attract and retain top talent;
+- ✓ reinforce test, certification and prototyping infrastructure;
+- ✓ develop a nation-wide network of competence centers;
+- ✓ support the scale-up of Italian deep-tech start-ups;
+- ✓ activate monitoring tools, KPIs and impact evaluation.
+-
+This Strategy is a first step. Its effectiveness will hinge on coherent, longterm policies backed by targeted investment and stable governance.
+Italy has the chance to be a protagonist of the second quantum revolution.
+
+# 2. THE ITALIAN CONTEXT
+
+## 2.1 QUANTUM TECHNOLOGIES: AREAS AND SYNERGIES
+
+This first section of the Strategy provides a technical overview of quantum technologies, delving into their key features and fields of application to identify the most promising directions for research and development3 (<>).
+Quantum technologies are among the critical technologies for national competitiveness, with revolutionary potential across numerous applications and significant implications for national security. Although still in a prototypical phase and expected to mature over the next decade, their development is being accelerated by the combined efforts of public and industrial research.
+The first quantum revolution, in the early twentieth century, brought about the birth of quantum mechanics, leading to the development of revolutionary technologies, such as the transistor and the laser, that have shaped the modern world. The second quantum revolution, which began in the 1980s, shifted the focus to the ability to directly manipulate the properties of individual quantum particles-such as atoms, photons and electrons-through principles such as superposition of states and entanglement. This new phase promises to further transform technology.
+With their revolutionary and cross-cutting applications, QTs require a forward-looking approach to maximize economic development, ensure technological independence, and strengthen national security. This approach should focus on the main areas identified as pillars in the European strategy:
+- ✓ Quantum Computing aims to develop devices and protocols capable of outperforming or accelerating existing classical computers, offering advantages such as faster solutions for certain classes of problems, reduced energy consumption, and potentially higher accuracy and lower costs. Its applications range from logistics to energy distribution, medical diagnostics to hydrological or climate change forecasting, with the potential to also contribute to improve machine learning and artificial intelligence techniques. However, its power also raises concerns about the vulnerability of existing cryptographic systems, making the development of secure hardware and advanced protocols for cryptography essential.
+- ✓ Quantum Simulation aims to develop devices capable of emulating specific systems at atomic level, offering greater simplicity than universal quantum computers. In addition to important spin-offs to fundamental scientific knowledge, its applications are manifold and include the development of new materials, the design of next-generation solar cells and batteries, and the design of new molecules and biomolecules, with applications in the fields of mechanics, chemistry, and pharmacology, in both civilian and military contexts.
+- ✓ Quantum Communication promises unprecedented levels of confidentiality in point-to-point communications, for both civilian and military use. In a future scenario, to resist attacks brought by quantum computers, two approaches will have to complement each other: one algorithmic, based on post-quantum protocols and classical hardware, the other physical, based on Quantum Key Distribution (QKD) systems. The creation of new quantum-hardware transmission networks may then evolve into a network capable of exchanging quantum resources between devices enabling applications such as sensing and distributed computing.
+- ✓ Quantum Sensing exploits the properties of matter and quantum radiation to achieve unprecedented sensitivity and accuracy. Quantum sensors find applications in all operational domains, both civilian and military. Some possible applications include: quantum atomic clocks for extremely precise positioning; gravimeters capable of monitoring tectonic movements or identifying underground structures; optically pumped magnetometers for identifying hidden objects or mineral deposits; Earth's magnetic field anomalies through mapping from mobile platforms; measuring and imaging biomagnetic fields (e.g., those generated by the brain, heart, and muscles); quantum microscopy; and devices and detectors for applications in basic research.
+Quantum technologies therefore represent a fundamental strategic lever for Italy’s scientific, economic, and security advancement.
+Current global challenges -social, political, and economic- emphasize the importance of emerging and disruptive technologies, such as quantum technologies, capable of complementing and in some cases surpassing classical methods to deal with complex and interconnected tests in all operational domains: land, sea, air, cyber, and space. In this scenario, it is therefore imperative to adopt a prospective and forward-looking approach, capable of (i) assessing their impact, identifying opportunities and risks with foresight, and (ii) implementing an appropriate strategy to promote and manage their development, maintaining a strategic advantage. Only in this way can QTs become a key resource for the Country System, contributing to scientific progress, technological and business innovation, the creation of the industries of the future, and national security.
+For this reason, it is critical to guide the development of QTs in a responsible manner, carefully balancing risks and opportunities involved. Consideration should be given to leveraging existing state-of-the-art technologies to manage the acceleration to innovation in the transition. At the same time, policies must be adopted that foster innovation while ensuring the security and resilience of critical infrastructure, protecting privacy and data integrity in an increasingly connected and digitized world.
+Through integrated planning based on foresight analysis and periodic updates, this Strategy aims to maximize the benefits of quantum technologies while minimizing their risks. Its goal is to contribute to a sustainable, secure, and technologically competitive future for the entire national system.
+
+### 2.1.1 Basic quantum science
+
+### Importance of basic science
+
+Basic quantum science-still evolving - constitutes the knowledge basis from which future quantum technologies will emerge. Today’s discoveries guarantee tomorrow’s applications.
+Investing in fundamental research is crucial for the advancement of QTs and addressing what prevents their full development, such as scalability and decoherence. Basic science supports improved performance of physical platforms, including those based on photonic systems, spin qubits, superconducting qubits, molecules, atoms, and ions. It also fosters the development of new approaches to computation, communication, and sensing
+through the study of the role of fundamental quantum resources. It also enables the optimization of innovative platforms, such as mechanical and opto-mechanical systems, topological electronic excitations, and molecular qubits. Not only that, but basic science is also the main lever to incentivize talented students to study QTs and enables the training of quantum scientists and engineers to meet the needs of emerging industry.
+
+### Basic science for expanding the boundaries of quantum mechanics for quantum technologies
+
+Key areas of basic research with industrial impact include quantum decoherence, quantum thermodynamics, condensed matter, quantum gravity, and the foundations of quantum mechanics. One example is to improve the handling of decoherence, in order to use quantum computers to study complex systems, explore the limits of quantum mechanics, and delve deeper into its fundamentals - all crucial steps in developing and enhancing QTs. Another example is the optimization of energy resources guided by the principles of quantum thermodynamics, which strengthens the link between the irreversibility of quantum measurements and their cost in terms of entropic resources. This approach makes it possible to identify a limited number of relevant parameters and use them to increase the accuracy or efficiency of the processes of interest.
+
+### Basic science for quantum information theory
+
+Another side is quantum information theory. This benefits greatly from basic research, which is essential for understanding the properties of quantum algorithms and developing software capable of solving real problems on quantum computers. Major areas of study include complexity analysis of quantum algorithms to identify genuine advantages, quantum complexity theory to prove and establish such advantages, quantum information theory examining the properties of quantum states and quantum channels, characterization and emulation of complex quantum algorithms and the entanglement structures generated by them. These researches are key to improving the performance of quantum communication protocols and exploiting the full potential of quantum computers over classical systems.
+
+### 2.1.2 Quantum computing
+
+Quantum computing e leverages the principles of quantum mechanics to perform computational tasks more efficiently than classical computers.
+Quantum computing is based on the active manipulation of quantum states of atomic scale systems to process information. Its computational units are the quantum bit, or qubit. Unlike the traditional bit which can only take on value 0 and 1 - like a coin can only be heads or tails - the qubit can be in any or a linear superposition of 0 and 1.when measured the qubit takes probabilistically the value 0 or 1 – like a coin which, as it rotates has a certain probability of taking on heads and one of taking on tails. Thanks to the superposition principle, quantum systems can process multiple inputs at the same time, reducing the number of operations required to obtain a certain result. This leads to a quantum speedup: ideally, if the classical computer can perform n operations with n bits, a quantum computer with n qubits can be in a superposition of 2n states and thus can be 2n times faster. This leads to an increase in computational capacity that on some complex problems can be exponential, paving the way for solving hitherto unsolvable complex problems.
+Noisy Intermediate-Scale Quantum (NISQ) Devices
+The current generation of quantum devices operates within the Noisy Intermediate-Scale Quantum (NISQ) regime, characterized by the presence of noisy qubits and the lack of fully developed quantum error correction (QEC) mechanisms. One of the main challenges in the coming years will be to determine whether, and how, quantum advantage can be achieved using such devices. For instance, it has been demonstrated that NISQ devices with more than 100 qubits, supported by error mitigation algorithms, can outperform brute-force computations executed on classical supercomputers for certain tasks. These findings have marked the beginning of the so-called “quantum utility” era, which paves the way toward the realization of quantum advantage.
+In the long term, the goal is to develop fault-tolerant quantum computers (Fault-Tolerant Quantum Computation, FTQC) capable of performing complex computations with minimal errors. This includes the potential to interconnect quantum computers, enabling the exchange of quantum information and the eventual development of a quantum internet. The NISQ regime serves as a critical driver for the technological advancement of quantum hardware, control systems, and quantum software, laying the groundwork for the precision and scalability required for FTQC.
+Fault Tolerant Quantum Computing (FQTC)
+Qubits are extremely sensitive to environmental factors, requiring operation within highly controlled environments. Achieving Fault-Tolerant Quantum Computation (FTQC) depends on a drastic reduction in error rates, made possible through Quantum Error Correction (QEC), in which multiple imperfect physical qubits are grouped into logical qubits capable of detecting and correcting errors. However, this introduces significant hardware overhead, as a large number of physical qubits is required to construct a single logical qubit.
+To address this challenge and enable robust and scalable quantum computation, it is essential to:
+- i) design new types of qubits with enhanced characteristics;
+- ii) develop chip architectures optimized for error correction; and
+- iii) implement advanced QEC codes to minimize the required hardware resources.
+The primary goal is to create quantum computing devices that outperform or speed up current classical computers to solve specific industrial, scientific, and technological problems. This "quantum advantage" can manifest itself in various forms: increased speed, increased accuracy, improved energy efficiency, reduced operating costs, or a combination of these benefits. In particular, the use of quantum machine learning (QML) algorithms is finding increasing prominence, with potential benefits in the areas of data classification, optimization, and signal processing. Although the overall impact of quantum computing is still being assessed, it is highly likely that this technology will surpass classical computers in some areas of interest, while maintaining a complementary and competing relationship with them.
+
+### Applications of quantum computing
+
+Applications of quantum computing include cryptography, simulation, optimization and artificial intelligence. Quantum computers could make current security methods less secure, prompting the development of new security protocols. Quantum computers can model complex materials and molecules, accelerating the discovery of drugs and new materials. Quantum algorithms could make it possible to solve complex optimization problems more efficiently in areas such as basic science, logistics and finance, possibly in synergy with the use of software based on classical computational resources. Finally, in artificial intelligence, quantum computing can speed up model training, improving advanced applications such as autonomous vehicles and medical diagnostics. These advances promise to transform various domains, making technologies faster and more powerful.
+Machine learning (ML) - a branch of artificial intelligence - can benefit greatly from quantum computing. The integration of quantum algorithms with traditional ML methods enables improved techniques such as support vector
+machines for data classification, quantum reinforcement learning, and quantum Boltzmann machines. These advanced applications find use in areas such as basic science, image-based medical diagnosis, climate change prediction, and hydrological forecasting, offering more accurate and efficient results.
+
+### Scientific, technological and industrial challenges
+
+The development of quantum computers involves multiple layers of technology, collectively known as the quantum computing stack. The large-scale construction of FQTC systems requires the integration of millions of high-fidelity qubits. The optimal operation of quantum computers therefore depends on effective characterization, optimization and control of the qubits. This involves measuring the properties of the qubits, counteracting drifts in performance and fine-tuning the control signals to achieve maximum fidelity. As quantum systems scale, power consumption, physical footprint and robustness must improve, necessitating the integration of control electronics near the qubits sometimes in cryogenic environments. Overcoming the challenges required to move from NISQ to FQTC scale requires active collaboration between industry and research institutions, fostering rapid feedback loops and co-design of the entire processing stack. This stack integrates quantum processing units (QPUs) with the infrastructure for housing, shielding, signal routing, control electronics, firmware, and software.
+The construction of quantum computers is based on different qubit technologies, each with its own pros and cons. Superconducting qubits are among the most advanced, offering flexibility, scalability and high speed in performing calculations, but requiring special conditions to maintain their efficiency. Semiconductor-based ones, such as those made of silicon, promise great scalability due to already established technology. Trapped ions and neutral atoms ensure high accuracy and long coherence times. Photons are ideal for long-range communications, while qubits made with color centers offer potential for room-temperature operations. Hybrid systems, which combine different technologies, offer greater flexibility but are more complex to manage. One example is two-dimensional (2D) materials to be integrated directly onto platforms such as silicon. Regardless of the technology chosen, it is essential to develop high-quality materials, efficient fabrication methods, advanced cooling environments, and hardware-software integration solutions. In addition, it is important to improve qubit control, reduce power consumption, and integrate quantum computers with traditional supercomputers to make the most of their potential. These advances require close collaboration between industry and research to overcome the challenges and to build large-scale quantum computers.
+The development of the complete software stack, from low-level controllers to dedicated compilers for each platform and high-level software for dedicated applications, will be critical to the future development of the field for both basic research and industrial applications.
+
+### 2.1.3 Quantum simulation
+
+Quantum simulators are specialized devices that mimic the behavior of complex quantum systems, making it easier to study such systems than with universal quantum computers. These simulators are designed to solve specific problems following the laws of the systems they emulate. Although they cannot perform any possible algorithm, they are expected to solve certain types of problems faster than digital quantum computers due to less stringent requirements for qubit quality. There are several types of quantum simulators: i) digital simulators, which use quantum gate sequences to approximate quantum dynamics; ii) analog simulators, which replicate the behavior of real systems under controlled conditions; iii) heuristic devices, which offer approximate solutions to optimization problems by combining classical and quantum components. In parallel, the concept of "quantum inspired" processes, where a quantum system is emulated on a classical architecture,
+for example in simulated quantum annealing, is also being developed. These tools are particularly useful for specific applications, such as the simulation of complex networks in industry.
+
+### Applications of quantum simulation
+
+The applications of quantum simulation are manyfold of both civilian and military interest and can be grouped into two main areas: simulation of complex quantum systems and optimization. Quantum simulators can model molecules and materials that are difficult to characterize with conventional computers, fostering innovations in the automotive, chemical, petroleum, photovoltaic and pharmaceutical industries, as well as supporting fundamental research in physics and biology. On the optimization side, quantum simulation can solve complex problems such as vehicular traffic management, energy trading and supply chain optimization, while also generating benefits for sectors such as finance, insurance, transportation, logistics, cybersecurity, manufacturing and healthcare.
+
+### Scientific, technological and industrial challenges
+
+The development of quantum simulation faces several scientific, technological and industrial challenges. Effective quantum simulation requires precise control of qubits and their programmability. Digital quantum simulators have qubit control requirements like those of quantum computers, but with some flexibility depending on the problem. Analog quantum simulators, on the other hand, require high control precision to accurately prepare and drive quantum dynamics, although not necessarily at the single qubit level.
+Increasing the scale of quantum simulation platforms is critical to expand their scope of application, particularly in materials design, quantum chemistry, and optimization problems. In addition, developing programmability for non-qubit-based approaches is essential to make these platforms more versatile and to support industry-relevant applications.
+Establishing benchmarks and verification protocols for analog quantum operations is crucial to scale quantum simulators beyond 1,000 qubits, improving their ability to address and solve complex quantum problems.
+
+### 2.1.4 Quantum communication
+
+Quantum communication exploits quantum states and resources for the development of new communication protocols with radically new features ranging from physical security to unprecedented network capacity. Security in quantum communications, whether civilian or military, is inherently guaranteed because it is based on the physical impossibility of cloning quantum information: any attempt to intercept, read and forward qubit-based communication is traceable by comparing the states of received qubits with the states of sent qubits. Quantum communication is thus potentially immune to external interference, provided that sender and receiver can reliably identify each other. This paves the way for the exchange and processing of data in a fundamentally secure manner.
+In parallel, quantum protocols enable the implementation of new transmission methods capable of increasing the volume of data transmitted per unit of time far beyond current technological limits. Quantum communication networks will evolve toward the quantum internet, an infrastructure capable of connecting quantum computers and sensors to solve complex optimization problems, distribute quantum entanglement among remote nodes, synchronize devices with unprecedented temporal precision, and enable new capabilities unthinkable today.
+
+### Applications of quantum communication
+
+Communications security is a crucial issue for consumers, businesses and governments. The advent of quantum computers threatens the robustness of traditional cryptographic protocols, prompting the search for new solutions. On
+the one hand, post-quantum cryptography relies on algorithms designed to resist attacks by quantum computers, while still being implementable on conventional hardware. These algorithms ensure the security of sensitive data and preserve users' privacy even in a changing technological environment. On the other hand, quantum communication, which is already commercially available, leverages quantum mechanical principles to provide inherent security in transmissions. Technologies such as QKD offer protection against eavesdropping and sabotage, strengthening the integrity of network infrastructures. By integrating these solutions into cybersecurity strategies, emerging threats can be countered and the resilience of digital infrastructures strengthened. In addition, investing in quantum communication technologies and advanced cryptography helps to strengthen European technological independence by improving supply chains and promoting innovation in communications security.
+
+### Scientific, technological, industrial challenges
+
+The development of quantum networks faces scientific, technological and industrial challenges, requiring advanced components such as single photon detectors and quantum light emitters, quantum repeaters and quantum interfaces, as well as efficient software and quantum cryptography protocols. It is essential to improve the stability and security of quantum systems, addressing problems such as decoherence and information loss. Collaboration among physicists, engineers, and computer scientists, supported by government funding, is essential to turn theories into practical applications. Quantum communication activities fall into three main areas: i) secure communication networks via QKDs; ii) long-distance quantum communication with quantum repeaters and satellite networks; and iii) entanglement sharing for applications in areas such as health care, defense, agriculture, energy, finance and logistics. These advances aim to revolutionize communication and data processing, creating secure and robust quantum networks with broad practical applications.
+
+### 2.1.5 Quantum metrology and sensing
+
+Quantum technologies in metrology, sensing and imaging exploit advanced quantum properties to enable unprecedented accuracy and sensitivity in measurements. These technologies use quantum phenomena such as superposition, entanglement, and coherence to provide precise, sensitive, and robust measurements in a wide range of applications: for example, medical and materials diagnostics, high-precision navigation and environmental monitoring. Quantum sensors are not only more sensitive than classical sensors, but also provide new capabilities and improve operating conditions, increase the sustainability of the used technologies. They can also reduce or eliminate the need for regular calibrations when based on physical constants of nature.
+In addition, quantum metrology provides the basis for the definition and dissemination of International System (SI) units of measurement and relies on highly reproducible quantum devices based on fundamental physical constants, such as atomic clocks, quantum electrical standards and other instruments that exploit quantum phenomena to achieve unprecedented measurement accuracy.
+
+### Applications of metrology and quantum sensing
+
+Quantum sensors have applications in various civilian and military fields due to their high sensitivity and accuracy. In the biological field, they make it possible to detect metabolic activities at the cellular level and develop advanced imaging techniques to study bacteria and viruses. In the field of nondestructive testing, they offer superior spatial resolution and precise analysis of electromagnetic fields. In sensor networks, they increase security. Quantum gravimeters and atomic clocks are used to monitor minute gravitational variations, useful in hydrology, volcanology, and resource exploration. In
+positioning, navigation, and timing, atomic clocks improve the accuracy of navigation systems and make systems more resistant to attacks such as spoofing and jamming. Finally, as the quantum market grows, there is an increasing need to develop accurate standards and testing services for the characterization and validation of quantum devices, ensuring reliability, sustainability, and safety in their applications.
+
+### Scientific, technological and industrial challenges
+
+Quantum sensor technologies use different physical platforms, each with its own advantages and challenges. For example, ultracold atoms and ions offer great sensitivity for applications such as gravimetry and atomic clocks but require complex cooling systems. Nano-mechanical oscillators and opto-mechanical systems can measure force and mass with high accuracy but are sensitive to thermal noise. Superconducting circuits make it possible to create advanced magnetometers and quantum radars, but they require very low temperatures. Nitrogen-Vacancy (NV) centers in diamond operate at room temperature and are ideal for biological imaging, but manufacturing the materials is complex. Sensors based on non-classical and entangled radiation offer very high accuracy in interferometric and imaging applications, but only with very efficient detectors. Spin systems in nonlinear regimes have great potential but still lack fast response.
+Other sensors, such as quantum dots or others based on nonclassical states of light, offer innovative applications in sensing and imaging, but need to improve their efficiency and reliability. In addition, it is critical to integrate and miniaturize these sensors for practical applications, supported by enabling technologies such as advanced detector systems, lasers, photonics, and cryogenics. These advances will enable the use of quantum sensors in various fields, improving the accuracy and reliability of measurements in civilian and military domains.
+
+### Developments common to all platforms
+
+In order to exploit the full potential of quantum sensing, several challenges must be addressed. First, it is essential to control and protect quantum systems, ensuring that they can operate in noisy environments and prepare and manipulate them with precision. This requires interdisciplinary collaborations with fields such as fundamental physics, control theory, and signal processing to improve sensitivity and resolution. In addition, the miniaturization and packaging of quantum sensors must advance through advanced technologies such as cryogenics and photonics, enabling the deployment of these sensors in practical applications. In parallel, the metrology infrastructure must evolve to support the design, fabrication, and measurement of quantum devices, requiring a global network of specialized laboratories to test and standardize such sensors. There is also a need to develop specific metrology support for quantum technologies, such as interferometry, communication protocols, and cryptography, and to create reference standards to ensure the reliability and accuracy of measurements. These combined efforts are crucial to make quantum sensors reliable, integrable and standardized, facilitating their adoption in various sectors of the Country’s system.
+
+### Scenario of metrology and quantum sensing
+
+Quantum sensing and metrology in Europe is central to the Quantum Flagship on Quantum Technologies initiative, which promotes technology transfer in the field of QT. In addition, since 2024, the European Quantum Metrology and Testing Initiative (EuroQMTI) has been supporting European industry and stakeholders. Within Europe, Italy is also actively involved in pilot line testing projects, focusing on the fabrication of micro-structured sensors. In parallel, the quantum sensor market urgently requires standardization and certification, led by the European High-Level Forum through the definition of a specific work-stream (WS16), to ensure comparability and confidence in the devices. At the same time, the European Metrology Network for QT (EMN-Q) coordinates
+National Metrology Institutes to strengthen European competitiveness.
+In Italy, research on quantum imaging sensors and devices is vibrant, using various platforms such as atoms, photons, semiconductors, superconductors and spin systems and actively participating in international standardization bodies.2.1.6 Synergies between quantum technologies
+Synergies between pillars are crucial to fully exploit the potential of QTs. On the one hand, some hardware devices, such as fiber optics and single-photon sources, are common across supply chains, so it becomes critical to optimize their fabrication and foster exchange between supply chains. On the other hand, there is an opportunity to integrate these technologies into an interconnected ecosystem, where the benefits of each area amplify each other, opening new applications and improving overall efficiency.
+Some integration scenarios include:
+- ✓ Computation/Simulation and Communication: quantum communication technologies could support the protection of data processed by quantum computers, ensuring secure information exchanges in vulnerable environments. This would also allow distributed quantum computers to be connected efficiently, transferring quantum information directly, without having to revert to classical information;
+- ✓ Computation/Simulation and Sensing: advances in quantum computation could improve the processing capabilities of data from quantum sensors, taking advantage of the already quantum nature of the high-precision source data;
+- ✓ Communication and Sensing: quantum communication networks could enable the secure transmission of sensitive data from quantum sensors, such as those used in medical or geophysical applications.
+In summary, the convergence of quantum computing, communication, and sensing would enable the development of highly secure, accurate, and high-performance systems in which each technology could enhance the others, creating new opportunities in areas such as cybersecurity, scientific exploration, and advanced industrial applications. Integrating all these scenarios could lead to the prospect of quantum networks connecting quantum sensors and quantum computers, marking the direction toward the future Quantum Internet.
+
+### 2.1.7 Enabling technologies and value chain
+
+### The value chain of QT
+
+The QT value chain partly follows the model of classic technologies, requiring synergistic advancement of hardware and software to create high value-added services. This push along the entire technology stack, combined with the actions of players such as investment funds, consulting firms, and facilitating and training institutions, can generate not only direct economic value, but also induced effects that stimulate the growth of new markets. In addition, the expansion of this sector will foster the development of an employment ecosystem, creating new highly specialized job opportunities and stimulating advanced skills training, thus contributing to the creation of a real job market in the QT field.
+FIGURE 1
+Value chain of quantum technologies Source: Osservatorio Quantum
+Computing e Communication, Politecnico di Milano
+First and foremost, the value chain consists of a number of primary activities that contribute to the development of the QT technology stack, from the creation of basic components to final applications. Each these activities can be associated with one or more supply chain actors (Figure 1). An overview is given below:
+- ✓ Producers of enabling technologies: the first element necessary for the development of QTs is the development of enabling components, which are needed to build more complex infrastructure. Examples of enabling components are a cryostat, capable of lowering the temperature to a few mK, well below the temperature of deep space, which is useful for the operation of the superconducting quantum computer, or single-photon sources and detectors, useful, for example, in the field of quantum communications and photonic quantum computing. Confinement systems for atomic platforms and frequency-stabilized lasers are other essential components.
+- ✓
+Hardware manufacturers: building the quantum infrastructure is one of the most complex challenges. It requires advanced technologies to manipulate quantum information at the level of a single particle, such as atoms or photons. This requires the development of systems to control, manipulate and read quantum information, along with error correction systems to handle decoherence, a major obstacle to the scalability of quantum computers. The ability to maintain the integrity of quantum information at large scales is critical to overcome the decoherence limitation and improve device performance.
+- ✓ Middleware development company: in order to use the infrastructure, it is necessary to develop the middleware that facilitates the interaction between the quantum infrastructure and practical applications. This includes the creation of quantum code development platforms (software development kits - SDKs) that enable programming on quantum devices, compilers and transpilers, as well as interfaces for device management and integration systems between classical and quantum elements that implement optimization protocols via optimal control, artificial intelligence and Bayesian inference. Finally, the development of digital twins based on quantum-inspired approximate techniques will allow, as with any other advanced technology, the acceleration of their technological development.
+- ✓ Algorithm and software development company: to take advantage of QTs, it is essential to develop specific algorithms and software that exploit the unique properties of quantum mechanics, such as superposition and entanglement. Specifically, in the field of quantum computation, reformulation of computational problems from a quantum perspective and code rewriting are necessary activities to enable the practical use of these new computers.
+- ✓ User companies and end-user application: the end-user application forms the final element of the technology stack. Applications can be general purpose, thus applicable across any commodity sector, or vertical by sector, as in the chemical-pharmaceutical, financial or energy fields. In the field of quantum computing possible types of application problems are: optimization, as in logistics; simulation, useful for simulating molecules and materials; machine learning, useful for pattern recognition problems; and anomaly identification.
+
+### Introduction to engineering and enabling technologies
+
+To ensure the applicability of hardware QTs-quantum devices-in the real world, the quantum system must be integrated with existing or modified technologies from other hardware systems, such as low-temperature, high-vacuum or microchip devices, to interface QTs with the classical world to make them usable.
+The development of these enabling technologies requires a cross-cutting approach involving all pillars of QT as well as the development and control of the entire supply chain.
+Major areas of focus for QT development include large-scale manufacturing, testing and packaging, which require advanced industrial infrastructure for micro- and nano-fabrication, integration of quantum and classical devices, and optimization of processes such as thermal management and shielding. It is also essential to have a wide range of devices and components, such as photonic and electronic circuits, low-noise control equipment, and cryogenic coolers, while ensuring sustainable access to licenses for small and medium-sized enterprises (SMEs). In addition, control and readout interfaces must be optimized for high-fidelity quantum operations, enabling devices to identify and meet performance limits. These elements are critical to sustaining and protecting the growth of the domestic quantum industry.
+
+### Electronic circuits and integration
+
+The development of traditional chip technologies is crucial to the progress of QTs. Several actions are necessary, including the "More than Moore" approach that integrates advanced features and materials, such as diamond, into chip manufacturing processes. It is also essential to develop specific packaging solutions capable of handling high component density, cryogenic devices, and high vacuum interfaces, using advanced 2D and 3D techniques. Finally, it is critical to implement reliable measurements to test and validate material and qubit performance using on-chip spectroscopic techniques and harmonized measurement protocols. These actions will ensure the effective integration of QTs into real-world systems and applications.
+
+### Cryogenics and cryogenic integration
+
+Most QTs require extremely low temperatures, supported by powerful cooling systems, with some platforms needing temperatures below 4K and others still less than 1K. To keep these technologies competitive and efficient, it is essential to continuously improve cooling systems and better integrate all components. Qubit-specific coolers are critical not only for quantum computing, but also for devices that use special light, and as the number of qubits increases, the need for more powerful, large-scale cooling grows. In addition, it is important to place control electronics close to quantum chips to ensure more efficient control and facilitate the expansion of quantum circuits by developing new types of control chips that operate at low temperatures, thereby improving the speed and efficiency of qubit readout. These advances are crucial to advancing QTs and making them more affordable and performant.
+
+### Photonics and photonics integration
+
+Lasers, photon sources, and detectors are key components for QTs. It is important to develop photonic integrated circuits and waveguides to create advanced devices. Lasers must be precise and compact to control particles such as atoms and ions, which are essential for applications such as quantum clocks. Photon sources and detectors are critical for secure communication and quantum computing, requiring improvements in efficiency and noise reduction. In addition, photonic integrated circuits must be scalable and low-cost, with emphasis on their use in low-temperature environments. These advances are vital to make QTs more efficient and affordable.
+
+### Supply chains and critical components
+
+The development of strong and secure supply chains is critical to the success of QTs. Currently, the supply of components is still growing, mainly handled by SMEs or university spin-offs. In this context, the Government can play a key role by filling gaps and creating favorable conditions to support European suppliers of quantum hardware and software. It is essential to ensure a secure supply of critical components such as chillers, laser systems, and optical components by continuously monitoring supply chains to avoid disruptions. In addition, the Government can foster market growth and maintain stable trade relations with EU and non-EU like-minded countries, such as through targeted regulations that prevent hostile foreign takeovers of companies developing critical technologies in the European Union.
+
+### Ongoing European initiatives
+
+Key European initiatives to develop enabling technologies for QT include Qu-Pilot, Qu-Test and Joint Undertakings. Qu-Pilot, part of the Quantum Flagship, develops pilot lines to integrate quantum chip design and manufacturing, fostering the growth of the European quantum industry and sustainable industrial production. Qu-Test, a network of European testbeds, provides testing and validation services to ensure a reliable supply chain and promote technology standards. In addition, Joint Undertakings fund large-scale collaborative projects, such as ESCEL MAQTu, which focuses on components and materials for supercon.
+
+### Chips Act and quantum technologies
+
+The Chips Act, in line with the Strategic Research and Industry Agenda (SRIA), also aims to develop QT-specific chips on different platforms, integrating advanced classical technologies such as enabling technologies. It is critical to coordinate the chip industry, foundries, and quantum infrastructure to create an integrated tool chain that includes design, fabrication, and modular libraries for photonics, cryogenics, and electronics for superconductor-based systems. The development of quantum chips involves the creation of innovative design libraries through Electronic Design Automation tools, the enhancement of Italian nanofabrication capabilities through the Qu-Pilot initiative and collaboration with industrial foundries, as well as investment in advanced test
+facilities and the establishment of standards to ensure the quality and reliability of quantum devices.
+
+### 2.1.8 Standardization
+
+Standardization of QTs is essential to structure and accelerate their market adoption, ensuring reliability, consistency and interoperability with existing infrastructure, systems, and components. Standardization goes beyond certification requirements to include fundamental aspects such as vocabulary, terminology, quality parameters, templates, exchange protocols, and more. Given the significant influence of other countries on international standardization bodies, it is critical that Europe take a proactive approach to developing its own standards and parameters, preventing the potential pitfalls of having to conform to foreign standards that could disadvantage European QTs.
+The development of standards at the European level also facilitates the creation of a unified and strong European voice in international discussions, overcoming the fragmented approach that might emerge if individual EU Member States attempted to establish consensus independently. Within the European Economic Area, strong social, cultural, scientific and economic ties enable faster consensus building than at the international level.
+A key component of effective standardization is the establishment of benchmarks, which are essential to provide objective measures when evaluating the progress, performance, and capabilities of QTs. Such benchmarks enable users to make informed decisions when evaluating the various quantum solutions available. Academia and industry identify these benchmarks, along with measurement infrastructure, as priority aspects of standardization.
+Projects such as EU-funded Qu-Test address these needs by developing federated testbeds for QTs, ensuring that companies have adequate measurement facilities to support benchmarking and standards compliance. In addition, in March 2023, the European Committee for Standardization (CEN) and the European Committee for Electrotechnical Standardization (CENELEC) established a new joint committee, JTC22, on QTs. This committee builds on the work of the Focus Group on Quantum Technologies (FGQT), which presented a roadmap on QT standardization in Europe in early 2023. The FGQT roadmap is the first of its kind globally and identifies standardization needs in all aspects of QTs, providing a comprehensive classification and highlighting the interdependence of ongoing and future standardization efforts. The roadmap is designed as an evolving document, reflecting both technological advances and advances in standardization.
+JTC22 is tasked with standardizing QT, including enabling technologies, subsystems, platforms, and applications in areas such as quantum metrology, sensing, advanced imaging, quantum computing, simulation, communication, and cryptography. The committee is organized into four working groups, one focusing on strategy and three on specific areas. Members include experts from QT manufacturers and academia from across Europe. JTC22 will also work to identify and possibly adopt relevant international standards from organizations such as ISO, IEC and ITU-T, ensuring that the European consensus is represented in discussions on international standardization.
+In addition, several National Standardization Bodies (NSBs) have established mirror committees to JTC22, enabling them to evaluate and participate in European and international standardization efforts. ISO/-IEC JTC1, a joint committee for digital technologies, had established a working group on quantum computing. As of 2024, that working group was replaced by IEC/ISO JTC3, which deals with all QTs. Other organizations, such as the IEEE, have also begun work on QTs. Europe needs to ensure that its consensus on QTs, developed by FGQT, JTC22 and ETSI, is represented in these international discussions.
+To contribute effectively to standardization efforts, it is essential that experts from all stakeholders, including manufacturers, start-ups, and universities, actively participate in relevant committees. A major challenge in the coming years will be to ensure sufficient participation of experts in committees in the work of international standards bodies, including through participation in the mirror committees of national standards bodies.
+
+### 2.1.9 Benchmarking
+
+Benchmarks in QTs serve as accepted benchmarks that provide objective measures to evaluate the performance and capabilities of devices being tested. These benchmarks are critical for stimulating collaboration, competition, and investment in QTs.
+Benchmarking in the fields of quantum computing, quantum simulation, quantum sensing and metrology and quantum communication involves the development of specific measurement tools that support the entire technology value chain. This includes technology design, use case definition, research program monitoring, regulation, market structuring, and implementation in public procurement.
+The need for QT benchmarks is particularly pressing due to the emerging nature of the field, the diversity of technologies being explored, and strong international competition. Reliable and independent testing and evaluation are essential to verify performance and promote a shared understanding of technological capabilities. There is a need to design objective and reliable benchmarks that consider the various hardware platforms, their physical properties, applications, readiness levels, and potential rapid evolution.
+Currently, benchmarks are considered at different levels, following complementary approaches. At the hardware component level, they focus on characterizing fundamental physical properties, which are particularly relevant to device manufacturers. At the system level, benchmarks consider performance and capabilities considering the quantum system as a whole, while at the application level, benchmarks are of particular interest to end users because they allow them to evaluate the practical benefits of QTs in real-world contexts.
+Several international initiatives have been launched to develop benchmarks for quantum computing and simulation, including initiatives by IBM (Quantum Volume, CLOPS), Super.tech (SupermarQ), QED-C, US DARPA, US DOE (Sandia National Labs) and UC Berkeley.
+Several benchmarking initiatives, mainly application-oriented, have been launched in Europe in various member states. The Horizon Europe Qu-Test project, which brings together research and technology organizations (RTOs) and national metrology institutes, is working on harmonized characterization and testing of quantum components and subsystems. Although most of the current application-oriented benchmarking initiatives are national, there is a strong desire for collaboration among projects to ensure complementarity and avoid duplication of efforts.
+
+## 2.2 THE ITALIAN ECOSYSTEM OF QUANTUM TECHNOLOGIES
+
+### 2.2.1 Italian industrial ecosystem
+
+In Italy, the QT industrial sector is still emerging but growing, driven primarily by public investment under the NRRP, which has fostered the creation of a research and development network and stimulated private sector growth. However, the funds allocated in Italy remain significantly lower than those allocated by the United Kingdom, Germany and France. This means that, while it can still play an important role, the national ecosystem is in its infancy and the Country is lagging behind in the global race to QT, but it has started to move in the right direction4 (<>).
+FIGURE 2
+Distribution of the type of organization participating in the MIMIT consultation on QTs
+Source: Data processing MIMIT-Osservatorio quantum computing & communication del Politecnico di Milano
+In order to map the Italian industry scenario, MIMIT conducted, in collaboration with the Quantum Computing & Communication Observatory of the Politecnico di Milano, a public consultation involving 52 industry stakeholders, representing at least 180 FTEs5 (<>)in the QT arena. A diverse ecosystem emerged, consisting of supply and demand companies, venture capital funds and facilitators, industry associations and foundations, as shown in Figure 2.
+Analyzing the 46 companies consulted (thus excluding venture capital funds and trade associations), the ecosystem consists of:
+- ✓ major Italian players in the ICT, Aerospace and Defense, and component sectors such as system integrators, consulting firms, and telco providers, who are differentiating their value proposition in the field of QT: for example, the development of quantum algorithms, quantum sensors for imaging and navigation, the creation of libraries, and the commercialization of quantum-safe communication products;
+- ✓ large international IT players positioned mainly on the development of hardware and middleware for quantum computing, which have commercial interests in the Italian market;
+- ✓ companies and startups native to the QT industry, whether born overseas or in other European countries, that are looking with interest at the Italian market as an industrial potential;
+- ✓ Italian companies and start-ups that are native to the field and work mainly in the development of quantum software for computation and hardware, middleware and software for quantum communications and quantum sensors;
+- ✓ large Italian potential technology user companies mainly in the financial, insurance, energy and chemical/pharmaceutical sectors.
+Shifting the focus geographically, a spatial distribution emerges that mirrors that of the research centers in the QTs (Figure 3), as also highlighted in section 2.2.2 in Figure 11. This is due to the not yet mature state of the technology, which requires significant scientific advancement to achieve full industrial applicability.
+FIGURE 3
+Spatial distribution of participants in the MIMIT consultation on QTs
+Source: Data processing MIMIT-Osservatorio quantum computing & communication del Politecnico di Milano
+The main boost to the sector can be attributed to public funding, while the private sector stops at only €12.5 million allocated between 2023 and 2024 through venture capital funds. Of note in this regard is the recent establishment of the Cassa Depositi e Prestiti Venture Capital Sgr fund, amounting to €1 billion and targeting deep tech technologies such as artificial intelligence, cyber and quantum.
+With respect to the different types of QT (Figure 4), the sample is diverse and present across all fields albeit with a prevalence on quantum computing.
+
+### FIGURE 4
+
+Distribution of quantum pillars developed by enterprises Source: Data processing MIMIT-Osservatorio quantum computing & communication del Politecnico di Milano
+
+### Quantum computing
+
+The survey highlights that the quantum computing market is still at an embryonic stage. Italy stands out for excellence in components, particularly in photonics, but lags behind in the development of start-ups of international significance. Although some start-ups are directing their efforts toward future hardware creation, currently there are still few companies offering an all-Italian solution. This scarcity could be a limitation for the realization of entirely domestic end products in the long term, making it necessary in the short term to adopt both supportive policies aimed at the development of domestic initiatives and procurement policies that stimulate innovation without imposing restrictions. In fact, most Italian companies and startups focus primarily on software and applications, with ample potential to develop value-added services for industry. Investment in software appears to be less risky, thanks in part to short-term approaches such as quantum inspired, which brings returns on investment closer together, making the sector more attractive to private capital.
+Among the obstacles reported in this field today, the survey highlights long waiting times to access infrastructures, very long laboratory downtimes, and the unavailability of new quantum computing systems recently completed abroad for use by companies. In addition, the issue of intellectual property is critical: the absence of specialized foundries in Italy leads many companies to collaborate with foreign facilities, creating concerns about the protection of their patents and process safety.
+
+### Quantum communication
+
+According to the survey, quantum communication is an area where Italy excels in terms of internationally recognized start-ups and experiments.
+From a value chain perspective, the production of quantum communication technologies in Italy leverages electronic components assembled abroad because there is no national supply chain and there are no European production facilities.
+At the level of quantum hardware devices for quantum communication, Italy has internationally recognized start-ups, which produce QKD systems that are already marketable and can be integrated into existing networks. However, from a technical point of view, it is reported that current technologies still have issues in the long range (mileage) and cost significantly more than traditional technologies. At the software level, proven algorithms are already available to be resistant to attack by a potential quantum computer, and there are also players in Italy who are taking steps to offer Post-Quantum Cryptography services. QKD and Post-Quantum Cryptography can be complementary technologies integrated into a single product. The major complexity lies in upgrading current cryptography systems and network infrastructures. The main obstacle to the development of the sector today is the limited presence of standardization and certification of technologies, which slows down their widespread diffusion amid a general lack of awareness on the part of companies of the demand
+
+### Quantum sensing and metrology
+
+In quantum metrology and sensing, Italy has a significant traditional sensor supply chain that could be enhanced from a quantum perspective and facilitate the future industrialization of the sector. Components, particularly in areas such as lasers and automatic control, represent a significant opportunity.
+Looking at the value chain, component sourcing often refers to foreign countries. Again, the lack of European foundries working for third parties is a limitation in the development of the sector. On the hardware side, the Italian ecosystem is working on the one hand with new entrepreneurial initiatives, and on the other hand with companies in the traditional supply chain, which are working on quantum sensors. In the software area, some companies are working with the goal of integrating quantum sensors in real-world contexts and interconnecting them with space technologies.
+FIGURE 5
+Public project announcements of quantum computing and quantum communication in Italy by sector
+Source: Data processing MIMIT-Osservatorio quantum computing & communication del Politecnico di Milano
+Current interest in these technologies encompasses several sectors, including defense, medical, automotive, aerospace, telecommunications, energy, geophysics, and advanced manufacturing. The main challenge in developing the potential of quantum sensing concerns the ability to build infrastructure on top of these technologies and integrate them with computation/simulation and communication technologies.
+With regard to user companies interested in the use of QTs, specifically computation and communication, the Italian situation is in line with the international one, characterized by a few large companies investing to make themselves forerunners of these technologies. Among the sectors of interest, the majority is finance, followed by energy, utilities & telco and aerospace & defense (Figure 5).
+A theme that cut across the different pillars of QTs also emerged during the survey: companies need access to sophisticated facilities to validate their solutions and demonstrate the commercial viability of QTs. However, the experimental nature of QTs, coupled with the significant capital requirements needed to develop them and long planning horizons, can be significant barriers to private sector investment, especially in infrastructure development. Although Italy has several infrastructures within research institutions, these are mainly used for research purposes with limited access to industry. Major European institutions offer advanced facilities with superior capabilities compared to
+national ones. However, financial and administrative barriers limit their access to Italian companies.
+This generates a market inefficiency that requires public intervention alongside the private sector in order to create economies of scale and synergies, particularly to: provide accessible advanced infrastructure that can support companies in developing prototypes and validating technological solutions; create a favorable environment to catalyze their investment in the sector; and promote public-private collaboration, fostering synergies that accelerate technological and industrial progress.
+The availability of specialized manufacturing and prototyping facilities equipped with state-of-the-art instrumentation and skilled personnel is essential to meet these challenges. Therefore, the need has emerged to build an infrastructure network with the aim of creating simplified access channels for companies interested in developing and testing prototypes and improving coordination between Italian and European infrastructures. An example of such a network is represented at the European level by the Qu-Pilot program, a Horizon Europe project that is building a digital catalog for certified QT-related technical products and services.
+As further elaborated in the "Industry Recommendations" section (Section 3.2.5), to maximize the potential of these infrastructures, two complementary approaches thus loom large: i) the creation of an integrated network of research and prototyping infrastructures, including clean rooms, laboratories, and specialized facilities; ii) the development of an industry-directed demand to drive the evolution of this network and adapt it to the prototyping needs of QTs.
+
+### 2.2.2 Italian research ecosystem
+
+Italy boasts a solid and widespread research fabric, capable of competing internationally. The Country has an extensive network of research groups and laboratories spread across numerous institutions, including national public research organizations (EPRs) (National Research Council - CNR, National Metrology Institute of Italy - INRIM, National Institute of Nuclear Physics - INFN, Italian Institute of Technology - IIT, Italian Space Agency - ASI, CINECA, National Institute for Astrophysics - INAF), flanked by numerous research centers and university laboratories. Within these institutions, often in collaboration with each other, there are various fabrication and development facilities for micro- and nano-electronics, optoelectronics and photonics, atomic sensing, as well as an important industrial base in vacuum techniques and cryogenics.
+This emerges from a widespread survey conducted by the MUR and supported by a questionnaire submitted to the national scientific community, to which more than 130 researchers and research groups responded.
+In the area of QT alone, MUR has invested 228.9 million€ of public funding in QT research initiatives between 2021 and 2024.
+To complete the picture, it should be pointed out that some regions and autonomous provinces have also undertaken actions aimed at the territorial valorization of research in the field of QTs, with even substantial financial commitments and with European funds, mainly concerning the networking of infrastructure and the promotion of collaborations between the public sector and companies.
+Most funds come from the NRRP (86%), with the remaining 14% from other funding sources.
+The NRRP played a crucial role in the development of three key initiatives for the development of a robust ecosystem: the NQSTI Extended Partnership - National Quantum Science and Technology Institute, which took up slightly more than half of the total funds, followed by the National Center for HPC, Big Data and Quantum Computing and the research infrastructure Integrated Infrastructure Initiative in Photonic and Quantum Sciences, which together
+accounted for nearly 30%.
+The remainder (about 20%) is divided among Projects of Significant National Interest (PRIN; 7%), projects managed within CNR and INFN (in total, 4%), and other projects (10%). Several innovation ecosystems, funded through PNRR, have initiated research and development projects related to QT (Figure 6).
+When considering the number of projects instead of the amount of funds,
+FIGURE 6
+Public funding for QT projects (2021-2024) (national resources and recovery funds managed by MUR). Source: Ministry of University and Research
+these percentages change significantly (Figure 7). Indeed, in this case, PRINs account for 64% of all quantum technology projects, while INFN and CNR cover 15% and 3%, respectively, with the remaining 18% distributed among other projects.
+2% CNR 10% Other 229mln funds 7% PRIN 2% INFN 13% Research infrastructures 15% National Centers 51% Extended Partnerships 86% NRRP funds 14% Non-NRRP funds
+FIGURE 7
+Number of projects Source: Ministry of University and Research
+3% National Research Council (CNR) 18% Other 64% Research Programs of National Interest (PRIN) 15% National Institute for Nuclear Physics (INFN) 110 projects
+FIGURE 8
+Percentages of projects by pillar Source: Ministry of University and Research
+QT projects can be grouped into the six pillars described in Part I:
+- ✓ Quantum Computing;
+- ✓ Quantum Simulation;
+- ✓ Quantum Communication;
+- ✓ Quantum Metrology and Sensing;
+- ✓ Engineering and Enabling Technologies;
+- ✓ Basic Science and Quantum Mechanics.
+The distribution of projects across pillars is generally even, with fewer projects devoted to quantum communication and, especially, basic quantum research (Figure 8).
+193 projects 12% Quantum Communications 21% Quantum Enabling Technologies 19% Quantum Sensing and Metrology 19% Quantum Simulation 9% Quantum Basic Science 20% Quantum Computing
+FIGURE 9
+Strategic quantum projects vs. open projects
+Source: Ministry of University and Research
+Analyzing funding on the basis of initiative type shows that strategic projects dedicated to QTs (85 percent of funds) make up the majority, driven by the National Center, Extended Partnership and Research Infrastructure. In contrast, competitive programs open to other themes make up only 15 percent (Figure 9).
+Financing of strategic quantum projects
+85%
+Financing of open projects
+15%
+Number of strategic quantum projects
+24%
+Number of open projects
+76%
+However, when looking at the number of projects, the situation is reversed: 76 percent of the projects are funded through competitive procedures, thanks to the strong contribution of PRIN.
+Within PRIN, about two-thirds of Principal Investigators come from the university system, while 17% come from the CNR (Figure 10), highlighting a strong collaboration between universities and research centers in promoting QTs.
+Italian Quantum Strategy
+70 PRIN 13% Other 17% National Research Council (CNR) 67% Universities3% National Institute for Nuclear Physics (INFN)
+FIGURE 10
+Affiliation of Principal Investigators of PRINs Source: Ministry of University and Research
+6
+Italian institutions also participate in 68 quantum research projects funded by the Horizon Europe program, receiving a total of about 62 million€ , and in 3 projects funded by the Digital Europe program, receiving about 8.1 million €.
+The Italian QT research landscape was also analyzed through a widespread survey, conducted through the completion of a questionnaire that collected more than 130 responses from universities and EPRs. The main result is graphically illustrated in Figure 11, in which the spheres located at Italian cities are represented with a size proportional to the number of permanent staff and fixed-term researchers employed in QT in the public sector.
+The analysis shows a broad geographical distribution of the research effort, involving the entire country. The existence of research clusters concentrated in some specific areas also emerges.
+FIGURE 11
+Personnel of universities and EPRs engaged in quantum sciences and technologies in Italy (the size of the spheres is proportional to the commitment of personnel Source: Ministry of University and Research
+Houses of Emerging Technologies (CTE)
+Funded through the "5G Emerging Technologies Support Program," CTEs are true centers of research, experimentation and technology transfer, pursuing projects geared toward the use of emerging technologies also in support of next-generation networks. They are garrisons spread throughout the territory (13 CTEs in 12 regions) that, following a hub and spoke model, aim to be a reference point for the local Innovation Ecosystem. Each CTE operates with a diverse partnership, consisting of the relevant municipality (lead partner), public and private research organizations, universities and industrial partners. The goal is to propose and develop innovative solutions applicable to realities such as start-ups and SMEs throughout the country, including through acceleration actions, aiming at:
+- ✓ Pursue the creation and development of innovative solutions through the integration of 5G networks and emerging technologies;
+- ✓ Create acceleration and incubation pathways for innovative start-ups and SMEs;
+- ✓ Support technology transfer from more innovative entities such as start-ups to those who are interested in applying the innovations (e.g., businesses and government).
+Part of the MIMIT funding has been invested by CTEs in QTs for the development of laboratories and technological infrastructure, activation of educational/training paths on the topic, recruitment and support of startups and SMEs interested in the development of innovative solutions based on QTs, and organization of seminars and promotional events in the area. The distribution of projects among the pillars of QTs today is more pronounced toward communication, where the largest investments have been concentrated, although there are activities in computing through industrial partnerships, greatly favoring the development of skill training packages aimed at businesses.
+The investments made and results achieved by individual ETCs on QT-related projects have been systematized to create a network of ETCs operating in this area. This organizational model aims to link the various regional QT ecosystems under a single, more robust centralized national governance, which still benefits from the distribution of expertise and resources throughout the country.
+
+### 2.2.3 Technology transfer
+
+QTs constitute a fundamental paradigm shift in computing, cryptography, and scientific modeling. Early leadership in this area will determine global technological supremacy in the coming decades. For this reason, innovation policy and investment plans have been prioritized in the drafting of this strategy, but even more important is that these investments are strengthened and facilitated during its implementation.
+Currently, Europe, including Italy, lags behind the United States and China in QT development. In the United States, for example, the National Quantum Initiative Act (NQIA) has nearly doubled federal funding for research and development in QTs to more than 900 million$ per year between 2019 and 2022. This public investment has catalyzed an additional $6 billion in private R&D investment, strengthening a robust domestic industry.
+In Europe, fragmentation among member states threatens to marginalize the continent technologically; however, the race to QTs is still in its infancy, presenting an opportunity to act decisively and close the gap.
+The MUR and MIMIT have implemented technology transfer initiatives through significant investments in technology transfer centers such as Houses of Emerging Technology (ETCs) and Centers of Competence (CoCs), distributed throughout the country, with the aim of developing start-ups and convergence with companies. This investment gave Local Authorities (municipalities) for the first time the opportunity to be direct coordinators and beneficiaries of technological innovation, taking advantage of each one's great knowledge of its territory and its needs. It has been a high-potential vehicle in the formation of public-private collaborative networks. To make their action more effective and impactful, on some issues-including QTs-the CTEs have created networks of collaboration and co-investment, which have resulted in shared use of infrastructure, joint calls for startups and SMEs, and the sharing of common
+training paths.
+Given the early TRL phase of QTs, these initiatives have understandably maintained a rather unstructured and intermittent approach. However, as QTs continue to demonstrate substantial development and growing market potential, there is now an opportunity to expand these programs to address the quantum sector in a more structured manner.
+Furthermore, based on consultations with stakeholders, the current allocation of infrastructure resources appears to strongly favor pure research initiatives over technology transfer projects, creating a gap in the commercialization pipeline. Therefore, it seems critical to ensure accessibility of infrastructure for the quantum industry. This strategic adaptation of existing technology transfer mechanisms would help maximize the value of current investments while supporting the growing Italian QT ecosystem.
+It is therefore clear that the public sector will need to identify and foster strong partnerships with the private sector, both to strengthen technological development and to foster the value and supply chain around QTs. Initiatives will need to span the entire innovation value chain, from research (starting with advanced training through doctoral degrees) to scale-up and large-scale deployment of QTs. A well-structured innovation network that is strongly anchored in the needs of the territories will enable strong collaborations and partnerships with research and experimentation centers. It will aim at the creation of start-ups and technology transfer to SMEs, incubators, accelerators, venture builders, and venture capital. The goal is not only bringing out new technologies but also providing adequate financing and access to end users or technology providers, thus closing the circle between innovation, practical application, and industrial adoption.
+It is thus crucial to foster the birth and growth of deep tech start-ups, which -precisely because of their high-risk appetite - have a key role (especially when they are spin-offs from universities and research centers) in experimenting and developing frontier technologies such as QTs. Such enterprises represent true building blocks of a future, robust national quantum industry. It is therefore important that public measures (facilitation policies, administrative measures, bureaucracy) intervene to stimulate the birth, growth and scaling up of these companies, while safeguarding the safety and security of their knowledge and expertise.
+Also crucial in this framework is an action to support the internationalization and promotion of the Country, a key policy issue for the growth and strengthening of companies of the sector and the establishment of a robust national supply chain along the entire technology stack. Economic diplomacy initiatives conducted by MAECI and the Italian Trade Agency, agreed upon by the Steering Committee for Internationalization (for example participation in international trade fairs, Business Forums and sector Missions, activities of Italian Innovation Centers abroad, etc.), should also be geared toward entities that develop enabling technologies, including QTs. Such systemic promotional actions are intended to support the growth and scale-up of national champions, as well as the promotion abroad of national ecosystems in which research and technology transfer is being done in these sectors, to foster the attraction of foreign companies, talent and international capital.
+The ultimate goal is to strengthen Italy's and Europe's strategic autonomy in the digital sector by promoting the large-scale development of QTs and fostering partnerships capable of bridging the gap between research and investment.
+
+### 2.2.4 Higher education and vocational training system
+
+### Challenges and opportunities
+
+The rapid development of QTs opens new opportunities in both fundamental and applied sciences. To exploit the full potential of QTs, there is a need for a broad scientific community capable of working at the intersection of various disciplines, including physics, chemistry, mathematics, computer science, and engineering. This need is shared by both the academic and industrial communities within which interest in QTs is steadily growing.
+As they evolve, QTs are set to become an important economic factor in the advanced technology sector, creating numerous job opportunities and posing significant societal challenges. The projected job growth in this sector will require new, highly skilled workforce prepared for both the current market and future needs.
+Adequate skills development is therefore essential for the advancement of the QT sector. Therefore, there is a need to invest heavily in training researchers and workers, both within universities and research centers and in the industrial context, and to anticipate and proactively address changes in the Italian labour market. As QTs penetrate various industrial sectors, training can be developed through close coordination among all stakeholders. The challenge is to train highly qualified personnel with interdisciplinary skills pivotal to such an advanced and rapidly evolving industry.
+The geographic distribution of scientific and industrial communities (Figures 3 and 11) suggests that it is possible to promote training programs throughout the Country. The implementation should consider the resources available at the academic level and those related to the production plans that characterize the different territories, also building on existing collaborations with local institutions (e.g., regions).
+
+### Overview of the current training system
+
+Bachelor's degrees. Bachelor's degrees can offer a solid introduction to the fundamental concepts of science and QT and make students aware of possible career developments, although they are not sufficient to provide the specific, high-level skills required in these fields. At present, the fundamentals of quantum physics are taught comprehensively only within the L-30 degree class (Physical Science and Technology), with some basic introductory courses also offered in other STEM programs, such as in Chemistry (L-27) and Engineering (L-8 Physics/Electronics/Energy/Information).
+Master's degrees. The majority of master's degree programs in Physics (LM-17) are organized in tracks and curricula closely related to traditional physics disciplines, such as theoretical, nuclear and sub-nuclear, condensed matter, or applied physics. At present, several master's degree programs in physics also include a curriculum in Quantum Science and Technology. There are also several STEM programs that offer specific courses on these topics. However, fully structured programs in this area remain the exception, while more than 40 master's programs specializing in "Quantum Technologies" and "Quantum Engineering" are already active or under development in Europe.
+Ph.D. At the Ph.D. level, thanks in part to NRRP funding, there has been an increase in doctoral positions focused on QT topics, which has provided a significant boost toward the training of skilled and qualified personnel.
+Professionalizing master's degrees. In recent years, several professional master's degrees in the field of QT have been activated in Italy, but they are not yet widespread and able to meet, in terms of numbers, the expected job growth in the sector.
+
+### 2.2.5 Communication and outreach
+
+A potential obstacle to sustaining Italy's efforts in QT development is the lack of societal interest and awareness. Public support is critical to continue funding quantum research, recruiting workforce and promoting the adoption of emerging QTs.
+Several outreach initiatives have already taken place in Italy, including the public event "Italian Quantum Weeks," hosted in several Italian cities actively engaged in research in QST’s. Similarly, an intensive outreach program has been conducted by the NQSTI Extended Partnership. However, to ensure long-term impact, these measures should be expanded in the coming years, with the goal of generating widespread quantum literacy.
+QT awareness is critical to the future of education and training. It is needed not only to stimulate the interest of future professionals in the field, but also to inform and guide policymakers, and foster social acceptance of emerging technologies. Although advanced training programs can meet immediate needs, the future workforce in QTs will be current high school students. Therefore, exposing students to QTs during their education is essential to inspire future generations of experts. Coordinated efforts are then needed to engage teachers and schools by providing them with tools and resources to integrate QT fundamentals into school curricula.
+In parallel, the increasing integration of QTs into companies creates demand for a skilled workforce. Although initial growth is supported by early investors and early adopters, adoption on a broader scale depends on how quickly awareness of monetization pathways will spread across industries. Transparent, research-based guidelines, along with training programs for corporate decision makers, will be critical in helping organizations assess, value, and adopt QTs. Companies that choose to be early adopters of QTs play a key role in maturing the industry ecosystem and development chain. It is therefore critical to recognize and support their contribution, which can provide incentives and resources to accelerate industry maturation and encourage further investment.
+
+## 2.3 ITALY'S INTERNATIONAL POSITIONING
+
+FIGURE 12
+Representation of international public funding
+Fonte: Osservatorio Quantum Computing& Communication del Politecnico di Milano
+The growth of the QT industrial sector in Italy, generated thanks to the boost provided by NRRP funds, is based on solid foundations7 (<>). Indeed, Italy boasts some excellence in academic research, ranking seventh in the world with more than 4,200 publications in the field of quantum computing8(<>).
+On the financing front, however, the Italian position lags behind, in a scenario led by several nations that have invested large amounts of capital over long periods of time (Figure 12). Fourteen countries have also already published a national strategy to coordinate the activities necessary for their technological development.
+TABLE 1
+Public funding for quantum technologies in major European countries (in millions€ )calculated to 2024
+Source: Quantum Computing & Communication Observatory of the Politecnico di Milano
+Pointing the lens at the European continent, the main investors turn out to be the United Kingdom, Germany and France, with the Netherlands not far behind (Table 2). Compared to these European leaders, Italy, with 228.9 mln € (2021-2024), has room for improvement in terms of the amount of funds allocated, time horizon and definition of a strategic program.
+Country
+Public funding (mln €)
+United Kingdom
+4.122
+Germany
+3.030
+France
+1.800
+Netherlands
+1.100
+Denmark
+179
+Austria
+140
+Spain
+98
+Finland
+34
+The limited public funding in the sector and the absence, to date, of a strategic program has also had repercussions in the development of the private sector, in terms of the number of native companies and venture capital funds raised. As depicted in Table 3, there is a small presence of native startups in Italy, but the gap with other European leaders appears to be bridgeable.
+TABLE 2
+Number of native QT companies by country in 2024 Source: Quantum Computing & Communication Observatory of the Politecnico di Milano
+Country
+Number of native companies
+United States
+102
+Canada
+39
+United Kingdom
+35
+Germany
+28
+France
+18
+India
+14
+China
+14
+Netherlands
+14
+Japan
+13
+Italy
+13
+Spain
+10
+
+### 2.3.1 Strengths, weaknesses, opportunities and risks
+
+Based on the findings of the mapping carried out after the public consultation of industrial stakeholders, the reconnaissance of funds allocated in Italian academia, as well as Italy's positioning internationally, some strengths, weaknesses, opportunities and risks have been identified below.
+Strengths
+- ✓ Geographical distribution throughout the country of universities and research institutions that are involved in QT and promote its industrialization;
+- ✓ Presence of a well-structured QT ecosystem, with established peaks of excellence in some quantum platforms such as neutral atoms, photons and superconductors;
+- ✓ Excellent research and technology transfer skills in quantum metrology and sensor technology;
+- ✓ Existence of an internationally recognized supply chain, from research to enterprise, in quantum communication-related technologies;
+- ✓ Presence of research capabilities and startups in the field of quantum computing at the software level;
+- ✓ Presence of some large demand companies that are already investing in QTs;
+- ✓ Presence of large, cutting-edge companies that can stimulate the growth of the supply chain;
+- ✓ Presence of laboratories that could be increased to accommodate the needs of companies;
+- ✓ Presence of public infrastructure for open innovation processes in quantum computing and communication already available for test bed, use case and Proof of Concept (PoC) development within public entities working on the consolidation of public-private collaborations.
+Weaknesses
+- ✓ Delay, to date, in the development of competitive Italian quantum computing hardware;
+- ✓ Massive need for capital for quantum hardware development;
+- ✓ Need to design incentive policies that are more aligned with the needs of the industry (in terms of speed of procedures, amount of funding, payback time);
+- ✓ Lack of a coordination table between industrial supply chain, research and institutions;
+- ✓ State of the supply chain still embryonic compared with other European countries;
+- ✓ Poor competitiveness of the deep-tech labor market;
+- ✓ Poor alignment of Italian venture capital funds with the real needs of QT firms;
+- ✓ Absence of growth funds to support scale-ups and curb the phenomenon of foreign takeovers leading to the transfer of companies and skills;
+- ✓ Lack of infrastructure: absence of Italian smelters and adequate fiber deployment needed for QKD;
+- ✓ Awareness not widespread regarding the potential of QTs and threats on the cybersecurity front;
+- ✓ Lack of standardization and government guidelines on quantum and post-quantum security;
+- ✓ Ineffectiveness of the government procurement system that does not allow demand stimulation in experimentation;
+- ✓ Difficulty in retaining or attracting talent, both Italian and foreign.
+Opportunities
+- ✓ Opportunities for development in the various open research fields, with considerable potential;
+- ✓ European focus on QTs as a technology arena in which to establish leadership;
+- ✓ Strengthening Italian participation in European projects that enable investment and access to infrastructure;
+- ✓ High training potential for young researchers and opportunities to acquire new skills in QT for the labor market;
+- ✓ Pre-competitive market phase that requires collaboration between private public sector also taking into account the vocations of territories and their ability to network;
+- ✓ Potentially high economic value from the use of QTs in different sectors.
+Risks
+- ✓ Huge investments in other countries that make Italy currently uncompetitive, risking creating a situation of dependence on other states, generating a flight of talent and losing opportunities for economic development;
+- ✓ Risk of holding back the software supply chain due to limited development and access to hardware;
+- ✓ Risk of reducing the development potential of domestic hardware in case of excessive dependence on foreign machinery;
+- ✓ Data at risk from future cybersecurity attacks carried out through QTs: "harvest now, decrypt later."
+
+# 3. FUTURE ACTION LINES
+
+## 3.1 DIRECTIONS FOR SCIENTIFIC DEVELOPMENT
+
+### 3.1.1 Basic quantum science
+
+Objective OSc-1
+Maintaining and strengthening Italy's role in basic research in the European and global scenario
+
+### Action lines
+
+- a) Deepen the understanding of the phenomena underlying existing quantum systems and devices (experiments and theory);
+- b) Design new architectures for quantum information applications, including qubits, memories, protocols and algorithms, and develop scalable and hybrid quantum architectures;
+- c) Optimize quantum measurements by exploiting alternative resources or protocols, with advantages over classical approaches;
+- d) Develop strategies to extend and protect entanglement and quantum state transfer;
+- e) Design efficient interfaces between both qubits and different physical platforms, promoting interoperability between heterogeneous technologies;
+- f) Develop methods for reconstruction and estimation of complex quantum states and/or quantum channels, along with certification of their properties;
+- g) Deepen the understanding of quantum resources (entanglement quantification, Bell non-locality, etc.) and develop resource theories for quantum information;
+- h) Design efficient and device-independent quantum information tasks.
+
+### 3.1.2 Quantum computation
+
+Objective OSc-2
+Reaching a stage of proven quantum advantage over classical computation
+
+### Action lines
+
+- a) Improve the quality of hardware and interfaces and develop error mitigation and correction techniques to achieve the transition from the NISQ regime to the FQTC regime and enable integration with high-performance computing and classical and quantum communication systems;
+- b) Identify algorithms and use cases to verify quantum advantage over classical computation;
+- c) Develop hybrid quantum-classical algorithms and explore forms of quantum artificial intelligence and machine learning;
+- d)
+Develop quantum-inspired algorithms to explore the real limits of classical computing, define benchmarking of the performance of quantum computers and enable industrial applications in the short term to prepare the Italian ecosystem for the advent of these new technologies;
+- e) Promote knowledge transfer and synergies between our country, the existing European High Performance Computer and Quantum Simulator hybrid (HPC-QCS) ecosystem, the programs of Digital/Horizon Europe and the various quantum initiatives adopted by Member States;
+- f) facilitate access to existing quantum computing resources provided via the cloud by manufacturing companies or service providers in Europe.
+
+### 3.1.3 Quantum simulation
+
+Objective OSc-3A
+Development of dedicated hardware for quantum simulation
+
+### Action lines
+
+- a) Demonstration of quantum simulation applications involving quantum utility or quantum speed-up.
+Objective OSc-3B
+Implementation of efficient quantum algorithms for complex optimization problems
+
+### Action lines
+
+- a) Develop strategies to address complex optimization problems in specific quantum simulation platforms with proven quantum advantages;
+- b) Promote the adoption of quantum-class hybrid architectures and facilitate access to advanced quantum simulators to address industry-relevant applications;
+- c) Analyze the performance of classical HPC(CPU+GPU) in solving optimization problems that leverage quantum inspired algorithms.
+
+### 3.1.4 Quantum communication
+
+Objective OSc-4A
+Implementation of secure and integrated quantum communication networks
+Develop quantum communication networks, make current communication networks quantum-ready and quantum-resilient, and integrate secure quantum communication into classical networks
+
+### Action lines
+
+- a) Complete the Italian quantum backbone and connect it to EuroQCI by integrating satellite quantum communications, cross-border fiber optic connections and metropolitan networks;
+- b) Define a roadmap for EuroQCI and the Italian quantum backbone, particularly enhancing the resources present at the local level;
+- c) Design architectures and protocols for quantum networks from the perspective of a quantum protocol stack, with the dual goals of (i) meeting practical needs by reducing hardware requirements, (ii) maximizing interplay/interoperability between traditional communication infrastructure and quantum infrastructure by enabling coexistence between traditional and quantum traffic and/or integrating quantum protocols and the traditional protocol stack;
+- d) Couple post-quantum cryptography with quantum primitives, along with specific software toolkits to integrate quantum communications into secure networks, in implementation of Measure #22 of the National Cybersecurity Strategy Implementation Plan, which promotes the use of advanced cryptography from the design stage;
+- e) Implement post-quantum cryptography within traditional network infrastructures, ensuring data protection through algorithms resistant to quantum attacks; then promoting the adoption of international standards for post-quantum cryptography, supporting certification and compliance of solutions developed for optical, electrical and radio networks;
+- f) Promote the rapid full activation of the National Cryptography Center as a national reference center for all aspects of cryptography in the unclassified domain;
+- g) Detail some of the possible strategically important industrial applications of quantum networks, for example, in cybersecurity, IoT, and/or advanced telecommunications.
+Objective OSc-4B
+Extending secure quantum communications over long distances
+
+### Action lines
+
+- a) Develop fast and reliable quantum repeaters to extend the range of communication along with switches and hubs needed for dynamic routing of signals in the network
+- b) Improve key components such as sources and detectors;
+- c) Improve quantum channels, both fiber optics and free-space links, optimizing them to reduce losses and ensure high transmission fidelity;
+- d) Realize networks capable of integrating terrestrial, satellite and free-space technologies to extend the geographical coverage of the network.
+Objective OSc-4C
+Enabling quantum networks for direct exchange of quantum resources (quantum internet)
+Enabling the creation of quantum networks that can directly exchange quantum resources to enable distributed quantum processing, secure access to remote quantum resources, and the deployment of quantum sensor networks
+
+### Action lines
+
+- a) Develop robust and reliable quantum interfaces to connect quantum devices to a quantum network and efficiently transfer quantum information from flying qubits to quantum-specific devices
+- b)
+Design quantum network architectures and related quantum protocols that meet practical needs while reducing hardware requirements.
+Objective OSc-4D
+Consolidating the security of quantum communication solutions
+Consolidate security proof analysis of existing Quantum Communication solutions (e.g., QKD)
+
+### Action lines
+
+- a) Develop arguments to counter criticisms raised by numerous National Security Agencies (e.g. Position Paper on Quantum Key Distribution by French Cybersecurity Agency, German BSI, Netherlands NLNCSA, Swedish NCSA - 2024; US NSA - 2023; UK NSA - 2024);
+- b) Establish nationally and internationally shared security certification protocols for adoption in Defense and Classified Information as well.
+
+### 3.1.5 Quantum sensing and metrology
+
+Objective OSc-5A
+Capacity building for testing and certification of quantum technologies and sensors under the European Quantum Metrology and Testing Initiative (EuroQMTI) community strategy
+
+### Action lines
+
+- a) Expand testing skills for QTs, which are often configured as new, innovative, and interdisciplinary. These skills, moreover, interface with the parallel development of technology standardization;
+- b) Foster the possibility of public third-party testing for research groups and industries, so as to raise the technological maturity of sensors without burdening developers entirely at low TRL, thus accelerating industrial adoption;
+- c) Develop a National Center for testing and certification of quantum technologies and sensors to be a leading player in the EuroQMTI initiative.
+Objective OSc-5B
+Support for research infrastructure developing quantum sensors, with prototyping and experimentation, to accelerate technology transfer and industrial implementation
+
+### Action lines
+
+- a) Develop the infrastructure to support sensing in terms of integrating enabling technologies-such as vacuum technologies and control electronics-with the aim of supporting a supply chain logic for the development of complete devices and not just components or feasibility demonstrations;
+- b) Develop the infrastructure to support quantum sensor miniaturization, seen as a dominant technology trend in Europe and globally.
+Objective OSc-5C
+Addressing research and development of strategic quantum sensors for domestic industry
+Address scientific developments of quantum sensors that are considered strategic by the Italian industry, acknowledging the skills present in the country, by platforms and by classes of sensors. Encourage the development of new sensors that can ensure the basis of higher added value by enhancing the realization of lower technological maturity
+
+### Action lines
+
+- a) Support the research network that offers solutions with low technological maturity in sensor sectors on which Italy can make a significant industrial contribution in terms of its own investment and market or institutional users, particularly aerospace, biotechnology, energy and digital supply chains;
+- b) Encourage technology transfer through measures targeting the development of quantum sensing in the aerospace and biotechnology sectors, and in any other sector where a significant level of industrial investment has been evidenced.
+
+### 3.1.6 Enabling Technologies
+
+Objective OSc-6A
+Control of selected technology platforms for significant reduction in dependence on non-EU materials and technologies
+
+### Action lines
+
+- a) Promote collaboration among all significant players: universities, research centers, start-ups, medium and large companies, and the Defense and Security industry. This collaboration must embrace all TRLs to accelerate innovation in an unprecedented technological environment;
+- b) Provide detailed information to industrial associations and plan targeted public investments to direct industrial efforts toward well-defined technological milestones. In parallel, public investment should encourage the creation of start-ups, which are the most efficient means of accelerating technology transfer;
+- c) Put in place specific measures to ensure the training of highly qualified personnel, with a well-planned strategy that can on the one hand attract key resources and on the other hand counteract the flight of talent, through: more targeted incentives and facilities, greater availability of resources for research, transparency for opportunities and career advancement, and less bureaucracy;
+- d) Stimulate market growth and ensure stable trade relations with EU and non-EU like-minded countries for critical components. Tools for screening foreign and outbound investments and attracting and retaining key human resources should be strengthened in this regard. There is also a need to contain hostile foreign takeovers of critical technology producers in the EU and to counter the phenomenon of illicit or unwanted transfer of strategically valuable skills and knowledge;
+- e) Monitor supply chains over time to safeguard Italy's position and alleviate potential bottlenecks. Ensuring secure access to critical components, such as dilution cryostats, laser systems, optical and electronic components, and cryogenic or high-vacuum systems, is essential.
+Objective OSc-6B
+Development, integration and characterization of components for the realization of quantum devices
+
+### Action lines
+
+- a) Develop reliable methods to quantify, control and optimize material properties and understand their impact on quantum devices and their performance;
+- b) Ensure the availability of essential components and devices needed to make quantum products and ensure affordable access to licenses related to the use of essential devices and components for EU startups and SMEs, crucial to enabling and protecting the growth of the EU quantum industry;
+- c) Develop advanced research infrastructure and financially support Italian manufacturing capacity, bridging the gap between large foundries and SMEs. Extending QTs to the infrared spectrum and improving single photon sources are vital for applications such as quantum key distribution and distributed computing. Laser frequency stabilization and the use of photonic integrated circuits (PICs) need further development, particularly for cryogenic packaging;
+- d) Developing cryogenic infrastructure optimized for large quantum circuits, the co-location of high-level control electronics with quantum chips, the development of classical control chips that operate at cryogenic temperatures (e.g., cryo-CMOS), and the fabrication of fast superconducting control chips;
+- e) Integrate electronic, magnetic, photonic, microwave, and superconducting components into complete manufacturing processes to meet the requirements of complex quantum applications.
+
+### 3.1.7 Standardization
+
+Objective OSc-7
+Coordination and collaboration
+Promoting an effective and inclusive strategy for QT standardization by encouraging industry and research participation, developing accessible support tools, and streamlining coordination at the European level to avoid duplication and maximize impact
+
+### Action lines
+
+- a) Establish incentives to involve national industry, academic representatives, and quantum experts in JTC22 and other standards development organizations (SDOs). Promote the contributions of EuroHPC and EuroQCI grantees to JTC22 standards development activities;
+- b) Support the JTC22 strategy group in creating a dynamic and user-friendly document outlining existing and emerging standards and providing up-to-date information on global quantum standardization activities;
+- c) Assign the JTC22 strategy group to oversee and unify quantum technology standardization initiatives at the European level, avoiding duplication. Encourage other standardization initiatives to align with and contribute to the JTC22 strategy.
+
+### 3.1.8 Benchmarking
+
+Objective OSc-8A
+Coordination and collaboration
+Creation of a structured and collaborative European ecosystem for benchmarking QTs and their integration into classical supercomputing systems, fostering coordination among initiatives and integration between research and industry
+
+### Action lines
+
+- a) Promote the creation of a single coordination forum for European benchmarking initiatives;
+- b) Encourage interaction and exchange between standardization and benchmarking activities.
+Objective OSc-8B
+Instruments and infrastructures
+Provide resources and access to key infrastructure to develop reliable, quantitative and objective benchmarking methodologies at the European level
+
+### Action lines
+
+- a) Develop a Europe-wide program to support research and development with an interdisciplinary approach, integrating universities and industry for benchmarking purposes;
+- b) Facilitate access to both classical and quantum machines that are being purchased or built with national or European public funds (e.g., EuroHPC supercomputers and attached quantum machines) for benchmark development and testing, to support the creation of quantitative and objective benchmarks.
+
+## 3.2 STRATEGIC RECOMMENDATIONS
+
+### 3.2.1 Research
+
+Objective OSt-1A
+Strengthening the research and innovation ecosystem
+Realization of an efficient and synergistic research and innovation ecosystem that facilitates infrastructure coordination, technology transfer, and public-private collaboration to accelerate commercialization of QTs and "fuse" research and innovation culture
+
+### Action lines
+
+- a)
+Encourage participation in activities by researchers from other public (research institutions, public administration) and private (companies) entities through:
+- i) Increased cooperation in university research laboratories between personnel from both public and private backgrounds;
+- ii)
+Open access to the entities' research infrastructure by staff from both public and private backgrounds;
+- iii) establishment of joint public-private laboratories with specific and concrete objectives to bring research results to the market, also in synergy with public structures operating in the areas of research exploitation and technology transfer to the business world.
+- b) develop tools that promote faster technology transfer to industrial partners, with the related commercialization of research products, including through the standardization of processes for the exploitation of research results, adopting international best practices when available (in line with OSt-2A).
+Objective OSt-1B
+Coordination of research funding
+Identification of appropriate and adequate sources of public funding-especially following the termination of PNRR funding-and efficient management of these public resources along with private resources
+
+### Action lines
+
+- a) Avoid dispersion and overlap among public funding, ensuring rapid focus of resources on priority pillars, established technological excellence and the most promising projects, in line with the government's priorities on critical technologies essential to the pursuit of strategic autonomy goals;
+- b) Strengthen the link between public research and business through dedicated funding and the provision of quantum infrastructure, resulting in a positive spillover of public investment in research to the production system;
+- c) Achieve a transparent and accessible administrative and financial framework that meets the needs of businesses, facilitating their access to research and development funding and strengthening public-private partnership to accelerate innovation;
+- d) Streamline and simplify administrative procedures to ensure a reduction in the time between allocation, commitment and disbursement of funds, while maintaining a careful selection of projects based on quality;
+- e) Promote structured linkage with regional and local government initiatives to foster institutional synergy within territorial ecosystems;
+- f) Overcome current deficits in the management of research funding, ensuring more effective spending processes, public and private, and guaranteeing the availability of overtime and the possibility of research planning in the medium to long term.
+Objective OSt-1C
+Research attractiveness and internationalization
+Promotion of inter-ministerial and inter-agency initiatives aimed at fostering the movement of talent not only at the European and international level, but also within national borders, with a systems approach and with a focus on the gender gap, countering phenomena that generate unfavorable or degrading environments
+
+### Action lines
+
+- a) Prepare an “attractiveness package” for STEM disciplines, with a focus on QTs, that would flank and complement existing measures to facilitate the recruitment of researchers from abroad9(<>);
+- b) Create a Manifesto for Talent Attraction in National Production Chains, prepared in collaboration with various stakeholders, to direct and foster actions for talent attraction, retention and enhancement. Such manifesto could encompass best practices and guidelines for universities and research institutions to monitor the implementation of talent attraction policies;
+- c) Allocate dedicated funds for the enhancement of diversity and inclusion in the scientific community, including through supportive measures to counter the phenomenon of women leaving research careers, which is quite common in STEM disciplines and increases the gender gap at every stage of the career (the so-called "leaky pipeline");
+- d) Ensure synergistic coordination of the above actions with the Economic Diplomacy and Country System promotion initiatives (business internationalization and territorial promotion) introduced by MAECI, with the support of the Italian Trade Agency, the diplomatic-consular network and the Scientific Attachés.
+
+### 3.2.2 Technology transfer
+
+Objective OSt-2A
+Collaborative Ecosystem for Quantum Innovation
+Promoting the growth of a robust and dynamic quantum ecosystem through public-private collaboration networks, incubation programs and access to infrastructure (in line with OSt-1A)
+
+### Action lines
+
+- a) Build collaborative networks for innovation, formed by reliable public and private partners, that include big business as a driver of innovation and technological excellence and through which start-ups, spin-offs and new business ventures can test, validate and evaluate their proposals through incubation and acceleration programs;
+- b) Foster regulated access to key shared infrastructure to enable all types of industrial partners, including SMEs, to approach the QT sector by developing products and services;
+- c)
+Promote synergies between public and private actors, both by strengthening research and experimentation centers open to start-ups and partnerships and by targeting access to large funding, to ensure the success of QTs and to support the growth of a competitive ecosystem.
+Objective OSt-2B
+Financial instruments and incentives for growth
+Creating targeted economic and financial instruments to accelerate the growth of the quantum sector by facilitating technology transfer and stimulating innovation
+
+### Action lines
+
+- a) Create dedicated financial instruments to help both public and private actors in their growth and improve technology transfer;
+- b) Launch incentive award programs, in collaboration with research and testing centers, for start-up creation and technology transfer to SMEs, foundations, research institutes and industrial partners to stimulate innovation in QT applications. These awards would act as catalysts for the identification of new use cases while encouraging the formation of new start-ups. This approach has proven effective in other high-tech sectors and could significantly accelerate quantum innovation in Italy;
+- c) Establish a coordinated technology transfer program that unites efforts among the various institutions involved, ensuring efficient allocation of resources and simplifying industry development. Such a joint initiative, combining expertise and resources, would better address the unique challenges and opportunities of the quantum field;
+- d) Strengthen the domestic venture supply chain, encouraging the launch of deep tech and vertical funds specializing in the different stages of the growth cycle of companies, with longer expectations of returns on capital than more traditional venture funds (patient capital), proposing forms of public-private hybridization and/or government guarantees such as to reduce the risk inherent in investing in particularly advanced technologies;
+- e) Encourage the establishment of large/growth funds that can retain as much domestic scale-ups as possible in Italy, while working on European projects to increase the volumes of private funding markets;
+- f) Foster access of Italian start-ups and scale-ups to dedicated international accelerator programs such as DIANA and deep tech funds like EIC and NATO Innovation Fund.
+Objective OSt-2C
+Skills development and strategic partnerships
+Enhance the training of technical and managerial skills needed for QT operation and strengthen government-industry collaboration to promote their adoption and commercialization
+
+### Action lines
+
+- a) Develop structured innovation partnerships between government and industry to facilitate QT adoption, supporting both established companies investing in quantum applications and emerging start-ups investing in their growth. Such collaborations would help bridge the gap between research and commercialization while fostering a more robust and dynamic national quantum ecosystem.
+
+### 3.2.3 Higher education and vocational training system
+
+Objective OSt-3A
+First and second level higher education
+Supporting youth orientation and enhancing QT in basic education by establishing interdisciplinary academic training paths based on a cross-curricular approach
+
+### Action lines
+
+- a) Encourage the integration of specific curricula dedicated to Quantum Science and Technology within the master's degree program in Physics (LM-17), and possibly Electrical Engineering (LM-29) and Computer Engineering (LM-32), which can cover the different theoretical, experimental and applied aspects of science and QT in a cross-curricular manner;
+- b) Create new degree programs (e.g., in "Quantum Engineering") with a strong interdisciplinary framework compared to traditional STEM courses of study;
+- c) Promote internships and master's theses at companies, startups, other universities and research centers working in the field of QT to enable students to gain field experience and foster knowledge and skills transfer that strengthens the research and innovation ecosystem;
+- d) Encourage the establishment of joint programs between various universities and participation in the Italian Erasmus program, to foster the creation of a nationwide distributed educational ecosystem and allow students to benefit from the expertise of different universities in the field of QT.
+Objective OSt-3B
+Third level higher education
+High-level educational pathways that can enhance the geographical distribution of universities, research centers and industrial resources, as well as the variety of potential research directions in Quantum Science and Technology, while keeping programs tied to specific academic and economic contexts
+
+### Action lines
+
+- a) Establish consortial doctorates, through thematic consortia, such as dedicated to the different pillars of QTs, leveraging the complementary expertise of different academic institutions;
+- b) Strengthen industrial doctorates, which involve industries and start-ups to train the professional workforce already employed by companies;
+- c) Foster interdepartmental doctoral programs within a single academic institution for theoretical and applied research on interdisciplinary aspects of QT (e.g., the aforementioned "Quantum Engineering");
+- d)
+Promote funding schemes for dedicated higher education initiatives, co-funded by MUR, MIMIT, private companies, research institutions and local authorities.
+Objective OSt-3C
+Workforce training and upgrading for industries
+Promotion of new specific highly qualified training and refresher programs aimed at both young researchers and professionals already working in companies who need to acquire highly specialized skills (in line with OSt-5E)
+
+### Action lines
+
+- a) Establish second-level master's degree courses on specialized topics in close cooperation with research centers and local companies where participants should do internships;
+- b) Encourage the provision of modular and flexible upskilling and reskilling pathways by companies for their staff.
+
+### 3.2.4 Communication and outreach
+
+Objective OSt-4
+Widespread awareness, awareness and broad access to QTs
+Widespread quantum literacy in society to ensure broad access to the field of QT, increasing awareness among young people about the potential of QT, and promoting increasing involvement of various relevant industries to integrate QT into companies and mature a global ecosystem
+
+### Action lines
+
+- a) Consolidate and expand awareness-raising measures for the general public by promoting outreach events that engage society at large;
+- b) Promote the organization of dissemination and/or training events in secondary schools, acting at a grassroots level in the area, to expose young students to the basic principles of QTs and to introduce QTs and their potential to school teachers;
+- c) Promote the organization of school orientation initiatives in secondary schools, also with the involvement of the private sector operating in the QT sector, to show students the opportunities currently offered both by the world of work, through specialization paths, and by the academic world of university studies, through degree paths.
+- d) Promote information programs dedicated to QTs aimed at corporate decision-makers to encourage the integration of these technologies in companies, fostering an increasingly broad involvement of the various industries involved;
+- e) Carry out information actions for companies, local authorities, trade associations, accredited vocational training centers and employment services, universities, research centers, and other players in the research and innovation ecosystem to enhance their ability to attract, welcome, and exploit highly specialized talent.
+
+### 3.2.5 Industry10 (<>)
+
+Objective OSt-5A
+Supporting the creation of mechanisms for permanent discussion of actors in the Italian ecosystem on QTs
+Stimulate ongoing discussions among institutions, policy makers, experts, academia and industry contacts to define investment priorities and coordinate work as well as enhance complementarity between local and national level initiatives
+
+### Action lines
+
+- a) Establish a permanent comparison table involving institutions, policy makers, experts, venture capital funds, academia and industry contacts. This table, through regular meetings, would aim to ensure strategic continuity in monitoring the ecosystem, implementing relevant action plans and gathering needs from industry (see also Ch. 5).
+Objective OSt-5B
+Funding for the creation of a structured and mature public-private ecosystem
+Stimulate collaboration between public and private actors in the area (research centers, universities and companies) and create a working network based on coordinated research and development objectives, with the aim of involving both national excellence and international companies in the area (in conjunction with OSt-1A and OSt-1B)
+
+### Action lines
+
+- a) Ensure continuity of existing initiatives by adopting a medium- to long-term strategic perspective (5-7 years), favoring public-private collaboration logics and promoting actions that incentivize private investment.
+Objective OSt-5C
+Promoting industrialization and entrepreneurship on quantum technologies nationwide
+Foster the creation of a national QT supply chain that can: (i) promote the emergence of competitive Italian start-ups, including within academic research; (ii) leverage skills and technologies already present in the area; and (iii) leverage international suppliers where necessary
+
+### Action lines
+
+- a) Develop, in collaboration with industry, specific accelerator programs to bring technologies to market, also taking a cue from practices developed internationally (e.g.Challenge prizes in the UK, where funds are to be allocated to incentivize the development of advanced technology solutions to support specific problems). These programs should address the entire value chain and have a specific interconnection with industrial domains;
+- b) Create opportunities for match-making between venture or corporate venture capital funds with the fabric of domestic start-ups, including fostering collaboration between institutional initiatives and private venture capital;
+- c) Relate the industrial strategy for QT with that for other critical supply chains to which the latter is strongly related, such as Artificial Intelligence;
+- d) Develop an analysis of the structure of supply vs. demand and also involve "demand" players of all sizes in order to discuss the evolving needs and opportunities for project development in different economic sectors and debate their operational impacts on the productivity of the supply chain and different application sectors.
+Objective OSt-5D
+Ensuring access to quantum technologies and infrastructure critical to the country system
+Ensure direct access to critical infrastructure for national competitiveness and security, particularly finished products, such as quantum computing resources and quantum communication networks, and production infrastructure, i.e., specialized research laboratories, industrial plants and foundries for the development of enabling components
+
+### Action lines
+
+- a)
+In the short term:
+- i) Map industrial infrastructures and specialized laboratories in the area, including research and experimentation centers for the creation of startups and technology transfer to SMEs, and Centers of Competence, with the aim of defining financing plans, including long-term ones;
+- ii) implement maintenance and access policies to ensure full utilization of the Italian system of existing facilities beyond the NRP time horizon (as early as the second half of 2025);
+- iii) ensure access to the best quantum technology infrastructure at the European level, also leveraging the use of Cloud services, to accelerate experimentation and promote the development of innovative software solutions. This could be achieved by developing dedicated programs aimed at reducing financial and bureaucratic barriers and improving coordination between Italian and European infrastructures, maximizing synergies;
+- iv) integrate QTs with other national strategic supply chains, such as AI and the space economy;
+- v) adopt a plan to invest, as of now, in activities in safety assessment; in relation, for example, to the impacts potentially coming from the networks already developed in the international context.
+- b) In the medium term, analyze the needs of industrial stakeholders to identify specific industrial needs and update existing structures to fill any gaps;
+- c) In the long term, invest in the development of new quantum infrastructure domestically, reducing dependence on foreign critical infrastructure and ensuring strategic technological autonomy;
+- d) Coordinate Italian investments in infrastructure with those made by European institutions, including by strengthening partnerships with other EU member states, ensuring an active Italian presence in European strategic initiatives.
+Objective OSt-5E
+Developing a skilled workforce and creating an attractive market for domestic and foreign talent
+Develop talents on QT nationwide, strengthening the industry chain in the sector and creating an attractive labor market
+
+### Action lines
+
+- a) In coordination between MIMIT and MUR, fund PhDs and post-docs in public-private collaboration working with relevant industrial domains;
+- b) In coordination with the MUR, foster rapprochement between business and academia, including through the inclusion of courses and programs related to entrepreneurship and technology transfer in QT training courses. Foster the enhancement of successful experiences through testimonials and meetings between entrepreneurs and academia;
+- c) Define incentives for companies to attract and retain talent in deep tech, proposing competitive economic treatments, greater availability of funds for research, less bureaucratic burdens, and faster career progression inspired by meritocratic criteria. In this framework, existing measures for attracting professionalism from abroad, such as tax breaks and various types of visas for non-EU citizens (taking into account in particular talent from Developing Countries) should be enhanced.
+Objective OSt-5F
+Defining programs to disseminate knowledge and raise awareness about opportunities and risks in user enterprises
+Ensure that potential Italian companies that use QTs know about their opportunities and risks to keep the economic fabric competitive (in line with OSt-4).
+
+### Action lines
+
+- a) Create dissemination programs and events that raise awareness of opportunities and risks related to QTs, particularly regarding possible cybersecurity-related responses;
+- b) Monitor the Quantum Readiness of Italian companies through specific market research and define long-term action plans to ensure sustainable development of the industry;
+- c) Work in coordination with European institutions to define technology standards and certifications of QTs, so as to promote their adoption in user companies.
+Objective OSt-5G
+Promotion of international cooperation in industrial and applied research policies on quantum technologies
+Ensure European competitiveness in the international QT ecosystem and enhance national efforts within a supranational policy.
+
+### Action lines
+
+- a) Ensure monitoring and updating of the national strategy by governance institutions as outlined in OSt-5, action line (a);
+- b) Enter into bilateral agreements for synergistic industry development, regulation and technology standardization;
+- c) Ensuring Italian representation at supranational decision-making tables.
+
+### 3.2.8 Summary of future action lines
+
+Scienfic development direcons
+Basic quantum science
+OSc-1: Maintaining and strengthening Italy's role in basic research in the European and global scenario
+Quantum computaon
+OSc-2: Achieving a stage of proven quantum advantage over classical computaon
+Quantum simulaon
+OSc-3A: Development of dedicated hardware for quantum simulaon
+OSc-3B: Implementaon of efficient quantum algorithms for complex opmizaon problems.
+Quantum communicaon
+OSc-4A: Realizaon of secure and integrated quantum communicaon networks.
+Osc-4B: Extending secure quantum communicaons over long distances
+Osc-4C: Enabling quantum networks for direct exchange of quantum resources (quantum internet)
+Osc-4D: Consolidang the security of quantum communicaon soluons
+Quantum sensing and metrology
+OSc-5A: Capacity building for tesng and cerficaon of quantum technologies and sensors under the community strategy
+OSc-5B: Support for research infrastructures developing quantum sensors, with prototyping and experimentaon, to accelerate technology transfer and industrial implementaon
+OSc-5C: Addressing research and development of strategic quantum sensors for domesc industry.
+Enabling technologies
+OSc-6A: Ensure full control of selected technology plaorms, significantly reducing dependence on non-EU materials and technologies
+OSc-6B: Development, integraon and characterizaon of components for quantum device fabricaon
+Standardizaon
+OSc-7: Coordinaon and
+Benchmarking
+OSc-8A: Coordinaon and Collaboraon.
+OSc-8B: Tools and Infrastructure
+Strategic recommendaons
+Research
+OSt-1A: Strengthening the research and innovaon ecosystem.
+OSt-1B: Coordinaon of research funding.
+OSt-1C: Research aracveness and internaonalizaon.
+Technological transfer
+OSt-2A: Collaborave Ecosystem for Quantum Innovaon.
+OSt-2B: Financial Instruments and Incenves for Growth.
+OSt-2C: Skills development and strategic partnerships.
+Higher educaon and vocaonal training system
+OSt-3A: First and second level higher educaon
+OSt-3B: Third Level Higher Educaon
+OSt-3C: Workforce training and upgrading for industries.
+Communicaon and outreach
+OSt-4: Widespread awareness, awareness and broad access to QTs.
+Industry
+OSt-5A: Support for the creaon of mechanisms for permanent comparison of actors in the Italian ecosystem on QTs
+OSt-5B: Funding for the creaon of a structured and mature public-private ecosystem.
+OSt-5C: Promong industrializaon and entrepreneurship on quantum technologies naonwide
+OSt-5D: Ensuring access to quantum technologies and infrastructure crical to the country system
+OSt-5E: Developing a skilled workforce and creang an aracve market for domesc and foreign talent
+OSt-5F: Defining knowledge disseminaon programs and increasing awareness of opportunies and risks in user enterprises
+OSt-5G: Promoon of internaonal cooperaon in industrial and applied research policies on quantum technologies
+To guide the decision-making process on which actions to promote, monitor or possibly recalibrate in a context of limited resources and high complexity, the design of activities will refer to an evaluation grid that helps distinguish longterm structural objectives from immediately implementable ones, reinforcing the coherence between strategic vision and operations. This will support a clear and transparent communication of priorities to the different stakeholders involved (government, industry, research, territories).
+The evaluation of each Strategic Objective (OSt) is to be carried out according to three basic criteria:
+- ✓ Relevance: centrality of the goal to the success of the national QT strategy
+- ✓ Urgency: need for immediate intervention to seize opportunities or prevent critical issues;
+- ✓ Impact: transformative potential of the target on the Italian quantum technology ecosystem.
+
+### 3.2.9 Monitoring, Key Performance Indicators and impact assessment
+
+To foster the effective implementation of the Italian Strategy for Quantum Technologies and ensure that investments produce concrete results, a national system of periodic monitoring and evaluation will be established. Such system will be integrated into the Governance established for the implementation of the Strategy, coordinated by the Ministry of University and Research (MUR), in collaboration with MIMIT and key public and private stakeholders.
+
+### Key Performance Indicators (KPI)
+
+Key performance indicators will, accordingly, be defined and monitored for each strategic focus area, including:
+✓ Research
+- - Number of peer-reviewed scientific publications in QT field;
+- - Number of projects funded with TRL > 4;
+- - Percentage of research projects that evolve into demonstrable prototypes.
+✓ Technology transfer
+- - Number of patents filed and licenses activated in QT;
+- - Number of active public-private collaborations;
+- - Number of deep-tech startups activated or accelerated.
+✓ Training and skills
+- - Number of graduate and doctoral students in QT-related disciplines;
+- - Number of professionalizing master's degrees activated;
+- - Employment rate in related fields within 12 months of graduation.
+✓ Industry and investment
+- - Volume of private investment activated (co-investment, venture capital);
+- - Increasing the number of enterprises involved in the national quantum supply chain;
+- - Number of successfully completed pilot projects.
+An operational roadmap will be published annually that will include verifiable milestones and timelines.
+
+### Impact Assessment and Review Cycles
+
+Every 24 months, an independent impact assessment will be commissioned from third parties (e.g., ANVUR, CNR, mixed academia-industry groups) to verify:
+- ✓ The consistency between achieved results and stated objectives;
+- ✓ The efficiency and effectiveness of governance mechanisms;
+- ✓ The critical issues that emerged in the implementation of the strategy
+The results of each cycle will be public and used to update the strategy according to the principle of strategic adaptivity.
+
+# 4. FUNDING FRAMEWORK
+
+As pointed out in section 2.3, Italy has high development possibilities in the field of quantum technologies, thanks to research excellence and the potential of the industrial sector. However, the Country suffers a significant lag in public funding, compared to an international scenario led by countries that have planned large investments over long periods of time.
+At the European level, the total commitment to quantum technology-related activities is approximately 9.5 billion€, including EU resources and Member State contributions. Given the European Union's ambitious goal of transforming itself into a full-fledged quantum valley, with a view to improving competitiveness, it is likely that, now that the European Strategy for Quantum Technologies has been published, further allocations will be made to stimulate the development of the sector.
+The primary driver of the quantum revolution is governments, which are investing billions in public research with long-term horizons, aware of the enormous impact on economic competitiveness and national security..
+An analysis of the quantum strategies of some European countries highlights that the investments announced with reference to the relevant time frame of planned implementation (see Table No. 3) are substantial. The impetus of public funds is creating an ecosystem that also integrates the private sector: on the one hand, startups and supply-side companies engaged in technology development; on the other, demand-side companies experimenting today to secure a competitive advantage tomorrow.
+TABLE 3
+Planned investments in national strategies Fonte: Osservatorio Quantum Computing& Communication del Politecnico di Milano
+Country
+Budget
+Duration
+Starting year
+Austria
+107 mln €
+5 years
+2021
+Denmark
+150 mln €
+4 years
+2023
+France
+1.8 bn €
+5 years
+2021
+Germany
+2.5 bn €
+5 years
+2021
+Netherlands
+615 mln €
+7 years
+2021
+United Kingdom
+2.5 bn £ ca. 3 bn €
+10 years
+2023
+Switzerland
+10+82.1 mln CHF approx. 97 mln €
+5 years
+2023
+Spain
+808 mln €
+5 years
+2025
+In the four-year period 2021-2024, Italy has also made a number of interventions in the field of QT, investing about €229 mln in the field of quantum technologies, of which 86 percent for the PNRR projects. To this funding we can add those allocated for EuroQCI and EuroHPC infrastructure (about 70 mln €).
+Ecosystem mapping and data from private sector consultations show that funds dedicated to quantum technologies under NRRP projects have generated a significant leverage effect, catalyzing private investment and stimulating skills development. The funded initiatives have enabled the development of a virtuous synergy between academia and business as well as technology transfer activities, in the context of NRRP spokes. To consolidate and expand these results, however, it would be crucial to continue along this trajectory with targeted measures.
+The analysis conducted by the working group's scientific experts shows that, in order to place itself in the rut of the countries with the highest rate of technological development and increase attractiveness and competitiveness for the benefit of the entire ecosystem, Italy needs to plan a volume of funding in the sector of about 200 million per year, for a period of five years (in addition to what has already been invested). This amount would represent 0.01 percent of GDP, a share close to that already planned by France and Germany (see Table No. 3).
+The investment would also enable the Strategy to be adequately implemented, strengthening the efforts of the entire value chain.
+Giving continuity to the funds spent so far in NRRP projects would not allow the development of ambitions commensurate with the potential of the country system, as detailed in the Strategy. It would lead to a loss of competitiveness in a global scenario.
+Financially, new investments could be achieved through two main lines of action:
+- 1. New public investment flanked by structural measures, such as supporting technology transfer and strengthening the impact and sustainability of infrastructure in the long term, including by fostering business access to computing infrastructure;
+- 2. Maximizing the leverage generated by the NRRP through instruments aimed at further stimulating private investor participation and creating an environment conducive to the sector's growth.
+As for the first point, as highlighted in the Strategy, the amount of investments alone is not sufficient to adequately support the development of quantum technologies. It is necessary to direct it to act on existing weaknesses by mitigating relative risks and implement the lines of development outlined in the third part of the document.
+Therefore, to ensure an appropriate balance between technological innovation, entrepreneurial support and scientific skills development, public investment, consistent with the analysis presented in this document and within the framework of the European strategy, should be allocated according to the following percentages:
+- ✓ 20% earmarked for equity investment and business support;
+- ✓ 30% to fund the infrastructure available to the productive world for the development of quantum technologies and corresponding use cases11(<>);
+- ✓ 15% for the development of quantum chips;
+- ✓ 35% to research.
+In planning the funding strategy that will accompany public allocations, it will be particularly important to consider the strategic recommendations outlined in the text. It should be emphasized in particular that the share proposed here for research corresponds to the funding provided so far under the NRRP and thus represents the minimum total volume necessary to avoid a regression in Italy's scientific capabilities, to be accompanied by an increase in investment on the other sides of the national quantum ecosystem.
+As for the second point, as emerged during the private sector consultations, Italian venture capital funds (lower in terms of assets under management than even smaller European countries) face difficulties in raising capital from institutional investors (pension funds, provident funds, insurance companies, but also family offices and other informal private capital market players). These difficulties are greater for those venture capital managers operating in so-called deep-tech sectors such as quantum technologies, whose timeframes for
+development, implementation and commercialization of related products are longer than for other technologies. Longer lead times and greater uncertainty about returns make it essential to have more "patient" capital (as an example, the duration of the NATO Innovation Fund is 15 years). To mobilize such private financial resources to a greater extent for venture funds operating in deep tech, it therefore appears essential to further strengthen instruments and incentives that operate as leverage (such as, for example, tax breaks) or introduce forms of de-risking.
+In order to limit the level of risk and losses on the portfolio, one hypothesis could be to introduce "guarantees" of a public nature (e.g., through SACE), i.e., insurance instruments to guarantee part of the qualified investment, by an institutional fund (Limited Partner), in units or shares of deep-tech Venture Capital Funds residing in the territory of the state (or that of member states of the European Union or states party to the Agreement on the European Economic Area, provided that the manager's investment is in startups operating mainly in Italy).
+A plafond of public guarantees worth 100 million € (covering 20% of each individual VC fund investment) would correspond to significant leverage.
+
+# 5. GOVERNANCE, INCLUDING LEGISLATIVE DEVELOPMENTS
+
+## Framework
+
+As emerged from the above analysis, Italy needs to enhance the high-profile scientific expertise in the country to consolidate its European leadership and establish its own independent capability for the development, production and distribution of QT. This process must also be guided by the core values of national security to create a virtuous and resilient technology ecosystem capable of coping with emerging risks and ensuring that the country's strategic interests are safeguarded. The international cooperation actions proposed in this strategy are coherent with the fundamental foreign and security policy choices along the pillars of EU, NATO and UN memberships, transatlantic and like-minded relations, alliances and respect for human rights, and international peace and security.
+It is thus necessary to boost scientific research, both basic and applied, and to bridge the current gap with large-scale production, creating an ecosystem capable of nourishing a wide range of scientific and industrial applications. It is also essential that the ecosystem strengthens technological resilience, contributing to national and collective security. Sectoral recommendations must thus be translated into actions and opportunities within a well-structured innovation ecosystem, ensuring the involvement and coordination of all stakeholders.
+Indeed, the importance of involving, in the governance of QT development, all relevant stakeholders in the research and industry value chain is clearly emerging:
+- ✓
+Government, national institutions and regions: are the main stakeholders in any governance program, due to their regulatory and policymaking leadership role at the national and international levels. In particular:
+- - The government, in addition to developing the National Strategy, plays a key role in identifying priority innovation funding areas for the country, addressing policy challenges and facilitating the emergence and development of local ecosystems;
+- - The Defense and Security Branch ensures that QTs meet strategic national security needs;
+- - Ministry of Foreign Affairs and International Cooperation ensures that international cooperation actions are consistent with the country's foreign policy choices;
+- - Regions ensure the coordination and development of territorial ecosystems.
+- ✓ Universities and research institutions: the development of QTs depends largely on the advanced research and training activities conducted by universities and EPRs, and the related funding, both public and private.
+- ✓ Private companies and entities: play an important role in the development, innovation, and commercialization of QTs. Technology companies, including large corporations, are often drivers of innovation, for example in the field of quantum hardware and software. In parallel, SMEs, start-ups, and spin-offs play an important role in translating academic discoveries into commercial products and services.
+- ✓ Individuals, consumers, and society as a whole: individuals, as future practitioners and researchers, are crucial in nurturing the system of skills needed to develop the field; consumers foster acceptance and adoption of emerging technologies. Public trust in QT, fueled by transparency and awareness of the associated benefits and risks, is essential to creating sustainable and dynamic markets. Finally, society as a whole benefits from QT applications, but also shares the ethical, social, and environmental responsibilities.
+In order to establish a stable form of coordination among all stakeholders, it is necessary to rethink traditional mechanisms of inter-institutional collaboration, to create an ecosystem that can quickly translate the goals and objectives of the National Strategy into concrete actions. Such collaboration must ensure a focus on security aspects to prevent misuse of technologies and, at the same time, ensure a safe and responsible approach to technological progress.
+The initiatives launched through the NRRP projects provide a benchmark for building this coordinated ecosystem. In particular, the NQSTI Extended Partnership, the Italian Research Center for HPC, Big Data and Quantum Computing (ICSC)-with spoke 10 dedicated to Quantum Computing-and the IPHOQS Research Infrastructure have laid a solid foundation for new forms of collaboration. These projects have made it possible to achieve high levels of research and technological development by stably networking universities, EPRs, companies and territorial actors, thus creating an unprecedented collaborative infrastructure.
+What has already been achieved now needs to be consolidated and further developed, thus enhancing the progress achieved through NRRP's substantial investment in the sector, and ensuring, with a long-term approach, the sustainability and future growth of QT.
+As the mapping conducted for the purpose of drafting the National Strategy shows, this emerging sector requires strong synergies among stakeholders with a two-fold objective:
+- ✓ First, coordinate multilevel initiatives involving research, industry and the Defense sector, starting from the local level and working up to the international level and fostering technology transfer mechanisms.
+- ✓ Second, create strong stakeholder collaboration to identify strategic funding areas and coordinate them with a technology foresight approach to strengthen the impact of public and private investments on the ecosystem, maximizing their results and fostering alignment of strategic priorities.
+Coordination and collaboration are key prerequisites for ensuring the active involvement of all stakeholders in the decision-making process. At the same time, these prerequisites allow the implementation of projects and programs to be structured in a manner consistent with the needs of all participants. Therefore, encouraging collaboration among research institutions, academia, industry, and government agencies to foster the exchange of strategies, resources, and knowledge will be critical to ensuring the success and sustainability of the ecosystem.
+
+## Principles
+
+Given this background, what has been set above can be translated into the following guiding principles, to build a QT innovation ecosystem under a shared governance:
+- ✓ Full stakeholder engagement: identification of all stakeholders and in-depth analysis of their roles, interests, needs and responsibilities;
+- ✓
+National security integration and proactive risk-management: harmonizing QT development with national security aspects, identifying and assessing risks associated with potential misuse of these technologies and taking measures to safeguard national interests;
+- ✓ Inclusive decision making: balance between top-down and bottom-up processes to facilitate inclusive decision making;
+- ✓ Clear funding mechanisms: planning and differentiating funding instruments, making them fast and flexible, with regular calls and definite and stated evaluation timeframes;
+- ✓ Optimal structure: balancing the tasks assigned to governance structures at various levels;
+- ✓ Gender balance: enhancement of gender equality by ensuring an adequate presence of women in all decision-making bodies and selection committees and the development of measures that facilitate an environment conducive to the enhancement of talent and the well-being of all;
+- ✓ Inter-ministerial coordination: inclusion of representatives from the different administrations involved (MUR, MIMIT, Ministry of Defense, MAECI, DTD and ACN) in order to foster both a constructive dialogue between institutions and with stakeholders, as well as the identification of a single center of representation of the different interests of Italian stakeholders in European fora;
+- ✓ Lean processes and decision agility: balancing stakeholder engagement and decision as well as implementation agility. Industry characteristics and rapid technological change require systems that do not congeal procedures;
+- ✓ Enhancement of existing structures: to build a strong ecosystem to pursue the goals of the Strategy. The identification and involvement of existing structures with specific expertise in the field appears crucial: already established foundations and organizations involved in NRRP science and QT activities can provide valuable input to strategic decisions and implementation.
+
+## Recommendations
+
+To achieve the goals set by the Strategy, Italy must create a shared environment to draw on the expertise of all stakeholders, along the entire innovation value chain: from researchers to companies as well as end users, via government and policymakers.
+In line with the international context, Italy must establish an arena to speed up decision-making processes , and avoid fragmentation. In the long term this would guarantee an organizational stability functional to the achievement of objectives and multilevel coordination of stakeholders.
+An efficient governance structure should:
+- ✓ Coordinate public policies in the field, also in light of European initiatives, in order to develop national technological capabilities through support for research and innovation;
+- ✓ Ensure coordination with existing structures and initiatives;
+- ✓ Monitor the implementation of the national strategy and prepare an update at least every three years;
+- ✓ Ensure that research and innovation support and strengthen national security by contributing to the identification, assessment, and management of emerging risks;
+- ✓ Provide a platform for discussions and negotiations of funding and investments to strengthen research, development and commercialization activities in the QT sector;
+- ✓ Ensure a fair, transparent and expeditious distribution of public funding, also considering the importance of rapid and effective interventions and actions aimed at quickly reducing the gap with peer countries;
+- ✓ Promoting industrial competitiveness;
+- ✓
+Safeguard intellectual property rights;
+- ✓ Ensure responsible and safe conduct of research and development of quantum science and technology;
+- ✓ Ensure gender balance and support diversity and inclusion policies;
+- ✓ Support and promote the training and mobility of a diverse and skilled workforce in Italy and the EU to stimulate innovation and growth, including by attracting and retaining talent and promoting education and training in science and QT.
+In order to enable the effective implementation of the National Strategy on Quantum Technologies in a rapidly changing technological and geopolitical environment, it is suggested to proceed in phases:
+In the short term, to balance stakeholder involvement with the need for decision-making and implementation agility, it is proposed to establish a "Standing Committee for Quantum Technologies," with the following characteristics:
+- ✓ Composition: representatives of MIMIT, MUR, Ministry of Defense, MAECI, ACN and DTD, experts of the scientific community and relevant business actors.
+- ✓ Placement: at MUR considering its central role in the national research ecosystem and coordination of NRRP initiatives, while ensuring the involvement of other ministries.
+Such structure would balance speed and procedural simplicity with effective coordination during implementation. Finally, the proposed committee seems well suited to carry out the institutional mission for QT development.
+In the medium term, in order to consolidate the governance structure and give greater long-term stability to the coordination among stakeholders, a governance model borrowed from the National Hub for the Underwater Dimension (Polo Nazionale della Dimensione Subacquea) could be established.
+This is conceived as an innovative Country System model, aimed at aggregating Italian excellence-public and private-involved in scientific development, training, technological innovation and technology transfer in the sector. It would be organised according to a multi-level articulation:
+- ✓ A policy-level committee: responsible for setting strategic directions for the implementation of the National Strategy;
+- ✓ A Strategic Steering Committee: composed of institutional, academic and industrial representatives to ensure oversight and consistency with national goals;
+- ✓ An Operational Structure: for administrative management of any calls for proposals, disbursement of any funding, and implementation of technology transfer activities.
+The National Quantum Hub would help attract a significant amount of investment, enhance research and training, and create new employment opportunities, realizing the potential of the National Strategy.
+In the medium and/or long term, the governance model could be complemented by a specific Quantum Foundation with the institutional mission of facilitating the convergence of public and private investment, strengthening the ecosystem established. Such foundation would either build upon the experience of one of the existing foundations in the technology sector or be established on purpose.
+
+### Operational extension of governance: monitoring, evaluation and transparency
+
+To ensure that the governance of quantum technologies is not limited to the definition of institutional arrangements but takes on a truly implementation character, there is provision for the establishment of a Strategic Monitoring and Evaluation Unit (UMVS), hinged at or structurally connected to the National Quantum Hub with the task of:
+- ✓ Collect data on the progress of projects and strategic actions;
+- ✓ Continuously monitor a set of key performance indicators (KPIs), validated with stakeholders;
+- ✓ Verify achievement of three-year milestones and alignment with national and European targets;
+- ✓ Make proposals for annual or triennial updates to the strategy.
+In parallel, each structure of the governance model (political, strategic, and operational) will be required to have measurable goals and transparent reporting tools. In particular, the Strategic Steering Committee will coordinate the preparation of the Annual Quantum Strategy Implementation Report, which will include:
+- ✓ A summary of the results obtained;
+- ✓ A comparison with other leading European countries in the field;
+- ✓ Any proposals for realigning priorities.
+To strengthen territorial embeddedness and coherence with the needs of businesses and research centers, an annual National Conference on Quantum Technologies will be established, involving regions, universities, public and private centers, businesses and civil society representatives. The conference will be a forum for consultation, feedback gathering, promotion of results and co-design of inter-institutional initiatives.
+Finally, to protect the country's technological autonomy, each governance component will be asked to contribute to the drafting of a Strategic Risk Management Plan, including:
+- ✓ The mapping of critical dependencies on foreign suppliers and infrastructure;
+- ✓ The monitoring of talent mobility and intellectual property;
+- ✓ The establishment of countermeasures in the event of geopolitical crises or disruptions in the value chain.
+This integrated system of governance, measurement and adaptation will enable the strategy to evolve dynamically, ensuring long-term impact, accountability and sustainability.

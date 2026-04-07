@@ -1,0 +1,853 @@
+NATIONAL STRATEGIES
+for quantum technologies
+of the Czech Republic
+
+# Foreword
+
+In recent years, the world has been undergoing dynamic changes brought about by rapid technological development. This has a fundamental impact not only on our everyday lives, but also on society as a whole. One of the key areas with the potential to significantly transform the future is quantum technology. Its development is one of this government's three strategic priorities in the field of science and research, which are also essential for strengthening the Czech Republic's competitiveness.
+Quantum technologies represent a new paradigm for the digital economy and society. They will transform a number of areas almost from the ground up—from computer science, communication, and cybersecurity to materials science and pharmacy—and accelerate the pace of their development.
+The use of the unique properties of particles at the atomic and subatomic level offers innovative possibilities for the collection, processing, and transmission of information. Quantum sensors are already capable of detecting and measuring physical quantities with unprecedented sensitivity and accuracy. In the future, quantum computers should be able to solve complex tasks that are difficult or even impossible for today's classical computers, and achieve much higher computing speeds.
+Given the dynamic development of knowledge in the field of quantum technologies, we are currently unable to predict all the new discoveries and benefits.
+Quantum technologies are expected to bring a number of benefits, including a wide range of innovative commercial applications and significant contributions to addressing global societal challenges. At the same time, however, they pose risks to human-centered values, particularly in the areas of digital security and privacy. One of the major threats is the possibility of breaking current cryptographic methods, which are key to ensuring security and trust in digital communications.
+The governments of developed countries are aware of the benefits of quantum technologies and the associated risks, and are introducing national strategies and financial programs to support the development of quantum technologies. Under these circumstances and at this point in time, Czechia cannot afford to stand aside. Similar to artificial intelligence and semiconductors, quantum technologies will be one of the main factors determining our country's geopolitical position and competitiveness.
+This national strategy sets out the optimal direction for the development of quantum technologies and research in Czechia. Its goal is to create an environment for the dynamic development of the quantum industry, strengthen the country's security, support a cutting-edge research ecosystem, and increase competitiveness and quality of life.
+Investment in research and support for innovation in the private sector play a key role. It is essential to build suitable conditions and channels for financing the quantum ecosystem and developing quantum infrastructure. Equally important is effective and rapid commercialization, which will stimulate technological progress. An integral part of this strategy is also intensive international cooperation, which will enable the creation of high value-added products and services and make Czechia an attractive center for quantum education, top experts, and industrial development.
+I am convinced that we have what it takes to achieve these goals. This National Strategy for Quantum Technologies – the first quantum strategy for the Czech Republic – brings together everything that is needed and sets the direction for the emergence of a dynamic quantum industry.
+Marek Ženíšek, Minister of Science, Research and Innovation
+
+# Executive summary
+
+The National Strategy for Quantum Technologies focuses on strengthening technological advancement, communication security, and ensuring the competitiveness and defense capabilities of the Czech Republic in the rapidly developing world of quantum technologies. In addition to the overall goal of creating an innovative, sustainable, and secure quantum ecosystem in the Czech Republic that connects research, development, education, industry, and government to support economic development and technological progress, the strategy emphasizes the development of competencies in the areas of quantum computing and simulation, quantum communication, quantum sensor technology, quantum metrology, and quantum materials.
+The strategic pillars on which the strategy focuses are research and development, education and talent development, a competitive economy, international cooperation, security and defense, and infrastructure for quantum technologies. It sets strategic goals and key measures for achieving them in these pillars.
+These areas represent significant potential for developing competitiveness, cooperation with the private sector, new business opportunities, and job creation. They provide advanced development opportunities in areas such as cryptology and cyber security, which are essential for protecting national interests and critical state infrastructure.
+An important goal of the National Strategy for Quantum Technologies is to ensure support for the development of quantum technologies so that Czechia can follow up on the European Declaration on Quantum Technologies1 and Regulation (EU) 2023/1781 of the European Parliament and of the Council of 13 September 2023 establishing a framework for measures to strengthen the European semiconductor ecosystem and amending Regulation (EU) 2021/694 (Chips Act)2 , and kept pace with other upcoming European documents and global trends in quantum technologies, and cooperated on the international stage.
+Quantum technologies create a unique opportunity for the creation and development of new innovative companies, start-ups, and spin-offs. The importance of this opportunity is particularly evident in the Czech economy, where there is a clear dependence on traditional industry and most companies are located at the lower end of supply chains. Taking advantage of this opportunity will be a highly positive stimulus for the country's economic development, for Czech industry, for the creation of new companies or progressive start-ups and spin-offs, and for the emergence of a new innovative labor market offering attractive positions and promising jobs with high added value. Another important aspect is the fact that quantum technologies can be used for both civilian and military purposes – so-called dual use. At the same time, however, it is necessary to reflect that quantum computers also pose a significant risk, especially to existing cyber security, and therefore their development must be accompanied by appropriate measures. Cooperation between the EU and the European Space Agency (ESA) includes projects to increase the security and resilience of satellite communications and the use of new types of sensors based on quantum technologies. Significant application potential is also expected in the near future through so-called hybrid quantum-classical systems.
+A fundamental prerequisite for such development is ensuring a sufficient number of specialists capable of working in the quantum field. The National Strategy for Quantum Technologies emphasizes targeted support for high-quality education of experts in these areas, as well as teachers at universities and secondary schools who will be able to motivate talented young people to work in the field of quantum technologies.
+
+# 1. Introduction
+
+Quantum technologies have become one of the most important and closely watched fields of science and research worldwide. This field, which uses the principles of quantum physics, advanced materials science, and sophisticated experimental techniques, offers revolutionary possibilities in computing, communications, cryptology, sensor technology, metrology, and many other industries. The development of quantum technologies has a fundamental impact not only on civilian applications, but also on security and defense, particularly due to the possibility of dual use, where the technology serves both civilian and military purposes. Thanks to its significant economic and social benefits, all this is generating considerable attention and investment from governments and the private sector around the world.
+Global interest in quantum technologies is partly driven by their potential to achieve significant scientific breakthroughs. Quantum computers, for example, promise to perform certain calculations at exponentially higher speeds than classical computers, which could have significant implications for research and subsequent applications in materials science, medicine, artificial intelligence, and cryptology. Quantum communication may bring new possibilities for protecting sensitive information and its secure transmission in the future. Quantum sensors may bring revolutionary changes in measurement and detection, with applications ranging from navigation, radio communication, and geological exploration to medical diagnostics.
+Although quantum technologies still face a number of technical and theoretical challenges, rapid progress in this area shows that their full potential may be realized sooner than expected. This is a highly competitive and strategically important sector, where leadership will be gained by those who can overcome the current obstacles and begin to successfully apply these technologies.
+Global support and development of quantum technologies is a scientific and technological priority, but also a key strategic, security, and economic trend. Countries that become leaders in this field not only gain technological superiority, but also open up new avenues for economic growth and ensuring the security of critical national infrastructure. The goals set and the associated investments are proof of the interest and attention these countries are devoting to quantum technologies. Globally, these investments in the quantum computer segment will reach USD 5-10 billion in the period 2022-2026, with an expected increase of USD 450-850 billion for the period 2026-20503.
+Similarly, the importance and support of quantum technologies can be demonstrated in the segment of quantum sensors and imaging methods, which have unprecedented significance and added value not only for medicine and military technologies, but also, for example, for ecology and the environment, as they open up new possibilities in the monitoring, evaluation, and visualization of measured data, such as CO2 emissions. Quantum sensor technology alone could generate revenues of USD 1 to 6 billion by 20404. Quantum time measurement and quantum communication are key to future navigation techniques and the development of new navigation and metrology methods, ensuring high efficiency and safety in transport, telecommunications, and other services. Equally important is the increase in data network transmission capacities thanks to more accurate time synchronization, for example faster data processing in trading, or they can contribute to more accurate navigation and measurement in civil and military applications. Quantum communication solutions could generate revenues of over USD 8 billion by 20305.
+The importance of quantum technologies for improving economic growth and national prosperity is also clearly demonstrated, for example, by Australia's recently published Quantum Strategy. Here, the authors emphasize that quantum technologies have the potential to contribute to the discovery of new medicines, support emissions reduction, help with environmental protection, and ensure a resilient cyber infrastructure. They argue that it is no longer a question of "if" but "when" current security measures will be breached and cyber infrastructure will need to be secured quantum-wise. According to this strategy, the commercialization of quantum technologies could create a quantum industry worth approximately $1.5 billion in Australia, directly employing 8,700 highly skilled workers by 2030. By 2045, this could be approximately $6 billion and 19,400
+jobs. These technologies are expected to add billions of dollars in value to related industries over this time frame6.
+The Netherlands, through the Quantum Delta NL initiative(7) ,will support the development of its quantum ecosystem with €615 million and an additional €270 million in 2024, and expects the Quantum Delta NL project to create up to 30,000 jobs.
+In the context of global and European significance and progress in quantum technologies, it is essential for Czechia to adopt a strategy that clearly identifies and responds to new challenges and opportunities in this area. A strategy that represents the cornerstone for the future direction of quantum technology development. A strategy that builds on the European Declaration on Quantum Technologies8, the European Quantum Strategy9, the European Commission's Communication on the Competitiveness Compass for the EU 10 and, together with the National Semiconductor Strategy11 and the National Artificial Intelligence Strategy12, will be a pillar for the field of key technologies.
+Quantum technologies are on the cusp of a revolution that could change the way we work, communicate, and understand the world around us.
+
+# 2. Purpose of the strategy
+
+In accordance with the decision of the Government Committee for Strategic Investments of November 2023, this document sets out the agenda for achieving the necessary development in research and education levels, competencies, and the agenda for the development and use of quantum technologies for a competitive, sustainable economy and to ensure the security and defense capabilities of the state. The National Strategy for Quantum Technologies is linked to the National Research, Development, and Innovation Policy of the Czech Republic 2021+13 by building on its priorities in the field of cutting-edge research, using its framework and funding instruments, supporting the development of human resources and knowledge transfer between academia and industry, and strengthening the internationalization of Czech research through participation in European and global initiatives. This interconnection ensures the alignment of objectives, the effective use of national and European resources, and a coordinated approach to building a competitive quantum ecosystem in the Czech Republic.
+The vision is to create an economy that exploits the scientific and commercial potential of quantum technologies while limiting the risks associated with their use. The goal is a competitive Czech quantum ecosystem encompassing research, development, innovation, education, industrial and security applications, and other applications, integrated into the European and global quantum ecosystem. These areas are developed in the basic pillars, which include science and research, education and talent development, a competitive economy, international cooperation, security and defense, and infrastructure.
+The main objective of the strategy is to strengthen the Czech Republic's technological sophistication and competitiveness in the rapidly developing world of quantum technologies. Furthermore, it aims to create a secure, innovative, and sustainable quantum ecosystem in the Czech Republic that connects education, research and development, industry, and the public sector to support economic development and technological progress. The strategy emphasizes specific areas of quantum technologies and related education and talent development. It includes development in the areas of quantum computing, quantum simulations, quantum communication, quantum sensors, quantum metrology, and quantum materials.
+The sub-goals are:
+- (i) setting priorities and a framework for the development of quantum technologies and the entire quantum ecosystem in Czechia,
+- (ii) defining key activities, actions, and a time frame,
+- (iii) determining the overall organization of significant activities and steps,
+- (iv) determining the method of managing and controlling the process and its gradual implementation,
+- (v) determining the financial framework and related financing requirements, while also estimating the benefits.
+This substantive framework includes support for research and innovation, support for the introduction of quantum technologies across economic sectors and industries, human resource development, and the creation of an appropriate regulatory environment. The strategy emphasizes the importance of supporting cooperation between the scientific community, schools, companies, and financial institutions, including venture capital, in order to make optimal use of the potential of quantum science and quantum technologies for the security, stability, and further development of Czech society and economy. Quantum technologies are developing very rapidly. It is therefore necessary for the state, Czech institutions, and industry to jointly seize this opportunity and work closely together within scientific, educational, industrial, and commercial consortia at the European and global levels.
+
+# 3. Linkage of the strategy to other strategic and conceptual documents
+
+## 3.1. Placing the strategy in the European context
+
+Aware of the enormous importance and potential of quantum technology development for maintaining its own security and competitiveness, the European Commission issued the European Quantum Technology Declaration14in 2023. Czechia was among the first signatories and acceded to it in February 2024, thereby declaring its support for the development of quantum technologies. Similarly, in the document EU Compass for restoring competitiveness and ensuring sustainable prosperity15 from January 2025, the European Commission set out the need to develop a European Strategy for Quantum Technologies in 2025 and to prepare the so-called Quantum Act. In July 2025, the European Commission subsequently issued a communication on the European Quantum Strategy, in which it presents its ambition to make Europe a global leader in quantum technologies by 2035. It focuses on five key areas: research and innovation, building quantum infrastructure, developing an industrial ecosystem, using quantum technologies in space, security and defense, and promoting skills and education. It focuses on the entire life cycle from research to market application and links to industrial applications.
+Quantum technologies are a high priority for ensuring the sovereignty, resilience, and stability of the EU, as reflected in a number of initiatives and documents that have been adopted. They are also highlighted in the European Economic Security Strategy 202316 , where critical technological areas for economic security are identified .
+The QuantERA17initiative was launched in 2016 as part of the ERA-NET Cofund program, in which Czechia is also involved. The program consists of a network of 41 national research and innovation support providers from 31 countries, through which excellent international projects in basic and applied research in the field of quantum technologies are supported, and public policies focused on quantum technologies are also mapped. In 2018, the EU launched the Quantum Technologies Flagship18 , a ten-year initiative aimed at harnessing European scientific excellence in quantum technologies and bringing research results closer to real-life use and applications.
+In 2019, the EuroQCI19 (European Quantum Communication Infrastructure) initiative was launched to build and deploy a secure quantum communication infrastructure, including satellite communication, covering the EU's backbone infrastructure. The Czech Republic is involved in this initiative through the project Construction of a quantum communication infrastructure in component 1.4 of the National Recovery Plan in the form of the CZ-QCI (Czech National Quantum Communication Infrastructure) project, which is funded by the National Recovery Plan and administered by the National Cyber and Information Security Agency (NÚKIB). This project focuses on the ground segment and is preparing to join the next phase in the satellite segment. The European Union Agency for the Space Program (EUSPA) will host the Quantum Hub, which will mediate the EuroQCI space service.
+In 2021, Council Regulation (EU) 2021/1173 of July 13, 2021, establishing a joint undertaking for European high-performance computing and repealing Regulation (EU) 2018/1488, as amended by Council Regulation (EU) 2024/1732, the need to develop cutting-edge ecosystems in High Performance Computing (HPC) and quantum computing and their applications across Europe. The Czech Republic has contributed significantly to these activities from the very beginning by operating the Karolina supercomputer, participating in the construction of one of Europe's most powerful supercomputers – LUMI – and, most recently, installing and subsequently operating one of the six EuroHPC VLQ quantum computers at IT4Innovations at the Technical University of Ostrava – Technical University of Ostrava (VŠBTUO). As part of the LUMI AI Factory consortium, of which the Czech Republic is a member through VŠBTUO, the LUMI-IQ quantum computer will be purchased as an experimental AI platform, which will also be accessible to research communities from across the Czech Republic.
+In 2025, VŠB-TUO joined the European association QuIC (Quantum Industry Consortium), which includes more than 180 institutions and companies from across Europe and aims to accelerate the development of quantum technologies and strengthen Europe's position as a world leader in this rapidly growing sector.
+Czechia is also very significantly involved in building the CLONETS20 (CLOck NETwork Services) infrastructure, a network for the distribution of precise optical frequencies and for the synchronization of time derived from quantum atomic clocks. In addition, the Czech Republic is developing its own technology for transmission via coherent optical lines, and the Institute of Scientific Instruments of the Czech Academy of Sciences (CAS) is a very important player in the European context, both in terms of building this transmission network and contributing to the technology itself. Participation in the FOREST (Fibre-based Optical Network for European Science and Technology) project is also being prepared.
+In the field of defense, Czechia is involved in the ADEQUADE project funded by the European Defense Fund through Palacký University in Olomouc. The project focuses on the development of breakthrough quantum technologies for defense purposes, mainly in the field of quantum sensors, positioning, navigation, and time synchronization systems, and the exploration of techniques such as atomic clocks and quantum gyroscopes.
+Quantum technologies are also highlighted in the European Chips Act 21as an absolutely essential area of research for the future direction of the semiconductor industry, where current structures are reaching dimensions that are approaching the quantum limit. Quantum chips are devices that process quantum information, i.e., information at the level of individual quantum systems. The level of integration of components on a single chip varies depending on the technology used. It is clear that quantum effects should not be seen as an obstacle, but as an opportunity that should and must be exploited. Quantum chips can be used for various applications across the main fields of quantum technologies. Pillar I of the European Chips Act establishes the Chips for Europe initiative22, which will take effect in September 2023 and aims to support the development of technological capacities and innovation. To this end, the Chips for Europe initiative has five operational objectives, including Objective 3: "Building capacity to accelerate the development of quantum chips and associated semiconductor technologies." This objective is dedicated to quantum technologies and includes activities for building pilot lines for quantum chips, tools for their design, and competence centers.
+The Digital Europe program23 focuses on building artificial intelligence, data spaces, high-performance computers, digital infrastructure, and digital skills. A total of €580 million has been allocated over seven years to the Advanced Digital Skills Europe program24 , which aims to support skills in key areas such as artificial intelligence, cybersecurity, quantum computing, and supercomputers. Advanced Digital Skills Europe also focuses on education, including retraining and upskilling.
+The European Digital Decade 2023 program aims to have the first quantum-accelerated computer by 2025 and also mentions quantum communication as one of its sub-activities. The development of quantum technologies and infrastructure is a key objective of the European Commission's Communication Digital Compass 2030: A European Vision for the Digital Decade26 announced by the European Commission. The Commission emphasized the need to invest in quantum technologies and support projects involving multiple countries. The 2024 report "The future of European competitiveness"27 identifies quantum technologies as one of the key areas in which the EU should invest to ensure its sovereignty and competitiveness. At the same time, EU Member States are carrying out a wide range of activities in the field of quantum technologies and have made or announced significant investments. Since 2018, more than €7 billion has been allocated to quantum technologies by the EU and Member States28.
+On March 19, 2025, the European Commission published the "Joint White Paper on the Future of European Defense 203029 , in which it emphasizes that quantum technologies, alongside AI, biotechnology, robotics, and hypersonic technologies, are critical to both long-term economic growth and military superiority.
+Quantum technologies are also at the forefront of NATO's interests, which has published NATO's Quantum Technologies Strategy30 describing the impact, opportunities, and threats associated with the development of quantum technologies on the Alliance's key roles. As part of the implementation of the strategy, the Czech Republic is involved in the activities of the Transatlantic Quantum Community expert platform, which brings together the public, academic, and private sectors. Denmark has been selected as the host country for NATO's new DIANA Quantum Centre31, which will be key to coordinating research and development in this area. One of NATO's priorities is the development of quantum technologies for space applications.
+
+## 3.2. International comparison
+
+Global developments in quantum technologies are dynamic and rapidly evolving. In 2025, the OECD published the OECD Quantum Technologies Primer32. Countries that are becoming leaders in quantum technologies are not only gaining technological superiority, but also opening up new avenues for economic growth and maintaining or strengthening national security. Among democratic countries, the main players are the US, the European Union, the UK, Japan, Israel, South Korea, Australia, Canada, and India. These countries have already invested significant public and private funds in quantum technology research and development. It is difficult to compare the exact amount of these funds due to the diversity of individual support, but tens of billions of dollars come from public sources.
+Authoritarian states such as the People's Republic of China and the Russian Federation are also investing heavily in quantum technologies, and their potential quantum superiority could pose a significant security threat to democratic countries.
+Figure 1 shows the estimated announced public investment in quantum technologies by 2022.
+Announced government investments in billions of USD 1816141210864 1.1 1 0.7 0.5 0.3 0.3 0.2 0.1 2 0 1.8 3.7 8.4 15.3 Announced public investment in quantum technologies Chin a European Union United States Japan Canada India Russia Israel Taiwan Singapor e Australia Others Country
+Figure 1: Announced public investment in quantum technologies (Source: McKinsey & Company, 2022)
+
+## 3.3. Strategic and Conceptual Documents of the Czech Republic
+
+The National Strategy for Quantum Technologies builds on and integrates with a number of existing strategic documents and plans that reflect a broader spectrum of national priorities and interests. The Economic Strategy of the Czech Republic33 includes it, together with the National Semiconductor Strategy of the Czech Republic 2030 and the National Artificial Intelligence Strategy of the Czech Republic 2030, among the strategies for research, development, and innovation. The National Strategy for Quantum Technologies will also contribute to the implementation of the National Research, Development
+and Innovation of the Czech Republic 2021+, which is an umbrella strategic document at the national level for the development of all components of research, development, and innovation in Czechia. Other documents include, in particular, the Defense Strategy of the Czech Republic34 , the Security Strategy of the Czech Republic35 , the Strategy for Armament and Support for the Development of the Defense Industry of the Czech Republic until 203036 , the National Cybersecurity Strategy 202637 , the National RIS3 Strategy38 , the National Priorities for Targeted Research, Experimental Development and Innovation39 , the 2025 Foreign Policy Concept40 and the Czech Republic 2030 Strategic Framework41 .
+The Czech Republic's Defense Strategy 202342 and the Security Strategy of the Czech Republic 2023 mention the need to maintain a technological edge in the field of breakthrough technologies, where quantum technologies are directly mentioned. The Strategy for Armament and Support for the Development of the Defense Industry of the Czech Republic until 2030 identifies quantum technologies as breakthrough technologies in terms of defense and security. The NÚKIB draws attention to the threats associated with quantum technologies in the National Cybersecurity Strategy 202643. In 2023 (and subsequently in 2025), it updated its recommendations in the area of cryptographic security, "Minimum Requirements for Cryptographic Algorithms44 ," in which it warns of the threat of certain widely used cryptographic methods being broken by a so-called cryptographically relevant quantum computer and lists the algorithms affected by this vulnerability, which should be replaced by more quantum-resistant methods in the foreseeable future. This recommendation also includes an annex entitled "Quantum Threat and Quantum-Resistant Cryptography," which specifies the so-called quantum threat in more detail, describes the vulnerability and resistance of individual cryptographic algorithms in greater detail, and provides preliminary recommendations for the use of post-quantum cryptography to protect against the quantum threat. Also in 2023, NÚKIB published a strategic analysis entitled "Attacks using quantum computers can break current encryption: The solution is the timely and effective implementation of new standards," which describes the current state of the issue and possible future developments in this area. In 2024, the European Commission issued a "Recommendation on a coordinated implementation plan for the transition to post-quantum cryptography(45) ," and in 2025, NÚKIB joined the joint statement of EU member states on the transition to post-quantum cryptography, "Securing Tomorrow, Today: Transitioning to Post-Quantum Cryptography(46) " . However, NÚKIB and other important authorities (see, for example, the joint statement by the French, German, Dutch, and Swedish security authorities Position Paper on Quantum Key Distribution ANSSI, BSI, NLNCSA, Swedish NCSA47 ) do not recommend quantum technology QKD (quantum key distribution) as a solution in the near future, but rather post-quantum cryptography (PQC) algorithms, i.e., cryptographic methods that do not themselves constitute quantum technology (these are classical mathematical algorithms on classical computers) but are designed to be unbreakable on a quantum computer. NÚKIB considers the end of 2030 to be an appropriate deadline for the transition to quantum-resistant key provisions for the protection of sensitive information of a critical level. The US National Institute of Standards and Technology (NIST) has published a document "Transition to Post-Quantum Cryptography Standards48 " and also the first three standards for post-quantum cryptography algorithms.
+
+# 4. Analytical section
+
+## 4.1. Quantum technology
+
+The unprecedented development of quantum technologies involves the direct use of quantum phenomena that have no classical analogy. These include, in particular, quantum superposition, interference, and quantum entanglement, as well as the use of non-classical properties of particles, such as spin. These phenomena form the basis for fundamental quantum computing and simulation, quantum communication, quantum sensors, quantum metrology, and quantum materials.
+The development of these technologies requires special quantum materials and devices necessary for their operation in quantum mode. Quantum technologies themselves can also significantly assist in the development of new quantum materials and molecules important for chemistry and biochemistry. Quantum computers, which are capable of accelerating the simulation of the properties of new materials and molecules, can help in this regard.
+
+## 4.2. Quantum computers and simulations
+
+Quantum computing and simulation represent a revolutionary step in the field of computing technology, changing the way information is processed and analyzed. While classical computers use bits to process data in binary format (1 or 0), quantum computers use quantum bits, or qubits, which can be in superposition, meaning they can represent significantly more states at once. This principle, together with quantum entanglement, allows quantum computers to perform certain calculations much faster and more efficiently than traditional computers, in particular to perform more complex calculations leading to significantly more efficient (e.g., time-saving) procedures than classical computers.
+The issue of quantum computing can be divided into two main areas. The first is the creation of the hardware itself – the quantum computer. The second main area is the creation of software tools and libraries, as quantum computers operate on a fundamentally different basis than classical computers and require the creation of new algorithms and software. The third area is the application of hardware and software in the field of quantum technologies, including hybrid systems combining quantum and classical platforms, with a focus on solving specific tasks in research or industrial practice that are difficult to solve using purely classical means.
+Quantum computing also offers new possibilities in cryptology and cybersecurity. Thanks to their ability to perform certain calculations exponentially faster than classical computers, quantum computers may in the future be able to break many current cryptographic systems, posing a major threat to cybersecurity. It is therefore essential that research and development focus on new types of quantum-resistant cryptographic technologies offered by PQC. Another important area where quantum computing has potential is optimization, for example in chemistry, the pharmaceutical industry, and other industrial applications, in areas such as logistics or transportation system planning, energy, medicine, and research in general, where quantum algorithms can help find the most efficient solutions much faster than is possible with classical computers.
+Quantum computing is in its early stages of development, and there are significant technological challenges that need to be overcome. One of the biggest obstacles is the problem of error rates. Although there are still significant technical barriers to quantum computers, their potential is enormous. It appears that the way forward will be hybrid systems combining different platforms. An important element in this development is the intensive development of so-called hybrid quantum and classical computing, which will enable the potential of quantum computers to be exploited through their integration with existing classical supercomputers.
+The implementation of a quantum computer is currently possible on the basis of multiple physical platforms. We are currently witnessing competition between these different solutions, and it is still unclear which technology will lead to the goal most effectively, and will remain so for some time. This unique situation is also a great opportunity to contribute to the development of quantum computers at the national level, master key technologies, and prepare the ground for their future practical application and commercialization.
+Quantum simulations, which use quantum systems to model other quantum phenomena that are too complex for classical computers, are also very promising. Quantum simulators are specialized quantum systems that can mimic the behavior of complex quantum materials, chemical processes, or particle interactions. Unlike a general-purpose quantum computer, which aims to be universal, quantum simulators are designed for specific tasks, such as simulating quantum phase transitions or molecular structures. These simulations are key to understanding complex quantum systems that are too demanding to simulate using classical computers. Quantum simulations can provide valuable insights into quantum physics, chemistry, biochemistry, pharmaceuticals, materials science, and other fields, which can have a significant impact on the development of new advanced materials, medicines, energy, and other technologies.
+
+## 4.3. Quantum communication
+
+Quantum computers already pose a significant threat to current communications thanks to techniques known as "harvest now, decrypt later," which have also been highlighted by NÚKIB49. It is therefore already imperative to invest in the implementation and use of PQC, which uses algorithms that are resistant to attacks using quantum computers. The advantage of PQC is that it can be implemented on today's devices as we know them (computers, laptops, phones) and does not require any additional costly requirements such as specialized hardware or optical cables.
+Another approach to security is quantum communication, which uses the principles of quantum physics and mechanics to transmit information. Quantum key distribution (QKD) uses the quantum properties of particles to securely transmit encryption keys between two parties. This provides a high level of security, as any attempt to gain unauthorized access to communications will be detected. However, QKD still has significant shortcomings from a security perspective. QKD does not provide authentication, which is essential for its secure implementation, and QKD is currently limited by distance and cost.
+
+## 4.4. Quantum sensors and quantum metrology
+
+Quantum sensors and quantum metrology are fields that use the principles of quantum physics and mechanics to create highly accurate and sensitive measurement methods and tools. These fields are bringing about fundamental advances in measurement and detection, overcoming the limitations of classical methods and finding wide application in various scientific and technological areas. Quantum sensors use the quantum states of particles such as photons, electrons, or atomic nuclei to detect very subtle changes in their environment. By exploiting quantum properties such as superposition and entanglement, these sensors are able to detect changes with extreme precision, often much more accurately than their classical counterparts. Quantum sensors have applications in many areas. For example, they can be used to detect weak magnetic fields in medical applications such as magnetic resonance imaging (MRI) or to map brain activity. Quantum sensors enable real-time electromagnetic monitoring of organs, improving the treatment of neurological and cardiological diseases50. In the field of cancer treatment, they offer the potential for accurate identification of tumor boundaries51. In the physical sciences, they help measure the Earth's gravitational field for geological exploration of minerals or detect subatomic particles in particle physics experiments. Quantum sensors can bring about a breakthrough in the detection of geophysical anomalies and in high-precision navigation. Therefore, in addition to civilian use, they also have extensive military applications, such as for precision-guided munitions without the need for GPS navigation, communications that may be subject to interference, or for detecting deep-sea vessels or underground structures. Detection
+underground structures is also crucial for mining and excavation, or for detecting secret tunnels or underground facilities, for example.
+Quantum metrology uses quantum phenomena and states to measure and define physical constants and units with previously unattainable accuracy. In quantum metrology, quantum effects and systems are used to obtain extremely accurate measurements that are crucial for scientific research, technological development, and precision manufacturing processes. Quantum metrology of time, or optical frequencies, plays a major role. Ultra-precise frequency standards derived from the spectroscopy of individual cooled atoms offer unprecedented accuracy. They can be used in fundamental physics and astrophysics, but also in a range of applications in industry, security, and services. A key part of quantum metrology efforts is the distribution of accurate time via coherent optical links that bring it closer to users. An important application of quantum time metrology is the significant improvement of satellite navigation via ground and space segments, as well as its use in the financial and logistics sectors.
+Quantum sensor technology and quantum metrology are considered the most advanced areas in terms of practical application, where potential commercial applications are already emerging. Currently, development is driven by high-performance sensors for specific applications, and in the future, these technologies are expected to play a relevant role in mass adoption in practice.
+In the military, this area is very groundbreaking in the use of quantum sensors in cameras or other recording devices that detect gases, for example. Quantum sensors can measure physical quantities with extreme accuracy, which is useful, for example, for detecting gravity, magnetic fields, or very weak optical signals, even in low-visibility environments.
+
+## 4.5. The situation in the Czech Republic
+
+In 2016, t h e Czech Republic launched the National Initiative for Quantum Technologies, which was launched in connection with the preparation of the European EU Quantum Flagship initiative and aims to promote and support the development of quantum technologies. The topic of quantum technologies is also included in the Czech Optical Cluster, founded in 2017, where optical quantum technologies represent one of the pillars. The cluster, which already has 43 members, connects the spheres of research, education, and industry and is also a way to establish international cooperation with industry clusters abroad. Thanks to the link between the further development of semiconductor technologies and quantum technologies, the topic of quantum technologies is also emphasized on the platform of the Czech National Semiconductor Cluster.
+Research teams from the Czech Republic are actively involved in selected European research programs and initiatives in the field of quantum technologies. For example, as part of EuroHPC JU, a VQL quantum computer will be installed in 2025 at the IT4Innovations VŠB-TUO national supercomputing center. It is funded by the EU and the international LUMI-Q consortium, which brings together partners from nine EU countries. The quantum computer will have at least 24 qubits based on superconducting technology and connected in a "one-to-all" topology. For the implementation of hybrid quantum-classical tasks, it will be integrated with the EuroHPC Karolina supercomputer operated at the IT4Innovations center. In 2025, VŠB-TUO became a member of the European association QuIC (Quantum Industry Consortium), which seeks to accelerate the development of quantum technologies and strengthen Europe's role as a global leader in this dynamically developing field.
+Through the EuroQCI initiative, the Czech Republic has joined research leading to the construction of a secure quantum communication backbone network in the EU. This project is considered the most extensive project in the field of quantum communication to date and represents the culmination of decades of research, development, and testing. In the Czech Republic, it is coordinated by CyberSecurity Hub, z.ú. and a consortium of Czech universities is working on it.
+On January 29, 2024, the Czech Technical University in Prague (CTU) connected to IBM's quantum computer (400 qubits) and signed a cooperation agreement in the field of quantum
+technology between other universities and research organizations. CTU also cooperates with seventeen other partners from EU universities and companies on the European Photonic Quantum Computer (Epique) project funded by the European Commission. The Department of Coherent Optics of the Institute of Scientific Instruments (ÚPT) of the Czech Academy of Sciences is also involved in a number of consortium projects supporting both its own development of quantum ion clocks within the European metrology community and, above all, the implementation and expansion of a network of coherent transmission lines for the distribution of precise time derived from these clocks. ÚPT is very actively involved in the research and development of its own technology and is at the forefront of European efforts in this field.
+Another important project is the Horizon Europe program project Center for Artificial Intelligence and Quantum Computing in Systems Brain Research (CLARA), co-financed by the Jan Amos Komenský Operational Program (OP JAK), which aims to build an interdisciplinary center of excellence focused on the use of artificial intelligence and quantum computing for research into neurodegenerative diseases. As part of this center, a testbed will be created, which will include quantum computers at VŠB-TUO and the LRZ center in Bavaria and, together with the new HPCQC-AI computing cluster, will enable the implementation of hybrid quantum-classical computations.
+In the field of quantum technologies, two large consortium projects were supported under the Excellent Research call of the OP JAK program – QEENTEC led by the Institute of Scientific Instruments of the Czech Academy of Sciences and bringing together the Institute of Photonics and Electronics, the Jaroslav Heyrovský Institute of Physical Chemistry, Palacký University in Olomouc, and CESNET; and the QM4ST consortium project led by the University of West Bohemia in Plzeň, bringing together Charles University, Masaryk University, and the Brno University of Technology. The first project aims to develop hybrid quantum gates for quantum computers. The second project, QM4ST, focuses on research and development, particularly in the modeling and design of new materials, but also on the control of processes that are part of new devices. This creates an opportunity for Czechia to join the world's leading players in the field of quantum chip and computer research and development and thus secure a position in their commercialization, if not in the form of their final production, then at least in the role of suppliers of certain key components.
+The Czech Republic is one of the European countries actively involved in the European quantum ecosystem. Cutting-edge research activities are carried out in the fields of quantum computing, quantum communication, quantum sensors, metrology, and quantum materials. Research teams are mainly concentrated at universities and institutes of the Czech Academy of Sciences across the Czech Republic (Figure 2). Important research centers include Palacký University in Olomouc, particularly the Department of Optics at the Faculty of Science, the joint optics laboratory of Palacký University and the Institute of Physics of the Czech Academy of Sciences, and the Czech Institute of Research and Advanced Technologies. Other institutions include the Czech Technical University, particularly the Department of Physics and the Department of Physical Electronics of the Faculty of Nuclear and Physical Engineering, the Faculty of Electrical Engineering, and the Faculty of Biomedical Engineering. At Charles University, it is primarily the Faculty of Mathematics and Physics. At the Czech Academy of Sciences, it is primarily the Institute of Instrumentation, the Institute of Physics, the Institute of Organic Chemistry and Biochemistry, the J. Heyrovský Institute of Physical Chemistry, the Institute of Mathematics, and the Institute of Computer Science. At Masaryk University, it is primarily the Faculty of Science and the Faculty of Informatics. At Mendel University in Brno, it is primarily the Institute of Chemistry and Biochemistry. At the University of West Bohemia in Pilsen, it is primarily the University Institute of New Technologies – Research Center and the Department of Physics of the Faculty of Applied Sciences. At the Brno University of Technology, it is mainly the Faculty of Electrical Engineering and Communication Technologies (Quantum Security Laboratory) and the Faculty of Information Technology. At VŠB-TUO, it is mainly the IT4Innovations National Supercomputing Center and the Faculty of Electrical Engineering and Computer Science. In 2020, Masaryk University, CTU, and Brno University of Technology established a registered institute for cybersecurity, CyberSecurity Hub, z.ú. Other important institutions include CEITEC, ELI ERIC, and the CESNET interest group, whose members include public and state universities and the Czech Academy of Sciences. ČD Telematika also cooperates in the development and implementation of secure quantum communication and infrastructure in particular.
+Figure 2: Map of Czech research activities in the field of quantum technologies
+In the field of education, there are several educational programs currently being prepared for dozens of students at all levels.
+The Czech Technical University in Prague offers a complete university education (Bachelor's, Master's, Ph.D.) in quantum technologies, including participation in the DigiQ project focused on the development of educational programs in the field of quantum technologies within the European education area. In addition, a master's program in quantum informatics was launched here in 2025.
+Palacký University in Olomouc offers a wide range of fields and specializations covering many areas of modern quantum optics, the interaction of radiation with atoms, ions, mechanical oscillators, solid-state or superconducting circuits, and their applications in quantum technologies. Charles University teaches a wide range of subjects in the field of quantum sciences in condensed and solid materials, nonlinear optics, low-temperature physics, and a number of related fields. Masaryk University teaches a course in quantum information processing. At VŠB-TUO, subjects such as Introduction to Quantum Computing, Quantum Error Correction, Quantum Computer Programming, and Quantum Algorithms are taught. In addition, a master's program focused on high-performance computing, quantum computing, and artificial intelligence is in preparation, with a planned start date in 2026. The University of Chemistry and Technology in Prague teaches courses in Quantum Chemistry and Quantum Mechanics for Materials Engineering. The University of West Bohemia in Pilsen is preparing a doctoral program in Physics for Quantum Materials.
+If we compare the Czech Republic with other countries in all contexts, such as the US, Australia, the UK, the Netherlands, Ireland, Denmark, or Spain, we see an opportunity to support the development of quantum technologies, especially in terms of targeting effective application. Compared to developed countries, the Czech Republic still lags behind in its ability to provide targeted support for quantum science, transfer know-how and technologies from the world of quantum science and research to the world of practice, and in effective and systematic long-term cooperation between universities, institutes of the Czech Academy of Sciences, and the private sector. This situation can be improved by increasing the number of experts capable of working with quantum technologies in companies. This underscores the fundamental importance of education and retraining in this field.
+There are few new start-ups or university or academic spin-offs in the Czech Republic that focus on the application of quantum technologies. There are investment funds that focus, among other things, on investments in quantum technologies, such as Tensor Ventures and Presto Ventures. The first companies are also emerging that are attempting to use and create quantum algorithms for their own use. A great opportunity is that there are a number of multinational companies operating in the Czech Republic that are intensively engaged in the development of quantum technologies, primarily in the areas of quantum computers, quantum communication, and quantum sensors and materials. The presence of multinational companies with local branches or research centers that support the development of quantum technologies, for example in the areas of quantum computers, communications, sensors, and materials, creates opportunities for cooperation with Czech entities. Companies such as Microsoft, AWS, Google, and IBM are developing global initiatives that may also be an opportunity for Czech industry and academia. Opportunities for cooperation are also provided by a number of European companies operating in the field of quantum technologies, such as IQM, Pasqal, Quandela, Qilimanjaro, Terra Quantum, ParityQC, and others.
+Thanks to its integration into the European Research Area and the presence of renowned research institutions and experts, Czechia has a strong starting position for involvement in the European and global quantum ecosystem. The Czech company Amires s.r.o. administers the important European projects Qu-test and Qu-pilot, which focus on making research capacities available to companies involved in quantum technologies. The opportunity also creates the possibility for Czech entities to participate in "quantum chips pilot lines." This integration offers research institutions and domestic companies the chance to be at the forefront of new technologies and thus become part of the emerging market for quantum applications. It is therefore necessary to find financial resources to cover participation in European and non-European research programs where national co-financing is required, thereby placing the country among the advanced nations. Limited support from public and private funding, a tendency toward secrecy on the part of large companies and their unwillingness to cooperate with domestic research, an insufficient number of educational programs in the field of quantum technologies, and a low number of start-ups and spin-offs are among the main challenges for further development in this area.
+Building a quantum sector in the Czech Republic is not only a matter of scientific progress, but also a fundamental opportunity to create a completely new industrial sector with high added value. A key factor for success will be the ability to effectively transfer technology from research institutions to industry and services, where quantum technologies can bring breakthrough solutions and new business opportunities. This transfer is necessary for Czechia to become not only a center of research excellence, but also a major player in the European and global market for quantum applications.
+Quantum technologies are globally recognized as a breakthrough development with the potential to radically transform many strategically important areas. Developed countries around the world are therefore investing significant public funds in research and development in this area, with the key objectives being to gain a competitive advantage, ensure national security, and create a strong quantum ecosystem. These investments support not only basic and applied research, education, and talent development, but also the emergence of new technology start-ups and spin-offs and the commercialization of quantum innovations. Therefore, it is necessary to support a culture of founding deep-tech start-ups and spin-offs. Information on the measures taken, strategies, public and private resources, individual quantum opportunities and challenges that advanced countries such as the US52 , the Netherlands53 , Denmark54 , Sweden55, Australia56, the United Kingdom57 , Canada58 , Japan59 , andSouth Korea60 , can be found in the relevant national strategies of these countries.
+In the Czech Republic, the potential for applying quantum technologies has been identified primarily in areas that are among the key innovation sectors of the national economy. These include, in particular, technologically advanced industries that use cutting-edge manufacturing technologies, automation, and digitization, where quantum simulations and calculations can significantly streamline the development of materials and manufacturing processes. They can also be used in the semiconductor industry and in the development of advanced chips. They also have applications in the fields of microelectronics, nanophotonics, and thin-film technologies. In cybersecurity
+, quantum key distribution is a key tool for protecting sensitive data. High application potential is also expected in the healthcare and pharmaceutical research sectors, particularly in the field of biomolecule modeling and accelerating drug development, as well as in the energy sector, for example in network optimization or research into new types of batteries. Significant opportunities for the use of quantum technologies are also opening up in transportation, logistics, finance, and the defense industry.
+However, quantum technologies represent a revolutionary and constantly evolving field whose full application potential is only just beginning to be discovered. Many of the future applications—as was the case with semiconductors and the internet in the past—cannot be accurately predicted today, and overly narrow sector-specific specifications at this stage could limit flexibility and the ability to respond quickly to new opportunities. That is why the Quantum Europe Strategy (2025) does not define specific application sectors in detail, but works with an open framework that allows Member States to dynamically develop quantum technologies according to current technological developments, research capacities, and industrial demand. The national strategy adopts this logic and at the same time reflects the Czech context by identifying general areas with high application potential (e.g., cybersecurity, sensors, materials research, post-quantum cryptography). Specifying priority sectors in too much detail at this stage could lead to premature narrowing of options and loss of synergies across the application sphere. More specific priorities will be set out in a follow-up implementation plan, which will be based on current technological trends, the results of an analysis of national capacities, and feedback from the application sector, and which will be regularly updated. This will ensure the necessary coordination of resources and openness to new innovation opportunities.
+
+## 4.6. Market potential of quantum technologies
+
+According to an analysis by Precedence Research(61) ,the total market size at current prices in 2024 was estimated at USD 2.34 billion62,63a64 . By 2030, the market size is estimated to reach USD 11.29 billion, and by 2033, USD 24.6 billion (Table 1). The average annual growth rate between 2024 and 2033 is 22.64% (Figure 3). Market growth is expected to be exponential in the coming years. This development trend is similar to that seen in the development of the IT market: the estimated market growth will have a similar impact on the economy and society in the future as the development of IT and the internet had in the recent past.
+Figure 3: Total market size generated by quantum technologies 48,49,50,51
+The growth of the quantum technology market should be driven by demand for higher computing power. Quantum accelerators and computers have the potential to significantly speed up a large number of calculations. They are particularly suitable for simulations, but also for certain mathematical operations. For example, factorization into prime numbers, on which a large number of encryption methods are based. Therefore, increasing demand for secure communication can be expected. This can be ensured by quantum networks, which use quantum properties themselves to establish a secure means of communication. Growing demand for quantum sensors will also have a positive effect on market growth. Quantum sensors will be in demand particularly in the defense industry and healthcare. In healthcare, there will be efforts to use quantum sensors in new imaging methods. Their use can significantly improve prevention and aid in the early detection of serious diseases. In the field of military applications, quantum sensors are interesting in the area of detection or for new methods of navigation, while quantum computing is interesting, for example, in the area of solving certain logistical and decision-making tasks or in the field of cryptography.
+However, Figure 3 focuses only on the market for quantum technologies (hardware) themselves. It does not capture products (such as software production and related services) that are generated by the deployment of quantum technologies. These include, for example, the market for the development and deployment of algorithms based on quantum phenomena or post-quantum cryptography.
+Table 1: Total market growth associated with quantum technologies 49,50,51
+Year
+Quantum computing
+Quantum communication
+Quantum sensors
+Total
+2023
+0.84 million USD
+0.84 million USD
+0.15 million USD
+1.83 million USD
+2024
+1.10 million USD
+1.09 million USD
+0.16 million USD
+2.34 million USD
+2025
+1.44 million USD
+1.41 million USD
+0.17 million USD
+3.01 million USD
+2026
+1.88 million USD
+1.82 million USD
+0.22 million USD
+3.92 million USD
+2027
+$2.46 million
+USD 2.35 million
+0.29 million USD
+5.11 million USD
+2028
+3.22 million USD
+3.04 million USD
+0.38 million USD
+6.65 million USD
+2029
+4.22 million USD
+3.94 million USD
+0.51 million USD
+8.67 million USD
+2030
+5.53 million USD
+5.10 million USD
+0.67 million USD
+11.29 million USD
+2031
+7.32 million USD
+6.59 million USD
+0.82 million USD
+14.74 million USD
+2032
+9.47 million USD
+USD 8.53 million
+1.01 million USD
+19.01 million USD
+2033
+12.39 million USD
+11.03 million USD
+1.17 million USD
+USD 24.60 million
+CAGR 2024-2033
+30.89
+29.37
+20.22
+29.68
+The total market is expected to achieve an average annual growth rate (CAGR) of 29.7%. The fastest average annual growth rate is recorded in the quantum computing market (30.9%), followed by the quantum communication market (29.4%) and quantum sensors (20.2%).
+It is also interesting to compare the dynamics of the quantum technology market with those of related markets. Table 2 shows that related markets have an average annual growth rate that is approximately 13.5 percentage points higher.
+Table 2: Comparison of the growth of the quantum technology (hardware) market with related markets – own processing based on the sources cited 48,49,50,51
+Year
+Quantum technologies
+Related sector
+Total
+2023
+USD 1.08 billion
+USD 0.75 billion
+$1.83 billion
+2024
+1.32 billion USD
+1.02 billion USD
+USD 2.34 billion
+2025
+1.62 billion USD
+1.39 billion USD
+3.01 billion USD
+2026
+1.99 billion USD
+1.93 billion USD
+3.92 billion USD
+2027
+USD 2.44 billion
+USD 2.66 billion
+5.11 billion USD
+2028
+3.00 billion USD
+3.66 billion USD
+6.65 billion USD
+2029
+3.67 billion USD
+USD 4.99 billion
+USD 8.67 billion
+2030
+USD 4.50 billion
+6.79 billion USD
+11.29 billion USD
+2031
+5.52 billion USD
+USD 9.22 billion
+14.74 billion USD
+2032
+$6.78 billion
+USD 12.23 billion
+19.01 billion USD
+2033
+USD 8.31 billion
+16.29 billion USD
+USD 24.60 billion
+CAGR 2024 to 2033
+22.64
+36.03
+29.68
+It is even predicted that related markets will be twice as large as the quantum technology market in 2033. According to the prediction, related markets will exceed the size of the quantum technology market during 2026 (Figure 4). Without successful support for the development of quantum technologies (both hardware and software), related sectors will not be able to utilize the results of development work carried out by Czech institutions and their intellectual property. This would pose economic risks (such as potentially lower tax revenues) and strategic risks (dependence on foreign technology).
+Figure 4: Comparison of the development of the quantum technology market with related markets – own processing based on the sources cited 48,49,50,51
+
+## 4.7. Conclusion of the analysis
+
+The analysis predicts significant growth in the quantum technology market. In 2024, the market is expected to be worth USD 2.34 billion, with an average annual growth rate (CAGR) of 29.7% until 2033, when it should reach USD 24.6 billion. The fastest-growing segment is quantum computing, with a CAGR of 30.9
+%, followed by quantum communication (29.4%) and quantum sensors (20.2%).
+The analysis also shows that downstream markets, such as software development and services related to quantum technologies, will grow faster than the hardware market. With a CAGR of 36.03%, they are expected to exceed the size of the quantum technology market in 2026 and double in size by 2033. This growth trend indicates significant opportunities for investment and development in quantum technologies and related industries. Based on the quantum technology market analysis, which predicts significant growth in this sector in the coming years, the following areas should be focused on:
+- (i) Support for research and development: Increase investment in basic and applied research in quantum technologies, including quantum computing, quantum communication, quantum sensors, metrology, and quantum materials. This includes funding research organizations focused on quantum technologies and investing in the development and operation of infrastructure that will enable the testing and implementation of quantum technologies in various sectors, including industry, energy, transportation, healthcare, and defense.
+- (ii) Education and human resources development: Support the creation and development of educational programs focused on quantum technologies at all levels of the education system. Support specialized fields of study, retraining, and training for professionals to ensure a sufficient supply of skilled workers for the growing market.
+- (iii) Supporting knowledge and technology transfer: Use existing mechanisms for the effective transfer of research results into practice, including support for the creation of start-ups and spin-offs focused on quantum technologies. This may include the establishment of venture capital funds and incubators for start-ups in this sector. Given the expected rapid growth of related markets, such as the development of software and services related to quantum technologies, it is important to create an environment that supports innovation and entrepreneurship in these areas.
+- (iv) International cooperation: Actively participate in international initiatives and partnerships in the field of quantum technologies, such as the European Quantum Technologies Flagship Initiative, and support the participation of Czech institutions in international projects and platforms. This will enable the sharing of knowledge and resources and accelerate the development of technologies.
+- (v) Security, defense: Prepare for the opportunities and threats associated with the development of quantum computers, quantum communications, and quantum sensors. Ensure resources are available for the transition to post-quantum cryptography.
+- (vi) Securing quantum technology infrastructure: Secure investment in the construction and development of quantum technology infrastructure, particularly with regard to quantum computers, quantum communication infrastructure, and quantum sensors, which are being built as part of currently running projects and will need to be maintained and further developed. Wide availability of infrastructure providing state-of-the-art quantum technologies and their regular updating is key to all of the above areas.
+By implementing these measures, Czechia can exploit the potential of quantum technologies, support economic growth, and strengthen its competitiveness and sovereignty in the global market.
+
+## 4.8. SWOT analysis of "Quantum Technologies in the Czech Republic"
+
+Strengths
+- - Operation of the VLQ quantum computer integrated with the Karolina supercomputer and accessible to the entire research community
+- - Internationally visible research centers and personalities
+- - Good examples of productive international and national research cooperation
+- - Ability to integrate into the European Research Area
+- - Competitive specialized educational programs currently being developed at universities focused on quantum technology topics
+- - The presence of multinational companies that are intensively developing quantum technologies
+- - Existing technological infrastructure for the development of quantum sensors, quantum communications, quantum simulators, and the foundations of quantum computers on multiple physical platforms
+- - Existing involvement in European infrastructures and initiatives in quantum metrology, communication, and computing
+Weaknesses
+- - Lack of a national strategy and adequate financial support for the "Quantum Science and Technology" segment
+- - Low attractiveness of institutions in the Czech Republic for top foreign scientists in quantum sciences and technologies compared to neighboring countries
+- - Low public awareness of the benefits and threats. Society and legislation unprepared for the advent of quantum technologies
+- - Lack of qualified workforce (academics, technicians) for the field of quantum technologies
+- - Lack of educational programs in the field of quantum technologies (Ph.D., Ing., Bc.) and introduction into secondary school education
+- - Lack of start-ups and spin-offs, small and medium-sized enterprises in quantum technologies
+- - Problematic involvement in some European projects for operational co-financing from national sources
+Opportunities
+- - Increasing the competitiveness of the Czech Republic through high value-added products
+- - Utilizing existing knowledge and technological potential to engage in the development of quantum computers and simulators, quantum communication networks, quantum sensors, and materials
+- - Increasing the excellence of research teams in the Czech Republic in new areas of quantum sciences and technologies
+- - Economic and strategic advantages of early integration into the emerging European quantum ecosystem
+- - Development of educational programs focused on quantum technologies
+- - Development of an economy that leverages the benefits of quantum technologies
+- - Development of international cooperation
+- - Leveraging synergies with other strategic technologies (AI, semiconductors)
+- - Supporting national security and defense capabilities
+Threats
+- - Vulnerability of critical infrastructure and critical information infrastructure in terms of cybersecurity
+- - Loss of competitiveness of the national economy, R&D, and technological advancement of the Czech Republic
+- - Outflow of intellectual capital and human resources abroad
+- - Dependence of the Czech Republic on foreign supplies of technology, solutions, and foreign experts
+- - Insufficient allocation of financial resources
+In line with the main objective and sub-objectives of the strategy (see page 8) and following on from the conclusions of the analytical section (see page 23) the SWOT analysis shows that Czechia has strong research facilities, technological infrastructure, and opportunities to participate in the European and global quantum ecosystem, but at the same time faces weaknesses such as a shortage of skilled workers, low attractiveness for top talent, weak start-up development, and limited financial support. If left unaddressed, these weaknesses may increase the threat of brain drain, dependence on foreign technologies, and loss of competitiveness.
+
+# 5. Strategic section
+
+Given its historical legacy of innovation, high-quality education, and scientific research, Czechia has a unique opportunity to make its mark in this rapidly developing field. However, it is necessary to prioritize the development and implementation of quantum technologies and to support top research teams that are significant players in quantum technologies on a global scale in both basic and applied research, and to use them to develop a suitable education system in the field of quantum technologies. In this context, emphasis needs to be placed on building cross-sectoral and multidisciplinary competencies and interdisciplinary capacities. In order to actively participate in the global and European quantum ecosystem, it is necessary to support the internationalization of research teams in the field of quantum technologies and their integration into the international, especially European, research area through the co-financing of European and other programs that require it. A sufficient number of qualified experts and users will play a key role in development, so it is essential to intensively support education at all levels of schooling. To accelerate the development of quantum technologies, existing links between academia and the private sector should be used to develop corporate applications. It is necessary to create conditions for the high-quality, substantive, and time-efficient transfer of know-how and technologies from the sphere of research and development to the sphere of practical application.
+The existence of a diverse and thriving quantum ecosystem is key to realizing the full potential of quantum technologies. Research and development play a dominant role in terms of international cooperation, training experts, contributing new knowledge and developing technologies, as well as being the place where these assets are transferred to industry and other sectors. Maintaining a top-level research community is essential to ensure that the Czech Republic's high-quality scientific potential becomes part of the national quantum ecosystem as soon as possible. Industrial innovation, driven by technology centers and enabled by a highly skilled workforce and general awareness supporting the introduction of new technologies, then reflects the effectiveness of the quantum ecosystem. The Czech quantum ecosystem must be effectively set up in relation to the size and capabilities of the Czech Republic, its human and technological capacities, and must credibly represent it as an important and reliable partner in the international arena. In particular, it must organically and thoughtfully build on the European and global quantum ecosystem in all its aspects and also appropriately build on the development of other strategic technologies, such as AI and semiconductors.
+Figure 5: National Strategy for Quantum Technologies
+
+## 5.1 Strategic pillars
+
+The established vision and defined goal will be fulfilled through the objectives of the main strategic pillars of the National Strategy for Quantum Technologies, which are:
+- 1. Research and development
+- 2. Education and talent development
+- 3. Competitive economy
+- 4. International cooperation
+- 5. Security and defense
+- 6. Quantum technology infrastructure
+Responsibility for implementing individual measures lies with a specific manager, who oversees and ensures practical implementation, including cooperation with co-managers. Financial estimates are based on expert assessments and represent the optimal amounts for achieving the objectives. The implementation of individual measures under the strategy is conditional on the allocation of financial resources from the state budget.
+Pillar 1: Research and development
+For an innovative country such as Czechia, where synergies between cutting-edge research and a strong industrial base can support economic development and global cooperation in the field of emerging technologies, quantum technologies offer significant opportunities for growth and competitiveness.
+The national strategy for quantum technologies, its substantive focus, and outputs require cutting-edge basic and applied research and their integration into the European and global quantum ecosystem. It is true and confirmed by practice that strategic technologies are, in principle, linked to high-intensity basic and applied research, quality and organization of research and development, and therefore their support must be directed towards strengthening research excellence, human resources development and, subsequently, effective technology and knowledge transfer. Czechia has a strong background in basic research, which has promising potential for applied research in the areas of quantum computing, quantum computer technologies and simulators on various physical platforms, quantum communication, quantum sensors, quantum metrology, and new quantum materials. Research centers are concentrated in various types of research organizations and cooperate across the country. In order to develop current competencies, accelerate and develop quantum technology research, and achieve the required competitiveness on the global stage, intensive and sustainable support for basic and applied research is necessary, similar to that in economically comparable countries (Denmark, the Netherlands, Finland, etc.). Support for links to European and international research, support for the transfer of acquired knowledge into practice, and support for the creation of start-ups, spin-offs, and new companies engaged in research and applications of quantum technologies. Given the declared military and security nature of quantum technologies, cooperation within the EU (EDA, EDF) and NATO (STO, DIANA, NIF) must also be taken into account, including the secondment of experts and representatives to these organizations.
+In addition, it is equally necessary to set significantly higher standards for evaluating one's own work, performance, and results by comparing and adopting international benchmarks at the level of global best practice, both in one's own scientific and research work and in its organization and the transfer of results into practice.
+Support for participation in international research programs, consortia, and infrastructures is essential for the Czech Republic's international competitiveness and national security, not only in civil areas but also in defense and security, where national co-financing is often required. Given the dual nature of quantum technologies, it is assumed that the results of publicly funded research and development may also be used in defense or security research in accordance with the Czech Republic's legal system and its international obligations. Funding for quantum technologies should be stable and strategically aligned with priority areas of focus (quantum science, quantum computing and simulation, quantum communication, quantum sensing, quantum metrology, and quantum materials). It is necessary to ensure that new activities contribute to the further development of existing cutting-edge research centers in the Czech Republic and, where necessary, to the creation of new ones.
+STRATEGIC OBJECTIVE
+Czechia has top-class research facilities in a wide range of quantum sciences, quantum computing, quantum communication, quantum sensor technology, quantum metrology, and quantum materials, which are involved in the European and global quantum ecosystem.
+MEASURES TO ACHIEVE THE OBJECTIVE
+P1.1
+A targeted support program focused on supporting excellent scientific teams in the field of quantum technologies.
+Description
+Prepare and implement a targeted support program for research, development, and innovation with the aim of supporting excellent scientific teams with an emphasis on strengthening interdisciplinarity and national cooperation in research and development and creating conditions for the development of human resources in research and development concentrated around important domestic and foreign personalities. By 2025, a public competition will be prepared, and funding will commence in 2026.
+Responsibility
+Ministry of Education, Youth and Sports
+Cooperation
+Ministry of the Interior
+Implementatio n date
+2026
+Cost
+Optimally CZK 1.6 billion spread over the period until 2031
+Benefits
+Ensuring stable long-term funding for a consortium of cooperating excellent research teams, which should contribute to long-term systematic work on fundamental discoveries and innovations.
+Implementatio n period
+From 2026 to 2031
+Indicator Fulfilment
+Preparation and approval by the government of a targeted support program designed to provide financial support to excellent research teams. By the end of 2025, creation of the program, establishment and financing of the consortium in 2026.
+Budget chapter
+Ministry of Education, Youth and Sports
+P1.2
+Support for co-financing European and non-European research projects
+Description of the measure
+To support the development and stabilization of the research and innovation base for the development of quantum technologies within existing and newly prepared instruments, ensure co-financing access to European and non-European research projects, including dual-use research projects, in the form of support for international cooperation by the Ministry of Education, Youth and Sports in the field of quantum technologies (e.g., HE, Digital Europe, EuroQCI, Euro HPC JU, QuantERA, etc.) and ESA projects, particularly in the field of satellite communications and the preparation of space technologies and applications using quantum technologies.
+Responsibility
+Ministry of Education, Youth and Sports
+Cooperation
+Ministry of Defense, TAČR, GAČR, Ministry of Transport
+Deadline
+From 2026
+Cost
+Optimally CZK 1.25 billion (CZK 250 million per year for 5 years)
+Benefits
+Interconnection, participation, and development of Czech research teams within European and non-European research consortia. Inclusion of Czech research teams into the research chain.
+Implementatio n period
+From 2026 to 2031
+Indicator Fulfilment
+Quantum technologies are and will be included in already approved and newly prepared calls/public tenders for programs.
+Budget Chapter
+Ministry of Education, Youth and Sports
+P1.3
+Establishment of a National Center for Applied Research in Quantum Technologies
+Description
+Support will be provided for the establishment and pilot testing of the integration and functionality of the National Center for Quantum Technologies as a consortium project of research organizations and companies.
+Responsibility
+TA CR
+Cooperation
+MPO, MVVI, MŠMT
+Deadline
+By the end of 2027
+Cost
+Optimal budget: CZK 530 million (with gradual ramp-up)
+Benefits
+Interconnection and development of Czech research organizations and companies in the field of quantum technologies.
+Implementatio n period
+From 2027 to 2032
+Indicator Fulfilment
+Establishment and pilot testing of the National Center for Quantum Technology Research.
+Budget chapter
+TA CR
+P1.4
+Announcement of a public tender under the MPO TWIST program to support projects focused on quantum technologies
+Description
+From 2027, public tenders specifically focused on quantum technologies will be announced under the MPO TWIST program.
+Responsibility
+MIT
+Cooperation
+None
+Implementatio n date
+By December 31, 2026
+Cost
+No additional budgetary requirements on the expenditure side of the budget. We anticipate a financial allocation from the TWIST program in the amount of CZK 50 million per year from 2027 (a total of CZK 250 million).
+Benefits
+Support for the development of new innovative applications and products with higher added value.
+Implementatio n period
+From 2027 to 2032
+Indicator Fulfilment
+Announcement of at least one public tender focused on quantum technologies.
+Budget chapter
+MPO
+Pillar 2: Education and training of talent
+The education and training of talented individuals is a key and essential prerequisite for the development of the quantum ecosystem in Czechia. The success of in the field of quantum technologies is critically dependent on Czechia's ability to educate, attract, and retain a skilled workforce. It is essential to support not only experts in currently known applications (e.g., quantum computers, communications, sensors), but also to create flexible and adaptable education and training capacities for the future use of quantum technologies in areas that we cannot yet fully imagine (e.g., new types of materials, bio-quantum applications, advanced medical technologies, or quantum aspects of artificial intelligence). In the long term, it is crucial that the Czech Republic has not only top scientists and engineers, but also a sufficient number of technicians, operators, and managers capable of understanding the principles of quantum technologies and integrating them into everyday practice. The main effort should be focused on maximizing support for linking education in the field of quantum technologies with research, the corporate sector, and the popularization of quantum technologies throughout society, including in the area of defense and security. The educational ecosystem must be based on the education of highly qualified specialists in master's and doctoral study programs. This education is closely linked to cutting-edge research in quantum sciences and technologies and related fields of physics and technical sciences. Specialists in the field of quantum technologies, including foreign teachers, need to be involved. Educational programs should cover not only the highly abstract areas of theoretical quantum computing and quantum informatics, but also study programs devoted to the experimental aspects of quantum materials and the experimental fundamentals of quantum physics and other related areas. It is necessary to offer clearly conceived courses on the basics of quantum technologies as part of the general foundation of bachelor's study programs, not only at technical or natural science faculties, but also at humanities faculties. Lifelong learning courses, especially micro-certificate programs, will play an important role. Their systematic use is expected by companies involved in quantum technologies or workplaces specializing in measurement technology or the development of experimental solutions. A special target group will be the state administration, or state employees. Universities and their institutes, institutes of the Czech Academy of Sciences, the Confederation of Industry of the Czech Republic, the Chamber of Commerce, companies, start-ups, and spin-offs will be involved in the implementation of educational activities.
+It is essential to pay attention to the education of civil servants who will be involved in the implementation of this strategy. Furthermore, current and future teachers need to be educated in the basics, key principles, and applications of quantum technologies. It is necessary to develop a range of teaching aids for future teachers as well as pupils and students. Take advantage of existing free software and platforms that enable quantum computing simulation. Schools will need to be equipped with experimental teaching kits that will allow pupils and students to study the phenomena of quantum physics and mechanics directly. It is also necessary to motivate children, pupils, and secondary school students to take an interest in quantum technologies. Activities that are suitable for this purpose include those carried out in cooperation with universities, secondary schools, and elementary schools (popularization lectures, laboratory visits, excursions, various competitions, etc.). Furthermore, the existing network of science centers should be used for popularization programs and attractive exhibits. A major advantage of the Czech Republic is its long-standing and sophisticated system of professional competitions. The topic of quantum technologies should be gradually incorporated into these competitions. It is also necessary to use the media and social networks to promote quantum technologies in a positive light.
+STRATEGIC OBJECTIVE
+Czechia is capable of providing education and training for experts and users of quantum technologies. By the end of 2031, the Czech Republic will be able to produce 150 graduates of university study programs in the field of quantum technologies annually.
+MEASURES TO ACHIEVE THE OBJECTIVE
+P2.1
+Program to support the creation and development of bachelor's, master's, and doctoral study programs in the field of quantum technologies.
+Description
+Prepare and subsequently implement a program to support the creation and development of bachelor's, master's, and doctoral study programs (including teacher training) in the field of quantum technologies. The aim of this measure is to increase education capacity in quantum technologies. The program should systematically build a base of qualified human resources capable of working with quantum technologies at all levels, from research and development through practical engineering applications to implementation in industry and government. and safety.
+Responsibility
+Ministry of Education
+Cooperation
+MVVI, MPSV, NAU, MPO, MO, SPČR, HK
+Deadline
+Preparation by the end of 2026, start in 2027
+Cost
+Optimal budget: CZK 200 million (with gradual ramp-up)
+Benefits
+Building a base of qualified human resources capable of working with quantum technologies at all levels, from research and development through practical engineering applications to implementation in industry, government and security.
+Implementatio n period
+From 2027 to 2032
+Indicator Fulfilment
+Government approval of a support program for the development of study programs at universities.
+Budget chapter
+Ministry of Education, Youth and Sports
+P2.2
+Recommendations for implementing teaching topics related to quantum technologies in secondary education
+Description of measures
+Prepare recommendations for implementing blocks or subjects related to quantum technologies in secondary education. Establish a working group of experts to prepare recommendations.
+Responsibility
+Ministry of Education, Youth and Sports
+Cooperation
+Ministry of Labor and Social Affairs, Ministry of Industry and Trade
+Deadline
+By the end of 2026
+Cost
+No additional costs
+Benefits
+Prepare the development of teaching about quantum technologies in secondary schools.
+Implementatio n period
+From 2026 to 2026
+Indicator Fulfilment
+Ministerial decision on a draft recommendation for the implementation of modules or subjects related to quantum technologies.
+Budget chapter
+Ministry of Education, Youth and Sports
+P2.3
+Implement Measure P2.2 in selected secondary school education programs
+Description
+Pilot test and subsequently implement the teaching of quantum technologies in selected secondary school fields of study in accordance with Measure P2.2. Teaching of topics related to quantum technologies will be expanded for selected secondary school educational programs through pilot testing and subsequent implementation of Measure P2.2.
+Responsibility
+Ministry of Education
+Cooperation
+--
+Deadline
+By the end of 2029
+Cost
+Optimal budget: CZK 80 million
+Benefits
+Development of quantum technology education in secondary schools.
+Implementatio n period
+By the end of 2029
+Indicator Fulfilment
+Approval of changes to the framework educational program pursuant to Section 4(3) of the Education Act.
+Budget chapter
+Ministry of Education
+P2.4
+Program for the promotion and education in quantum technologies
+Description
+Prepare and subsequently implement, within the framework of popularization and education, a program to support projects by educational institutions, research organizations, and science centers, with the aim of presenting quantum technologies and the basics of quantum physics to children, school excursions, and the general public in an attractive and practical form. This includes the preparation of further training for teaching staff, as well as projects
+informal education and knowledge support for talented individuals, interest groups, competitions, excursions, and other leisure activities for primary and secondary school students. A special group will be formed by state administration employees.
+Responsibility
+Ministry of Education, Youth and Sports, in the case of civil servants and other government agencies
+Cooperation
+Ministry of Industry and Trade, Ministry of the Interior, Ministry of Defense
+Deadline
+Preparation by the end of 2026, followed by implementation by 2031
+Cost
+Estimated budget: CZK 200 million
+Benefits
+Making quantum technologies more attractive and increasing interest in them. Developing teaching and education about quantum technologies in target groups.
+Implementatio n period
+From 2027 to 2031
+Indicator Fulfilment
+Government approval of a program to promote quantum technologies.
+Budget Chapter
+Ministry of Education, Youth and Sports (program), government agencies (training of government employees)
+Pillar 3: Competitive economy
+The economic power of the quantum ecosystem is a significant boost to overall economic performance. Value creation is driven by a combination of innovative research, quantum technology development, and the commercialization of these technologies into market-attractive products and services. The value created in the field of quantum technologies is not only derived from direct economic returns, but also from the strategic advantages that these technologies bring, ranging from breakthrough computing power and secure communications to high-precision measurements and robust integration into global supply chains. Strengthening the economy through quantum technologies also increases the resilience of the state, its security, and its ability to respond to new threats and opportunities. The strength of the ecosystem is further enhanced by robust cooperation between the public and private sectors, creating an environment in which quantum start-ups and spin-offs can thrive alongside established technology giants. However, maintaining and growing this economic strength requires ongoing stable investment and systematic support for education and talent development. Czechia should strive to be among the countries capable not only of using quantum technologies, but also of independently developing and creating their essential parts. This requires synergistic cooperation between higher education and research institutions, the corporate sector, and government. A necessary prerequisite is support for the entire chain, from basic and applied research to technology transfer and the creation of start-ups and spin-offs, to support for small and medium-sized enterprises and incentives for renowned companies. The key will be to focus on supporting the systematic involvement of companies and professional organizations in the process of finding applications for quantum technologies. Early awareness-raising will play a key role here, with the aim of a gradual and persistently organized search for practical applications from both a user perspective and, in particular, from a manufacturing or value-added perspective. To this end, entities will be systematically approached, followed by the creation of a communication network. The connection to the corporate sector will also be emphasized in the measures of Pillar 1. Cooperation between the academic, corporate, and public sectors will not only move quantum technologies towards real-world applications and adoption, but will also ensure that Czechia maintains its defense capabilities and security and remains competitive in terms of knowledge and economy. Technologies developed in research institutions in particular have the potential to contribute to the development of quantum computers and their components. This opens up an opportunity to master quantum computing technology on selected physical platforms at the national level and to be among the countries capable of producing quantum computers or their key components. The main goal is to ensure that advances in quantum technologies are effectively translated into tangible, market-ready solutions, thereby strengthening Czechia's position in the global technology environment. It is also necessary to ensure that all state institutions, public administration, and the wider public are informed about the opportunities and risks associated with quantum technologies and are prepared and able to use, implement, and support quantum technologies.
+STRATEGIC OBJECTIVE
+Thanks to its system of support for the entire chain, from basic and applied research to technology transfer and the creation of start-ups and spin-offs, as well as support for small and medium-sized enterprises and incentives for large companies, Czechia is an attractive place for doing business in the field of quantum technologies.
+MEASURES TO ACHIEVE THE OBJECTIVE
+P3.1
+Mapping employers' requirements with a view to 2032+
+Description
+Mapping the requirements in the in the field of quantum technologies as input for designing an adequate education system.
+Responsibility
+MPSV
+Cooperation
+Ministry of the Interior, Ministry of Industry and Trade, Ministry of Education, Youth and Sports, Confederation of Industry of the Czech Republic, Chamber of Commerce
+Deadline
+By the end of 2028
+Cost
+No additional costs to the state budget.
+Benefits
+Mapping employers' needs.
+Indicator Fulfilment
+Submission of a study to the government.
+P3.2
+Support for start-ups and spin-offs focused on quantum technologies, including the adoption of these technologies by SMEs and large companies.
+Description of the measure
+Support for start-ups and spin-offs focused on quantum technologies, including the adoption of these technologies by SMEs and large companies.
+Responsibility
+CZECHINVEST
+Cooperation
+MPO, TAČR, MVVI, MZV, MMR, regions, and business associations
+Deadline
+Preparation by the end of 2026, followed by implementation by 2031
+Cost
+Optimal budget: up to CZK 130 million within the Technological Incubation 2.0 system project.
+Benefits
+Quantum technologies and their applications will be implemented in the upcoming Technological Incubation 2.0 system project, which will actively seek out interesting projects in academic and industrial environments that have the potential to become innovative start-ups. These projects will then be supported through the incubation process and in the development of their technology, including financial support. At the same time, cooperation will be established with regional innovation centers, where the infrastructure for these start-ups will be created jointly according to the absorption capacity of individual regions. Quantum technologies will become an integral part of CzechInvest's innovation hub, where cooperation will take place not only between start-ups, but also between SMEs and large companies, which will increase their ability to engage in technological development. As part of other complementary activities of the systemic project, there will be Activities to promote the adoption of quantum technologies in all companies should also
+be carried out.
+regardless of their size, through awareness-raising, round tables, thematic workshops, training, technology scouting, etc.
+Implementatio n period
+From 2027 to 2031
+Indicator Fulfilment
+Support for at least 15 start-ups or spin-offs using quantum technologies.
+Implementation of at least two strategic actions per year to support the adoption of quantum technologies.
+Budget chapter
+Ministry of Industry and Trade
+Pillar 4 International Cooperation
+International cooperation plays a key role in the success of the overall development of quantum technologies. The challenges posed by the development of quantum technologies cannot be addressed without broad and long-term international cooperation. The main objective is cooperation within the EU, NATO, the European area, and with countries around the world that share the same democratic values. One of the main benefits of international cooperation is the sharing of expertise and experience, which is essential for maintaining competitiveness in the rapidly evolving field of quantum technologies. Access to the latest knowledge and research methods, often available through leading research institutions and universities, is therefore essential. This also applies to access to the most advanced quantum computers for research, development, and education purposes. Cooperation with leading research institutions and universities, not only in the European Research Area but also in other advanced democratic countries, is key. Support for participation in international research collaborations, foreign investment, and funding is an important element in the development of quantum technologies. Such cooperation and investment not only increase the capacity to carry out large-scale research projects, but also enable the development of advanced research and testing infrastructures necessary for experimental work and innovation. This includes investment in laboratories, testing facilities, and computing resources that are key to exploring and exploiting quantum phenomena and technologies. These partnerships enable Czech research teams and companies to join broader partner networks, which are essential for sharing best practices and experiences. Through these networks, it is possible to collaborate on joint projects, share unique research resources and approaches, and thus create synergies that exceed the capabilities of individual countries. Special attention will also be paid to European countries where the Ministry of Education, Youth and Sports and the Czech Science Foundation do not currently have agreements on scientific projects beyond mobility (France, Spain, Finland, Denmark, the Netherlands). Cooperation with global partners can help Czech start-ups, spin-offs, and companies bridge the gap between research and the market, provide access to new markets and customers, and create new channels for monetizing technologies, products, and services.
+International cooperation in the field of quantum technologies also promotes the exchange of talent and expertise. Establishing joint business partnerships, research programs, and projects, and sharing expertise can significantly contribute to the development of domestic capacities for the development of the quantum ecosystem.
+STRATEGIC OBJECTIVE
+Strengthen international cooperation Czechia in the field of quantum technologies with an emphasis on partnerships in the European Research Area and with democratic countries around the world, so that Czech research teams, companies, and institutions gain access to the latest knowledge, infrastructure, investments, and markets, enabling them to effectively develop the domestic quantum ecosystem and increase their global competitiveness. Czechia is a sought-after and a reliable partner for research and industrial cooperation within the European and global quantum ecosystem.
+MEASURES TO ACHIEVE THE OBJECTIVE
+P4.1
+Call for support for the participation of Czech experts in decision-making structures for the development of quantum technologies within the EU, NATO, and other international institutions.
+Description of the measure
+Prepare call for support participation Czech experts and representatives in the decision-making structures of the quantum ecosystem within the EU, NATO (STO, DIANA, NIF), thereby ensuring greater influence for the Czech Republic and enabling more intensive involvement in the European and international quantum ecosystem.
+Responsibility
+Ministry of Education, Youth and Sports
+Cooperation
+Ministry of Foreign Affairs, Ministry of the Interior, Ministry of Defense
+Deadline
+By the end of 2026, preparation of the call for proposals, followed by implementation by 2031
+Cost
+Optimal budget: CZK 30 million
+Benefits
+Greater participation and involvement in decision-making processes and in the quantum ecosystem at European and international level.
+Implementatio n period
+From 2027 to 2031
+Indicator Fulfilment
+Call for proposals, increase in the number of supported experts.
+Budget chapter
+Ministry of Education, Youth and Sports
+P4.2
+International memoranda on cooperation in the field of quantum technologies with countries with advanced quantum ecosystems
+Description of measures
+Conclude memoranda on cooperation in research, development, and innovation in the field of quantum technologies within the EU (e.g., Denmark, Germany, Finland, France, Belgium, the Netherlands) or with democratic countries with advanced quantum ecosystems, such as the United States, the United Kingdom, Japan, Israel, Singapore, and South Korea, and with countries where quantum technologies may be promising from the perspective of the Czech Republic, and support this cooperation with resources for financing projects from measure P1.2.
+Responsibility
+Ministry of Education, Youth and Sports
+Cooperation
+Ministry of Industry and Trade, Ministry of Foreign Affairs, Ministry of the Interior
+Cost
+No additional costs to the state budget
+Deadline
+By the end of 2030
+Benefits
+Development of cooperation and bilateral projects with the most advanced countries. Involvement in the global quantum ecosystem.
+Indicator Fulfilment
+3 memoranda signed and 10 projects launched
+Budget chapter
+Ministry of Education, Youth and Sports
+Pillar 5: Security and defense
+NATO emphasizes the disruptive potential of quantum technologies in the fields of cryptography, quantum computing, and quantum sensing, and calls on its members to accelerate the development of quantum technologies for military applications. Many current cryptographic methods based on complex mathematical problems may be broken by quantum computers in the future. It is therefore crucial to focus on the introduction of new quantum-resistant cryptographic algorithms (PQC) that are practically applicable and internationally supported. PQC is currently the main tool for defending against quantum attacks in the coming years. At the same time, it is necessary to address the use of quantum key distribution (QKD) to enhance communication security and build quantum networks. Quantum technologies offer revolutionary approaches to navigation and detection, especially in environments where traditional GPS signals may be unavailable or disrupted. Quantum sensors can provide highly accurate and robust methods for measuring a range of physical quantities, and quantum metrology offers significant improvements in navigation and data operations, which is essential for modern military operations. Quantum simulations can enable more accurate modeling of complex systems and scenarios, which is key to effective logistics and management in both civilian and military contexts. Quantum technologies are dual-use technologies. They offer both civilian and military applications, which significantly increases the demands on their protection. It is essential that Czechia implement thorough measures to protect these technologies, including protecting their research and development from threats such as espionage and cyber attacks. This includes building defensive experimental and testing infrastructures that will enable the verification of quantum technologies in realistic conditions, for example for military navigation without GPS, detection of stealth objects, or advanced simulations. Cooperation with security and intelligence agencies, which can identify potential threats and provide timely warnings of specific risks, is key, as is coordination of activities with alliance partners (NATO, EU) to ensure the interoperability of quantum systems and the sharing of sensitive knowledge in accordance with international commitments. The emphasis on security is essential not only for the protection of the state's strategic interests, but also for ensuring competitive advantage, critical infrastructure resilience, and the Czech Republic's sovereignty in the field of quantum technologies on the international stage. It is therefore crucial to ensure conditions for effective research and application cooperation between all stakeholders, build military testing infrastructure, develop interoperability with international partners, and strengthen the protection of critical systems in the Czech Republic with regard to the quantum threat. The development and integration of these technologies should be managed and coordinated at all levels of government, with the Ministry of Defense playing a key role in cooperation with the Ministry of the Interior, the National Cyber and Information Security Agency, and the intelligence services.
+STRATEGIC OBJECTIVE
+Use quantum technologies and PQC to ensure the resilience, security, and defense capabilities of the state through the development of quantum-resistant and secure communications, advanced navigation, detection, and simulations by ensuring coordinated cooperation in research, development, innovation, and education between government, research institutions, industry, and international partners.
+MEASURES TO ACHIEVE THE OBJECTIVE
+P5.1
+Prepare a plan for the implementation of quantum-resistant cryptography.
+Description
+Prepare a comprehensive plan for the implementation of quantum-resistant cryptography, which will include the technical, organizational, and legislative steps necessary for the transition to new cryptographic standards. This plan will also define the responsibilities of individual actors, the timetable, and the method of financing to ensure a coordinated implementation process for the relevant entities.
+Responsibility
+NÚKIB
+Cooperation
+Selected state administration bodies and other relevant entities
+Deadline
+By the end of 2026
+Cost
+No additional costs to the state budget
+Benefits
+Plan for the introduction of post-quantum cryptography
+Implementatio n period
+By the end of 2026
+Indicator Compliance
+Plan for implementing quantum-resistant cryptography
+P5.1.1
+Ensure the implementation of quantum-resistant cryptography by the end of 2030
+Description
+Ensure the implementation of quantum-resistant cryptography by entities designated under P5.1.
+Responsibility
+Entities designated by the National Plan for Transition to PQC
+Cooperation
+Selected state administration bodies and other relevant entities
+Deadline
+By the end of 2030
+Cost
+The transition will be financed by individual entities from their own budgets.
+Benefits
+The implementation planned for entities designated by the National Plan for Transition to PQC will strengthen the resilience of critical systems and services against new security threats. The measures will support alignment with the recommendations of the EU, NATO, and other international structures calling for a timely transition to post-quantum security. This is an indicative estimate of the total costs; the exact costs can only be calculated after a detailed impact analysis, clear identification of specific entities.
+Implementatio n period
+By 2030
+P5.1.1.
+Ensure the implementation of quantum-resistant cryptography by the end of 2030
+Indicator Compliance
+Implementation of post-quantum cryptography by entities designated by the National Plan for Transition to PQC
+Budget Chapter
+Entities designated by the National Plan for Transition to PQC
+P5.2
+Analysis of risks associated with the use of quantum technologies and their possible impact on the defense capability and internal security of the state
+Description of measures
+Prepare an analysis of the risks associated with the development and use of quantum technologies. This analysis should identify potential threats, vulnerabilities, and weaknesses that may affect the defense capability and internal security of the state. Based on the identified risks, recommend measures to mitigate the impact and strengthen the protection of critical systems and strategic interests of the Czech Republic.
+Responsibility
+Ministry of Defense (through UNOB), Ministry of the Interior (internal security)
+Cooperation
+Ministry of Foreign Affairs, Ministry of Foreign Affairs
+Deadline
+By the end of 2027
+Cost
+No additional costs
+Benefits
+An analysis of the risks associated with the use of quantum technologies will provide the state with a basis for targeted protective measures, increase its defense capabilities and internal security, and strengthen international cooperation.
+Implementatio n period
+2027
+Indicator Compliance
+Approval of analysis by the government
+Pillar 6: Quantum technology infrastructure
+For Czechia, building a cutting-edge infrastructure for quantum technologies is essential not only in terms of scientific progress, but also for long-term competitiveness in the European and global context. This infrastructure is the basis for testing and accelerating the use of quantum technologies in industry and other sectors.
+Thanks to its involvement in European initiatives such as EuroHPC, Quantum Flagship, and Chips JU-Quantum Chips Pilot lines, Czechia has a unique opportunity to become an important player in the field of quantum technologies. The national infrastructure, based on the principles of open access, also supports the involvement of the corporate sector, interdisciplinary cooperation, education, and the development of qualified experts, and strengthens Czechia's involvement in international research projects, thereby contributing to the sustainable development of the knowledge economy and the country's technological sovereignty.
+Access to advanced quantum infrastructure will not only enable cutting-edge research, but above all faster adoption and application of these technologies in industry, the creation of new applications, products, and services with high added value. For the public sector, the involvement of the State part of the eGovernment cloud will also need to be ensured in building quantum technology infrastructure capacities.
+Within the framework of existing and newly developed instruments, it is necessary to support the acquisition of investments and operating funds for equipment and infrastructure for quantum technologies and supporting technologies, particularly in the area of scalability of demanding quantum computers, quantum simulators, and also in the areas of quantum communication towards multi-user networks, in the area of massive development of quantum sensors, metrology, and new quantum materials, thereby significantly strengthening targeted measures for the creation, testing, and implementation of these technologies in practice.
+STRATEGIC OBJECTIVE
+Czechia has a cutting-edge infrastructure for quantum technologies, particularly in the areas of quantum computers, quantum communication infrastructure, quantum sensors, metrology, and materials. This infrastructure is widely available and serves the needs of research and development, education, industry, and the public sector in the Czech Republic, as well as supporting international cooperation.
+MEASURES TO ACHIEVE THE OBJECTIVE
+P6.1
+Support for ensuring cutting-edge infrastructure for quantum technologies
+Description
+Allocate funds for the acquisition, upgrade, and operation of cutting-edge infrastructure for quantum technologies, particularly with regard to quantum computers, quantum communication infrastructure, quantum sensors, metrology, and materials.
+Responsibility
+Ministry of Education, Youth and Sports
+Cooperation
+Ministry of the Interior, Ministry of Industry and Trade, National Cyber and Information Security Agency
+Implementatio n date
+2027
+Cost
+Optimal budget of CZK 400 million with gradual ramp-up of resources from 2027
+Benefits
+Czechia will have a state-of-the-art infrastructure for quantum technologies, which will will be widely available and will support education, research and development, industry, and the public sector in the Czech Republic, as well as international cooperation.
+Implementatio n period
+From 2027 to 2031
+Indicator Fulfilment
+Funds secured for the acquisition, upgrade, and operation of infrastructure for quantum technologies
+Budget chapter
+Ministry of Education, Youth and Sports
+5.1. Risk
+This chapter deals with the identification of risks that threaten the achievement of the objectives of the National Strategy for Quantum Technologies and the possibilities for mitigating them.
+Key factors include securing sufficient financial resources for the entire duration of the strategy's implementation, which will enable the implementation of the strategy's steps and the training and recruitment of a sufficient number of experts who will be able to develop the field in research, industry, and public administration. The financial profile is based on the timing of the necessary activities and measures. In doing so, it is necessary to pay close attention to maintaining competitive conditions for retaining and recruiting experts. The entire process of implementing the National Strategy for Quantum Technologies depends heavily on training and recruiting a sufficient number of experts in the field of quantum technologies. Support and funding for the development and operation of research infrastructure in the field is also essential. Limiting the strategy in these areas would cause future damage to the national economy as well as to security and defense capabilities. Table 3 represents a simplified matrix of global risks. It also captures identified risks in the political sphere, along with an assessment of their impact and probability of occurrence.
+Table 3: Global risk table
+Severity Level / Probability of Occurrence
+Lower (1)
+Critical (3)
+Higher (3)
+Change in political priorities
+and objectives
+Fluctuation of responsible employees
+Insufficient financial allocation to achieve the strategy's objectives
+Inflexibility of the education system
+Brain drain
+Lack of experts and talent
+Lower (1)
+Setting unambitious measures to achieve goals
+Insufficient absorption capacity of the sector
+Insufficient international cooperation
+Investing in the development of the quantum sector not only supports technological and economic growth, but is also a strategically advantageous choice with high potential returns. Benefits such as the creation of highly skilled jobs, growth in export opportunities, increased competitiveness of companies, and enhanced national security outweigh the initial costs of implementing the strategy. Rapid progress in quantum technologies means that countries that invest early will gain a significant technological and security advantage, while delayed involvement threatens not only economic losses but also vulnerability to new types of threats.
+In the area of global risks, the following possible measures can be assumed to mitigate their impact.
+Table 4: Mitigation of identified risks
+Risk
+Impact
+Measures to reduce impact
+Insufficient financial allocation for the implementation of measures
+9
+Political support needs to be found to push through the strategy and support it throughout its implementation, including the defined measures and their impacts.
+Lack of experts and talent
+6
+Support for education at universities and secondary schools.
+Fluctuation of responsible staff
+6
+Systematic transfer of know-how, training and education, introduction of standardized processes, and consistent documentation of key activities.
+Brain drain
+4
+Creation of incentives and an attractive ecosystem.
+Change in political priorities and goals
+3
+Discuss the strategy with representatives of the opposition as well and try to find a long-term consensus. Science, research, education, and quantum physics are among the areas that should be kept out of political struggle, as they are in the interest of all.
+Insufficient international cooperation
+3
+Securing resources for co-financing international cooperation.
+Inflexibility of the education system
+2
+Popularization and creation of pilot projects, creation of educational programs and materials for teachers (within the framework of DVPP for existing and inclusion of topics in the training of new teachers).
+Insufficient absorption capacity
+2
+Support for technology transfer and knowledge transfer throughout the ecosystem.
+Setting unambitious measures to meet the objectives
+1
+Collect data and prepare an analysis, including a forecast of growth in the sector. Based on the data collected, adjust measures to achieve the set objectives.
+A number of specific steps can be derived from these general measures to ensure that all the necessary factors for implementing the strategy are in place.
+
+## 5.2. Management structures
+
+At the state administration level, the implementation of the National Strategy for Quantum Technologies is, due to interdepartmental overlaps , under the authority of the Office of the Government, or the Minister for Science, Research and Innovation, or a member of the Government who performs the function of Chairman of the Government Council for Research, Development and Innovation (RVVI), or a representative authorized by him. The authorized representative for quantum technologies coordinates relevant activities and cooperates with other organizations and state and local government bodies, the European Commission, and non-European partners.
+Steering group for the implementation of the National Strategy for Quantum Technologies
+The development, coordination, and monitoring of the quantum technology ecosystem will be overseen by the Steering Group for the Implementation of the National Strategy for Quantum Technologies, which will
+established. The chair of the steering group is the Minister for science, research and innovation, or a member of the government who performs the function of chair of the RVVI, or a representative authorized by him. The steering group is further composed of the Minister of Industry and of Trade, the Minister for Science, Research and Innovation, the Minister of Education, Youth and Sports, the Minister of Finance, the Minister of Foreign Affairs, the Minister of Labor and Social Affairs, and the authorized representative for quantum technologies. The steering group may invite guests to its meetings. The steering group monitors the fulfillment of objectives and decides on updates to the National Strategy for Quantum Technologies. It submits a report on the fulfillment of the objectives of the National Strategy for Quantum Technologies to the government for information once every two years after discussion by the Council for Research, Development, and Innovation.
+Working Group on the National Strategy for Quantum Technologies
+The chair of the steering group appoints the chair of the working group. The working group consists of a representative of the Minister for Science, Research and Innovation or a member of the government who acts as chair of the RVVI, or a representative appointed by them, a representative of the Ministry of Industry and Trade, a representative of the Ministry of Education, Youth and Sports, a representative of the Ministry of Finance, a representative of the Ministry of Foreign Affairs, a representative of the Ministry of Defense, a representative of the Ministry of the Interior, a representative of the National Cyber and Information Security Agency, a representative of the Technology Agency of the Czech Republic, a representative of the Grant Agency of the Czech Republic, a representative of the Czech Rectors' Conference, a representative of the Czech Academy of Sciences, a representative of the Confederation of Industry and Transport, a representative of the Chamber of Commerce, and a representative of the trade unions.
+
+# Annex 1: Calculation of the impact on the state budget
+
+The work, activities, and operations described in the individual strategic areas of the National Strategy for Quantum Technologies require financial resources for the period 2026–2031. The breakdown into individual items, or rather the objectives of the individual strategic areas, is shown in the following table. In 2030, an update of the National Strategy for Quantum Technologies for the period 2031–2036 will be prepared, including an update of the substantive content of activities, objectives, and budget. The financial estimates are based on expert estimates and represent the optimal amounts for achieving the objectives. The implementation of individual measures of the strategy is conditional on the allocation of financial resources from the state budget.
+The measures will be implemented within the expenditure limits of the relevant chapters of the state budget approved for each year.
+Table 5: Summary of impacts on the state budget in current prices
+CZK million
+PILLAR
+MEASURE
+2026
+2027
+2028
+2029
+2030
+GESCE
+SCIENCE AND RESEAR CH
+P1.1. Program for targeted support of excellent scientific teams
+150
+300
+350
+400
+400
+Ministry of Education
+P1.2. Support for co-financing European and non-European research projects
+250
+250
+250
+250
+250
+Ministry of Education
+P1.3. National Center for Quantum Technologies Research Program
+50
+120
+120
+120
+120
+TA ČR
+P1.4. Announcement of a public tender within the MPO TWIST program to support projects focused on quantum technologies (no additional costs, already approved)
+50
+75
+75
+50
+MPO
+EDUCATION AND TRAINING OF TALENTED INDIVIDUALS
+P2.1. Program to support the creation and development of quantum technology study programs
+50
+50
+50
+50
+Ministry of Education
+P2.2. Recommendations for implementing teaching topics related to quantum technologies into secondary education
+Ministry of Education
+P2.3. Implementation of Measure P2.2 in selected secondary school fields of study
+5
+15
+30
+30
+Ministry of Education
+P2.4. Program to support the popularization and education of quantum technologies
+50
+50
+50
+50
+Ministry of Education
+COMPETITIV E ECONOMY
+3.1. Mapping employers' requirements with a view to 2032 as input for designing an adequate education system
+Ministry of Labor and Social Affairs
+P3.2. Support for start-ups and spin-offs focused on quantum technologies, including the adoption of these technologies by SMEs and large companies
+32.5
+32.5
+32.5
+32.5
+CZECHINVEST
+INTERNATIONA L COOPERATION
+P4.1. Call for proposals to support the participation of Czech experts in EU decision-making structures
+6
+6
+6
+6
+6
+Ministry of Education
+P4.2. International memoranda on cooperation with selected partners (USA, UK, Japan, Israel, South Korea)
+Ministry of Education
+SECURITY AND DEFENSE
+P5.1. Prepare a plan for the implementation of quantum-resistant cryptography
+NÚKIB
+P5.1.1. Implementation of quantum-resistant cryptography
+Designated entities
+P5.2. Prepare an analysis of the risks associated with the use of quantum technologies and their possible impact on the defense capability and internal security of the state
+MO
+INFRASTRUCT URE
+P6.1. Support for securing cutting-edge infrastructure for quantum technologies
+50
+250
+50
+50
+Ministry of Education, Youth and Sports
+Costs for the given year
+456
+913.5
+1198.5
+1063.5
+1038.5
+Total costs
+4670
