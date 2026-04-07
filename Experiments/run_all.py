@@ -20,7 +20,7 @@ from pathlib import Path
 
 RELATION_EXPERIMENTS = [
     "Relation/nli_pipeline",
-    "Relation/nli_sainz",
+    "Relation/nli_sainz_roberta",
     "Relation/nli_sainz_deberta",
     "Relation/claude_cot",
     "Relation/gollie_guidelines",
