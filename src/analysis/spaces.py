@@ -124,7 +124,14 @@ def run() -> None:
             if r.get(space_field) in SPACES
             and float(r.get("th_space_confidence") or 0) >= 0.5
         ]
-    print(f"[INFO] {len(rows)} rows with valid space predictions")
+
+    # Cross-helix only — same-helix pairs are not meaningful for TH space analysis
+    rows = [
+        r for r in rows
+        if normalize_helix(to_str(r.get("h1", ""))) != normalize_helix(to_str(r.get("h2", "")))
+        and normalize_helix(to_str(r.get("h1", "")))
+    ]
+    print(f"[INFO] {len(rows)} cross-helix rows with valid space predictions")
     if not rows:
         raise RuntimeError("No rows with valid th_space predictions.")
 

@@ -39,9 +39,8 @@ def run() -> None:
     print(">>> ANALYSIS: RQ2 GPT-RE")
 
     if not SOURCE_FILE.exists():
-        raise FileNotFoundError(
-            f"{SOURCE_FILE} not found. Run: python -m src.pipeline.gpt_re"
-        )
+        print(f"[SKIP] {SOURCE_FILE.name} not found — run: python -m src.pipeline.gpt_re")
+        return
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
