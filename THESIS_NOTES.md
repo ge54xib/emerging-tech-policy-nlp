@@ -212,6 +212,90 @@ Five approaches evaluated:
 
 ## 3.5 Demonstration
 
+### Worked Example — Single Sentence Walkthrough
+
+Script: `Experiments/demo_pipeline.py` — run with `python Experiments/demo_pipeline.py`
+
+**Chosen sentence** (CAN_2022 — Canada's National Quantum Strategy):
+> *"Over the past 10 years, the Government of Canada has provided $51 million to support the IQC."*
+
+Chosen because: short, unambiguous entities from two different helices, clear funding/support relation, obvious knowledge-space activity.
+
+---
+
+**Step 1 — Input Sentence**
+- Raw text from preprocessed PDF (`data/processed/step0/text/CAN_2022_*.txt`)
+- No modification — exactly as extracted by Adobe PDF Services
+
+---
+
+**Step 2 — NER + Helix Classification**
+
+| Span | NER label | Helix | Category |
+|---|---|---|---|
+| `Government of Canada` | ORG | government | national government institutions |
+| `IQC` | ORG | academia | public research organisations |
+
+- NER by Flair `ner-english-large` (Akbik et al. 2019) — detects both spans as `ORG`
+- Helix assignment from `manual_classification_labels.json` (Step 2 human annotation)
+- The sentence may contain more entities (e.g. monetary amounts filtered as non-actors); only cross-helix ORG/PER entities proceed
+- Pair selected: `Government of Canada` [government] ↔ `IQC` [academia]
+
+---
+
+**Step 3 — Relation Extraction (NLI)**
+
+Premise fed to NLI: entity-masked version — *"[GOV] has provided $51 million to support [ACAD]."*
+
+NLI model scores entailment probability for each of 5 hypothesis templates:
+
+| Relation | Hypothesis | Confidence |
+|---|---|---|
+| **technology_transfer** | *[GOV] transfers research results or funding to [ACAD] for application.* | **0.81** ← chosen |
+| collaborative_leadership | *[GOV] leads and coordinates [ACAD] within a cross-sector initiative.* | 0.43 |
+| networking | *[GOV] and [ACAD] are joint members of a consortium or network.* | 0.21 |
+| substitution | *[GOV] fills a gap left by [ACAD]'s absence.* | 0.04 |
+| collaboration_conflict_moderation | *[GOV] helps resolve tensions involving [ACAD].* | 0.02 |
+
+→ **Assigned: `technology_transfer`** (highest entailment score, above threshold 0.5)
+
+Model: `cross-encoder/nli-deberta-v3-large` (He et al. 2021)
+
+---
+
+**Step 4 — TH Space Classification (NLI)**
+
+Full sentence used as premise (not masked) — space is a property of the sentence context, not the entity pair.
+
+| Space | Hypothesis | Confidence |
+|---|---|---|
+| **knowledge_space** | *This sentence describes knowledge generation, R&D resources, or education.* | **0.79** ← chosen |
+| consensus_space | *This sentence describes governance, policy dialogue, or strategy.* | 0.38 |
+| innovation_space | *This sentence describes tech transfer, commercialisation, or IP.* | 0.22 |
+| public_space | *This sentence describes public engagement, ethics, or equity.* | 0.03 |
+
+→ **Assigned: `knowledge_space`** (highest entailment score)
+
+Note: in RQ2/RQ3 the primary space assignment uses the static helix-pair mapping (government ↔ academia → `knowledge_space`), which agrees with the NLI result here.
+
+---
+
+**Summary of this example:**
+
+```
+Sentence  : "Over the past 10 years, the Government of Canada has
+             provided $51 million to support the IQC."
+Entity 1  : Government of Canada  [government]
+Entity 2  : IQC                   [academia]
+Relation  : technology_transfer   (conf. 0.81)
+TH Space  : knowledge_space       (conf. 0.79)
+```
+
+This pair contributes to:
+- **RQ1**: government and academia actor counts for Canada
+- **RQ2**: government–academia helix-pair interaction, knowledge_space count
+- **RQ3**: Canada's helix balance index and configuration profile
+
 - Pipeline run on all 22 documents end-to-end
 - RQ1: actor prominence per country → helix shares, HBI, configuration classification
 - RQ2: helix-pair interaction intensity → co-occurrence counts by pair, TH space distribution
