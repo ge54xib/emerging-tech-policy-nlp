@@ -10,8 +10,8 @@ Method (from paper):
   - k=3 per class (12 total), preferring confidence=="high" examples
 
 Data split:
-  - Demo pool: first 50 entries of annotation_spaces.json with true_space filled
-  - Eval set:  final 50 entries of annotation_spaces.json
+  - Demo pool: spaces_labels.json (25 per class = 100 total, separate from eval)
+  - Eval set:  all 100 entries of annotation.json (no overlap with demo pool)
 
 Space definitions in system prompt (Ranga & Etzkowitz 2013 + public_space extension):
   knowledge_space — knowledge generation, diffusion and use; R&D; strengthening the knowledge base
@@ -30,6 +30,7 @@ Requires:
 """
 from __future__ import annotations
 
+import json
 import os
 import re
 import sys
@@ -43,8 +44,9 @@ from eval_utils import (
     save_outputs,
 )
 
-MODEL       = "gpt-4o"
-K_PER_CLASS = 3   # demos per class = 12 total (Brown et al. 2020)
+MODEL         = "gpt-4o"
+K_PER_CLASS   = 3   # demos per class = 12 total (Brown et al. 2020)
+DEMO_POOL_FILE = Path(__file__).parent.parent / "spaces_labels.json"
 
 SYSTEM_PROMPT = """\
 You classify sentences from national quantum technology policy documents into Triple \
@@ -112,13 +114,19 @@ def _parse_label(text: str) -> str:
 def main() -> None:
     from openai import OpenAI
 
-    all_entries = load_spaces_eval()
-    print(f"Loaded {len(all_entries)} labeled space examples")
+    # Demo pool: spaces_labels.json (separate from eval, 25 per class)
+    raw_pool = json.loads(DEMO_POOL_FILE.read_text(encoding="utf-8"))
+    demo_pool = [
+        {"sentence": e.get("central_sentence") or e.get("sentence", ""),
+         "true_space": e.get("space") or e.get("true_space", ""),
+         "confidence": e.get("confidence", "")}
+        for e in raw_pool
+        if (e.get("space") or e.get("true_space", "")) in SPACE_LABELS
+    ]
 
-    # Split: first 50 = demo pool, last 50 = eval set
-    demo_pool    = all_entries[:50]
-    eval_entries = all_entries[50:]
-    print(f"Demo pool: {len(demo_pool)}  |  Eval set: {len(eval_entries)}")
+    # Eval set: all 100 entries from annotation.json
+    eval_entries = load_spaces_eval()
+    print(f"Demo pool: {len(demo_pool)} ({DEMO_POOL_FILE.name})  |  Eval set: {len(eval_entries)}")
 
     demos = _select_demos(demo_pool)
     print(f"Selected {len(demos)} demos ({K_PER_CLASS} per class)")
