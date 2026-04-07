@@ -44,8 +44,9 @@ SAVE_EVERY     = 50
 
 _REPO_ROOT     = Path(__file__).resolve().parents[2]
 DEMO_POOL_FILE = _REPO_ROOT / "Experiments" / "Relation" / "relation_labels.json"
-OUTPUT_FILE    = config.STEP3_DIR / "cooccurrence_gpt_re.jsonl"
-CACHE_FILE     = config.STEP3_DIR / "gpt_re_reasoning_cache.json"
+GPT_RE_DIR     = config.STEP3_DIR / "gpt_re"
+OUTPUT_FILE    = GPT_RE_DIR / "cooccurrence_gpt_re.jsonl"
+CACHE_FILE     = GPT_RE_DIR / "reasoning_cache.json"
 
 RELATION_LABELS = [
     "technology_transfer",
@@ -365,7 +366,7 @@ def run() -> None:
 
 def _flush(rows: list[dict], done_keys: set) -> None:
     """Append new rows to output file and update done_keys."""
-    OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+    GPT_RE_DIR.mkdir(parents=True, exist_ok=True)
     with OUTPUT_FILE.open("a", encoding="utf-8") as fh:
         for row in rows:
             fh.write(json.dumps(row, ensure_ascii=False) + "\n")

@@ -30,7 +30,7 @@ from src.analysis.rq2 import (
 )
 from src.utils import normalize_helix, to_str
 
-SOURCE_FILE    = config.STEP3_DIR / "cooccurrence_gpt_re.jsonl"
+SOURCE_FILE    = config.STEP3_DIR / "gpt_re" / "cooccurrence_gpt_re.jsonl"
 RELATION_FIELD = "relation_type_gpt_re"
 OUT_DIR        = config.ANALYSIS_RQ2_GPTREI_DIR
 
