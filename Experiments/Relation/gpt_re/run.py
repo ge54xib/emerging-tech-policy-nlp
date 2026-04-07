@@ -52,7 +52,7 @@ from eval_utils import (
 )
 
 _REPO_ROOT = Path(__file__).parent.parent.parent.parent
-ANNOTATION_V1 = _REPO_ROOT / "evaluation" / "annotation_v1.json"
+ANNOTATION_FILE = _REPO_ROOT / "evaluation" / "annotation.json"
 
 SIMCSE_MODEL   = "princeton-nlp/sup-simcse-roberta-large"
 GPT_MODEL      = "gpt-4o"
@@ -251,9 +251,15 @@ def predict(entries: list[dict], demos: list[dict]) -> tuple[list[str], list[str
     true_labels, pred_labels = [], []
 
     for i, entry in enumerate(entries):
+        # Leave-one-out: exclude current entry from demo pool
+        entry_sid = (entry.get("doc_id"), entry.get("paragraph_id"), entry.get("sentence_id"))
+        loo_demos = [d for d in demos if (d.get("doc_id"), d.get("paragraph_id"), d.get("sentence_id")) != entry_sid]
+        loo_embs = torch.stack([demo_embeddings[j] for j, d in enumerate(demos)
+                                if (d.get("doc_id"), d.get("paragraph_id"), d.get("sentence_id")) != entry_sid])
         # Select k=4 entity-aware demos
-        selected_idx = _select_demos(entry, demos, demo_embeddings, tokenizer, sim_model, device)
-        selected = [demos[j] for j in selected_idx]
+        selected_idx = _select_demos(entry, loo_demos, loo_embs, tokenizer, sim_model, device)
+        demos_for_entry = loo_demos
+        selected = [demos_for_entry[j] for j in selected_idx]
         reasonings = [
             cache.get(f"{d.get('doc_id')}|{d['entity_1']}|{d['entity_2']}", "")
             for d in selected
@@ -284,13 +290,13 @@ def main() -> None:
     entries = load_relation_eval()
     print(f"Loaded {len(entries)} labeled relation examples (eval set)")
 
-    if not ANNOTATION_V1.exists():
-        raise FileNotFoundError(f"Demo pool not found: {ANNOTATION_V1}")
+    if not ANNOTATION_FILE.exists():
+        raise FileNotFoundError(f"Demo pool not found: {ANNOTATION_FILE}")
     demos = [
-        e for e in json.loads(ANNOTATION_V1.read_text(encoding="utf-8"))
+        e for e in json.loads(ANNOTATION_FILE.read_text(encoding="utf-8"))
         if e.get("true_relation", "").strip()
     ]
-    print(f"Loaded {len(demos)} demo candidates from annotation_v1.json")
+    print(f"Loaded {len(demos)} demo candidates from annotation.json (leave-one-out)")
 
     true_labels, pred_labels = predict(entries, demos)
 
