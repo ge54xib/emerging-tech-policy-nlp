@@ -6,7 +6,8 @@ Usage
 python run.py pipeline --step 0   # PDF extraction (requires Adobe credentials)
 python run.py pipeline --step 1   # Named Entity Recognition (Flair)
 python run.py pipeline --step 2   # Quadruple Helix classification
-python run.py pipeline --step 3   # Paragraph co-occurrence extraction
+python run.py pipeline --step 3   # Paragraph co-occurrence extraction (no NLI)
+python run.py pipeline --step 4   # NLI relation & space scoring
 python run.py pipeline --step all # All steps in sequence
 
 # Generate thesis analysis outputs
@@ -47,8 +48,8 @@ def main() -> None:
     pipe_parser.add_argument(
         "--step",
         required=True,
-        choices=["0", "1", "2", "3", "all"],
-        help="Step to execute: 0=preprocess, 1=NER, 2=classify, 3=cooccurrence, all=full pipeline",
+        choices=["0", "1", "2", "3", "4", "all"],
+        help="Step to execute: 0=preprocess, 1=NER, 2=classify, 3=cooccurrence, 4=NLI scoring, all=full pipeline",
     )
 
     # analysis subcommand
