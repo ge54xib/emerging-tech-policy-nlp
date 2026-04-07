@@ -386,7 +386,7 @@ def run() -> None:
             f"Check {config.STEP2_MANUAL_LABELS_PATH}."
         )
 
-    print(f"[INFO] Classification source for Step3: {source} ({sphere_count} labeled entities)")
+    print(f"[INFO] Loaded {sphere_count} classified entities from {source}")
 
     sentence_splitter = _build_sentence_splitter()
     if sentence_splitter is not None:
