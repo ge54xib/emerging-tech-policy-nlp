@@ -89,8 +89,16 @@ def _embed(texts: list[str], tokenizer, model, device: str) -> torch.Tensor:
     return embeddings.cpu()
 
 
+def _sanitize(text: str) -> str:
+    """Strip null bytes and ASCII control characters (except tab/newline) that break JSON."""
+    return "".join(
+        ch for ch in (text or "")
+        if ch == "\t" or ch == "\n" or (ord(ch) >= 32 and ord(ch) != 127)
+    )
+
+
 def _entity_query(e1: str, e2: str, sentence: str) -> str:
-    return f"The relation between [E1] {e1} [/E1] and [E2] {e2} [/E2] in context: {sentence}"
+    return f"The relation between [E1] {_sanitize(e1)} [/E1] and [E2] {_sanitize(e2)} [/E2] in context: {_sanitize(sentence)}"
 
 
 # ── Reasoning cache ───────────────────────────────────────────────────────────
@@ -111,9 +119,9 @@ def _generate_reasoning(client, demo: dict, cache: dict) -> str:
     if cache_key in cache:
         return cache[cache_key]
 
-    e1, e2   = demo["entity_1"], demo["entity_2"]
+    e1, e2   = _sanitize(demo["entity_1"]), _sanitize(demo["entity_2"])
     label    = demo["true_relation"]
-    sent     = demo.get("sentence") or demo.get("central_sent_text", "")
+    sent     = _sanitize(demo.get("sentence") or demo.get("central_sent_text", ""))
     prompt   = (
         f"What are the clues that lead to the relation between {e1} and {e2} "
         f"to be {label} in the sentence '{sent}'? It is because: "
@@ -190,7 +198,7 @@ def _build_prompt(target: dict, selected_demos: list[dict], reasonings: list[str
     demo_blocks = []
     for demo, reasoning in zip(selected_demos, reasonings):
         sent = _mark_typed(
-            demo.get("sentence") or demo.get("central_sent_text", ""),
+            _sanitize(demo.get("sentence") or demo.get("central_sent_text", "")),
             demo["entity_1"], demo.get("h1", ""), demo["entity_2"], demo.get("h2", "")
         )
         demo_blocks.append(
@@ -203,7 +211,7 @@ def _build_prompt(target: dict, selected_demos: list[dict], reasonings: list[str
     h1 = to_str(target.get("h1", ""))
     h2 = to_str(target.get("h2", ""))
     test_sent = _mark_typed(
-        target.get("sentence") or target.get("central_sent_text", ""),
+        _sanitize(target.get("sentence") or target.get("central_sent_text", "")),
         target["entity_1"], h1, target["entity_2"], h2
     )
     test_block = (
@@ -327,6 +335,7 @@ def run() -> None:
 
         system, user = _build_prompt(row, selected, reasonings)
 
+        response = None
         for attempt in range(5):
             try:
                 response = client.chat.completions.create(
@@ -344,10 +353,16 @@ def run() -> None:
                     wait = 10 * (attempt + 1)
                     print(f"  [rate limit] waiting {wait}s...")
                     time.sleep(wait)
+                elif "400" in str(exc) or "BadRequest" in type(exc).__name__:
+                    print(f"  [skip] row {i} bad request (control chars?): {exc}")
+                    break  # leave response=None → default label
                 else:
                     raise
 
-        pred = _parse_label(response.choices[0].message.content or "")
+        if response is None:
+            pred = "no_explicit_relation"
+        else:
+            pred = _parse_label(response.choices[0].message.content or "")
         out_row = {**row, "relation_type_gpt_re": pred}
         results.append(out_row)
         time.sleep(1.5)
